@@ -1,5 +1,5 @@
 {
-    "fecha_creacion": "21/02/2026",
+    "fecha_creacion": "22/02/2026",
     "lista": {
         "Amelia": {
             "Diario": [
@@ -23,21 +23,17 @@
                 "Ronda. 6.000.000"
             ],
             "Quincenal": [
-                "Daniel Saucedo Zaya. 440.000*3. C2",
                 "Recordatorio 2. Comisario"
             ],
             "Semanal": [
-                "Adriana Hobeker. 110.000*6. Sa",
                 "Adriana Hobeker. 140.000*10. Sa",
                 "Alfredo Franco. 1.000.000*15. Sa",
-                "Angel Pereira. 420.000*10. Sa",
                 "Angel Rios. Cristian. 280.000*10. Sa",
                 "Angel Rios. Cristian. 280.000*10. Sa. C2",
                 "Angela Roa. 140.000*10. Sa",
                 "Arnaldo Duarte Almada. 110.000*6. Sa",
                 "Catalina Santacruz. 140.000*10. Sa",
                 "Celso Ferreira. 420.000*10. Sa",
-                "Christian Villalba. 280.000*10. Sa",
                 "Claudia Gomez. 140.000*10. Sa",
                 "Claudia Gomez. 140.000*10. Sa. C2",
                 "Claudia Gomez. 70.000*10. Sa",
@@ -85,7 +81,6 @@
                 "Pedro Flecha. 100.000*22. Sa",
                 "Pedro Flecha. 220.000*6. Sa",
                 "Pedro Flecha. Aire. 100.000*36. Sa",
-                "Raqueline Mercado. 140.000*10. Sa",
                 "Robert Luis Benitez. 210.000*10. Sa",
                 "Ruben Peralta. 140.000*10. Sa",
                 "Ruben Peralta. 140.000*10. Sa. C2",
@@ -100,9 +95,6 @@
                 "Adela Cristaldo. 700.000*10. Lu",
                 "Adriana Ovando. 140.000*10. Ju",
                 "Agustin Gimenez. 140.000*10. Ju",
-                "Alberta Zaya. 220.000*6. Ma",
-                "Aldo Alfonzo. 420.000*10. Lu",
-                "Andrea Avelina Cardozo. 700.000*10. Lu",
                 "Angel Rios. Cristian. 280.000*10. Ma. C2",
                 "Arnaldo Prieto. 600.000",
                 "Blas Martinez. 840.000*5",
@@ -112,7 +104,6 @@
                 "Claudia Gomez. Hna. 70.000*10. Ju",
                 "Cristhian Pedroso. 700.000*5",
                 "Cristian Baez. 260.000*3",
-                "Cristina Cabral. 550.000. Ma",
                 "De las Nieves Lopez. 280.000*10. Mi",
                 "Diosnel Florentin. 2.240.000*5",
                 "Edgar Erique Cuevas. 400.000*7. Lu",
@@ -152,11 +143,18 @@
                 "Salvio Alvarenga. Celular. 100.000*16. Mi",
                 "Vicenta Gonzalez. 150.000*6. Vi",
                 "Viviana Ortiz. 140.000*10. Lu",
-                "Agregar",
-                "Amanda Fariña. 220.000*6. Lu",
                 "Amanda Fariña. 100.000*23. Lu",
                 "Francieli Silvero. 420.000*10. Sa",
-                "Ramon Figueredo. 140.000*10. Lu"
+                "Ramon Figueredo. 140.000*10. Lu",
+                "Lido Maciel. Lavarropa. 150.000*38. Sa",
+                "Lido Maciel. Helacera. 150.000*28. Sa",
+                "Lido Maciel. Celular. 100.000*19. Sa",
+                "Adriana Hobeker. 110.000*6. Sa",
+                "Adela Cristaldo. 700.000*10. Lu",
+                "Adriana Ovando. 140.000*10. Ju",
+                "Agustin Gimenez. 140.000*10. Ju",
+                "Adriana Ovando. 140.000*10. Ju",
+                "Adriana Hobeker. 140.000*10. Sa"
             ]
         },
         "Felix": {
@@ -173,7 +171,6 @@
             "Semanal": [
                 "Anastacio Baez. 110.000*6. Sa",
                 "Anastacio Baez. 220.000*6. Sa",
-                "Anastacio Baez. 550.000. Sa",
                 "Bruno Martinez. 100.000*30. Sa",
                 "Cristobal Muñoz. 250.000*6. Sa",
                 "Dorca Zarza. 1.060.000. Sa",
@@ -185,9 +182,7 @@
                 "Liz Paola Mancuello. 140.000*10. Sa",
                 "Liz Paola Mancuello. 70.000*10. Sa",
                 "Marlene Benitez. 210.000*10. Sa",
-                "Ramona Ortiz. 110.000*6. Sa",
                 "Ramona Ortiz. 110.000*6. Sa. C2",
-                "Ramona Ortiz. 175.000*6. Sa",
                 "Ruben Dario Gonzalez. 300.000*7. Sa",
                 "Ruth Martinez. 180.000*4. Sa",
                 "Sebastiana Bogado. 140.000*10. Sa",
@@ -220,11 +215,15 @@
                 "Ramona Ortiz. 300.000*3",
                 "Ramona Ortiz. 440.000*3",
                 "Recordatorio 1. Electro. 1. Mi",
+                "Hugo Caceres. Olier. 1.080.000",
                 "Ruth. Olier. Qui. C1. 300.000*2",
                 "Ruth. Olier. Qui. C2. 300.000*2",
-                "Agregar",
-                "Marcelo Centurion. 300.000",
-                "Liz Paola Mancuello. 140.000*10. Lu. C2"
+                "Hugo Caceres. Olier. 1.080.000",
+                "Ruth. Olier. Qui. C1. 300.000*2",
+                "Ruth. Olier. Qui. C2. 300.000*2",
+                "Hugo Caceres. Olier. 1.080.000",
+                "Ruth. Olier. Qui. C1. 300.000*2",
+                "Ruth. Olier. Qui. C2. 300.000*2"
             ]
         },
         "Saul": {
@@ -235,9 +234,7 @@
                 "Eder Irala. 90.000*44",
                 "Elva Mateus. 30.000*44",
                 "Gedalia DelValle. 180.000*30",
-                "Ignacio Melgarejo. 22.000*42",
                 "Leopoldo Pereira. 180.000*44",
-                "Lourdes Arce. 120.000*30",
                 "Luis Arzamendia. 140.000*43",
                 "Maria Francisca. 30.000*32",
                 "Maria Gauto. 15.000*44",
@@ -259,8 +256,6 @@
                 "Aldo Alcaraz. 100.000*35. Sa",
                 "Alejandro Lopez. Robert. 100.000*18. Sa",
                 "Alejandro Martinez. 280.000*10. Sa",
-                "Andrea Felicia Arzamendia. 140.000*10. Sa",
-                "Angelina Forcado. 110.000*6. Sa",
                 "Augusto Segobia. 140.000*10. Sa",
                 "Augusto Segobia. 98.000*10. Sa",
                 "Bartola Cubilla. 220.000*6. Sa",
@@ -290,7 +285,6 @@
                 "Josue Benitez. 140.000*10. Sa. C2",
                 "Juan Paulino Ruiz. 110.000*6. Sa",
                 "Juan Ricardo Martinez. 100.000*27. Sa",
-                "Juan Ricardo Martinez. 140.000*10. Sa",
                 "Leonardo Dure. 220.000*6. Sa",
                 "Liliana Lugo. 210.000*10. Sa",
                 "Liliana Olmedo. 70.000*10. Sa",
@@ -310,14 +304,11 @@
                 "Sonia Larrea. Marido. 140.000*10. Sa",
                 "Veronica Bianca Pereira. 220.000*6. Sa",
                 "Vicenta Suarez. 220.000*6. Sa",
-                "Wilfrido Maldonado. 300.000*7. Sa",
                 "Zunilda Mercado. 140.000*10. Sa"
             ],
             "Atrasados": [
                 "Adelina Barreto. Ventilador. 100.000*9. Ma",
                 "Alberto Peralta. 150.000*4. Lu",
-                "Alejandro Lopez. Pedido",
-                "Ana Gayoso. 220.000*6. Lu",
                 "Anibal Godoy. 1.320.000",
                 "Camila Heinler. Luis. 220.000*3",
                 "Celia Gimenez. 280.000*10. Mi",
@@ -360,23 +351,24 @@
                 "Tomasa Cantero. 100.000*28. Mi",
                 "Vanesa Servian. Aire. 100.000*30. Mi",
                 "Vanesa Servian. Lavarropa. 100.000*28. Mi",
-                "Agregar",
                 "Liz Mariela Castrucio. 280.000*5",
                 "Damian Gimenez. 110.000*6. Lu",
                 "Liza Fabiola Bogado. 420.000*5",
                 "Eder Irala. 280.000*10. Lu",
-                "Rosalba Ojeda. 220.000*6. Vi",
                 "Lourdes Arce. 280.000*10. Lu",
-                "Angelina Forcado. 110.000*6. Sa",
                 "Vanesa Servian. Lavarropa. 100.000*28. Mi",
                 "Vanesa Servian. Aire. 100.000*30. Mi",
                 "Felicia Dominguez. Hija. 110.000*6. Sa",
                 "Felicia Dominguez. Hija. 220.000*6. Sa",
                 "Maria Rolon. 700.000*5",
-                "Juan Ricardo Martinez. 140.000*10. Sa",
                 "Gladys Cocco. 140.000*10. Sa",
                 "Gladys Cocco. 140.000*10. Sa. C2",
-                "Gladys Cocco. 140.000*10. Sa. C3"
+                "Gladys Cocco. 140.000*10. Sa. C3",
+                "Veronica Bianca Pereira. 220.000*6. Sa",
+                "Zunilda Mercado. 140.000*10. Sa",
+                "Abelino Peralta. 600.000",
+                "Abelino Peralta. 600.000",
+                "Abelino Peralta. 600.000"
             ]
         }
     }
