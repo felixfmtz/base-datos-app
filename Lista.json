@@ -30,6 +30,7 @@
                 "Javier Mesa. 700.000*4",
                 "Leonarda Baez. 440.000*3",
                 "Maria Rodas. 140.000*10",
+                "Maria Rodas. Papa. 550.000",
                 "Mario Medina. Esposa. 420.000*5",
                 "Pedro Orue. 220.000*3"
             ],
@@ -44,26 +45,33 @@
                 "Claudia Gomez. Hna. 70.000*10. Ju",
                 "De las Nieves Lopez. 280.000*10. Mi",
                 "Eusebio Mongues. 140.000*10. Ma",
+                "Francieli Da Silva. 140.000*10. Vi",
+                "Fredy Pintos. 100.000*8. Vi",
+                "Gilmar Rich. 1.100.000. Vi",
+                "Graciela Vargas. Heladera. 100.000*29. Vi",
                 "Hugo Ariel Arrua. 350.000*8. Mi",
                 "Irma Raquel Cantero. 265.000*8. Ma",
                 "Jorge Villaverde. Celular. 100.000*20. Ma",
                 "Jose Miguel Caceres. 220.000*6. Ma",
                 "Leonarda Baez. Estela. 210.000*10. Ma",
+                "Liz Mabel Sosa. 330.000*6. Vi",
                 "Maria del Rosario. 220.000*6. Ma",
                 "Miguel Angel Flores. 140.000*10. Mi",
                 "Mirian Cardozo. Cristian. 490.000*10. Ma",
-                "Norma Beatriz Rivarola. 140.000*10. Ma"
+                "Mirna Ortiz. 140.000*10. Vi",
+                "Norma Beatriz Rivarola. 140.000*10. Ma",
+                "Oscar Pacheco. 145.000*7. Vi",
+                "Santiago Pereira. 100.000*23. Vi",
+                "Vicenta Gonzalez. 150.000*6. Vi"
             ],
             "Atrasados": [
                 "Adela Cristaldo. 700.000*10. Lu",
                 "Alberta Zaya. 660.000*3",
-                "Aldo Alfonzo. 420.000*10. Lu",
                 "Andrea Avelina Cardozo. 700.000*10. Lu",
                 "Angelina Elizabeth Lopez. 1.650.000",
                 "Catalina Santacruz. 140.000*10. Sa",
                 "Celso Ferreira. 420.000*10. Lu",
                 "Claudia Gomez. 140.000*10. Sa",
-                "Cristhian Pedroso. 700.000*5",
                 "Deida Gaete. 140.000*10. Sa",
                 "Diego Armando. 110.000*6. Sa",
                 "Diego Armando. 220.000*6. Sa",
@@ -74,33 +82,21 @@
                 "Felix Villalba. 140.000*10. Sa",
                 "Florinda Blanco. Alejandro. 2.800.000*5",
                 "Florinda Blanco. Laura. 200.000*12. Sa",
-                "Francieli Da Silva. 140.000*10. Vi",
-                "Francieli Silvero. 420.000*10. Sa",
-                "Fredy Pintos. 100.000*8. Vi",
                 "Gertrudis Riberos. 350.000*4. C2",
-                "Gilmar Rich. 1.100.000. Vi",
-                "Graciela Vargas. Heladera. 100.000*29. Vi",
                 "Hector Recalde. 280.000*10. Lu",
                 "Hugo Ariel Arrua. 175.000*8. Sa",
                 "Hugo Ariel Arrua. 175.000*8. Sa. C2",
-                "Ignacio Fleitas. Raquela. 140.000*10. Lu",
                 "Laureana Insfran. 110.000*6. Lu",
                 "Laureana Insfran. 110.000*6. Lu. C2",
                 "Laureana Insfran. Yerna. 220.000*6. Lu",
                 "Liz Lopez. Digna Lopez. 1.320.000*3",
-                "Liz Mabel Sosa. 330.000*6. Vi",
                 "Luana Sosa. 280.000*10. Lu",
                 "Lucas Ariel Gonzalez. 560.000*10. Sa",
                 "Maria Cristina Martinez. 840.000*5",
                 "Mario Medina. 700.000*10. Sa",
                 "Miriam Villasboa. 280.000*10. Sa",
-                "Mirna Ortiz. 140.000*10. Vi",
-                "Oscar Melgarejo. 560.000*5. C2",
-                "Oscar Pacheco. 145.000*7. Vi",
                 "Pedro Flecha. 220.000*6. Sa",
-                "Quintana. 600.000*5",
                 "Robert Luis Benitez. 210.000*10. Sa",
-                "Ronda. 6.000.000",
                 "Salvio Alvarenga. 140.000*10. Sa",
                 "Viviana Ortiz. 140.000*10. Lu",
                 "Wilson Florentin. Pintor. 490.000*10. Sa",
@@ -115,11 +111,13 @@
                 "Elsa Cañete. 60.000*44. C3"
             ],
             "Mensual": [
-                "Angel Retamozo. 690.000",
-                "Fabiola Cañete. Cheque. 1.100.000"
+                "Angel Retamozo. 690.000"
             ],
             "Quincenal": [
+                "Cristobal Muños. 1.100.000",
+                "Derlis Pintos. 1.200.000",
                 "Esteban Velazquez. 220.000*3",
+                "Felicia Zarza. 550.000",
                 "Juan Albino. 1.100.000",
                 "Juan Albino. 420.000*5",
                 "Karen Gonzalez. 420.000*5",
@@ -128,19 +126,19 @@
                 "Nelson Gimenez. 660.000*3",
                 "Rolando Lopez. 300.000*2",
                 "Ruth. Olier. Qui. C1. 300.000*2",
+                "Sonia Amarilla. 180.000*2",
                 "Sonia Amarilla. 220.000*3"
             ],
             "Semanal": [
+                "Derlis Pintos. Celular. 100.000*22. Vi",
                 "Juan Alberto Venialgo. 4.000.000*6. Ma",
                 "Pedro Franco. 50.000*7. Ma",
                 "Recordatorio 1. Electro. 1. Mi"
             ],
             "Atrasados": [
                 "Alfonzo Cabral. 175.000*6. Lu",
-                "Cristobal Muños. 1.100.000",
                 "Edgar Fleitas. 100.000*23. Lu",
                 "Eduardo David Fanego. 110.000*6. Lu",
-                "Elsa Cañete. 330.000. Lu",
                 "Fatima Fonseca. 140.000*10. Sa",
                 "Hugo Caceres. 180.000*4. Sa",
                 "Hugo Caceres. Olier. 105.000*4",
@@ -150,19 +148,21 @@
                 "Hugo Marmori. 1.200.000. C2",
                 "Jessica Davalos. 220.000*6. Lu",
                 "Julio. Abogado. 440.000*3",
+                "Liliana Amanda Pereira. 350.000*4",
                 "Mirta Larroza. 490.000*2",
                 "Mirta Larroza. 700.000*2",
                 "Mirtha Graciela. 10.200.000",
                 "Monica Gomez. 280.000*5",
                 "Paola Insfran. 600.000*2",
+                "Ramon Vera. 560.000*5",
                 "Ramona Ortiz. 110.000*6. Sa. C2",
                 "Ramona Ortiz. 300.000*2",
                 "Ramona Ortiz. 440.000*3",
                 "Ruth Martinez. 180.000*4. Sa",
                 "Ruth. Olier. Qui. C2. 300.000*2",
+                "Sebastiana Bogado. 140.000*10. Sa",
                 "Sonia Amarilla. 220.000*6. Sa",
-                "Yanina Plaz. 140.000*10. Sa",
-                "Yanina Plaz. 210.000*10. Sa"
+                "Yesica Suarez. 560.000*5"
             ]
         },
         "Saul": {
@@ -189,10 +189,7 @@
                 "Thais Orquiola. Cesar Solis. 30.000*44"
             ],
             "Mensual": [
-                "Cenaida Cantero. 600.000",
-                "Juana de la Cruz. 1.200.000",
-                "Juana de la Cruz. Delcy. 1.440.000",
-                "Sergio Peralta. 1.200.000"
+                "Juana de la Cruz. Delcy. 1.440.000"
             ],
             "Quincenal": [
                 "Cristian Palacios. 350.000*4",
@@ -212,6 +209,7 @@
                 "Denis de Oliveira. 990.000*8. Ma",
                 "Gloria Cristaldo. Celular. 100.000*16. Ju",
                 "Hugo Cabral. 140.000*10. Ju",
+                "Leonarda Zalazar. 220.000*6. Vi",
                 "Liz Karina Bogado. 140.000*10. Mi",
                 "Liz Karina Bogado. 210.000*10. Mi",
                 "Mabel Villalba. 220.000*6. Ma",
@@ -220,6 +218,7 @@
                 "Pablina Velazquez. 140.000*10. Ju",
                 "Pablina Velazquez. 98.000*10. Ma",
                 "Rosalba Ojeda. Aire. 150.000*34. Ma",
+                "Sandra Agüero. 140.000*10. Vi",
                 "Tomasa Cantero. 100.000*28. Mi"
             ],
             "Atrasados": [
@@ -241,9 +240,7 @@
                 "Elena Flores. Cristian. 420.000*5",
                 "Elsa Florentin. 300.000*24. Sa",
                 "Elva Ferreira. 280.000*10. Lu",
-                "Ezequiel Gimenez. 220.000*6. Lu. C2",
                 "Flaminio Gonzalez. Hija. 265.000*8. Lu",
-                "Francisca Gomez. 140.000*10. Sa",
                 "Fredy Espinoza. 200.000*18",
                 "Fredy Espinoza. 468.000*10. Sa",
                 "Jhon Eguzquiza. 550.000",
@@ -255,7 +252,6 @@
                 "Juan Ricardo Martinez. Esposa. 110.000*6. Lu",
                 "Juan Ricardo Martinez. Herramientas. 80.000*14. Lu",
                 "Lalia Barrios. 280.000*10. Lu",
-                "Leonarda Zalazar. 220.000*6. Vi",
                 "Liduvina Cristaldo. 280.000*10. Lu",
                 "Lourdes Arce. 280.000*10. Lu",
                 "Luis Arzamendia. 1.200.000*5. Lu",
@@ -267,7 +263,6 @@
                 "Maximina Paredes. 330.000*6. Sa",
                 "Norma Beatriz Blanco. 140.000*10. Lu",
                 "Ramon Ruiz Diaz. 200.000*7. Sa",
-                "Sandra Agüero. 140.000*10. Vi",
                 "Victor Mendoza. 420.000*10. Lu"
             ]
         }
