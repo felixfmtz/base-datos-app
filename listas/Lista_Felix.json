@@ -5,8 +5,8 @@
   ],
   "Pagos": {
     "Cristobal Muños. 1.100.000": {
-      "NoTCuota": 55000,
-      "NoTInteres": 0
+      "NoTCuota": 120000,
+      "NoTInteres": 55000
     }
   }
 }
