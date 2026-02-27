@@ -1,12 +1,18 @@
 {
   "fecha_creacion": "27/02/2026",
   "Diario": [
-    "Cristobal Muños. 1.100.000"
+    "Cristobal Muños. 1.100.000",
+    "Derlis Pintos. 1.200.000"
   ],
   "Pagos": {
     "Cristobal Muños. 1.100.000": {
       "NoTCuota": 120000,
       "NoTInteres": 55000
+    },
+    "Derlis Pintos. 1.200.000": {
+      "NoTCuota": 0,
+      "NoTInteres": 0,
+      "sigpago": "28/02/2026"
     }
   }
 }
