@@ -163,7 +163,8 @@
         },
         "Maria Romina Sosa. 140.000*10. Vi": {
           "TCuota": 0,
-          "TInteres": 41000
+          "TInteres": 41000,
+          "Error": "Cuenta"
         },
         "Hugo Caceres. 180.000*4. Sa": {
           "NoTCuota": 52000,
@@ -177,6 +178,9 @@
           "Error": "Cuenta",
           "NoTCuota": 0,
           "NoTInteres": 0
+        },
+        "Cristobal Muños. 1.100.000": {
+          "Error": "Cuenta"
         }
       },
       "Nuevos": [
