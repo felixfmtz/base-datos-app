@@ -1,0 +1,12 @@
+{
+  "fecha_creacion": "27/02/2026",
+  "Diario": [
+    "Cristobal Muños. 1.100.000"
+  ],
+  "Pagos": {
+    "Cristobal Muños. 1.100.000": {
+      "NoTCuota": 55000,
+      "NoTInteres": 0
+    }
+  }
+}
