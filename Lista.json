@@ -164,6 +164,10 @@
         "Maria Romina Sosa. 140.000*10. Vi": {
           "TCuota": 0,
           "TInteres": 41000
+        },
+        "Hugo Caceres. 180.000*4. Sa": {
+          "NoTCuota": 52000,
+          "NoTInteres": 63000
         }
       },
       "Nuevos": [
