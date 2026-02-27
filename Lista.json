@@ -152,8 +152,15 @@
         "Felicia Zarza. 550.000": {
           "NoTCuota": 70000,
           "NoTInteres": 0
+        },
+        "Alberta Zaya. 660.000*3": {
+          "NoTCuota": 50000,
+          "NoTInteres": 0
         }
-      }
+      },
+      "Nuevos": [
+        "Alberta Zaya. 660.000*3"
+      ]
     },
     "Saul": {
       "Diario": [
