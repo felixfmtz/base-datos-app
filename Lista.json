@@ -172,6 +172,11 @@
         "Hugo Caceres. Olier. C2. 480.000": {
           "TCuota": 69000,
           "TInteres": 52000
+        },
+        "Derlis Pintos. 140.000*10. Vi": {
+          "Error": "Cuenta",
+          "NoTCuota": 0,
+          "NoTInteres": 0
         }
       },
       "Nuevos": [
