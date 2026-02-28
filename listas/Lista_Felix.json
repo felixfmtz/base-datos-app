@@ -6,6 +6,12 @@
       "NoTInteres": 0,
       "sigpago": "21/03/2026",
       "Transferencia": false
+    },
+    "Cristobal Muños. 1.100.000": {
+      "TCuota": 63000,
+      "TInteres": 0,
+      "sigpago": "20/03/2026",
+      "Transferencia": true
     }
   }
 }
