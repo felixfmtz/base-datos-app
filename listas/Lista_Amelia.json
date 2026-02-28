@@ -1,0 +1,10 @@
+{
+  "fecha_creacion": "27/02/2026",
+  "Pagos": {
+    "Catalina Santacruz. 45.000*44. C1": {
+      "NoTCuota": 55000,
+      "NoTInteres": 0,
+      "Transferencia": false
+    }
+  }
+}
