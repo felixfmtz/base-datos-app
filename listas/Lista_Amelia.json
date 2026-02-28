@@ -10,6 +10,11 @@
       "NoTCuota": 0,
       "NoTInteres": 56000,
       "Transferencia": false
+    },
+    "Cynthia Carolina Baez. 15.000*44. C4": {
+      "TCuota": 55000,
+      "TInteres": 0,
+      "Transferencia": true
     }
   }
 }
