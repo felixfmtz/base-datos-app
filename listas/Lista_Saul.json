@@ -5,6 +5,11 @@
       "NoTCuota": 65000,
       "NoTInteres": 0,
       "Transferencia": false
+    },
+    "Anibal Godoy. 40.000*30": {
+      "NoTCuota": 0,
+      "NoTInteres": 65000,
+      "Transferencia": false
     }
   }
 }
