@@ -31,6 +31,12 @@
       "NoTInteres": 0,
       "sigpago": "26/03/2026",
       "Transferencia": false
+    },
+    "Graciela Cardozo. 200.000*23": {
+      "NoTCuota": 0,
+      "NoTInteres": 0,
+      "sigpago": "11/02/2026",
+      "Transferencia": false
     }
   }
 }
