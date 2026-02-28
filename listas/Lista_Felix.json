@@ -1,20 +1,10 @@
 {
-  "fecha_creacion": "28/02/2000",
+  "fecha_creacion": "28/02/2026",
   "Pagos": {
-    "Cristobal Muñoz. 250.000*6. Mi": {
-      "NoTCuota": 0,
-      "NoTInteres": 5000,
-      "Transferencia": false
-    },
-    "Adriana Amarilla. 220.000*6. Lu": {
-      "NoTCuota": 0,
-      "NoTInteres": 55000,
-      "Transferencia": false
-    },
-    "Elsa Cañete. 60.000*44. C3": {
+    "Jessica Davalos. 220.000*6. Lu": {
       "NoTCuota": 0,
       "NoTInteres": 0,
-      "sigpago": "25/02/2026",
+      "sigpago": "18/03/2026",
       "Transferencia": false
     }
   }
