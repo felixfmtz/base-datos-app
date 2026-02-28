@@ -17,9 +17,9 @@
       "Transferencia": true
     },
     "Delfina Britez. 120.000*44": {
-      "NoTCuota": 63000,
-      "NoTInteres": 0,
-      "Transferencia": false
+      "Transferencia": true,
+      "TCuota": 63000,
+      "TInteres": 0
     }
   }
 }
