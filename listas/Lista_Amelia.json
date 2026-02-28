@@ -25,6 +25,12 @@
       "Transferencia": true,
       "TCuota": 65000,
       "TInteres": 56000
+    },
+    "Graciela Vargas. 30.000*44": {
+      "NoTCuota": 0,
+      "NoTInteres": 0,
+      "sigpago": "26/03/2026",
+      "Transferencia": false
     }
   }
 }
