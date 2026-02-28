@@ -24,6 +24,11 @@
     },
     "Elsa Cañete. 60.000*44": {
       "Error": "SADSADSA"
+    },
+    "Elsa Cañete. 60.000*44. C3": {
+      "NoTCuota": 45000,
+      "NoTInteres": 58000,
+      "Transferencia": false
     }
   }
 }
