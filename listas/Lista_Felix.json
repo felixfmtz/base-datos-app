@@ -29,6 +29,11 @@
       "NoTCuota": 45850,
       "NoTInteres": 58630,
       "Transferencia": false
+    },
+    "Elsa Cañete. 60.000*44. C2": {
+      "TCuota": 4453000,
+      "TInteres": 4545000,
+      "Transferencia": true
     }
   }
 }
