@@ -15,6 +15,11 @@
       "TCuota": 55000,
       "TInteres": 0,
       "Transferencia": true
+    },
+    "Delfina Britez. 120.000*44": {
+      "NoTCuota": 63000,
+      "NoTInteres": 0,
+      "Transferencia": false
     }
   }
 }
