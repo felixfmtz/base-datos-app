@@ -34,6 +34,11 @@
       "TCuota": 4453000,
       "TInteres": 4545000,
       "Transferencia": true
+    },
+    "Alfredo Castillo. 55.000*60": {
+      "NoTCuota": 55000,
+      "NoTInteres": 0,
+      "Transferencia": false
     }
   }
 }
