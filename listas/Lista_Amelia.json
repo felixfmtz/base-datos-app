@@ -22,9 +22,9 @@
       "TInteres": 0
     },
     "Delfina Britez. 90.000*44": {
-      "TCuota": 0,
-      "TInteres": 56000,
-      "Transferencia": true
+      "Transferencia": true,
+      "TCuota": 65000,
+      "TInteres": 56000
     }
   }
 }
