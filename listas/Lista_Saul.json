@@ -1,0 +1,10 @@
+{
+  "fecha_creacion": "27/02/2026",
+  "Pagos": {
+    "Ana Torres. 150.000*44": {
+      "NoTCuota": 65000,
+      "NoTInteres": 0,
+      "Transferencia": false
+    }
+  }
+}
