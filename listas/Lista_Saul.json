@@ -20,6 +20,11 @@
       "NoTCuota": 0,
       "NoTInteres": 36000,
       "Transferencia": true
+    },
+    "Luis Arzamendia. 140.000*43": {
+      "NoTCuota": 36000,
+      "NoTInteres": 65000,
+      "Transferencia": true
     }
   }
 }
