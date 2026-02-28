@@ -15,6 +15,11 @@
       "NoTCuota": 36000,
       "NoTInteres": 0,
       "Transferencia": true
+    },
+    "Leopoldo Pereira. 180.000*44": {
+      "NoTCuota": 0,
+      "NoTInteres": 36000,
+      "Transferencia": true
     }
   }
 }
