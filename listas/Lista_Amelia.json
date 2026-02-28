@@ -2,9 +2,10 @@
   "fecha_creacion": "27/02/2026",
   "Pagos": {
     "Catalina Santacruz. 45.000*44. C1": {
-      "NoTCuota": 55000,
-      "NoTInteres": 0,
-      "Transferencia": false
+      "NoTCuota": 110000,
+      "NoTInteres": 56000,
+      "Transferencia": false,
+      "sigpago": "27/02/2026"
     },
     "Cynthia Carolina Baez. 15.000*44": {
       "NoTCuota": 0,
