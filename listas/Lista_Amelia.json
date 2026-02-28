@@ -37,7 +37,9 @@
       "NoTCuota": 63000,
       "NoTInteres": 65000,
       "sigpago": "21/02/2026",
-      "Transferencia": false
+      "Transferencia": true,
+      "TCuota": 62000,
+      "TInteres": 5000
     }
   }
 }
