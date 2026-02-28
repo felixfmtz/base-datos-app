@@ -10,6 +10,11 @@
       "NoTCuota": 0,
       "NoTInteres": 65000,
       "Transferencia": false
+    },
+    "Elva Mateus. 30.000*44": {
+      "NoTCuota": 36000,
+      "NoTInteres": 0,
+      "Transferencia": true
     }
   }
 }
