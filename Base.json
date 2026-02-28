@@ -1,5 +1,5 @@
 {
-    "fecha_creacion": "27/02/2026",
+    "fecha_creacion": "28/02/2026",
     "datos": [
         {
             "Nombre": "Abelino Peralta. 600.000",
@@ -236,7 +236,7 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "21/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 0,
+            "Debe": 110,
             "Cuota": 110000,
             "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 6,
@@ -262,7 +262,7 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 10,
@@ -506,13 +506,13 @@
             "Fecha de Calculo": "02/01/2026",
             "Fecha 1": "09/01/2026",
             "Fecha 2": "16/01/2026",
-            "Debe": 140,
+            "Debe": -60,
             "Cuota": 140000,
-            "Cuotas Pagadas": 7.0,
+            "Cuotas Pagadas": 8.4,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "13/03/2026",
             "Estado": " ",
-            "Total": 980000,
+            "Total": 1180000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -542,6 +542,10 @@
                 {
                     "Monto Abonado": 140000,
                     "Fecha de Pago": "20/02/2026"
+                },
+                {
+                    "Monto Abonado": 200000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -606,7 +610,7 @@
             "Fecha de Calculo": "09/08/2025",
             "Fecha 1": "25/08/2025",
             "Fecha 2": "01/09/2025",
-            "Debe": 0,
+            "Debe": 100,
             "Cuota": 100000,
             "Cuotas Pagadas": 28.0,
             "Cuotas Totales": 36,
@@ -782,7 +786,7 @@
             "Fecha de Calculo": "23/08/2025",
             "Fecha 1": "30/08/2025",
             "Fecha 2": "06/09/2025",
-            "Debe": 0,
+            "Debe": 100,
             "Cuota": 100000,
             "Cuotas Pagadas": 26.0,
             "Cuotas Totales": 35,
@@ -1033,7 +1037,7 @@
             "Fecha de Calculo": "06/12/2025",
             "Fecha 1": "13/12/2025",
             "Fecha 2": "20/12/2025",
-            "Debe": 200,
+            "Debe": 300,
             "Cuota": 100000,
             "Cuotas Pagadas": 9.0,
             "Cuotas Totales": 18,
@@ -1112,7 +1116,7 @@
             "Fecha de Calculo": "10/01/2026",
             "Fecha 1": "17/01/2026",
             "Fecha 2": "24/01/2026",
-            "Debe": 250,
+            "Debe": 530,
             "Cuota": 280000,
             "Cuotas Pagadas": 5.1,
             "Cuotas Totales": 10,
@@ -1251,7 +1255,7 @@
             "Fecha de Calculo": "12/02/2026",
             "Fecha 1": "13/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 440,
+            "Debe": 495,
             "Cuota": 55000,
             "Cuotas Pagadas": 5.0,
             "Cuotas Totales": 60,
@@ -1285,7 +1289,7 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "21/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 0,
+            "Debe": 1000,
             "Cuota": 1000000,
             "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 15,
@@ -1475,11 +1479,11 @@
             "Fecha 2": "31/01/2026",
             "Debe": 1200,
             "Cuota": 150000,
-            "Cuotas Pagadas": 15.0,
+            "Cuotas Pagadas": 16.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "24/03/2026",
             "Estado": " ",
-            "Total": 2250000,
+            "Total": 2400000,
             "Interes por atraso": 2,
             "Pagos Abonados": [
                 {
@@ -1541,6 +1545,10 @@
                 {
                     "Monto Abonado": 150000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 150000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -1555,7 +1563,7 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 0,
+            "Debe": 110,
             "Cuota": 110000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 6,
@@ -1589,7 +1597,7 @@
             "Fecha de Calculo": "07/02/2026",
             "Fecha 1": "14/02/2026",
             "Fecha 2": "21/02/2026",
-            "Debe": 0,
+            "Debe": 220,
             "Cuota": 220000,
             "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 6,
@@ -1669,7 +1677,7 @@
             "Fecha de Calculo": "07/02/2026",
             "Fecha 1": "14/02/2026",
             "Fecha 2": "21/02/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 10,
@@ -1762,7 +1770,7 @@
             "Fecha de Calculo": "20/12/2025",
             "Fecha 1": "29/12/2025",
             "Fecha 2": "05/01/2026",
-            "Debe": -10,
+            "Debe": 410,
             "Cuota": 420000,
             "Cuotas Pagadas": 8.0,
             "Cuotas Totales": 10,
@@ -1897,7 +1905,7 @@
             "Fecha de Calculo": "10/01/2026",
             "Fecha 1": "17/01/2026",
             "Fecha 2": "24/01/2026",
-            "Debe": 0,
+            "Debe": 280,
             "Cuota": 280000,
             "Cuotas Pagadas": 5.0,
             "Cuotas Totales": 10,
@@ -1939,7 +1947,7 @@
             "Fecha de Calculo": "07/02/2026",
             "Fecha 1": "14/02/2026",
             "Fecha 2": "21/02/2026",
-            "Debe": 0,
+            "Debe": 280,
             "Cuota": 280000,
             "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 10,
@@ -1969,13 +1977,13 @@
             "Fecha de Calculo": "28/01/2026",
             "Fecha 1": "02/02/2026",
             "Fecha 2": "09/02/2026",
-            "Debe": 0,
+            "Debe": -140,
             "Cuota": 140000,
-            "Cuotas Pagadas": 4.0,
+            "Cuotas Pagadas": 5.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "08/04/2026",
             "Estado": " ",
-            "Total": 560000,
+            "Total": 700000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -1993,8 +2001,33 @@
                 {
                     "Monto Abonado": 140000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 140000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
+            "Cobrador": "Amelia"
+        },
+        {
+            "Nombre": "Angela Roa. 140.000*10. Vi",
+            "C.I.": 3707444,
+            "Metodo de Pago": "Viernes",
+            "Deuda": 1000000,
+            "Interes": 400000,
+            "Fecha de Retiro": "27/02/2026",
+            "Fecha de Calculo": "27/02/2026",
+            "Fecha 1": "06/03/2026",
+            "Fecha 2": "13/03/2026",
+            "Debe": 0,
+            "Cuota": 140000,
+            "Cuotas Pagadas": 0.0,
+            "Cuotas Totales": 10,
+            "Fecha de Vencimiento": "08/05/2026",
+            "Estado": " ",
+            "Total": 0,
+            "Interes por atraso": 0,
+            "Pagos Abonados": [],
             "Cobrador": "Amelia"
         },
         {
@@ -2178,13 +2211,13 @@
             "Fecha de Calculo": "30/01/2026",
             "Fecha 1": "06/02/2026",
             "Fecha 2": "13/02/2026",
-            "Debe": 140,
+            "Debe": 0,
             "Cuota": 140000,
-            "Cuotas Pagadas": 3.0,
+            "Cuotas Pagadas": 4.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "10/04/2026",
             "Estado": " ",
-            "Total": 420000,
+            "Total": 560000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -2198,6 +2231,10 @@
                 {
                     "Monto Abonado": 140000,
                     "Fecha de Pago": "20/02/2026"
+                },
+                {
+                    "Monto Abonado": 140000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -2212,12 +2249,12 @@
             "Fecha de Calculo": "30/12/2025",
             "Fecha 1": "28/02/2026",
             "Fecha 2": "13/03/2026",
-            "Debe": -12,
+            "Debe": 1308,
             "Cuota": 1320000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 1,
             "Fecha de Vencimiento": "28/02/2026",
-            "Estado": " ",
+            "Estado": "Vencio",
             "Total": 12000,
             "Interes por atraso": 3,
             "Pagos Abonados": [
@@ -2240,11 +2277,11 @@
             "Fecha 2": "23/02/2026",
             "Debe": 80,
             "Cuota": 40000,
-            "Cuotas Pagadas": 2.0,
+            "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 30,
             "Fecha de Vencimiento": "30/03/2026",
             "Estado": " ",
-            "Total": 80000,
+            "Total": 120000,
             "Interes por atraso": 2,
             "Pagos Abonados": [
                 {
@@ -2254,6 +2291,10 @@
                 {
                     "Monto Abonado": 40000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 40000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -2298,13 +2339,13 @@
             "Fecha de Calculo": "06/02/2026",
             "Fecha 1": "13/02/2026",
             "Fecha 2": "20/02/2026",
-            "Debe": 110,
+            "Debe": 0,
             "Cuota": 110000,
-            "Cuotas Pagadas": 2.0,
+            "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 6,
             "Fecha de Vencimiento": "20/03/2026",
             "Estado": " ",
-            "Total": 220000,
+            "Total": 330000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -2314,6 +2355,10 @@
                 {
                     "Monto Abonado": 110000,
                     "Fecha de Pago": "20/02/2026"
+                },
+                {
+                    "Monto Abonado": 110000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -2434,18 +2479,22 @@
             "Fecha de Calculo": "12/02/2026",
             "Fecha 1": "19/02/2026",
             "Fecha 2": "26/02/2026",
-            "Debe": 280,
+            "Debe": 0,
             "Cuota": 280000,
-            "Cuotas Pagadas": 1.0,
+            "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "23/04/2026",
             "Estado": " ",
-            "Total": 280000,
+            "Total": 560000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
                     "Monto Abonado": 280000,
                     "Fecha de Pago": "19/02/2026"
+                },
+                {
+                    "Monto Abonado": 280000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -2460,13 +2509,13 @@
             "Fecha de Calculo": "23/01/2026",
             "Fecha 1": "30/01/2026",
             "Fecha 2": "06/02/2026",
-            "Debe": 100,
+            "Debe": 0,
             "Cuota": 100000,
-            "Cuotas Pagadas": 4.0,
+            "Cuotas Pagadas": 5.0,
             "Cuotas Totales": 16,
             "Fecha de Vencimiento": "15/05/2026",
             "Estado": " ",
-            "Total": 400000,
+            "Total": 500000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -2484,6 +2533,10 @@
                 {
                     "Monto Abonado": 100000,
                     "Fecha de Pago": "19/02/2026"
+                },
+                {
+                    "Monto Abonado": 100000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -2726,7 +2779,7 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 0,
+            "Debe": 110,
             "Cuota": 110000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 6,
@@ -2781,7 +2834,7 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "21/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 0,
+            "Debe": 100,
             "Cuota": 100000,
             "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 36,
@@ -2828,7 +2881,7 @@
             "Fecha de Calculo": "03/01/2026",
             "Fecha 1": "10/01/2026",
             "Fecha 2": "17/01/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 7.0,
             "Cuotas Totales": 10,
@@ -2878,7 +2931,7 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "21/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": -2,
+            "Debe": 96,
             "Cuota": 98000,
             "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 10,
@@ -2978,11 +3031,11 @@
             "Fecha 2": "21/02/2026",
             "Debe": 0,
             "Cuota": 220000,
-            "Cuotas Pagadas": 2.0,
+            "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 6,
             "Fecha de Vencimiento": "21/03/2026",
             "Estado": " ",
-            "Total": 440000,
+            "Total": 660000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -2992,8 +3045,33 @@
                 {
                     "Monto Abonado": 220000,
                     "Fecha de Pago": "21/02/2026"
+                },
+                {
+                    "Monto Abonado": 220000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
+            "Cobrador": "Saul"
+        },
+        {
+            "Nombre": "Bartola Cubilla. 220.000*6. Vi",
+            "C.I.": 4255611,
+            "Metodo de Pago": "Viernes",
+            "Deuda": 1000000,
+            "Interes": 320000,
+            "Fecha de Retiro": "27/02/2026",
+            "Fecha de Calculo": "27/02/2026",
+            "Fecha 1": "06/03/2026",
+            "Fecha 2": "13/03/2026",
+            "Debe": 0,
+            "Cuota": 220000,
+            "Cuotas Pagadas": 0.0,
+            "Cuotas Totales": 6,
+            "Fecha de Vencimiento": "10/04/2026",
+            "Estado": " ",
+            "Total": 0,
+            "Interes por atraso": 0,
+            "Pagos Abonados": [],
             "Cobrador": "Saul"
         },
         {
@@ -3032,7 +3110,7 @@
             "Fecha de Calculo": "06/12/2025",
             "Fecha 1": "13/12/2025",
             "Fecha 2": "20/12/2025",
-            "Debe": 0,
+            "Debe": 50,
             "Cuota": 50000,
             "Cuotas Pagadas": 11.0,
             "Cuotas Totales": 32,
@@ -3094,7 +3172,7 @@
             "Fecha de Calculo": "25/10/2025",
             "Fecha 1": "01/11/2025",
             "Fecha 2": "08/11/2025",
-            "Debe": 0,
+            "Debe": 150,
             "Cuota": 150000,
             "Cuotas Pagadas": 17.0,
             "Cuotas Totales": 33,
@@ -3275,16 +3353,16 @@
             "Interes": 200000,
             "Fecha de Retiro": "24/01/2026",
             "Fecha de Calculo": "24/01/2026",
-            "Fecha 1": "24/02/2026",
-            "Fecha 2": "24/03/2026",
-            "Debe": 1200,
+            "Fecha 1": "28/03/2026",
+            "Fecha 2": "28/04/2026",
+            "Debe": 0,
             "Cuota": 1200000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 1,
-            "Fecha de Vencimiento": "23/02/2026",
-            "Estado": "Vencio",
+            "Fecha de Vencimiento": "25/03/2026",
+            "Estado": " ",
             "Total": 0,
-            "Interes por atraso": 0,
+            "Interes por atraso": 1,
             "Pagos Abonados": [],
             "Cobrador": "Amelia"
         },
@@ -3296,16 +3374,16 @@
             "Interes": 200000,
             "Fecha de Retiro": "13/02/2026",
             "Fecha de Calculo": "28/01/2026",
-            "Fecha 1": "28/02/2026",
-            "Fecha 2": "28/03/2026",
-            "Debe": 1200,
+            "Fecha 1": "28/03/2026",
+            "Fecha 2": "28/04/2026",
+            "Debe": 0,
             "Cuota": 1200000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 1,
-            "Fecha de Vencimiento": "27/02/2026",
-            "Estado": "Vencio",
+            "Fecha de Vencimiento": "29/03/2026",
+            "Estado": " ",
             "Total": 0,
-            "Interes por atraso": 0,
+            "Interes por atraso": 1,
             "Pagos Abonados": [],
             "Cobrador": "Amelia"
         },
@@ -3349,7 +3427,7 @@
             "Fecha de Calculo": "07/02/2026",
             "Fecha 1": "21/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 0,
+            "Debe": 100,
             "Cuota": 100000,
             "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 32,
@@ -3578,12 +3656,12 @@
             "Fecha de Calculo": "20/12/2025",
             "Fecha 1": "27/12/2025",
             "Fecha 2": "03/01/2026",
-            "Debe": 280,
+            "Debe": 420,
             "Cuota": 140000,
             "Cuotas Pagadas": 7.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "28/02/2026",
-            "Estado": " ",
+            "Estado": "Vencio",
             "Total": 980000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
@@ -3651,16 +3729,20 @@
             "Fecha 2": "27/02/2026",
             "Debe": 45,
             "Cuota": 45000,
-            "Cuotas Pagadas": 1.0,
+            "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "17/04/2026",
             "Estado": " ",
-            "Total": 45000,
+            "Total": 90000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
                     "Monto Abonado": 45000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 45000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -3834,7 +3916,7 @@
             "Fecha de Calculo": "21/02/2026",
             "Fecha 1": "28/02/2026",
             "Fecha 2": "07/03/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 10,
@@ -3905,7 +3987,7 @@
             "Fecha de Calculo": "03/01/2026",
             "Fecha 1": "10/01/2026",
             "Fecha 2": "17/01/2026",
-            "Debe": 420,
+            "Debe": 840,
             "Cuota": 420000,
             "Cuotas Pagadas": 6.0,
             "Cuotas Totales": 10,
@@ -4152,7 +4234,7 @@
             "Fecha de Calculo": "04/10/2025",
             "Fecha 1": "11/10/2025",
             "Fecha 2": "18/10/2025",
-            "Debe": 300,
+            "Debe": 400,
             "Cuota": 100000,
             "Cuotas Pagadas": 17.0,
             "Cuotas Totales": 34,
@@ -4385,7 +4467,7 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 0,
+            "Debe": 330,
             "Cuota": 330000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 6,
@@ -4419,12 +4501,12 @@
             "Fecha de Calculo": "26/03/2021",
             "Fecha 1": "10/03/2026",
             "Fecha 2": "10/04/2026",
-            "Debe": 0,
+            "Debe": 2200,
             "Cuota": 2200000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 1,
             "Fecha de Vencimiento": "28/02/2026",
-            "Estado": " ",
+            "Estado": "Vencio",
             "Total": 0,
             "Interes por atraso": 59,
             "Pagos Abonados": [],
@@ -4442,11 +4524,11 @@
             "Fecha 2": "27/09/2025",
             "Debe": 20,
             "Cuota": 100000,
-            "Cuotas Pagadas": 22.8,
+            "Cuotas Pagadas": 23.8,
             "Cuotas Totales": 36,
             "Fecha de Vencimiento": "23/05/2026",
             "Estado": " ",
-            "Total": 2280000,
+            "Total": 2380000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -4540,6 +4622,10 @@
                 {
                     "Monto Abonado": 100000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 100000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -4608,64 +4694,6 @@
             "Cobrador": "Saul"
         },
         {
-            "Nombre": "Claudia Gomez. 140.000*10. Sa",
-            "C.I.": 2353250,
-            "Metodo de Pago": "Sábado",
-            "Deuda": 1000000,
-            "Interes": 400000,
-            "Fecha de Retiro": "13/12/2025",
-            "Fecha de Calculo": "13/12/2025",
-            "Fecha 1": "20/12/2025",
-            "Fecha 2": "27/12/2025",
-            "Debe": 140,
-            "Cuota": 140000,
-            "Cuotas Pagadas": 9.0,
-            "Cuotas Totales": 10,
-            "Fecha de Vencimiento": "21/02/2026",
-            "Estado": "Vencio",
-            "Total": 1260000,
-            "Interes por atraso": 0,
-            "Pagos Abonados": [
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "20/12/2025"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "27/12/2025"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "03/01/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "10/01/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "17/01/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "28/01/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "31/01/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "09/02/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "14/02/2026"
-                }
-            ],
-            "Cobrador": "Amelia"
-        },
-        {
             "Nombre": "Claudia Gomez. 140.000*10. Sa. C2",
             "C.I.": 2353250,
             "Metodo de Pago": "Sábado",
@@ -4675,7 +4703,7 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 10,
@@ -4709,13 +4737,13 @@
             "Fecha de Calculo": "10/01/2026",
             "Fecha 1": "17/01/2026",
             "Fecha 2": "24/01/2026",
-            "Debe": 0,
+            "Debe": -70,
             "Cuota": 70000,
-            "Cuotas Pagadas": 6.0,
+            "Cuotas Pagadas": 8.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "21/03/2026",
             "Estado": " ",
-            "Total": 420000,
+            "Total": 560000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -4733,6 +4761,10 @@
                 {
                     "Monto Abonado": 140000,
                     "Fecha de Pago": "21/02/2026"
+                },
+                {
+                    "Monto Abonado": 140000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -4777,13 +4809,13 @@
             "Fecha de Calculo": "08/01/2026",
             "Fecha 1": "15/01/2026",
             "Fecha 2": "22/01/2026",
-            "Debe": 420,
+            "Debe": 280,
             "Cuota": 140000,
-            "Cuotas Pagadas": 4.0,
+            "Cuotas Pagadas": 5.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "19/03/2026",
             "Estado": " ",
-            "Total": 560000,
+            "Total": 700000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -4801,60 +4833,10 @@
                 {
                     "Monto Abonado": 140000,
                     "Fecha de Pago": "07/02/2026"
-                }
-            ],
-            "Cobrador": "Amelia"
-        },
-        {
-            "Nombre": "Claudia Gomez. Hna. 70.000*10. Ju",
-            "C.I.": 2353250,
-            "Metodo de Pago": "Jueves",
-            "Deuda": 500000,
-            "Interes": 200000,
-            "Fecha de Retiro": "09/12/2025",
-            "Fecha de Calculo": "11/12/2025",
-            "Fecha 1": "18/12/2025",
-            "Fecha 2": "25/12/2025",
-            "Debe": 140,
-            "Cuota": 70000,
-            "Cuotas Pagadas": 8.0,
-            "Cuotas Totales": 10,
-            "Fecha de Vencimiento": "19/02/2026",
-            "Estado": "Vencio",
-            "Total": 560000,
-            "Interes por atraso": 0,
-            "Pagos Abonados": [
-                {
-                    "Monto Abonado": 70000,
-                    "Fecha de Pago": "18/12/2025"
                 },
                 {
-                    "Monto Abonado": 70000,
-                    "Fecha de Pago": "27/12/2025"
-                },
-                {
-                    "Monto Abonado": 70000,
-                    "Fecha de Pago": "05/01/2026"
-                },
-                {
-                    "Monto Abonado": 70000,
-                    "Fecha de Pago": "10/01/2026"
-                },
-                {
-                    "Monto Abonado": 70000,
-                    "Fecha de Pago": "20/01/2026"
-                },
-                {
-                    "Monto Abonado": 70000,
-                    "Fecha de Pago": "26/01/2026"
-                },
-                {
-                    "Monto Abonado": 70000,
-                    "Fecha de Pago": "29/01/2026"
-                },
-                {
-                    "Monto Abonado": 70000,
-                    "Fecha de Pago": "09/02/2026"
+                    "Monto Abonado": 140000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -4866,6 +4848,27 @@
             "Deuda": 200000,
             "Interes": 20000,
             "Fecha de Retiro": "24/02/2026",
+            "Fecha de Calculo": "25/02/2026",
+            "Fecha 1": "10/03/2026",
+            "Fecha 2": "25/03/2026",
+            "Debe": 0,
+            "Cuota": 220000,
+            "Cuotas Pagadas": 0.0,
+            "Cuotas Totales": 1,
+            "Fecha de Vencimiento": "12/03/2026",
+            "Estado": " ",
+            "Total": 0,
+            "Interes por atraso": 0,
+            "Pagos Abonados": [],
+            "Cobrador": "Felix"
+        },
+        {
+            "Nombre": "Claudio Insfran. 220.000. C1",
+            "C.I.": 5680877,
+            "Metodo de Pago": "Quincenal",
+            "Deuda": 200000,
+            "Interes": 20000,
+            "Fecha de Retiro": "27/02/2026",
             "Fecha de Calculo": "25/02/2026",
             "Fecha 1": "10/03/2026",
             "Fecha 2": "25/03/2026",
@@ -4911,7 +4914,7 @@
             "Fecha de Calculo": "21/02/2026",
             "Fecha 1": "28/02/2026",
             "Fecha 2": "07/03/2026",
-            "Debe": 0,
+            "Debe": 110,
             "Cuota": 110000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 6,
@@ -4934,11 +4937,11 @@
             "Fecha 2": "14/02/2026",
             "Debe": 40,
             "Cuota": 20000,
-            "Cuotas Pagadas": 11.0,
+            "Cuotas Pagadas": 12.0,
             "Cuotas Totales": 33,
             "Fecha de Vencimiento": "23/03/2026",
             "Estado": " ",
-            "Total": 220000,
+            "Total": 240000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -4984,6 +4987,10 @@
                 {
                     "Monto Abonado": 20000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 20000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -5061,7 +5068,7 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 10,
@@ -5294,12 +5301,12 @@
             "Fecha de Calculo": "13/12/2025",
             "Fecha 1": "20/12/2025",
             "Fecha 2": "27/12/2025",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 9.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "28/02/2026",
-            "Estado": " ",
+            "Estado": "Vencio",
             "Total": 1260000,
             "Interes por atraso": 1,
             "Pagos Abonados": [
@@ -5352,13 +5359,13 @@
             "Fecha de Calculo": "12/12/2025",
             "Fecha 1": "19/12/2025",
             "Fecha 2": "26/12/2025",
-            "Debe": 140,
+            "Debe": 0,
             "Cuota": 140000,
-            "Cuotas Pagadas": 8.0,
+            "Cuotas Pagadas": 9.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "06/03/2026",
             "Estado": " ",
-            "Total": 1120000,
+            "Total": 1260000,
             "Interes por atraso": 2,
             "Pagos Abonados": [
                 {
@@ -5392,6 +5399,10 @@
                 {
                     "Monto Abonado": 140000,
                     "Fecha de Pago": "20/02/2026"
+                },
+                {
+                    "Monto Abonado": 140000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -5686,7 +5697,7 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 0,
+            "Debe": 250,
             "Cuota": 250000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 6,
@@ -5764,11 +5775,11 @@
             "Fecha 2": "19/01/2026",
             "Debe": 30,
             "Cuota": 15000,
-            "Cuotas Pagadas": 33.0,
+            "Cuotas Pagadas": 34.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "10/03/2026",
             "Estado": " ",
-            "Total": 495000,
+            "Total": 510000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -5902,6 +5913,10 @@
                 {
                     "Monto Abonado": 15000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 15000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -5918,11 +5933,11 @@
             "Fecha 2": "06/02/2026",
             "Debe": 30,
             "Cuota": 15000,
-            "Cuotas Pagadas": 18.0,
+            "Cuotas Pagadas": 19.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "27/03/2026",
             "Estado": " ",
-            "Total": 270000,
+            "Total": 285000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -5996,6 +6011,10 @@
                 {
                     "Monto Abonado": 15000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 15000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -6012,11 +6031,11 @@
             "Fecha 2": "15/02/2026",
             "Debe": 15,
             "Cuota": 15000,
-            "Cuotas Pagadas": 11.0,
+            "Cuotas Pagadas": 12.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "06/04/2026",
             "Estado": " ",
-            "Total": 165000,
+            "Total": 180000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -6062,6 +6081,10 @@
                 {
                     "Monto Abonado": 15000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 15000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -6078,11 +6101,11 @@
             "Fecha 2": "18/02/2026",
             "Debe": 15,
             "Cuota": 15000,
-            "Cuotas Pagadas": 9.0,
+            "Cuotas Pagadas": 10.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "08/04/2026",
             "Estado": " ",
-            "Total": 135000,
+            "Total": 150000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -6120,6 +6143,10 @@
                 {
                     "Monto Abonado": 15000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 15000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -6377,7 +6404,7 @@
             "Fecha de Calculo": "27/12/2025",
             "Fecha 1": "03/01/2026",
             "Fecha 2": "10/01/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 8.0,
             "Cuotas Totales": 10,
@@ -6480,11 +6507,11 @@
             "Fecha 2": "11/02/2026",
             "Debe": 600,
             "Cuota": 120000,
-            "Cuotas Pagadas": 11.0,
+            "Cuotas Pagadas": 12.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "01/04/2026",
             "Estado": " ",
-            "Total": 1320000,
+            "Total": 1440000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -6530,6 +6557,10 @@
                 {
                     "Monto Abonado": 120000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 120000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -6544,13 +6575,13 @@
             "Fecha de Calculo": "05/02/2026",
             "Fecha 1": "06/02/2026",
             "Fecha 2": "07/02/2026",
-            "Debe": 750,
+            "Debe": -3150,
             "Cuota": 150000,
-            "Cuotas Pagadas": 14.0,
+            "Cuotas Pagadas": 41.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "28/03/2026",
             "Estado": " ",
-            "Total": 2100000,
+            "Total": 6150000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -6608,6 +6639,10 @@
                 {
                     "Monto Abonado": 150000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 4050000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -6624,12 +6659,38 @@
             "Fecha 2": "27/02/2026",
             "Debe": 150,
             "Cuota": 150000,
-            "Cuotas Pagadas": 0.0,
+            "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "18/04/2026",
             "Estado": " ",
-            "Total": 0,
+            "Total": 150000,
             "Interes por atraso": 1,
+            "Pagos Abonados": [
+                {
+                    "Monto Abonado": 150000,
+                    "Fecha de Pago": "27/02/2026"
+                }
+            ],
+            "Cobrador": "Amelia"
+        },
+        {
+            "Nombre": "Delfina Britez. 150.000*44. C2",
+            "C.I.": 2259283,
+            "Metodo de Pago": "Diario",
+            "Deuda": 5000000,
+            "Interes": 1600000,
+            "Fecha de Retiro": "27/02/2026",
+            "Fecha de Calculo": "27/02/2026",
+            "Fecha 1": "28/02/2026",
+            "Fecha 2": "01/03/2026",
+            "Debe": 150,
+            "Cuota": 150000,
+            "Cuotas Pagadas": 0.0,
+            "Cuotas Totales": 44,
+            "Fecha de Vencimiento": "20/04/2026",
+            "Estado": " ",
+            "Total": 0,
+            "Interes por atraso": 0,
             "Pagos Abonados": [],
             "Cobrador": "Amelia"
         },
@@ -6645,11 +6706,11 @@
             "Fecha 2": "04/02/2026",
             "Debe": 450,
             "Cuota": 90000,
-            "Cuotas Pagadas": 17.0,
+            "Cuotas Pagadas": 18.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "25/03/2026",
             "Estado": " ",
-            "Total": 1530000,
+            "Total": 1620000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -6719,6 +6780,10 @@
                 {
                     "Monto Abonado": 90000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 90000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -6873,7 +6938,7 @@
             "Fecha de Calculo": "17/01/2026",
             "Fecha 1": "28/01/2026",
             "Fecha 2": "04/02/2026",
-            "Debe": 0,
+            "Debe": 210,
             "Cuota": 210000,
             "Cuotas Pagadas": 4.0,
             "Cuotas Totales": 10,
@@ -7065,7 +7130,7 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "21/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 0,
+            "Debe": 210,
             "Cuota": 210000,
             "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 10,
@@ -7133,13 +7198,13 @@
             "Fecha de Calculo": "09/01/2026",
             "Fecha 1": "16/01/2026",
             "Fecha 2": "23/01/2026",
-            "Debe": 140,
+            "Debe": 0,
             "Cuota": 140000,
-            "Cuotas Pagadas": 6.0,
+            "Cuotas Pagadas": 7.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "20/03/2026",
             "Estado": " ",
-            "Total": 840000,
+            "Total": 980000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -7165,64 +7230,10 @@
                 {
                     "Monto Abonado": 140000,
                     "Fecha de Pago": "20/02/2026"
-                }
-            ],
-            "Cobrador": "Felix"
-        },
-        {
-            "Nombre": "Derlis Pintos. 210.000*10. Vi. C2",
-            "C.I.": 6604116,
-            "Metodo de Pago": "Viernes",
-            "Deuda": 1500000,
-            "Interes": 600000,
-            "Fecha de Retiro": "18/12/2025",
-            "Fecha de Calculo": "19/12/2025",
-            "Fecha 1": "26/12/2025",
-            "Fecha 2": "02/01/2026",
-            "Debe": 210,
-            "Cuota": 210000,
-            "Cuotas Pagadas": 9.0,
-            "Cuotas Totales": 10,
-            "Fecha de Vencimiento": "27/02/2026",
-            "Estado": "Vencio",
-            "Total": 1890000,
-            "Interes por atraso": 0,
-            "Pagos Abonados": [
-                {
-                    "Monto Abonado": 210000,
-                    "Fecha de Pago": "30/12/2025"
                 },
                 {
-                    "Monto Abonado": 210000,
-                    "Fecha de Pago": "03/01/2026"
-                },
-                {
-                    "Monto Abonado": 210000,
-                    "Fecha de Pago": "09/01/2026"
-                },
-                {
-                    "Monto Abonado": 210000,
-                    "Fecha de Pago": "16/01/2026"
-                },
-                {
-                    "Monto Abonado": 210000,
-                    "Fecha de Pago": "23/01/2026"
-                },
-                {
-                    "Monto Abonado": 210000,
-                    "Fecha de Pago": "30/01/2026"
-                },
-                {
-                    "Monto Abonado": 210000,
-                    "Fecha de Pago": "06/02/2026"
-                },
-                {
-                    "Monto Abonado": 210000,
-                    "Fecha de Pago": "13/02/2026"
-                },
-                {
-                    "Monto Abonado": 210000,
-                    "Fecha de Pago": "20/02/2026"
+                    "Monto Abonado": 140000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Felix"
@@ -7258,13 +7269,13 @@
             "Fecha de Calculo": "02/01/2026",
             "Fecha 1": "09/01/2026",
             "Fecha 2": "16/01/2026",
-            "Debe": 70,
+            "Debe": 0,
             "Cuota": 70000,
-            "Cuotas Pagadas": 7.0,
+            "Cuotas Pagadas": 8.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "13/03/2026",
             "Estado": " ",
-            "Total": 490000,
+            "Total": 560000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -7294,6 +7305,10 @@
                 {
                     "Monto Abonado": 70000,
                     "Fecha de Pago": "20/02/2026"
+                },
+                {
+                    "Monto Abonado": 70000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Felix"
@@ -7308,13 +7323,13 @@
             "Fecha de Calculo": "26/12/2025",
             "Fecha 1": "02/01/2026",
             "Fecha 2": "09/01/2026",
-            "Debe": 500,
+            "Debe": 450,
             "Cuota": 100000,
-            "Cuotas Pagadas": 4.0,
+            "Cuotas Pagadas": 4.5,
             "Cuotas Totales": 22,
             "Fecha de Vencimiento": "29/05/2026",
             "Estado": " ",
-            "Total": 400000,
+            "Total": 450000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -7348,6 +7363,10 @@
                 {
                     "Monto Abonado": 50000,
                     "Fecha de Pago": "20/02/2026"
+                },
+                {
+                    "Monto Abonado": 50000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Felix"
@@ -7362,13 +7381,13 @@
             "Fecha de Calculo": "03/01/2026",
             "Fecha 1": "10/01/2026",
             "Fecha 2": "17/01/2026",
-            "Debe": 110,
+            "Debe": 20,
             "Cuota": 110000,
-            "Cuotas Pagadas": 5.0,
+            "Cuotas Pagadas": 5.8,
             "Cuotas Totales": 6,
             "Fecha de Vencimiento": "14/02/2026",
             "Estado": "Vencio",
-            "Total": 550000,
+            "Total": 640000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -7386,6 +7405,10 @@
                 {
                     "Monto Abonado": 110000,
                     "Fecha de Pago": "20/02/2026"
+                },
+                {
+                    "Monto Abonado": 90000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -7400,18 +7423,22 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "18/02/2026",
             "Fecha 2": "25/02/2026",
-            "Debe": 10,
+            "Debe": 220,
             "Cuota": 220000,
-            "Cuotas Pagadas": 0.9,
+            "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 6,
             "Fecha de Vencimiento": "28/03/2026",
             "Estado": " ",
-            "Total": 210000,
+            "Total": 220000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
                     "Monto Abonado": 210000,
                     "Fecha de Pago": "23/02/2026"
+                },
+                {
+                    "Monto Abonado": 10000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -7426,7 +7453,7 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 0,
+            "Debe": 220,
             "Cuota": 220000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 6,
@@ -7499,6 +7526,27 @@
                 }
             ],
             "Cobrador": "Amelia"
+        },
+        {
+            "Nombre": "Digna Lopez. 440.000*3",
+            "C.I.": 1267040,
+            "Metodo de Pago": "Quincenal",
+            "Deuda": 1000000,
+            "Interes": 320000,
+            "Fecha de Retiro": "27/02/2026",
+            "Fecha de Calculo": "27/02/2026",
+            "Fecha 1": "12/03/2026",
+            "Fecha 2": "27/03/2026",
+            "Debe": 0,
+            "Cuota": 440000,
+            "Cuotas Pagadas": 0.0,
+            "Cuotas Totales": 3,
+            "Fecha de Vencimiento": "13/04/2026",
+            "Estado": " ",
+            "Total": 0,
+            "Interes por atraso": 0,
+            "Pagos Abonados": [],
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Digna Lopez. Hijo. 420.000*2",
@@ -7587,12 +7635,12 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "21/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 0,
+            "Debe": 1060,
             "Cuota": 1060000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 1,
             "Fecha de Vencimiento": "28/02/2026",
-            "Estado": " ",
+            "Estado": "Vencio",
             "Total": 0,
             "Interes por atraso": 1,
             "Pagos Abonados": [],
@@ -7629,12 +7677,12 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "21/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 0,
+            "Debe": 440,
             "Cuota": 440000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 1,
             "Fecha de Vencimiento": "28/02/2026",
-            "Estado": " ",
+            "Estado": "Vencio",
             "Total": 0,
             "Interes por atraso": 1,
             "Pagos Abonados": [],
@@ -7907,10 +7955,10 @@
             "Cuota": 400000,
             "Cuotas Pagadas": 4.0,
             "Cuotas Totales": 7,
-            "Fecha de Vencimiento": "09/02/2026",
+            "Fecha de Vencimiento": "16/02/2026",
             "Estado": "Vencio",
             "Total": 1600000,
-            "Interes por atraso": 0,
+            "Interes por atraso": 1,
             "Pagos Abonados": [
                 {
                     "Monto Abonado": 400000,
@@ -8143,11 +8191,11 @@
             "Fecha 2": "16/02/2026",
             "Debe": 120,
             "Cuota": 80000,
-            "Cuotas Pagadas": 9.5,
+            "Cuotas Pagadas": 10.5,
             "Cuotas Totales": 30,
             "Fecha de Vencimiento": "21/03/2026",
             "Estado": " ",
-            "Total": 760000,
+            "Total": 840000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -8173,6 +8221,10 @@
                 {
                     "Monto Abonado": 160000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 80000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -8187,12 +8239,12 @@
             "Fecha de Calculo": "20/12/2025",
             "Fecha 1": "27/12/2025",
             "Fecha 2": "03/01/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 9.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "28/02/2026",
-            "Estado": " ",
+            "Estado": "Vencio",
             "Total": 1260000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
@@ -8305,13 +8357,13 @@
             "Fecha de Calculo": "26/01/2026",
             "Fecha 1": "02/02/2026",
             "Fecha 2": "09/02/2026",
-            "Debe": 110,
+            "Debe": 0,
             "Cuota": 110000,
-            "Cuotas Pagadas": 3.0,
+            "Cuotas Pagadas": 4.0,
             "Cuotas Totales": 6,
             "Fecha de Vencimiento": "09/03/2026",
             "Estado": " ",
-            "Total": 330000,
+            "Total": 440000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -8325,6 +8377,10 @@
                 {
                     "Monto Abonado": 110000,
                     "Fecha de Pago": "20/02/2026"
+                },
+                {
+                    "Monto Abonado": 110000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Felix"
@@ -8454,6 +8510,27 @@
             "Cobrador": "Saul"
         },
         {
+            "Nombre": "Eliane Mariela Colman. 525.000*8. Vi",
+            "C.I.": 3507881,
+            "Metodo de Pago": "Viernes",
+            "Deuda": 3000000,
+            "Interes": 1200000,
+            "Fecha de Retiro": "27/02/2026",
+            "Fecha de Calculo": "27/02/2026",
+            "Fecha 1": "06/03/2026",
+            "Fecha 2": "13/03/2026",
+            "Debe": 0,
+            "Cuota": 525000,
+            "Cuotas Pagadas": 0.0,
+            "Cuotas Totales": 8,
+            "Fecha de Vencimiento": "24/04/2026",
+            "Estado": " ",
+            "Total": 0,
+            "Interes por atraso": 0,
+            "Pagos Abonados": [],
+            "Cobrador": "Felix"
+        },
+        {
             "Nombre": "Elisa Ozorio. 110.000*6. Lu",
             "C.I.": 3351469,
             "Metodo de Pago": "Lunes",
@@ -8530,27 +8607,6 @@
             "Cobrador": "Saul"
         },
         {
-            "Nombre": "Elsa Cañete. 150.000. Vi",
-            "C.I.": 2270845,
-            "Metodo de Pago": "Viernes",
-            "Deuda": 140000,
-            "Interes": 10000,
-            "Fecha de Retiro": "26/02/2026",
-            "Fecha de Calculo": "20/02/2026",
-            "Fecha 1": "27/02/2026",
-            "Fecha 2": "06/03/2026",
-            "Debe": 150,
-            "Cuota": 150000,
-            "Cuotas Pagadas": 0.0,
-            "Cuotas Totales": 1,
-            "Fecha de Vencimiento": "27/02/2026",
-            "Estado": "Vencio",
-            "Total": 0,
-            "Interes por atraso": 0,
-            "Pagos Abonados": [],
-            "Cobrador": "Felix"
-        },
-        {
             "Nombre": "Elsa Cañete. 330.000. Lu",
             "C.I.": 2270845,
             "Metodo de Pago": "Lunes",
@@ -8581,7 +8637,7 @@
             "Fecha de Calculo": "26/02/2026",
             "Fecha 1": "27/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 60,
+            "Debe": 120,
             "Cuota": 60000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 44,
@@ -8604,11 +8660,11 @@
             "Fecha 2": "18/02/2026",
             "Debe": 160,
             "Cuota": 60000,
-            "Cuotas Pagadas": 7.3,
+            "Cuotas Pagadas": 8.3,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "08/04/2026",
             "Estado": " ",
-            "Total": 440000,
+            "Total": 500000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -8638,6 +8694,10 @@
                 {
                     "Monto Abonado": 60000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 60000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Felix"
@@ -8652,13 +8712,13 @@
             "Fecha de Calculo": "28/01/2026",
             "Fecha 1": "29/01/2026",
             "Fecha 2": "30/01/2026",
-            "Debe": 610,
+            "Debe": 625,
             "Cuota": 60000,
-            "Cuotas Pagadas": 15.8,
+            "Cuotas Pagadas": 16.5,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "20/03/2026",
             "Estado": " ",
-            "Total": 950000,
+            "Total": 995000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -8720,6 +8780,10 @@
                 {
                     "Monto Abonado": 50000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 45000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Felix"
@@ -8789,12 +8853,12 @@
             "Fecha de Calculo": "09/08/2025",
             "Fecha 1": "18/08/2025",
             "Fecha 2": "25/08/2025",
-            "Debe": 3230,
+            "Debe": 3530,
             "Cuota": 300000,
             "Cuotas Pagadas": 12.2,
             "Cuotas Totales": 24,
             "Fecha de Vencimiento": "28/02/2026",
-            "Estado": " ",
+            "Estado": "Vencio",
             "Total": 3670000,
             "Interes por atraso": 5,
             "Pagos Abonados": [
@@ -9049,11 +9113,11 @@
             "Fecha 2": "22/01/2026",
             "Debe": 360,
             "Cuota": 30000,
-            "Cuotas Pagadas": 21.0,
+            "Cuotas Pagadas": 22.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "12/03/2026",
             "Estado": " ",
-            "Total": 630000,
+            "Total": 660000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -9139,6 +9203,10 @@
                 {
                     "Monto Abonado": 30000,
                     "Fecha de Pago": "25/02/2026"
+                },
+                {
+                    "Monto Abonado": 30000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -9191,7 +9259,7 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "21/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 0,
+            "Debe": 220,
             "Cuota": 220000,
             "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 6,
@@ -9388,7 +9456,7 @@
             "Fecha de Calculo": "17/01/2026",
             "Fecha 1": "24/01/2026",
             "Fecha 2": "31/01/2026",
-            "Debe": 0,
+            "Debe": 700,
             "Cuota": 700000,
             "Cuotas Pagadas": 5.0,
             "Cuotas Totales": 8,
@@ -9539,13 +9607,13 @@
             "Fecha de Calculo": "09/01/2026",
             "Fecha 1": "16/01/2026",
             "Fecha 2": "23/01/2026",
-            "Debe": 135,
+            "Debe": 0,
             "Cuota": 135000,
-            "Cuotas Pagadas": 6.0,
+            "Cuotas Pagadas": 7.0,
             "Cuotas Totales": 8,
             "Fecha de Vencimiento": "06/03/2026",
             "Estado": " ",
-            "Total": 810000,
+            "Total": 945000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -9571,6 +9639,10 @@
                 {
                     "Monto Abonado": 135000,
                     "Fecha de Pago": "20/02/2026"
+                },
+                {
+                    "Monto Abonado": 135000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -9754,7 +9826,7 @@
             "Fecha de Calculo": "07/02/2026",
             "Fecha 1": "14/02/2026",
             "Fecha 2": "21/02/2026",
-            "Debe": 0,
+            "Debe": 220,
             "Cuota": 220000,
             "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 6,
@@ -9784,7 +9856,7 @@
             "Fecha de Calculo": "21/02/2026",
             "Fecha 1": "28/02/2026",
             "Fecha 2": "07/03/2026",
-            "Debe": 0,
+            "Debe": 220,
             "Cuota": 220000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 6,
@@ -10349,7 +10421,7 @@
             "Fecha de Calculo": "29/11/2025",
             "Fecha 1": "03/12/2025",
             "Fecha 2": "10/12/2025",
-            "Debe": 0,
+            "Debe": 150,
             "Cuota": 150000,
             "Cuotas Pagadas": 4.0,
             "Cuotas Totales": 34,
@@ -10484,7 +10556,7 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "21/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 0,
+            "Debe": 330,
             "Cuota": 330000,
             "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 6,
@@ -10510,7 +10582,7 @@
             "Fecha de Calculo": "21/02/2026",
             "Fecha 1": "28/02/2026",
             "Fecha 2": "07/03/2026",
-            "Debe": 0,
+            "Debe": 220,
             "Cuota": 220000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 6,
@@ -10531,12 +10603,12 @@
             "Fecha de Calculo": "17/01/2026",
             "Fecha 1": "22/01/2026",
             "Fecha 2": "29/01/2026",
-            "Debe": 0,
+            "Debe": 110,
             "Cuota": 110000,
             "Cuotas Pagadas": 5.0,
             "Cuotas Totales": 6,
             "Fecha de Vencimiento": "28/02/2026",
-            "Estado": " ",
+            "Estado": "Vencio",
             "Total": 550000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
@@ -10600,6 +10672,27 @@
                 }
             ],
             "Cobrador": "Saul"
+        },
+        {
+            "Nombre": "Felicia Vda de Franco. 140.000*10. Vi",
+            "C.I.": 1914406,
+            "Metodo de Pago": "Viernes",
+            "Deuda": 1000000,
+            "Interes": 400000,
+            "Fecha de Retiro": "27/02/2026",
+            "Fecha de Calculo": "27/02/2026",
+            "Fecha 1": "06/03/2026",
+            "Fecha 2": "13/03/2026",
+            "Debe": 0,
+            "Cuota": 140000,
+            "Cuotas Pagadas": 0.0,
+            "Cuotas Totales": 10,
+            "Fecha de Vencimiento": "08/05/2026",
+            "Estado": " ",
+            "Total": 0,
+            "Interes por atraso": 0,
+            "Pagos Abonados": [],
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Felicia Zarza. 1.200.000",
@@ -10700,13 +10793,13 @@
             "Fecha de Calculo": "09/01/2026",
             "Fecha 1": "16/01/2026",
             "Fecha 2": "23/01/2026",
-            "Debe": 140,
+            "Debe": 0,
             "Cuota": 140000,
-            "Cuotas Pagadas": 6.0,
+            "Cuotas Pagadas": 7.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "20/03/2026",
             "Estado": " ",
-            "Total": 840000,
+            "Total": 980000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -10732,6 +10825,10 @@
                 {
                     "Monto Abonado": 140000,
                     "Fecha de Pago": "20/02/2026"
+                },
+                {
+                    "Monto Abonado": 140000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -10746,12 +10843,12 @@
             "Fecha de Calculo": "20/12/2025",
             "Fecha 1": "27/12/2025",
             "Fecha 2": "03/01/2026",
-            "Debe": 280,
+            "Debe": 420,
             "Cuota": 140000,
             "Cuotas Pagadas": 7.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "28/02/2026",
-            "Estado": " ",
+            "Estado": "Vencio",
             "Total": 980000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
@@ -10838,7 +10935,7 @@
             "Fecha de Calculo": "10/01/2026",
             "Fecha 1": "17/01/2026",
             "Fecha 2": "24/01/2026",
-            "Debe": -220,
+            "Debe": 0,
             "Cuota": 220000,
             "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 6,
@@ -10864,7 +10961,7 @@
             "Fecha de Calculo": "03/01/2026",
             "Fecha 1": "10/01/2026",
             "Fecha 2": "17/01/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 7.0,
             "Cuotas Totales": 10,
@@ -11104,13 +11201,13 @@
             "Fecha de Calculo": "17/01/2026",
             "Fecha 1": "24/01/2026",
             "Fecha 2": "31/01/2026",
-            "Debe": 420,
+            "Debe": -1160,
             "Cuota": 420000,
-            "Cuotas Pagadas": 4.0,
+            "Cuotas Pagadas": 8.7,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "28/03/2026",
             "Estado": " ",
-            "Total": 1680000,
+            "Total": 3680000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -11128,6 +11225,10 @@
                 {
                     "Monto Abonado": 420000,
                     "Fecha de Pago": "21/02/2026"
+                },
+                {
+                    "Monto Abonado": 2000000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -11316,18 +11417,22 @@
             "Fecha de Calculo": "07/02/2026",
             "Fecha 1": "14/02/2026",
             "Fecha 2": "21/02/2026",
-            "Debe": 486,
+            "Debe": 504,
             "Cuota": 468000,
-            "Cuotas Pagadas": 0.9,
+            "Cuotas Pagadas": 1.9,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "18/04/2026",
             "Estado": " ",
-            "Total": 450000,
+            "Total": 900000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
                     "Monto Abonado": 450000,
                     "Fecha de Pago": "21/02/2026"
+                },
+                {
+                    "Monto Abonado": 450000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -11342,13 +11447,13 @@
             "Fecha de Calculo": "16/01/2026",
             "Fecha 1": "23/01/2026",
             "Fecha 2": "30/01/2026",
-            "Debe": 120,
+            "Debe": 20,
             "Cuota": 100000,
-            "Cuotas Pagadas": 4.8,
+            "Cuotas Pagadas": 5.8,
             "Cuotas Totales": 8,
             "Fecha de Vencimiento": "13/03/2026",
             "Estado": " ",
-            "Total": 480000,
+            "Total": 580000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -11370,6 +11475,10 @@
                 {
                     "Monto Abonado": 100000,
                     "Fecha de Pago": "23/02/2026"
+                },
+                {
+                    "Monto Abonado": 100000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -11405,13 +11514,13 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "15/02/2026",
             "Fecha 2": "16/02/2026",
-            "Debe": 570,
+            "Debe": 600,
             "Cuota": 180000,
-            "Cuotas Pagadas": 7.8,
+            "Cuotas Pagadas": 8.6,
             "Cuotas Totales": 30,
             "Fecha de Vencimiento": "21/03/2026",
             "Estado": " ",
-            "Total": 1410000,
+            "Total": 1560000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -11445,6 +11554,10 @@
                 {
                     "Monto Abonado": 180000,
                     "Fecha de Pago": "25/02/2026"
+                },
+                {
+                    "Monto Abonado": 150000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -11661,7 +11774,7 @@
             "Fecha de Calculo": "30/12/2025",
             "Fecha 1": "28/02/2026",
             "Fecha 2": "13/03/2026",
-            "Debe": 0,
+            "Debe": 840,
             "Cuota": 840000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 5,
@@ -11739,11 +11852,11 @@
             "Fecha 2": "08/02/2026",
             "Debe": 300,
             "Cuota": 150000,
-            "Cuotas Pagadas": 16.0,
+            "Cuotas Pagadas": 17.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "30/03/2026",
             "Estado": " ",
-            "Total": 2400000,
+            "Total": 2550000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -11793,6 +11906,10 @@
                 {
                     "Monto Abonado": 150000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 150000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -11841,12 +11958,12 @@
             "Fecha de Calculo": "20/12/2025",
             "Fecha 1": "27/12/2025",
             "Fecha 2": "03/01/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 9.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "28/02/2026",
-            "Estado": " ",
+            "Estado": "Vencio",
             "Total": 1260000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
@@ -11899,7 +12016,7 @@
             "Fecha de Calculo": "21/02/2026",
             "Fecha 1": "28/02/2026",
             "Fecha 2": "07/03/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 10,
@@ -11920,7 +12037,7 @@
             "Fecha de Calculo": "27/12/2025",
             "Fecha 1": "03/01/2026",
             "Fecha 2": "10/01/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 8.0,
             "Cuotas Totales": 10,
@@ -11974,7 +12091,7 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "21/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 10,
@@ -12067,7 +12184,7 @@
             "Fecha de Calculo": "21/02/2026",
             "Fecha 1": "28/02/2026",
             "Fecha 2": "07/03/2026",
-            "Debe": 0,
+            "Debe": 220,
             "Cuota": 220000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 6,
@@ -12144,11 +12261,11 @@
             "Fecha 2": "16/02/2026",
             "Debe": 200,
             "Cuota": 200000,
-            "Cuotas Pagadas": 10.0,
+            "Cuotas Pagadas": 11.0,
             "Cuotas Totales": 23,
             "Fecha de Vencimiento": "13/03/2026",
             "Estado": " ",
-            "Total": 2000000,
+            "Total": 2200000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -12190,6 +12307,10 @@
                 {
                     "Monto Abonado": 200000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 200000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -12297,70 +12418,20 @@
             "Cobrador": "Amelia"
         },
         {
-            "Nombre": "Graciela Vargas. 140.000*10. Sa",
-            "C.I.": 6038021,
-            "Metodo de Pago": "Sábado",
-            "Deuda": 1000000,
-            "Interes": 400000,
-            "Fecha de Retiro": "27/12/2025",
-            "Fecha de Calculo": "27/12/2025",
-            "Fecha 1": "03/01/2026",
-            "Fecha 2": "10/01/2026",
-            "Debe": 0,
-            "Cuota": 140000,
-            "Cuotas Pagadas": 7.0,
-            "Cuotas Totales": 10,
-            "Fecha de Vencimiento": "14/03/2026",
-            "Estado": " ",
-            "Total": 980000,
-            "Interes por atraso": 1,
-            "Pagos Abonados": [
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "03/01/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "20/01/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "24/01/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "31/01/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "07/02/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "16/02/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "23/02/2026"
-                }
-            ],
-            "Cobrador": "Amelia"
-        },
-        {
-            "Nombre": "Graciela Vargas. 220.000*6. Vi",
+            "Nombre": "Graciela Vargas. 140.000*10. Vi",
             "C.I.": 6038021,
             "Metodo de Pago": "Viernes",
             "Deuda": 1000000,
-            "Interes": 320000,
-            "Fecha de Retiro": "20/02/2026",
-            "Fecha de Calculo": "20/02/2026",
-            "Fecha 1": "27/02/2026",
-            "Fecha 2": "06/03/2026",
-            "Debe": 220,
-            "Cuota": 220000,
+            "Interes": 400000,
+            "Fecha de Retiro": "27/02/2026",
+            "Fecha de Calculo": "27/02/2026",
+            "Fecha 1": "06/03/2026",
+            "Fecha 2": "13/03/2026",
+            "Debe": 0,
+            "Cuota": 140000,
             "Cuotas Pagadas": 0.0,
-            "Cuotas Totales": 6,
-            "Fecha de Vencimiento": "03/04/2026",
+            "Cuotas Totales": 10,
+            "Fecha de Vencimiento": "08/05/2026",
             "Estado": " ",
             "Total": 0,
             "Interes por atraso": 0,
@@ -12379,11 +12450,11 @@
             "Fecha 2": "22/02/2026",
             "Debe": 30,
             "Cuota": 30000,
-            "Cuotas Pagadas": 5.0,
+            "Cuotas Pagadas": 6.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "13/04/2026",
             "Estado": " ",
-            "Total": 150000,
+            "Total": 180000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -12405,6 +12476,10 @@
                 {
                     "Monto Abonado": 30000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 30000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -12639,7 +12714,7 @@
             "Fecha de Calculo": "22/11/2025",
             "Fecha 1": "29/11/2025",
             "Fecha 2": "06/12/2025",
-            "Debe": 350,
+            "Debe": 525,
             "Cuota": 175000,
             "Cuotas Pagadas": 4.0,
             "Cuotas Totales": 8,
@@ -12673,7 +12748,7 @@
             "Fecha de Calculo": "22/11/2025",
             "Fecha 1": "29/11/2025",
             "Fecha 2": "06/12/2025",
-            "Debe": 700,
+            "Debe": 875,
             "Cuota": 175000,
             "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 8,
@@ -12703,13 +12778,13 @@
             "Fecha de Calculo": "14/01/2026",
             "Fecha 1": "21/01/2026",
             "Fecha 2": "28/01/2026",
-            "Debe": 1400,
+            "Debe": 1050,
             "Cuota": 350000,
-            "Cuotas Pagadas": 2.0,
+            "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 8,
             "Fecha de Vencimiento": "11/03/2026",
             "Estado": " ",
-            "Total": 700000,
+            "Total": 1050000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -12719,50 +12794,33 @@
                 {
                     "Monto Abonado": 350000,
                     "Fecha de Pago": "20/02/2026"
+                },
+                {
+                    "Monto Abonado": 350000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
         },
         {
-            "Nombre": "Hugo Cabral. 140.000*10. Ju",
+            "Nombre": "Hugo Cabral. 140.000*10. Vi",
             "C.I.": 2310709,
-            "Metodo de Pago": "Jueves",
+            "Metodo de Pago": "Viernes",
             "Deuda": 1000000,
             "Interes": 400000,
-            "Fecha de Retiro": "18/12/2025",
-            "Fecha de Calculo": "18/12/2025",
-            "Fecha 1": "25/12/2025",
-            "Fecha 2": "01/01/2026",
-            "Debe": 700,
+            "Fecha de Retiro": "27/02/2026",
+            "Fecha de Calculo": "27/02/2026",
+            "Fecha 1": "06/03/2026",
+            "Fecha 2": "13/03/2026",
+            "Debe": 0,
             "Cuota": 140000,
-            "Cuotas Pagadas": 5.0,
+            "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 10,
-            "Fecha de Vencimiento": "26/02/2026",
-            "Estado": "Vencio",
-            "Total": 700000,
+            "Fecha de Vencimiento": "08/05/2026",
+            "Estado": " ",
+            "Total": 0,
             "Interes por atraso": 0,
-            "Pagos Abonados": [
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "05/01/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "19/01/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "29/01/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "09/02/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "16/02/2026"
-                }
-            ],
+            "Pagos Abonados": [],
             "Cobrador": "Saul"
         },
         {
@@ -12805,7 +12863,7 @@
             "Fecha de Calculo": "17/05/2025",
             "Fecha 1": "24/05/2025",
             "Fecha 2": "31/05/2025",
-            "Debe": 180,
+            "Debe": 360,
             "Cuota": 180000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 4,
@@ -13176,11 +13234,11 @@
             "Fecha 2": "23/02/2026",
             "Debe": 40,
             "Cuota": 20000,
-            "Cuotas Pagadas": 3.0,
+            "Cuotas Pagadas": 4.0,
             "Cuotas Totales": 30,
             "Fecha de Vencimiento": "28/03/2026",
             "Estado": " ",
-            "Total": 60000,
+            "Total": 80000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -13194,6 +13252,10 @@
                 {
                     "Monto Abonado": 20000,
                     "Fecha de Pago": "25/02/2026"
+                },
+                {
+                    "Monto Abonado": 20000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -13323,7 +13385,7 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "21/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 0,
+            "Debe": 350,
             "Cuota": 350000,
             "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 10,
@@ -13506,116 +13568,6 @@
             "Cobrador": "Amelia"
         },
         {
-            "Nombre": "Jessica Davalos. 220.000*6. Lu",
-            "C.I.": 6537162,
-            "Metodo de Pago": "Lunes",
-            "Deuda": 1000000,
-            "Interes": 320000,
-            "Fecha de Retiro": "15/11/2025",
-            "Fecha de Calculo": "17/11/2025",
-            "Fecha 1": "24/11/2025",
-            "Fecha 2": "01/12/2025",
-            "Debe": 45,
-            "Cuota": 220000,
-            "Cuotas Pagadas": 5.7,
-            "Cuotas Totales": 6,
-            "Fecha de Vencimiento": "29/12/2025",
-            "Estado": "Vencio",
-            "Total": 1275000,
-            "Interes por atraso": 0,
-            "Pagos Abonados": [
-                {
-                    "Monto Abonado": 440000,
-                    "Fecha de Pago": "03/12/2025"
-                },
-                {
-                    "Monto Abonado": 30000,
-                    "Fecha de Pago": "19/01/2026"
-                },
-                {
-                    "Monto Abonado": 30000,
-                    "Fecha de Pago": "20/01/2026"
-                },
-                {
-                    "Monto Abonado": 60000,
-                    "Fecha de Pago": "22/01/2026"
-                },
-                {
-                    "Monto Abonado": 55000,
-                    "Fecha de Pago": "24/01/2026"
-                },
-                {
-                    "Monto Abonado": 30000,
-                    "Fecha de Pago": "26/01/2026"
-                },
-                {
-                    "Monto Abonado": 60000,
-                    "Fecha de Pago": "28/01/2026"
-                },
-                {
-                    "Monto Abonado": 30000,
-                    "Fecha de Pago": "30/01/2026"
-                },
-                {
-                    "Monto Abonado": 30000,
-                    "Fecha de Pago": "31/01/2026"
-                },
-                {
-                    "Monto Abonado": 30000,
-                    "Fecha de Pago": "03/02/2026"
-                },
-                {
-                    "Monto Abonado": 60000,
-                    "Fecha de Pago": "05/02/2026"
-                },
-                {
-                    "Monto Abonado": 30000,
-                    "Fecha de Pago": "06/02/2026"
-                },
-                {
-                    "Monto Abonado": 60000,
-                    "Fecha de Pago": "09/02/2026"
-                },
-                {
-                    "Monto Abonado": 30000,
-                    "Fecha de Pago": "11/02/2026"
-                },
-                {
-                    "Monto Abonado": 60000,
-                    "Fecha de Pago": "13/02/2026"
-                },
-                {
-                    "Monto Abonado": 30000,
-                    "Fecha de Pago": "14/02/2026"
-                },
-                {
-                    "Monto Abonado": 60000,
-                    "Fecha de Pago": "18/02/2026"
-                },
-                {
-                    "Monto Abonado": 30000,
-                    "Fecha de Pago": "19/02/2026"
-                },
-                {
-                    "Monto Abonado": 30000,
-                    "Fecha de Pago": "20/02/2026"
-                },
-                {
-                    "Monto Abonado": 30000,
-                    "Fecha de Pago": "21/02/2026"
-                },
-                {
-                    "Monto Abonado": 30000,
-                    "Fecha de Pago": "24/02/2026"
-                },
-                {
-                    "Monto Abonado": 30000,
-                    "Fecha de Pago": "26/02/2026"
-                }
-            ],
-            "Cobrador": "Felix"
-        },
-        {
             "Nombre": "Jhon Eguzquiza. 550.000",
             "C.I.": 2064750,
             "Metodo de Pago": "Quincenal",
@@ -13688,7 +13640,7 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 0,
+            "Debe": 420,
             "Cuota": 420000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 11,
@@ -13722,7 +13674,7 @@
             "Fecha de Calculo": "07/02/2026",
             "Fecha 1": "14/02/2026",
             "Fecha 2": "21/02/2026",
-            "Debe": 0,
+            "Debe": 220,
             "Cuota": 220000,
             "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 6,
@@ -13866,7 +13818,7 @@
             "Fecha de Calculo": "10/01/2026",
             "Fecha 1": "17/01/2026",
             "Fecha 2": "24/01/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 6.0,
             "Cuotas Totales": 10,
@@ -13954,12 +13906,12 @@
             "Fecha de Calculo": "17/01/2026",
             "Fecha 1": "24/01/2026",
             "Fecha 2": "31/01/2026",
-            "Debe": 0,
+            "Debe": 4000,
             "Cuota": 4000000,
             "Cuotas Pagadas": 5.0,
             "Cuotas Totales": 6,
             "Fecha de Vencimiento": "28/02/2026",
-            "Estado": " ",
+            "Estado": "Vencio",
             "Total": 20000000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
@@ -14164,7 +14116,7 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 0,
+            "Debe": 280,
             "Cuota": 280000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 10,
@@ -14279,7 +14231,7 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 0,
+            "Debe": 110,
             "Cuota": 110000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 6,
@@ -14332,16 +14284,16 @@
             "Interes": 160000,
             "Fecha de Retiro": "15/04/2025",
             "Fecha de Calculo": "10/04/2025",
-            "Fecha 1": "21/02/2026",
-            "Fecha 2": "06/03/2026",
-            "Debe": 220,
+            "Fecha 1": "06/03/2026",
+            "Fecha 2": "21/03/2026",
+            "Debe": 0,
             "Cuota": 220000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 3,
-            "Fecha de Vencimiento": "21/03/2026",
+            "Fecha de Vencimiento": "05/04/2026",
             "Estado": " ",
             "Total": 0,
-            "Interes por atraso": 20,
+            "Interes por atraso": 21,
             "Pagos Abonados": [],
             "Cobrador": "Saul"
         },
@@ -14353,16 +14305,16 @@
             "Interes": 160000,
             "Fecha de Retiro": "21/04/2025",
             "Fecha de Calculo": "10/04/2025",
-            "Fecha 1": "21/02/2026",
-            "Fecha 2": "06/03/2026",
-            "Debe": 220,
+            "Fecha 1": "06/03/2026",
+            "Fecha 2": "21/03/2026",
+            "Debe": 0,
             "Cuota": 220000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 3,
-            "Fecha de Vencimiento": "21/03/2026",
+            "Fecha de Vencimiento": "05/04/2026",
             "Estado": " ",
             "Total": 0,
-            "Interes por atraso": 20,
+            "Interes por atraso": 21,
             "Pagos Abonados": [],
             "Cobrador": "Saul"
         },
@@ -14434,7 +14386,7 @@
             "Fecha de Calculo": "20/12/2025",
             "Fecha 1": "27/12/2025",
             "Fecha 2": "03/01/2026",
-            "Debe": 100,
+            "Debe": 200,
             "Cuota": 100000,
             "Cuotas Pagadas": 7.0,
             "Cuotas Totales": 27,
@@ -14718,7 +14670,7 @@
             "Fecha de Calculo": "10/01/2026",
             "Fecha 1": "17/01/2026",
             "Fecha 2": "24/01/2026",
-            "Debe": 0,
+            "Debe": 100,
             "Cuota": 100000,
             "Cuotas Pagadas": 6.0,
             "Cuotas Totales": 15,
@@ -15003,13 +14955,13 @@
             "Fecha de Calculo": "05/02/2026",
             "Fecha 1": "12/02/2026",
             "Fecha 2": "19/02/2026",
-            "Debe": 220,
+            "Debe": 70,
             "Cuota": 220000,
-            "Cuotas Pagadas": 2.0,
+            "Cuotas Pagadas": 2.6,
             "Cuotas Totales": 6,
             "Fecha de Vencimiento": "19/03/2026",
             "Estado": " ",
-            "Total": 440000,
+            "Total": 590000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -15019,6 +14971,10 @@
                 {
                     "Monto Abonado": 220000,
                     "Fecha de Pago": "20/02/2026"
+                },
+                {
+                    "Monto Abonado": 150000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -15249,13 +15205,13 @@
             "Fecha de Calculo": "23/01/2026",
             "Fecha 1": "30/01/2026",
             "Fecha 2": "06/02/2026",
-            "Debe": 340,
+            "Debe": 220,
             "Cuota": 220000,
-            "Cuotas Pagadas": 3.4,
+            "Cuotas Pagadas": 4.0,
             "Cuotas Totales": 6,
             "Fecha de Vencimiento": "06/03/2026",
             "Estado": " ",
-            "Total": 760000,
+            "Total": 880000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -15281,6 +15237,10 @@
                 {
                     "Monto Abonado": 100000,
                     "Fecha de Pago": "24/02/2026"
+                },
+                {
+                    "Monto Abonado": 120000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -15295,7 +15255,7 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 0,
+            "Debe": 220,
             "Cuota": 220000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 6,
@@ -15329,13 +15289,13 @@
             "Fecha de Calculo": "11/02/2026",
             "Fecha 1": "18/02/2026",
             "Fecha 2": "25/02/2026",
-            "Debe": 330,
+            "Debe": 230,
             "Cuota": 330000,
-            "Cuotas Pagadas": 1.0,
+            "Cuotas Pagadas": 1.3,
             "Cuotas Totales": 6,
             "Fecha de Vencimiento": "25/03/2026",
             "Estado": " ",
-            "Total": 330000,
+            "Total": 430000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -15349,6 +15309,10 @@
                 {
                     "Monto Abonado": 100000,
                     "Fecha de Pago": "21/02/2026"
+                },
+                {
+                    "Monto Abonado": 100000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -15410,13 +15374,13 @@
             "Fecha de Calculo": "19/01/2026",
             "Fecha 1": "20/01/2026",
             "Fecha 2": "21/01/2026",
-            "Debe": 1020,
+            "Debe": 700,
             "Cuota": 180000,
-            "Cuotas Pagadas": 28.3,
+            "Cuotas Pagadas": 31.1,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "11/03/2026",
             "Estado": " ",
-            "Total": 5100000,
+            "Total": 5600000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -15510,6 +15474,10 @@
                 {
                     "Monto Abonado": 100000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 500000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -15579,7 +15547,7 @@
             "Fecha de Calculo": "22/11/2025",
             "Fecha 1": "26/11/2025",
             "Fecha 2": "03/12/2025",
-            "Debe": 0,
+            "Debe": 100,
             "Cuota": 100000,
             "Cuotas Pagadas": 13.0,
             "Cuotas Totales": 19,
@@ -15653,7 +15621,7 @@
             "Fecha de Calculo": "25/10/2025",
             "Fecha 1": "28/10/2025",
             "Fecha 2": "04/11/2025",
-            "Debe": 0,
+            "Debe": 150,
             "Cuota": 150000,
             "Cuotas Pagadas": 17.0,
             "Cuotas Totales": 28,
@@ -15743,7 +15711,7 @@
             "Fecha de Calculo": "25/10/2025",
             "Fecha 1": "28/10/2025",
             "Fecha 2": "04/11/2025",
-            "Debe": 0,
+            "Debe": 150,
             "Cuota": 150000,
             "Cuotas Pagadas": 17.0,
             "Cuotas Totales": 38,
@@ -15845,13 +15813,13 @@
             "Fecha de Calculo": "01/12/2025",
             "Fecha 1": "08/12/2025",
             "Fecha 2": "15/12/2025",
-            "Debe": 1600,
+            "Debe": 1400,
             "Cuota": 280000,
-            "Cuotas Pagadas": 4.2,
+            "Cuotas Pagadas": 5.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "09/02/2026",
             "Estado": "Vencio",
-            "Total": 1200000,
+            "Total": 1400000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -15869,6 +15837,10 @@
                 {
                     "Monto Abonado": 200000,
                     "Fecha de Pago": "10/02/2026"
+                },
+                {
+                    "Monto Abonado": 200000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -15881,15 +15853,15 @@
             "Interes": 400000,
             "Fecha de Retiro": "08/01/2026",
             "Fecha de Calculo": "07/01/2026",
-            "Fecha 1": "23/02/2026",
-            "Fecha 2": "08/03/2026",
-            "Debe": 350,
+            "Fecha 1": "08/03/2026",
+            "Fecha 2": "23/03/2026",
+            "Debe": 0,
             "Cuota": 350000,
-            "Cuotas Pagadas": 2.0,
+            "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 4,
             "Fecha de Vencimiento": "08/03/2026",
             "Estado": " ",
-            "Total": 700000,
+            "Total": 1050000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -15899,6 +15871,10 @@
                 {
                     "Monto Abonado": 350000,
                     "Fecha de Pago": "12/02/2026"
+                },
+                {
+                    "Monto Abonado": 350000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Felix"
@@ -15913,7 +15889,7 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 210,
+            "Debe": 420,
             "Cuota": 210000,
             "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 10,
@@ -15943,7 +15919,7 @@
             "Fecha de Calculo": "24/01/2026",
             "Fecha 1": "24/01/2026",
             "Fecha 2": "31/01/2026",
-            "Debe": 70,
+            "Debe": 140,
             "Cuota": 70000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 10,
@@ -16137,15 +16113,20 @@
             "Fecha de Calculo": "18/02/2026",
             "Fecha 1": "25/02/2026",
             "Fecha 2": "04/03/2026",
-            "Debe": 1100,
+            "Debe": 0,
             "Cuota": 1100000,
-            "Cuotas Pagadas": 0.0,
+            "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 6,
             "Fecha de Vencimiento": "01/04/2026",
             "Estado": " ",
-            "Total": 0,
+            "Total": 1100000,
             "Interes por atraso": 0,
-            "Pagos Abonados": [],
+            "Pagos Abonados": [
+                {
+                    "Monto Abonado": 1100000,
+                    "Fecha de Pago": "27/02/2026"
+                }
+            ],
             "Cobrador": "Saul"
         },
         {
@@ -16298,7 +16279,7 @@
             "Fecha de Calculo": "07/02/2026",
             "Fecha 1": "14/02/2026",
             "Fecha 2": "21/02/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 10,
@@ -16328,7 +16309,7 @@
             "Fecha de Calculo": "17/01/2026",
             "Fecha 1": "24/01/2026",
             "Fecha 2": "31/01/2026",
-            "Debe": 0,
+            "Debe": 70,
             "Cuota": 70000,
             "Cuotas Pagadas": 5.0,
             "Cuotas Totales": 10,
@@ -16370,7 +16351,7 @@
             "Fecha de Calculo": "21/02/2026",
             "Fecha 1": "28/02/2026",
             "Fecha 2": "07/03/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 10,
@@ -16605,11 +16586,11 @@
             "Fecha 2": "23/02/2026",
             "Debe": 240,
             "Cuota": 120000,
-            "Cuotas Pagadas": 3.0,
+            "Cuotas Pagadas": 4.0,
             "Cuotas Totales": 30,
             "Fecha de Vencimiento": "28/03/2026",
             "Estado": " ",
-            "Total": 360000,
+            "Total": 480000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -16623,6 +16604,10 @@
                 {
                     "Monto Abonado": 120000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 120000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -16708,7 +16693,7 @@
             "Fecha de Calculo": "20/12/2025",
             "Fecha 1": "27/12/2025",
             "Fecha 2": "03/01/2026",
-            "Debe": -560,
+            "Debe": 0,
             "Cuota": 560000,
             "Cuotas Pagadas": 9.0,
             "Cuotas Totales": 10,
@@ -16762,7 +16747,7 @@
             "Fecha de Calculo": "17/01/2026",
             "Fecha 1": "24/01/2026",
             "Fecha 2": "31/01/2026",
-            "Debe": 0,
+            "Debe": 360,
             "Cuota": 360000,
             "Cuotas Pagadas": 4.0,
             "Cuotas Totales": 8,
@@ -16842,7 +16827,7 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "21/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 0,
+            "Debe": 200,
             "Cuota": 200000,
             "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 7,
@@ -16868,18 +16853,22 @@
             "Fecha de Calculo": "16/02/2026",
             "Fecha 1": "23/02/2026",
             "Fecha 2": "02/03/2026",
-            "Debe": 1100,
+            "Debe": 0,
             "Cuota": 1200000,
-            "Cuotas Pagadas": 0.0,
+            "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 5,
             "Fecha de Vencimiento": "23/03/2026",
             "Estado": " ",
-            "Total": 100000,
+            "Total": 1200000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
                     "Monto Abonado": 100000,
                     "Fecha de Pago": "24/02/2026"
+                },
+                {
+                    "Monto Abonado": 1100000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -16894,13 +16883,13 @@
             "Fecha de Calculo": "19/02/2026",
             "Fecha 1": "20/02/2026",
             "Fecha 2": "21/02/2026",
-            "Debe": -225,
+            "Debe": -335,
             "Cuota": 140000,
-            "Cuotas Pagadas": 8.6,
+            "Cuotas Pagadas": 10.3,
             "Cuotas Totales": 43,
             "Fecha de Vencimiento": "10/04/2026",
             "Estado": " ",
-            "Total": 1205000,
+            "Total": 1455000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -16922,6 +16911,10 @@
                 {
                     "Monto Abonado": 250000,
                     "Fecha de Pago": "25/02/2026"
+                },
+                {
+                    "Monto Abonado": 250000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -17012,7 +17005,7 @@
             "Fecha de Calculo": "07/02/2026",
             "Fecha 1": "14/02/2026",
             "Fecha 2": "21/02/2026",
-            "Debe": 0,
+            "Debe": 220,
             "Cuota": 220000,
             "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 6,
@@ -17177,52 +17170,19 @@
             "Metodo de Pago": "Sábado",
             "Deuda": 1000000,
             "Interes": 400000,
-            "Fecha de Retiro": "04/12/2025",
-            "Fecha de Calculo": "06/12/2025",
-            "Fecha 1": "13/12/2025",
-            "Fecha 2": "20/12/2025",
-            "Debe": 140,
+            "Fecha de Retiro": "27/02/2026",
+            "Fecha de Calculo": "28/02/2026",
+            "Fecha 1": "07/03/2026",
+            "Fecha 2": "14/03/2026",
+            "Debe": 0,
             "Cuota": 140000,
-            "Cuotas Pagadas": 9.0,
+            "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 10,
-            "Fecha de Vencimiento": "21/02/2026",
-            "Estado": "Vencio",
-            "Total": 1260000,
-            "Interes por atraso": 1,
-            "Pagos Abonados": [
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "13/12/2025"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "23/12/2025"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "30/12/2025"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "07/01/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "19/01/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "26/01/2026"
-                },
-                {
-                    "Monto Abonado": 140000,
-                    "Fecha de Pago": "06/02/2026"
-                },
-                {
-                    "Monto Abonado": 280000,
-                    "Fecha de Pago": "16/02/2026"
-                }
-            ],
+            "Fecha de Vencimiento": "09/05/2026",
+            "Estado": " ",
+            "Total": 0,
+            "Interes por atraso": 0,
+            "Pagos Abonados": [],
             "Cobrador": "Amelia"
         },
         {
@@ -17345,6 +17305,27 @@
             "Cobrador": "Amelia"
         },
         {
+            "Nombre": "Marcos Segovia. 140.000*10. Sa",
+            "C.I.": 7065528,
+            "Metodo de Pago": "Sábado",
+            "Deuda": 1000000,
+            "Interes": 400000,
+            "Fecha de Retiro": "27/02/2026",
+            "Fecha de Calculo": "28/02/2026",
+            "Fecha 1": "07/03/2026",
+            "Fecha 2": "14/03/2026",
+            "Debe": 0,
+            "Cuota": 140000,
+            "Cuotas Pagadas": 0.0,
+            "Cuotas Totales": 10,
+            "Fecha de Vencimiento": "09/05/2026",
+            "Estado": " ",
+            "Total": 0,
+            "Interes por atraso": 0,
+            "Pagos Abonados": [],
+            "Cobrador": "Saul"
+        },
+        {
             "Nombre": "Maria Antonia Caballero. 100.000*23. Ju",
             "C.I.": 6357298,
             "Metodo de Pago": "Jueves",
@@ -17436,7 +17417,7 @@
             "Fecha de Calculo": "07/02/2026",
             "Fecha 1": "14/02/2026",
             "Fecha 2": "21/02/2026",
-            "Debe": 0,
+            "Debe": 280,
             "Cuota": 280000,
             "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 10,
@@ -17519,6 +17500,27 @@
             "Cobrador": "Saul"
         },
         {
+            "Nombre": "Maria Asuncion Flores. 420.000*5",
+            "C.I.": 2508025,
+            "Metodo de Pago": "Quincenal",
+            "Deuda": 1500000,
+            "Interes": 600000,
+            "Fecha de Retiro": "27/02/2026",
+            "Fecha de Calculo": "27/02/2026",
+            "Fecha 1": "12/03/2026",
+            "Fecha 2": "27/03/2026",
+            "Debe": 0,
+            "Cuota": 420000,
+            "Cuotas Pagadas": 0.0,
+            "Cuotas Totales": 5,
+            "Fecha de Vencimiento": "13/05/2026",
+            "Estado": " ",
+            "Total": 0,
+            "Interes por atraso": 0,
+            "Pagos Abonados": [],
+            "Cobrador": "Felix"
+        },
+        {
             "Nombre": "Maria Cristina Martinez. 140.000*10. Sa",
             "C.I.": 5281525,
             "Metodo de Pago": "Sábado",
@@ -17528,7 +17530,7 @@
             "Fecha de Calculo": "17/01/2026",
             "Fecha 1": "24/01/2026",
             "Fecha 2": "31/01/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 5.0,
             "Cuotas Totales": 10,
@@ -17634,7 +17636,7 @@
             "Fecha de Calculo": "07/02/2026",
             "Fecha 1": "14/02/2026",
             "Fecha 2": "21/02/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 10,
@@ -17664,7 +17666,7 @@
             "Fecha de Calculo": "29/01/2026",
             "Fecha 1": "28/02/2026",
             "Fecha 2": "13/03/2026",
-            "Debe": 0,
+            "Debe": 280,
             "Cuota": 280000,
             "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 5,
@@ -17724,7 +17726,7 @@
             "Fecha de Calculo": "29/01/2026",
             "Fecha 1": "31/01/2026",
             "Fecha 2": "31/01/2026",
-            "Debe": 420,
+            "Debe": 450,
             "Cuota": 30000,
             "Cuotas Pagadas": 11.0,
             "Cuotas Totales": 32,
@@ -17842,11 +17844,11 @@
             "Fecha 2": "14/01/2026",
             "Debe": 60,
             "Cuota": 15000,
-            "Cuotas Pagadas": 36.0,
+            "Cuotas Pagadas": 37.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "04/03/2026",
             "Estado": " ",
-            "Total": 540000,
+            "Total": 555000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -17984,6 +17986,10 @@
                 {
                     "Monto Abonado": 15000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 15000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -18136,16 +18142,16 @@
             "Interes": 50000,
             "Fecha de Retiro": "26/06/2025",
             "Fecha de Calculo": "11/06/2025",
-            "Fecha 1": "27/02/2026",
-            "Fecha 2": "12/03/2026",
-            "Debe": 550,
+            "Fecha 1": "12/03/2026",
+            "Fecha 2": "27/03/2026",
+            "Debe": 0,
             "Cuota": 550000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 1,
-            "Fecha de Vencimiento": "21/02/2026",
-            "Estado": "Vencio",
+            "Fecha de Vencimiento": "08/03/2026",
+            "Estado": " ",
             "Total": 0,
-            "Interes por atraso": 16,
+            "Interes por atraso": 17,
             "Pagos Abonados": [],
             "Cobrador": "Amelia"
         },
@@ -18319,7 +18325,7 @@
             "Fecha de Calculo": "17/01/2026",
             "Fecha 1": "24/01/2026",
             "Fecha 2": "31/01/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 4.0,
             "Cuotas Totales": 10,
@@ -18449,7 +18455,7 @@
             "Fecha de Calculo": "15/11/2025",
             "Fecha 1": "22/11/2025",
             "Fecha 2": "29/11/2025",
-            "Debe": 0,
+            "Debe": 210,
             "Cuota": 210000,
             "Cuotas Pagadas": 8.0,
             "Cuotas Totales": 10,
@@ -18703,16 +18709,20 @@
             "Fecha 2": "28/02/2026",
             "Debe": 0,
             "Cuota": 140000,
-            "Cuotas Pagadas": 1.0,
+            "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "25/04/2026",
             "Estado": " ",
-            "Total": 140000,
+            "Total": 280000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
                     "Monto Abonado": 140000,
                     "Fecha de Pago": "20/02/2026"
+                },
+                {
+                    "Monto Abonado": 140000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -18727,13 +18737,13 @@
             "Fecha de Calculo": "23/01/2026",
             "Fecha 1": "26/01/2026",
             "Fecha 2": "02/02/2026",
-            "Debe": 280,
+            "Debe": 0,
             "Cuota": 280000,
-            "Cuotas Pagadas": 4.0,
+            "Cuotas Pagadas": 5.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "03/04/2026",
             "Estado": " ",
-            "Total": 1120000,
+            "Total": 1400000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -18751,6 +18761,10 @@
                 {
                     "Monto Abonado": 280000,
                     "Fecha de Pago": "21/02/2026"
+                },
+                {
+                    "Monto Abonado": 280000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Amelia"
@@ -18765,7 +18779,7 @@
             "Fecha de Calculo": "08/11/2025",
             "Fecha 1": "22/11/2025",
             "Fecha 2": "29/11/2025",
-            "Debe": 0,
+            "Debe": 100,
             "Cuota": 100000,
             "Cuotas Pagadas": 15.0,
             "Cuotas Totales": 36,
@@ -18865,7 +18879,7 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 0,
+            "Debe": 330,
             "Cuota": 330000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 6,
@@ -18903,12 +18917,12 @@
             "Fecha de Calculo": "14/01/2026",
             "Fecha 1": "28/02/2026",
             "Fecha 2": "13/03/2026",
-            "Debe": 0,
+            "Debe": 300,
             "Cuota": 300000,
             "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 3,
             "Fecha de Vencimiento": "28/02/2026",
-            "Estado": " ",
+            "Estado": "Vencio",
             "Total": 600000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
@@ -19004,10 +19018,10 @@
             "Deuda": 500000,
             "Interes": 100000,
             "Fecha de Retiro": "30/01/2026",
-            "Fecha de Calculo": "30/01/2026",
+            "Fecha de Calculo": "29/01/2026",
             "Fecha 1": "28/02/2026",
             "Fecha 2": "13/03/2026",
-            "Debe": 0,
+            "Debe": 300,
             "Cuota": 300000,
             "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 2,
@@ -19309,27 +19323,6 @@
             "Cobrador": "Felix"
         },
         {
-            "Nombre": "Mirna Gauto. 1.100.000",
-            "C.I.": 5580864,
-            "Metodo de Pago": "Quincenal",
-            "Deuda": 1000000,
-            "Interes": 100000,
-            "Fecha de Retiro": "13/02/2026",
-            "Fecha de Calculo": "11/02/2026",
-            "Fecha 1": "26/02/2026",
-            "Fecha 2": "11/03/2026",
-            "Debe": 1100,
-            "Cuota": 1100000,
-            "Cuotas Pagadas": 0.0,
-            "Cuotas Totales": 1,
-            "Fecha de Vencimiento": "26/02/2026",
-            "Estado": "Vencio",
-            "Total": 0,
-            "Interes por atraso": 0,
-            "Pagos Abonados": [],
-            "Cobrador": "Felix"
-        },
-        {
             "Nombre": "Mirna Gauto. 140.000*10. Lu",
             "C.I.": 5580864,
             "Metodo de Pago": "Lunes",
@@ -19444,12 +19437,12 @@
             "Fecha de Calculo": "20/12/2025",
             "Fecha 1": "27/12/2025",
             "Fecha 2": "03/01/2026",
-            "Debe": 0,
+            "Debe": 220,
             "Cuota": 220000,
             "Cuotas Pagadas": 5.0,
             "Cuotas Totales": 6,
             "Fecha de Vencimiento": "28/02/2026",
-            "Estado": " ",
+            "Estado": "Vencio",
             "Total": 1100000,
             "Interes por atraso": 4,
             "Pagos Abonados": [
@@ -19549,7 +19542,7 @@
             "Fecha de Calculo": "13/02/2026",
             "Fecha 1": "28/02/2026",
             "Fecha 2": "13/03/2026",
-            "Debe": 0,
+            "Debe": 560,
             "Cuota": 560000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 5,
@@ -19602,11 +19595,11 @@
             "Fecha 2": "19/01/2026",
             "Debe": 270,
             "Cuota": 30000,
-            "Cuotas Pagadas": 26.0,
+            "Cuotas Pagadas": 27.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "10/03/2026",
             "Estado": " ",
-            "Total": 780000,
+            "Total": 810000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -19712,6 +19705,10 @@
                 {
                     "Monto Abonado": 30000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 30000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -19747,13 +19744,13 @@
             "Fecha de Calculo": "13/01/2026",
             "Fecha 1": "14/01/2026",
             "Fecha 2": "15/01/2026",
-            "Debe": 1410,
+            "Debe": 1470,
             "Cuota": 105000,
-            "Cuotas Pagadas": 25.5,
+            "Cuotas Pagadas": 26.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "05/03/2026",
             "Estado": " ",
-            "Total": 2685000,
+            "Total": 2730000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -19863,6 +19860,10 @@
                 {
                     "Monto Abonado": 80000,
                     "Fecha de Pago": "25/02/2026"
+                },
+                {
+                    "Monto Abonado": 45000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -19988,7 +19989,7 @@
             "Fecha de Calculo": "17/01/2026",
             "Fecha 1": "22/01/2026",
             "Fecha 2": "29/01/2026",
-            "Debe": 0,
+            "Debe": 350,
             "Cuota": 350000,
             "Cuotas Pagadas": 5.0,
             "Cuotas Totales": 10,
@@ -20287,12 +20288,12 @@
             "Fecha de Calculo": "17/01/2026",
             "Fecha 1": "23/01/2026",
             "Fecha 2": "30/01/2026",
-            "Debe": 0,
+            "Debe": 220,
             "Cuota": 220000,
             "Cuotas Pagadas": 5.0,
             "Cuotas Totales": 6,
             "Fecha de Vencimiento": "28/02/2026",
-            "Estado": " ",
+            "Estado": "Vencio",
             "Total": 1100000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
@@ -20329,7 +20330,7 @@
             "Fecha de Calculo": "03/01/2026",
             "Fecha 1": "10/01/2026",
             "Fecha 2": "17/01/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 7.0,
             "Cuotas Totales": 10,
@@ -20379,15 +20380,20 @@
             "Fecha de Calculo": "20/02/2026",
             "Fecha 1": "27/02/2026",
             "Fecha 2": "06/03/2026",
-            "Debe": 220,
+            "Debe": 0,
             "Cuota": 220000,
-            "Cuotas Pagadas": 0.0,
+            "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 6,
             "Fecha de Vencimiento": "03/04/2026",
             "Estado": " ",
-            "Total": 0,
+            "Total": 220000,
             "Interes por atraso": 0,
-            "Pagos Abonados": [],
+            "Pagos Abonados": [
+                {
+                    "Monto Abonado": 220000,
+                    "Fecha de Pago": "27/02/2026"
+                }
+            ],
             "Cobrador": "Saul"
         },
         {
@@ -20402,11 +20408,11 @@
             "Fecha 2": "09/02/2026",
             "Debe": 25,
             "Cuota": 25000,
-            "Cuotas Pagadas": 16.0,
+            "Cuotas Pagadas": 17.0,
             "Cuotas Totales": 24,
             "Fecha de Vencimiento": "07/03/2026",
             "Estado": " ",
-            "Total": 400000,
+            "Total": 425000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -20472,6 +20478,10 @@
                 {
                     "Monto Abonado": 25000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 25000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -20488,11 +20498,11 @@
             "Fecha 2": "16/02/2026",
             "Debe": 50,
             "Cuota": 50000,
-            "Cuotas Pagadas": 10.0,
+            "Cuotas Pagadas": 11.0,
             "Cuotas Totales": 24,
             "Fecha de Vencimiento": "14/03/2026",
             "Estado": " ",
-            "Total": 500000,
+            "Total": 550000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -20534,6 +20544,10 @@
                 {
                     "Monto Abonado": 50000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 50000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -20742,7 +20756,7 @@
             "Fecha de Calculo": "27/12/2025",
             "Fecha 1": "03/01/2026",
             "Fecha 2": "10/01/2026",
-            "Debe": 0,
+            "Debe": 100,
             "Cuota": 100000,
             "Cuotas Pagadas": 8.0,
             "Cuotas Totales": 16,
@@ -20796,7 +20810,7 @@
             "Fecha de Calculo": "15/11/2025",
             "Fecha 1": "22/11/2025",
             "Fecha 2": "29/11/2025",
-            "Debe": 0,
+            "Debe": 100,
             "Cuota": 100000,
             "Cuotas Pagadas": 14.0,
             "Cuotas Totales": 19,
@@ -20916,12 +20930,12 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 0,
+            "Debe": 300,
             "Cuota": 300000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 4,
             "Fecha de Vencimiento": "28/02/2026",
-            "Estado": " ",
+            "Estado": "Vencio",
             "Total": 900000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
@@ -20950,7 +20964,7 @@
             "Fecha de Calculo": "13/12/2025",
             "Fecha 1": "20/12/2025",
             "Fecha 2": "27/12/2025",
-            "Debe": 0,
+            "Debe": 100,
             "Cuota": 100000,
             "Cuotas Pagadas": 10.0,
             "Cuotas Totales": 22,
@@ -21012,7 +21026,7 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "21/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 20,
+            "Debe": 240,
             "Cuota": 220000,
             "Cuotas Pagadas": 0.9,
             "Cuotas Totales": 6,
@@ -21076,7 +21090,7 @@
             "Fecha de Calculo": "14/01/2026",
             "Fecha 1": "28/02/2026",
             "Fecha 2": "13/03/2026",
-            "Debe": 0,
+            "Debe": 385,
             "Cuota": 385000,
             "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 4,
@@ -21396,7 +21410,7 @@
             "Fecha de Calculo": "24/01/2026",
             "Fecha 1": "31/01/2026",
             "Fecha 2": "06/02/2026",
-            "Debe": 200,
+            "Debe": 400,
             "Cuota": 200000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 7,
@@ -21477,7 +21491,7 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 330,
+            "Debe": 440,
             "Cuota": 110000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 6,
@@ -21498,7 +21512,7 @@
             "Fecha de Calculo": "21/02/2026",
             "Fecha 1": "28/02/2026",
             "Fecha 2": "07/03/2026",
-            "Debe": 0,
+            "Debe": 175,
             "Cuota": 175000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 6,
@@ -21618,7 +21632,7 @@
             "Fecha de Calculo": "21/02/2026",
             "Fecha 1": "28/02/2026",
             "Fecha 2": "07/03/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 10,
@@ -22047,7 +22061,7 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "21/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 210,
+            "Debe": 420,
             "Cuota": 210000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 10,
@@ -22089,7 +22103,7 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 0,
+            "Debe": 330,
             "Cuota": 330000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 6,
@@ -22296,7 +22310,7 @@
             "Fecha de Calculo": "29/01/2026",
             "Fecha 1": "14/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 220,
+            "Debe": 440,
             "Cuota": 220000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 3,
@@ -22412,11 +22426,11 @@
             "Fecha 2": "08/02/2026",
             "Debe": 0,
             "Cuota": 15000,
-            "Cuotas Pagadas": 18.0,
+            "Cuotas Pagadas": 19.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "30/03/2026",
             "Estado": " ",
-            "Total": 270000,
+            "Total": 285000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -22486,29 +22500,38 @@
                 {
                     "Monto Abonado": 15000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 15000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
         },
         {
-            "Nombre": "Rosalba Ojeda. 140.000*10. Vi",
+            "Nombre": "Rosalba Ojeda. 220.000*6. Vi",
             "C.I.": 4200722,
             "Metodo de Pago": "Viernes",
             "Deuda": 1000000,
-            "Interes": 400000,
+            "Interes": 320000,
             "Fecha de Retiro": "21/02/2026",
             "Fecha de Calculo": "20/02/2026",
             "Fecha 1": "27/02/2026",
             "Fecha 2": "06/03/2026",
-            "Debe": 140,
-            "Cuota": 140000,
-            "Cuotas Pagadas": 0.0,
-            "Cuotas Totales": 10,
-            "Fecha de Vencimiento": "01/05/2026",
+            "Debe": 0,
+            "Cuota": 220000,
+            "Cuotas Pagadas": 1.0,
+            "Cuotas Totales": 6,
+            "Fecha de Vencimiento": "03/04/2026",
             "Estado": " ",
-            "Total": 0,
+            "Total": 220000,
             "Interes por atraso": 0,
-            "Pagos Abonados": [],
+            "Pagos Abonados": [
+                {
+                    "Monto Abonado": 220000,
+                    "Fecha de Pago": "27/02/2026"
+                }
+            ],
             "Cobrador": "Saul"
         },
         {
@@ -22908,11 +22931,11 @@
             "Fecha 2": "13/02/2026",
             "Debe": 400,
             "Cuota": 400000,
-            "Cuotas Pagadas": 13.0,
+            "Cuotas Pagadas": 14.0,
             "Cuotas Totales": 30,
             "Fecha de Vencimiento": "18/03/2026",
             "Estado": " ",
-            "Total": 5200000,
+            "Total": 5600000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -22966,6 +22989,10 @@
                 {
                     "Monto Abonado": 400000,
                     "Fecha de Pago": "26/02/2026"
+                },
+                {
+                    "Monto Abonado": 400000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -23001,7 +23028,7 @@
             "Fecha de Calculo": "10/01/2026",
             "Fecha 1": "17/01/2026",
             "Fecha 2": "24/01/2026",
-            "Debe": 285,
+            "Debe": 585,
             "Cuota": 300000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 7,
@@ -23035,7 +23062,7 @@
             "Fecha de Calculo": "06/09/2025",
             "Fecha 1": "13/09/2025",
             "Fecha 2": "20/09/2025",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 4.0,
             "Cuotas Totales": 10,
@@ -23073,7 +23100,7 @@
             "Fecha de Calculo": "20/09/2025",
             "Fecha 1": "27/09/2025",
             "Fecha 2": "04/10/2025",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 2.0,
             "Cuotas Totales": 10,
@@ -23124,7 +23151,7 @@
             "Fecha de Calculo": "07/06/2025",
             "Fecha 1": "14/06/2025",
             "Fecha 2": "21/06/2025",
-            "Debe": 0,
+            "Debe": 180,
             "Cuota": 180000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 4,
@@ -23464,7 +23491,7 @@
             "Fecha de Calculo": "10/01/2026",
             "Fecha 1": "17/01/2026",
             "Fecha 2": "24/01/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 6.0,
             "Cuotas Totales": 10,
@@ -23544,13 +23571,13 @@
             "Fecha de Calculo": "30/01/2026",
             "Fecha 1": "06/02/2026",
             "Fecha 2": "13/02/2026",
-            "Debe": 180,
+            "Debe": 140,
             "Cuota": 140000,
-            "Cuotas Pagadas": 2.7,
+            "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "10/04/2026",
             "Estado": " ",
-            "Total": 380000,
+            "Total": 420000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -23564,6 +23591,10 @@
                 {
                     "Monto Abonado": 100000,
                     "Fecha de Pago": "25/02/2026"
+                },
+                {
+                    "Monto Abonado": 40000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -23578,7 +23609,7 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "21/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 0,
+            "Debe": 110,
             "Cuota": 110000,
             "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 6,
@@ -24121,7 +24152,7 @@
             "Fecha de Calculo": "28/06/2025",
             "Fecha 1": "05/07/2025",
             "Fecha 2": "12/07/2025",
-            "Debe": 110,
+            "Debe": 220,
             "Cuota": 110000,
             "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 6,
@@ -24147,7 +24178,7 @@
             "Fecha de Calculo": "07/06/2025",
             "Fecha 1": "14/06/2025",
             "Fecha 2": "21/06/2025",
-            "Debe": 280,
+            "Debe": 420,
             "Cuota": 140000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 10,
@@ -24207,7 +24238,7 @@
             "Fecha de Calculo": "09/08/2025",
             "Fecha 1": "16/08/2025",
             "Fecha 2": "23/08/2025",
-            "Debe": 280,
+            "Debe": 420,
             "Cuota": 140000,
             "Cuotas Pagadas": 4.0,
             "Cuotas Totales": 10,
@@ -24270,6 +24301,27 @@
             "Cobrador": "Saul"
         },
         {
+            "Nombre": "Taiane Dos Santos. 240.000. Vi",
+            "C.I.": 12844335,
+            "Metodo de Pago": "Viernes",
+            "Deuda": 200000,
+            "Interes": 40000,
+            "Fecha de Retiro": "27/02/2026",
+            "Fecha de Calculo": "20/03/2026",
+            "Fecha 1": "27/03/2026",
+            "Fecha 2": "03/04/2026",
+            "Debe": -480,
+            "Cuota": 240000,
+            "Cuotas Pagadas": 0.0,
+            "Cuotas Totales": 1,
+            "Fecha de Vencimiento": "27/03/2026",
+            "Estado": " ",
+            "Total": 0,
+            "Interes por atraso": 0,
+            "Pagos Abonados": [],
+            "Cobrador": "Saul"
+        },
+        {
             "Nombre": "Teresa de Fernandez. 120.000*33",
             "C.I.": 3638500,
             "Metodo de Pago": "Diario",
@@ -24279,7 +24331,7 @@
             "Fecha de Calculo": "02/02/2026",
             "Fecha 1": "03/02/2026",
             "Fecha 2": "04/02/2026",
-            "Debe": 240,
+            "Debe": 360,
             "Cuota": 120000,
             "Cuotas Pagadas": 19.0,
             "Cuotas Totales": 33,
@@ -24362,13 +24414,13 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "15/02/2026",
             "Fecha 2": "16/02/2026",
-            "Debe": 60,
+            "Debe": 30,
             "Cuota": 30000,
-            "Cuotas Pagadas": 9.0,
+            "Cuotas Pagadas": 11.0,
             "Cuotas Totales": 44,
             "Fecha de Vencimiento": "07/04/2026",
             "Estado": " ",
-            "Total": 270000,
+            "Total": 330000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
                 {
@@ -24402,6 +24454,10 @@
                 {
                     "Monto Abonado": 30000,
                     "Fecha de Pago": "25/02/2026"
+                },
+                {
+                    "Monto Abonado": 60000,
+                    "Fecha de Pago": "27/02/2026"
                 }
             ],
             "Cobrador": "Saul"
@@ -24780,7 +24836,7 @@
             "Fecha de Calculo": "31/01/2026",
             "Fecha 1": "07/02/2026",
             "Fecha 2": "14/02/2026",
-            "Debe": 0,
+            "Debe": 220,
             "Cuota": 220000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 6,
@@ -24848,12 +24904,12 @@
             "Fecha de Calculo": "17/01/2026",
             "Fecha 1": "24/01/2026",
             "Fecha 2": "31/01/2026",
-            "Debe": 0,
+            "Debe": 220,
             "Cuota": 220000,
             "Cuotas Pagadas": 5.0,
             "Cuotas Totales": 6,
             "Fecha de Vencimiento": "28/02/2026",
-            "Estado": " ",
+            "Estado": "Vencio",
             "Total": 1100000,
             "Interes por atraso": 0,
             "Pagos Abonados": [
@@ -24890,7 +24946,7 @@
             "Fecha de Calculo": "14/02/2026",
             "Fecha 1": "21/02/2026",
             "Fecha 2": "28/02/2026",
-            "Debe": 120,
+            "Debe": 240,
             "Cuota": 120000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 4,
@@ -25208,7 +25264,7 @@
             "Fecha de Calculo": "17/01/2026",
             "Fecha 1": "24/01/2026",
             "Fecha 2": "31/01/2026",
-            "Debe": 0,
+            "Debe": 280,
             "Cuota": 280000,
             "Cuotas Pagadas": 5.0,
             "Cuotas Totales": 10,
@@ -25384,6 +25440,27 @@
             "Cobrador": "Amelia"
         },
         {
+            "Nombre": "Viviana Ortiz. 140.000*10. Vi",
+            "C.I.": 4242059,
+            "Metodo de Pago": "Viernes",
+            "Deuda": 1000000,
+            "Interes": 400000,
+            "Fecha de Retiro": "27/02/2026",
+            "Fecha de Calculo": "27/02/2026",
+            "Fecha 1": "06/03/2026",
+            "Fecha 2": "13/03/2026",
+            "Debe": 0,
+            "Cuota": 140000,
+            "Cuotas Pagadas": 0.0,
+            "Cuotas Totales": 10,
+            "Fecha de Vencimiento": "08/05/2026",
+            "Estado": " ",
+            "Total": 0,
+            "Interes por atraso": 0,
+            "Pagos Abonados": [],
+            "Cobrador": "Amelia"
+        },
+        {
             "Nombre": "Walter Abel Oviedo. 990.000*2",
             "C.I.": 7803645,
             "Metodo de Pago": "Quincenal",
@@ -25419,7 +25496,7 @@
             "Fecha de Calculo": "25/03/2024",
             "Fecha 1": "01/03/2026",
             "Fecha 2": "16/03/2026",
-            "Debe": 0,
+            "Debe": 280,
             "Cuota": 280000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 5,
@@ -25453,7 +25530,7 @@
             "Fecha de Calculo": "25/03/2024",
             "Fecha 1": "01/03/2026",
             "Fecha 2": "16/03/2026",
-            "Debe": 0,
+            "Debe": 280,
             "Cuota": 280000,
             "Cuotas Pagadas": 0.0,
             "Cuotas Totales": 5,
@@ -25673,15 +25750,20 @@
             "Fecha de Calculo": "20/02/2026",
             "Fecha 1": "27/02/2026",
             "Fecha 2": "06/03/2026",
-            "Debe": 210,
+            "Debe": 0,
             "Cuota": 210000,
-            "Cuotas Pagadas": 0.0,
+            "Cuotas Pagadas": 1.0,
             "Cuotas Totales": 10,
             "Fecha de Vencimiento": "01/05/2026",
             "Estado": " ",
-            "Total": 0,
+            "Total": 210000,
             "Interes por atraso": 0,
-            "Pagos Abonados": [],
+            "Pagos Abonados": [
+                {
+                    "Monto Abonado": 210000,
+                    "Fecha de Pago": "27/02/2026"
+                }
+            ],
             "Cobrador": "Saul"
         },
         {
@@ -25799,7 +25881,7 @@
             "Fecha de Calculo": "03/01/2026",
             "Fecha 1": "10/01/2026",
             "Fecha 2": "17/01/2026",
-            "Debe": 0,
+            "Debe": 140,
             "Cuota": 140000,
             "Cuotas Pagadas": 7.0,
             "Cuotas Totales": 10,
