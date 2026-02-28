@@ -40,6 +40,11 @@
       "Transferencia": true,
       "TCuota": 63000,
       "TInteres": 6000
+    },
+    "Lucas Ariel Gonzalez. 560.000*10. Sa": {
+      "NoTCuota": 65000,
+      "NoTInteres": 0,
+      "Transferencia": false
     }
   }
 }
