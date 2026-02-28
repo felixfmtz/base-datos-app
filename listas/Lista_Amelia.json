@@ -1,47 +1,7 @@
 {
-  "fecha_creacion": "27/02/2026",
+  "fecha_creacion": "28/02/2026",
   "Pagos": {
-    "Catalina Santacruz. 45.000*44. C1": {
-      "NoTCuota": 110000,
-      "NoTInteres": 56000,
-      "Transferencia": false,
-      "sigpago": "27/02/2026"
-    },
-    "Cynthia Carolina Baez. 15.000*44": {
-      "NoTCuota": 0,
-      "NoTInteres": 56000,
-      "Transferencia": false
-    },
-    "Cynthia Carolina Baez. 15.000*44. C4": {
-      "TCuota": 55000,
-      "TInteres": 0,
-      "Transferencia": true
-    },
-    "Delfina Britez. 120.000*44": {
-      "Transferencia": true,
-      "TCuota": 63000,
-      "TInteres": 0
-    },
-    "Delfina Britez. 90.000*44": {
-      "Transferencia": true,
-      "TCuota": 65000,
-      "TInteres": 56000
-    },
-    "Graciela Vargas. 30.000*44": {
-      "NoTCuota": 0,
-      "NoTInteres": 0,
-      "sigpago": "26/03/2026",
-      "Transferencia": false
-    },
-    "Graciela Cardozo. 200.000*23": {
-      "NoTCuota": 63000,
-      "NoTInteres": 65000,
-      "sigpago": "21/02/2026",
-      "Transferencia": true,
-      "TCuota": 63000,
-      "TInteres": 6000
-    },
-    "Lucas Ariel Gonzalez. 560.000*10. Sa": {
+    "Lido Maciel. Celular. 100.000*19. Sa": {
       "NoTCuota": 65000,
       "NoTInteres": 0,
       "Transferencia": false
