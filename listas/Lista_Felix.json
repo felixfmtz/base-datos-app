@@ -22,6 +22,11 @@
       "NoTInteres": 96000,
       "sigpago": "28/03/2026",
       "Transferencia": false
+    },
+    "Elsa Cañete. 60.000*44. C2": {
+      "NoTCuota": 0,
+      "NoTInteres": 65000,
+      "Transferencia": false
     }
   }
 }
