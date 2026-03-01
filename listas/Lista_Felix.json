@@ -1,52 +1,8 @@
 {
-  "fecha_creacion": "28/02/2026",
+  "fecha_creacion": "01/03/2026",
   "Pagos": {
-    "Jessica Davalos. 220.000*6. Lu": {
-      "NoTCuota": 0,
-      "NoTInteres": 0,
-      "sigpago": "21/03/2026",
-      "Transferencia": false
-    },
-    "Cristobal Muños. 1.100.000": {
-      "TCuota": 63000,
-      "TInteres": 0,
-      "sigpago": "20/03/2026",
-      "Transferencia": true
-    },
-    "Fabiola Cañete. 1.100.000. C1": {
-      "Error": "Cuenta"
-    },
-    "Fabiola Cañete. 1.100.000. C2": {
-      "Error": "nuevo otr"
-    },
-    "Fabiola Cañete. 3.300.000": {
-      "Error": "Cuenta"
-    },
     "Elsa Cañete. 60.000*44": {
-      "Error": "SADSADSA"
-    },
-    "Elsa Cañete. 60.000*44. C3": {
-      "NoTCuota": 135850,
-      "NoTInteres": 58630,
-      "Transferencia": false
-    },
-    "Elsa Cañete. 60.000*44. C2": {
-      "TCuota": 4453000,
-      "TInteres": 4545000,
-      "Transferencia": true
-    },
-    "Alfredo Castillo. 55.000*60": {
-      "NoTCuota": 55000,
-      "NoTInteres": 0,
-      "Transferencia": false
-    },
-    "Marlene Benitez. 210.000*10. Sa": {
-      "NoTCuota": 40000,
-      "NoTInteres": 0,
-      "Transferencia": false
-    },
-    "Adelina Barreto. Ventilador. 100.000*9. Ma": {
-      "NoTCuota": 100000,
+      "NoTCuota": 60000,
       "NoTInteres": 0,
       "Transferencia": false
     }
