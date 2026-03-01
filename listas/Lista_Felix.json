@@ -5,6 +5,11 @@
       "NoTCuota": 60000,
       "NoTInteres": 0,
       "Transferencia": false
+    },
+    "Fabiola Cañete. Cheque. 1.100.000": {
+      "NoTCuota": 0,
+      "NoTInteres": 60000,
+      "Transferencia": false
     }
   }
 }
