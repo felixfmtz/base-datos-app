@@ -16,6 +16,12 @@
       "NoTInteres": 0,
       "sigpago": "28/03/2026",
       "Transferencia": false
+    },
+    "Alfredo Castillo. 55.000*60": {
+      "NoTCuota": 35000,
+      "NoTInteres": 96000,
+      "sigpago": "28/03/2026",
+      "Transferencia": false
     }
   }
 }
