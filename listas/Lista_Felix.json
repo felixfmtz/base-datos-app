@@ -32,6 +32,11 @@
       "NoTCuota": 15000,
       "NoTInteres": 10000,
       "Transferencia": false
+    },
+    "Elsa Cañete. 60.000*44. C3": {
+      "NoTCuota": 1000,
+      "NoTInteres": 5000,
+      "Transferencia": false
     }
   }
 }
