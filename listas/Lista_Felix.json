@@ -5,6 +5,11 @@
       "NoTCuota": 5060000,
       "NoTInteres": 0,
       "Transferencia": false
+    },
+    "Elsa Cañete. 60.000*44": {
+      "TCuota": 50000,
+      "TInteres": 0,
+      "Transferencia": true
     }
   }
 }
