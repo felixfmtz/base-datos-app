@@ -47,6 +47,11 @@
       "NoTCuota": 1000,
       "NoTInteres": 55000,
       "Transferencia": false
+    },
+    "Aldo Alfonzo. 420.000*10. Lu": {
+      "NoTCuota": 20000,
+      "NoTInteres": 0,
+      "Transferencia": false
     }
   }
 }
