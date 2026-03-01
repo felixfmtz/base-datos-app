@@ -10,6 +10,12 @@
       "NoTCuota": 0,
       "NoTInteres": 60000,
       "Transferencia": false
+    },
+    "Angel Retamozo. 690.000": {
+      "NoTCuota": 0,
+      "NoTInteres": 0,
+      "sigpago": "28/03/2026",
+      "Transferencia": false
     }
   }
 }
