@@ -27,6 +27,11 @@
       "NoTCuota": 0,
       "NoTInteres": 65000,
       "Transferencia": false
+    },
+    "Abelino Peralta. 600.000": {
+      "NoTCuota": 15000,
+      "NoTInteres": 10000,
+      "Transferencia": false
     }
   }
 }
