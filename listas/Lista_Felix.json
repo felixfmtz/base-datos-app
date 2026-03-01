@@ -1,55 +1,8 @@
 {
   "fecha_creacion": "01/03/2026",
   "Pagos": {
-    "Elsa Cañete. 60.000*44": {
-      "NoTCuota": 125000,
-      "NoTInteres": 0,
-      "Transferencia": false
-    },
-    "Fabiola Cañete. Cheque. 1.100.000": {
-      "NoTCuota": 0,
-      "NoTInteres": 60000,
-      "Transferencia": false
-    },
-    "Angel Retamozo. 690.000": {
-      "NoTCuota": 0,
-      "NoTInteres": 0,
-      "sigpago": "28/03/2026",
-      "Transferencia": false
-    },
-    "Alfredo Castillo. 55.000*60": {
-      "NoTCuota": 35000,
-      "NoTInteres": 96000,
-      "sigpago": "28/03/2026",
-      "Transferencia": false
-    },
-    "Elsa Cañete. 60.000*44. C2": {
-      "NoTCuota": 0,
-      "NoTInteres": 65000,
-      "Transferencia": false
-    },
-    "Abelino Peralta. 600.000": {
-      "NoTCuota": 15000,
-      "NoTInteres": 10000,
-      "Transferencia": false
-    },
     "Elsa Cañete. 60.000*44. C3": {
-      "NoTCuota": 1000,
-      "NoTInteres": 5000,
-      "Transferencia": false
-    },
-    "Adela Cristaldo. 700.000*10. Lu": {
-      "NoTCuota": 86000,
-      "NoTInteres": 0,
-      "Transferencia": false
-    },
-    "Lucas Ariel Gonzalez. 560.000*10. Sa": {
-      "NoTCuota": 1000,
-      "NoTInteres": 55000,
-      "Transferencia": false
-    },
-    "Aldo Alfonzo. 420.000*10. Lu": {
-      "NoTCuota": 20000,
+      "NoTCuota": 60000,
       "NoTInteres": 0,
       "Transferencia": false
     }
