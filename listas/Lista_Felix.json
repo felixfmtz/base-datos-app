@@ -37,6 +37,11 @@
       "NoTCuota": 1000,
       "NoTInteres": 5000,
       "Transferencia": false
+    },
+    "Adela Cristaldo. 700.000*10. Lu": {
+      "NoTCuota": 20000,
+      "NoTInteres": 0,
+      "Transferencia": false
     }
   }
 }
