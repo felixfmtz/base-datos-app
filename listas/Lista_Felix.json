@@ -1,20 +1,14 @@
 {
-  "fecha_creacion": "01/03/2026",
+  "fecha_creacion": "02/03/2026",
   "Pagos": {
-    "Elsa Cañete. 60.000*44. C3": {
-      "NoTCuota": 5060000,
+    "Alfredo Castillo. 55.000*60": {
+      "NoTCuota": 55000,
       "NoTInteres": 0,
       "Transferencia": false
     },
     "Elsa Cañete. 60.000*44": {
-      "TCuota": 50000,
-      "TInteres": 0,
-      "Transferencia": true
-    },
-    "Alfredo Castillo. 55.000*60": {
-      "NoTCuota": 0,
+      "NoTCuota": 55000,
       "NoTInteres": 0,
-      "sigpago": "28/03/2026",
       "Transferencia": false
     }
   }
