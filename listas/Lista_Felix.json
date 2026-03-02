@@ -5,6 +5,11 @@
       "NoTCuota": 600000,
       "NoTInteres": 1400000,
       "Transferencia": false
+    },
+    "Derlis Pintos. 330.000": {
+      "NoTCuota": 330000,
+      "NoTInteres": 0,
+      "Transferencia": false
     }
   }
 }
