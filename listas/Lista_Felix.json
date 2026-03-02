@@ -91,6 +91,11 @@
       "NoTCuota": 110000,
       "NoTInteres": 0,
       "Transferencia": false
+    },
+    "Fabiola Lopez. Aire. 150.000*34. Sa": {
+      "TCuota": 150000,
+      "TInteres": 0,
+      "Transferencia": true
     }
   }
 }
