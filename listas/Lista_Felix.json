@@ -25,6 +25,11 @@
       "NoTCuota": 2360000,
       "NoTInteres": 0,
       "Transferencia": false
+    },
+    "Ezequiel Gimenez. 600.000*2": {
+      "NoTCuota": 0,
+      "NoTInteres": 100000,
+      "Transferencia": false
     }
   }
 }
