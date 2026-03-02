@@ -101,6 +101,12 @@
       "NoTCuota": 1400000,
       "NoTInteres": 0,
       "Transferencia": false
+    },
+    "Matias Gamarra. 550.000": {
+      "NoTCuota": 0,
+      "NoTInteres": 0,
+      "sigpago": "08/03/2026",
+      "Transferencia": false
     }
   }
 }
