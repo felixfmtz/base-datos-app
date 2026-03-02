@@ -40,6 +40,11 @@
       "NoTCuota": 100000,
       "NoTInteres": 0,
       "Transferencia": false
+    },
+    "Edgar Fleitas. 140.000*10. Lu": {
+      "NoTCuota": 140000,
+      "NoTInteres": 0,
+      "Transferencia": false
     }
   }
 }
