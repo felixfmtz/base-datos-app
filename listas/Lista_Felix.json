@@ -107,6 +107,11 @@
       "NoTInteres": 0,
       "sigpago": "08/03/2026",
       "Transferencia": false
+    },
+    "Bienvenido Martinez. 875.000*4": {
+      "NoTCuota": 1500000,
+      "NoTInteres": 0,
+      "Transferencia": false
     }
   }
 }
