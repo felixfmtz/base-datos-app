@@ -20,6 +20,11 @@
       "TCuota": 480000,
       "TInteres": 0,
       "Transferencia": true
+    },
+    "Raul Obregon. 880.000*6. Mi": {
+      "NoTCuota": 2360000,
+      "NoTInteres": 0,
+      "Transferencia": false
     }
   }
 }
