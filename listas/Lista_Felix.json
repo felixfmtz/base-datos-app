@@ -15,6 +15,11 @@
       "NoTCuota": 220000,
       "NoTInteres": 50000,
       "Transferencia": false
+    },
+    "Victor Gimenez. 120.000*4. Sa": {
+      "TCuota": 480000,
+      "TInteres": 0,
+      "Transferencia": true
     }
   }
 }
