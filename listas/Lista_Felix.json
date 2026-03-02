@@ -81,6 +81,11 @@
       "NoTCuota": 840000,
       "NoTInteres": 0,
       "Transferencia": false
+    },
+    "Valdecir de Oliveira. 100.000*17. Ma": {
+      "TCuota": 100000,
+      "TInteres": 0,
+      "Transferencia": true
     }
   }
 }
