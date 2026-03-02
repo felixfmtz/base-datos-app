@@ -10,6 +10,11 @@
       "NoTCuota": 330000,
       "NoTInteres": 0,
       "Transferencia": false
+    },
+    "Roque Martinez. 220.000*3": {
+      "NoTCuota": 220000,
+      "NoTInteres": 50000,
+      "Transferencia": false
     }
   }
 }
