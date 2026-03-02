@@ -61,6 +61,11 @@
       "NoTInteres": 0,
       "sigpago": "06/03/2026",
       "Transferencia": false
+    },
+    "Marlene Benitez. 210.000*10. Sa": {
+      "TCuota": 0,
+      "TInteres": 60000,
+      "Transferencia": true
     }
   }
 }
