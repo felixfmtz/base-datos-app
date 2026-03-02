@@ -76,6 +76,11 @@
       "NoTCuota": 3000000,
       "NoTInteres": 0,
       "Transferencia": false
+    },
+    "Digna Lopez. Hijo. 420.000*2": {
+      "NoTCuota": 840000,
+      "NoTInteres": 0,
+      "Transferencia": false
     }
   }
 }
