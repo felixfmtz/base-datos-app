@@ -55,6 +55,12 @@
       "TCuota": 220000,
       "TInteres": 0,
       "Transferencia": true
+    },
+    "Ruben Dario Gonzalez. 300.000*7. Sa": {
+      "NoTCuota": 0,
+      "NoTInteres": 0,
+      "sigpago": "06/03/2026",
+      "Transferencia": false
     }
   }
 }
