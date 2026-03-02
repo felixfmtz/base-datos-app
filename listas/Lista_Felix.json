@@ -25,6 +25,11 @@
       "NoTCuota": 55000,
       "NoTInteres": 0,
       "Transferencia": false
+    },
+    "Angel Retamozo. 690.000": {
+      "TCuota": 25000,
+      "TInteres": 10000,
+      "Transferencia": true
     }
   }
 }
