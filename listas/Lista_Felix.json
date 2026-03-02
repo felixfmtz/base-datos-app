@@ -45,6 +45,11 @@
       "NoTCuota": 140000,
       "NoTInteres": 0,
       "Transferencia": false
+    },
+    "Edgar Jara. 220.000*6. Lu": {
+      "TCuota": 220000,
+      "TInteres": 0,
+      "Transferencia": true
     }
   }
 }
