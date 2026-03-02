@@ -71,6 +71,11 @@
       "TCuota": 600000,
       "TInteres": 0,
       "Transferencia": true
+    },
+    "Denis de Oliveira. 990.000*8. Ma": {
+      "NoTCuota": 3000000,
+      "NoTInteres": 0,
+      "Transferencia": false
     }
   }
 }
