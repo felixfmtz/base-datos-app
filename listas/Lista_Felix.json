@@ -96,6 +96,11 @@
       "TCuota": 150000,
       "TInteres": 0,
       "Transferencia": true
+    },
+    "Nidia Teresita Duarte. 350.000*10. Sa": {
+      "NoTCuota": 1400000,
+      "NoTInteres": 0,
+      "Transferencia": false
     }
   }
 }
