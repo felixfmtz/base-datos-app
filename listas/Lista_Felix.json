@@ -66,6 +66,11 @@
       "TCuota": 0,
       "TInteres": 60000,
       "Transferencia": true
+    },
+    "Sixto Villalba. 600.000*2": {
+      "TCuota": 600000,
+      "TInteres": 0,
+      "Transferencia": true
     }
   }
 }
