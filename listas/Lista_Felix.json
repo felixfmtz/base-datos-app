@@ -30,6 +30,11 @@
       "TCuota": 25000,
       "TInteres": 10000,
       "Transferencia": true
+    },
+    "Karen Gonzalez. 420.000*5": {
+      "TCuota": 1000000,
+      "TInteres": 0,
+      "Transferencia": true
     }
   }
 }
