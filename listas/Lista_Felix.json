@@ -86,6 +86,11 @@
       "TCuota": 100000,
       "TInteres": 0,
       "Transferencia": true
+    },
+    "Rosalia Gonzalez. 110.000*6. Lu": {
+      "NoTCuota": 110000,
+      "NoTInteres": 0,
+      "Transferencia": false
     }
   }
 }
