@@ -1,40 +1,10 @@
 {
   "fecha_creacion": "02/03/2026",
   "Pagos": {
-    "Alfredo Castillo. 55.000*60": {
-      "NoTCuota": 55000,
-      "NoTInteres": 0,
+    "Saul Cobrador. 8.400.000": {
+      "NoTCuota": 600000,
+      "NoTInteres": 1400000,
       "Transferencia": false
-    },
-    "Elsa Cañete. 60.000*44": {
-      "NoTCuota": 55000,
-      "NoTInteres": 0,
-      "Transferencia": false
-    },
-    "Elsa Cañete. 60.000*44. C2": {
-      "NoTCuota": 55000,
-      "NoTInteres": 0,
-      "Transferencia": false
-    },
-    "Elsa Cañete. 60.000*44. C3": {
-      "NoTCuota": 55000,
-      "NoTInteres": 0,
-      "Transferencia": false
-    },
-    "Esteban Velazquez. 220.000*3": {
-      "NoTCuota": 55000,
-      "NoTInteres": 0,
-      "Transferencia": false
-    },
-    "Angel Retamozo. 690.000": {
-      "TCuota": 25000,
-      "TInteres": 10000,
-      "Transferencia": true
-    },
-    "Karen Gonzalez. 420.000*5": {
-      "TCuota": 1000000,
-      "TInteres": 0,
-      "Transferencia": true
     }
   }
 }
