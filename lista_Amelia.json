@@ -1,1 +1,102 @@
-{"fecha_ultimo_guardado":"08\/03\/2026","cuentas":[{"seccion":"Pedido","items":[{"nombreOriginal":"Lucia Portillo","dia":"Mi"}]}],"Pagos":{"Catalina Santacruz. 45.000*44. C1":{"NoTCuota":140000,"NoTInteres":0,"TCuota":0,"TInteres":6000},"Agustin Gimenez. 140.000*10. Ju":{"NoTCuota":10000,"NoTInteres":115000,"TCuota":11000,"TInteres":25000},"Cynthia Carolina Baez. 15.000*44. C2":{"NoTCuota":52000,"NoTInteres":0,"TCuota":0,"TInteres":0},"Delfina Britez. 120.000*44":{"NoTCuota":0,"NoTInteres":65000,"TCuota":0,"TInteres":0},"Delfina Britez. 150.000*44. C1":{"NoTCuota":0,"NoTInteres":65000,"TCuota":0,"TInteres":0},"Delfina Britez. 150.000*44. C2":{"NoTCuota":3000,"NoTInteres":0,"TCuota":0,"TInteres":0},"Alberta Zaya. 220.000*6. Sa":{"NoTCuota":0,"NoTInteres":0,"TCuota":0,"TInteres":0,"Error":"Error: casa"},"Delfina Britez. 90.000*44":{"NoTCuota":0,"NoTInteres":0,"TCuota":0,"TInteres":0,"Error":"Error: gsf"},"Adela Cristaldo. 700.000*10. Lu":{"NoTCuota":0,"NoTInteres":0,"TCuota":0,"TInteres":0,"Error":"hgg"},"Cynthia Carolina Baez. 15.000*44. C4":{"NoTCuota":0,"NoTInteres":0,"TCuota":0,"TInteres":0,"Error":"Cuenta","sigpago":"29\/03\/2026"},"Recordatorio 1. Celular. 0":{"NoTCuota":0,"NoTInteres":0,"TCuota":0,"TInteres":0,"sigpago":"Pagado"},"Recordatorio 2. Comisario":{"sigpago":"15\/03\/2026"}}}
+{
+    "fecha_ultimo_guardado": "08\/03\/2026",
+    "cuentas": [
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Lucia Portillo",
+                    "dia": "Mi"
+                }
+            ]
+        },
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Adriana Amarilla",
+                    "Deuda": "000",
+                    "NCuotas": "0",
+                    "Frecuencia": "Mensual"
+                }
+            ]
+        }
+    ],
+    "Pagos": {
+        "Catalina Santacruz. 45.000*44. C1": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 6000
+        },
+        "Agustin Gimenez. 140.000*10. Ju": {
+            "NoTCuota": 10000,
+            "NoTInteres": 115000,
+            "TCuota": 11000,
+            "TInteres": 25000
+        },
+        "Cynthia Carolina Baez. 15.000*44. C2": {
+            "NoTCuota": 52000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Delfina Britez. 120.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 65000,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Delfina Britez. 150.000*44. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 65000,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Delfina Britez. 150.000*44. C2": {
+            "NoTCuota": 3000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Alberta Zaya. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "Error: casa"
+        },
+        "Delfina Britez. 90.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "Error: gsf"
+        },
+        "Adela Cristaldo. 700.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "hgg"
+        },
+        "Cynthia Carolina Baez. 15.000*44. C4": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "Cuenta",
+            "sigpago": "29\/03\/2026"
+        },
+        "Recordatorio 1. Celular. 0": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "sigpago": "Pagado"
+        },
+        "Recordatorio 2. Comisario": {
+            "sigpago": "15\/03\/2026"
+        }
+    }
+}
