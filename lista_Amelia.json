@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "08\/03\/2026",
+    "fecha_ultimo_guardado": "08/03/2026",
     "cuentas": [],
     "Pagos": {
         "Catalina Santacruz. 45.000*44. C1": {
@@ -74,7 +74,7 @@
             "sigpago": "Pagado"
         },
         "Recordatorio 2. Comisario": {
-            "sigpago": "15\/03\/2026"
+            "sigpago": "15/03/2026"
         }
     }
 }
