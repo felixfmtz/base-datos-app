@@ -1,0 +1,18 @@
+{
+    "fecha_ultimo_guardado": "08\/03\/2026",
+    "cuentas": [],
+    "Pagos": {
+        "Catalina Santacruz. 45.000*44. C1": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Agustin Gimenez. 140.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 100000,
+            "TCuota": 0,
+            "TInteres": 0
+        }
+    }
+}
