@@ -47,6 +47,13 @@
                     "NCuotas": "3",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Adela Cristaldo",
+                    "Deuda": "500.000",
+                    "NCuotas": "",
+                    "Frecuencia": "",
+                    "Transferencia": "Si"
                 }
             ]
         }
