@@ -72,6 +72,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "sigpago": "Pagado"
+        },
+        "Recordatorio 2. Comisario": {
+            "sigpago": "15\/03\/2026"
         }
     }
 }
