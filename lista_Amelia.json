@@ -34,6 +34,12 @@
                     "Deuda": "1.000.000",
                     "NCuotas": "5",
                     "Frecuencia": "Diario"
+                },
+                {
+                    "nombreOriginal": "Adriana Hobeker",
+                    "Deuda": "2.000.000",
+                    "NCuotas": "",
+                    "Frecuencia": ""
                 }
             ]
         }
