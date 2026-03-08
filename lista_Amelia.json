@@ -22,6 +22,12 @@
                     "Deuda": "000",
                     "NCuotas": "0",
                     "Frecuencia": "Mensual"
+                },
+                {
+                    "nombreOriginal": "Adelina Barreto",
+                    "Deuda": "1.000.000",
+                    "NCuotas": "4",
+                    "Frecuencia": "Jueves"
                 }
             ]
         }
