@@ -64,7 +64,8 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0,
-            "Error": "Cuenta"
+            "Error": "Cuenta",
+            "sigpago": "29/03/2026"
         },
         "Recordatorio 1. Celular. 0": {
             "NoTCuota": 0,
