@@ -26,6 +26,15 @@
                     "Transferencia": "No"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Adela Cristaldo",
+                    "dia": "Lu"
+                }
+            ]
         }
     ],
     "Pagos": {
