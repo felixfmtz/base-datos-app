@@ -1,6 +1,19 @@
 {
     "fecha_ultimo_guardado": "09\/03\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Eusebio Canata",
+                    "Deuda": "750.000",
+                    "NCuotas": "8",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Elsa Cañete. 330.000. Lu": {
             "NoTCuota": 0,
