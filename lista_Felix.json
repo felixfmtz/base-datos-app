@@ -105,6 +105,10 @@
         "correccion": {
             "valor": 5000,
             "accion": "sumar"
+        },
+        "correcion": {
+            "valor": 5000,
+            "accion": "sumar"
         }
     }
 }
