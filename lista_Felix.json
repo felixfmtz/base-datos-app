@@ -43,6 +43,12 @@
             "NoTInteres": 0,
             "TCuota": 110000,
             "TInteres": 0
+        },
+        "Eusebio Canata. 130.000*8. Ma": {
+            "NoTCuota": 130000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
