@@ -104,7 +104,7 @@
         },
         "correccion": {
             "valor": 5000,
-            "accion": "restar"
+            "accion": "sumar"
         }
     }
 }
