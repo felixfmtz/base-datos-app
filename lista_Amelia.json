@@ -158,6 +158,42 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 15000
+        },
+        "Gilberto Molinas. 150.000*44": {
+            "NoTCuota": 50000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        }
+    },
+    "Gastos": {
+        "Ejemplo": {
+            "valor": 0,
+            "accion": "sumar"
+        },
+        "alfo": {
+            "valor": 100000,
+            "accion": "sumar"
+        },
+        "ago": {
+            "valor": 95000,
+            "accion": "restar"
+        },
+        "eueu": {
+            "valor": 100000,
+            "accion": "sumar"
+        },
+        "urur": {
+            "valor": 10000,
+            "accion": "restar"
+        },
+        "ye": {
+            "valor": 50000,
+            "accion": "sumar"
+        },
+        "773": {
+            "valor": 50000,
+            "accion": "sumar"
         }
     }
 }
