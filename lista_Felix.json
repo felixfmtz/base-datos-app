@@ -134,6 +134,13 @@
             "NoTInteres": 80000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Liliana Olmedo. 70.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "error en la cuota"
         }
     },
     "Gastos": {
