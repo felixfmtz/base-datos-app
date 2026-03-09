@@ -31,6 +31,13 @@
                     "NCuotas": "6",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Lucas Ariel Gonzalez",
+                    "Deuda": "1.000.000",
+                    "NCuotas": "10",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
                 }
             ]
         },
