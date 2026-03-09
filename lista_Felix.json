@@ -1,0 +1,12 @@
+{
+    "fecha_ultimo_guardado": "09\/03\/2026",
+    "cuentas": [],
+    "Pagos": {
+        "Elsa Cañete. 330.000. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 300000,
+            "TInteres": 0
+        }
+    }
+}
