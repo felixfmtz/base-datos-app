@@ -101,6 +101,10 @@
         "remedio": {
             "valor": 34000,
             "accion": "sumar"
+        },
+        "correccion": {
+            "valor": 5000,
+            "accion": "restar"
         }
     }
 }
