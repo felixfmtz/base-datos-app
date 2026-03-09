@@ -133,6 +133,12 @@
         },
         "Recordatorio 2. Comisario": {
             "sigpago": "15\/03\/2026"
+        },
+        "Delfina Britez. 90.000*44. C1": {
+            "NoTCuota": 52000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     }
 }
