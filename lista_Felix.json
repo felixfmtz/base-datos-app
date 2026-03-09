@@ -7,6 +7,12 @@
             "NoTInteres": 0,
             "TCuota": 300000,
             "TInteres": 0
+        },
+        "Bruno Davalos. 440.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 240000,
+            "TInteres": 0
         }
     }
 }
