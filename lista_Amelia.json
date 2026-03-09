@@ -54,6 +54,13 @@
                     "NCuotas": "",
                     "Frecuencia": "",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Lucia Portillo",
+                    "Deuda": "500.000",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
