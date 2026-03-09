@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "09/03/2026",
+    "fecha_ultimo_guardado": "09\/03\/2026",
     "cuentas": [],
     "Pagos": {
         "Elsa Cañete. 330.000. Lu": {
@@ -15,28 +15,34 @@
             "TInteres": 0
         },
         "Edgar Fleitas. 140.000*10. Lu": {
-            "sigpago": "16/03/2026"
+            "sigpago": "16\/03\/2026"
         },
         "Delia Blanco. 100.000*35. Sa": {
-            "sigpago": "15/03/2026"
+            "sigpago": "15\/03\/2026"
         },
         "Delia Blanco. 140.000*10. Ma": {
-            "sigpago": "15/03/2026"
+            "sigpago": "15\/03\/2026"
         },
         "Matias Gamarra. 550.000": {
-            "sigpago": "12/03/2026"
+            "sigpago": "12\/03\/2026"
         },
         "Mirta Larroza. 490.000*2": {
-            "sigpago": "01/04/2026"
+            "sigpago": "01\/04\/2026"
         },
         "Sebastiana Bogado. 140.000*10. Sa": {
-            "sigpago": "13/03/2026"
+            "sigpago": "13\/03\/2026"
         },
         "Walter Abel Oviedo. 990.000*2": {
-            "sigpago": "13/03/2026"
+            "sigpago": "13\/03\/2026"
         },
         "Yesica Suarez. 560.000*5": {
-            "sigpago": "13/03/2026"
+            "sigpago": "13\/03\/2026"
+        },
+        "Eduardo David Fanego. 110.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {
