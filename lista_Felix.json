@@ -14,5 +14,11 @@
             "TCuota": 240000,
             "TInteres": 0
         }
+    },
+    "Gastos": {
+        "gomeria": {
+            "valor": 20000,
+            "accion": "sumar"
+        }
     }
 }
