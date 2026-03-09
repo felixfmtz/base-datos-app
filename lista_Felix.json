@@ -10,6 +10,13 @@
                     "NCuotas": "8",
                     "Frecuencia": "Martes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Eusebio Canata",
+                    "Deuda": "750.000",
+                    "NCuotas": "8",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "No"
                 }
             ]
         }
