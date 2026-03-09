@@ -163,6 +163,10 @@
         "correcion 2": {
             "valor": 5000,
             "accion": "restar"
+        },
+        "almohada": {
+            "valor": 263000,
+            "accion": "sumar"
         }
     }
 }
