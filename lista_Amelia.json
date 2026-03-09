@@ -104,7 +104,7 @@
         },
         "Delfina Britez. 90.000*44": {
             "NoTCuota": 0,
-            "NoTInteres": 0,
+            "NoTInteres": 8000,
             "TCuota": 0,
             "TInteres": 0,
             "Error": "Error: gsf"
