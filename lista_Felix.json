@@ -17,6 +17,13 @@
                     "NCuotas": "8",
                     "Frecuencia": "Viernes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Alejandra Cano",
+                    "Deuda": "2.000.000",
+                    "NCuotas": "10",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
