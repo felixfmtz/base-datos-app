@@ -31,6 +31,13 @@
                     "NCuotas": "4",
                     "Frecuencia": "Jueves",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Juan Alberto Venialgo",
+                    "Deuda": "20.000.000",
+                    "NCuotas": "6",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
                 }
             ]
         }
