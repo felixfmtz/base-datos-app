@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "10\/03\/2026",
+    "fecha_ultimo_guardado": "10/03/2026",
     "cuentas": [],
     "Pagos": {
         "Catalina Santacruz. 45.000*44. C1": {
@@ -19,6 +19,9 @@
             "NoTInteres": 0,
             "TCuota": 150000,
             "TInteres": 0
+        },
+        "Candido Cabral. 440.000*3. Ma": {
+            "sigpago": "16/03/2026"
         }
     }
 }
