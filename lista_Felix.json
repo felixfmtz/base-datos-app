@@ -1,6 +1,19 @@
 {
     "fecha_ultimo_guardado": "10\/03\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Vanesa Servian",
+                    "Deuda": "1.000.000",
+                    "NCuotas": "6",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Vanesa Servian. 110.000*6. Lu": {
             "NoTCuota": 110000,
