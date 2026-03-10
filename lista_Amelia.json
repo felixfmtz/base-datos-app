@@ -10,6 +10,13 @@
                     "NCuotas": "10",
                     "Frecuencia": "Viernes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Maria Cristina Martinez",
+                    "Deuda": "3.000.000",
+                    "NCuotas": "10",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "Si"
                 }
             ]
         }
