@@ -1,6 +1,19 @@
 {
     "fecha_ultimo_guardado": "10\/03\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Gedalia DelValle",
+                    "Deuda": "4.500.000",
+                    "NCuotas": "30",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Alfredo Castillo. 55.000*60": {
             "NoTCuota": 0,
