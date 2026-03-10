@@ -49,5 +49,11 @@
             "TCuota": 840000,
             "TInteres": 0
         }
+    },
+    "Gastos": {
+        "uña": {
+            "valor": 150000,
+            "accion": "sumar"
+        }
     }
 }
