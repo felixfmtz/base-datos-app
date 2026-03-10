@@ -1,6 +1,19 @@
 {
     "fecha_ultimo_guardado": "10\/03\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Adela Cristaldo",
+                    "Deuda": "1.000.000",
+                    "NCuotas": "10",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Catalina Santacruz. 45.000*44. C1": {
             "NoTCuota": 45000,
