@@ -61,5 +61,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "elsa": {
+            "valor": 60000,
+            "accion": "sumar"
+        }
+    }
 }
