@@ -54,6 +54,10 @@
         "uña": {
             "valor": 150000,
             "accion": "sumar"
+        },
+        "conbus": {
+            "valor": 280000,
+            "accion": "sumar"
         }
     }
 }
