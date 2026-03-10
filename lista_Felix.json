@@ -17,6 +17,13 @@
                     "NCuotas": "44",
                     "Frecuencia": "Diario",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Vanesa Servian",
+                    "Deuda": "1.000.000",
+                    "NCuotas": "6",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
                 }
             ]
         }
