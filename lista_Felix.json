@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "10/03/2026",
+    "fecha_ultimo_guardado": "10\/03\/2026",
     "cuentas": [],
     "Pagos": {
         "Alfredo Castillo. 55.000*60": {
@@ -10,22 +10,28 @@
             "Error": "mensual"
         },
         "Anastacio Baez. 110.000*6. Sa": {
-            "sigpago": "15/03/2026"
+            "sigpago": "15\/03\/2026"
         },
         "Anastacio Baez. 220.000*6. Sa": {
-            "sigpago": "14/03/2026"
+            "sigpago": "14\/03\/2026"
         },
         "Anastacio Baez. 110.000. Sa": {
-            "sigpago": "14/03/2026"
+            "sigpago": "14\/03\/2026"
         },
         "Edgar Fleitas. 100.000*23. Lu": {
-            "sigpago": "16/03/2026"
+            "sigpago": "16\/03\/2026"
         },
         "Edgar Fleitas. 140.000*10. Lu": {
-            "sigpago": "16/03/2026"
+            "sigpago": "16\/03\/2026"
         },
         "Mirta Larroza. 490.000*2": {
-            "sigpago": "01/04/2026"
+            "sigpago": "01\/04\/2026"
+        },
+        "Mirna Gauto. 140.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     }
 }
