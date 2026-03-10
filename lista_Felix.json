@@ -10,6 +10,13 @@
                     "NCuotas": "30",
                     "Frecuencia": "Diario",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Narciso Achar",
+                    "Deuda": "3.500.000",
+                    "NCuotas": "44",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "Si"
                 }
             ]
         }
