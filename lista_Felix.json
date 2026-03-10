@@ -1,41 +1,225 @@
 {
-    "fecha_ultimo_guardado": "10/03/2026",
-    "cuentas": [],
+    "fecha_ultimo_guardado": "09\/03\/2026",
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Eusebio Canata",
+                    "Deuda": "750.000",
+                    "NCuotas": "8",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Eusebio Canata",
+                    "Deuda": "750.000",
+                    "NCuotas": "8",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Alejandra Cano",
+                    "Deuda": "2.000.000",
+                    "NCuotas": "10",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Leonarda Zalazar",
+                    "Deuda": "1.000.000",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Lucas Ariel Gonzalez",
+                    "Deuda": "1.000.000",
+                    "NCuotas": "10",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
+                }
+            ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Adela Cristaldo",
+                    "dia": "Lu"
+                },
+                {
+                    "nombreOriginal": "Lucas Ariel Gonzalez",
+                    "dia": "Ju"
+                }
+            ]
+        }
+    ],
     "Pagos": {
-        "Alfredo Castillo. 55.000*60": {
+        "Elsa Cañete. 330.000. Lu": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "mensual"
+            "TCuota": 300000,
+            "TInteres": 0
         },
-        "Anastacio Baez. 110.000*6. Sa": {
-            "sigpago": "15/03/2026"
-        },
-        "Anastacio Baez. 220.000*6. Sa": {
-            "sigpago": "14/03/2026"
-        },
-        "Anastacio Baez. 110.000. Sa": {
-            "sigpago": "14/03/2026"
-        },
-        "Edgar Fleitas. 100.000*23. Lu": {
-            "sigpago": "16/03/2026"
+        "Bruno Davalos. 440.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 240000,
+            "TInteres": 0
         },
         "Edgar Fleitas. 140.000*10. Lu": {
-            "sigpago": "16/03/2026"
+            "sigpago": "16\/03\/2026"
+        },
+        "Delia Blanco. 100.000*35. Sa": {
+            "sigpago": "15\/03\/2026"
+        },
+        "Delia Blanco. 140.000*10. Ma": {
+            "sigpago": "15\/03\/2026"
+        },
+        "Matias Gamarra. 550.000": {
+            "sigpago": "12\/03\/2026"
         },
         "Mirta Larroza. 490.000*2": {
-            "sigpago": "01/04/2026"
+            "sigpago": "01\/04\/2026"
         },
-        "Mirna Gauto. 140.000*10. Lu": {
+        "Sebastiana Bogado. 140.000*10. Sa": {
+            "sigpago": "13\/03\/2026"
+        },
+        "Walter Abel Oviedo. 990.000*2": {
+            "sigpago": "13\/03\/2026"
+        },
+        "Yesica Suarez. 560.000*5": {
+            "sigpago": "13\/03\/2026"
+        },
+        "Eduardo David Fanego. 110.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
+        },
+        "Eusebio Canata. 130.000*8. Ma": {
+            "NoTCuota": 130000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Abelino Peralta. Pedido": {
+            "NoTCuota": 5000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Edgar Jara. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
+        },
+        "Liz Paola Mancuello. 140.000*10. Lu": {
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
         },
-        "Dorca Zarza. 1.800.000": {
-            "sigpago": "14/03/2026"
+        "Liz Paola Mancuello. 140.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
+        },
+        "Liz Paola Mancuello. 70.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 70000,
+            "TInteres": 0
+        },
+        "Leonarda Zalazar. 220.000*6. Vi": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Hugo Caceres. Olier. C2. 480.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 80000,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Liliana Olmedo. 70.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "error en la cuota"
+        },
+        "Abelino Peralta. Hija. 110.000*6. Lu": {
+            "NoTCuota": 110000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Alfredo Castillo. 55.000*60": {
+            "NoTCuota": 40000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Elsa Cañete. 60.000*44": {
+            "NoTCuota": 106000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Elsa Cañete. 60.000*44. C1": {
+            "NoTCuota": 6000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Elsa Cañete. 60.000*44. C2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 40000,
+            "TInteres": 0
+        },
+        "Adriana Hobeker. 140.000*10. Sa": {
+            "NoTCuota": 40000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Sonia Amarilla. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 50000
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "gomeria": {
+            "valor": 20000,
+            "accion": "sumar"
+        },
+        "remedio": {
+            "valor": 34000,
+            "accion": "sumar"
+        },
+        "correccion": {
+            "valor": 5000,
+            "accion": "sumar"
+        },
+        "correcion": {
+            "valor": 5000,
+            "accion": "sumar"
+        },
+        "correcion 2": {
+            "valor": 5000,
+            "accion": "restar"
+        },
+        "almohada": {
+            "valor": 263000,
+            "accion": "sumar"
+        }
+    }
 }
