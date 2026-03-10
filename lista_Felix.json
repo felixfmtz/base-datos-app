@@ -108,6 +108,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 120000
+        },
+        "Rolando Lopez. 300.000*2": {
+            "NoTCuota": 300000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
