@@ -112,7 +112,7 @@
         "Rolando Lopez. 300.000*2": {
             "NoTCuota": 301000,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 1000,
             "TInteres": 0
         }
     },
