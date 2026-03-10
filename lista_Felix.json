@@ -65,6 +65,10 @@
         "elsa": {
             "valor": 60000,
             "accion": "sumar"
+        },
+        "elsa 2": {
+            "valor": 30000,
+            "accion": "sumar"
         }
     }
 }
