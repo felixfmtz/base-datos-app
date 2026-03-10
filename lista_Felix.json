@@ -142,6 +142,10 @@
         "elsa 2": {
             "valor": 30000,
             "accion": "sumar"
+        },
+        "narc": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
