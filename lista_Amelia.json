@@ -42,6 +42,12 @@
         },
         "Candido Cabral. 440.000*3. Ma": {
             "sigpago": "16\/03\/2026"
+        },
+        "Maria Cristina Martinez. 140.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 840000,
+            "TInteres": 0
         }
     }
 }
