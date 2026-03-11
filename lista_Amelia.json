@@ -1,26 +1,26 @@
 {
-    "fecha_ultimo_guardado": "11/03/2026",
+    "fecha_ultimo_guardado": "11\/03\/2026",
     "cuentas": [],
     "Pagos": {
         "Delfina Britez. 150.000*44. C1": {
-            "sigpago": "11/03/2026"
+            "sigpago": "11\/03\/2026"
         },
         "Delfina Britez. 90.000*44": {
-            "sigpago": "11/03/2026"
+            "sigpago": "11\/03\/2026"
         },
         "Cynthia Carolina Baez. 15.000*44. C3": {
-            "sigpago": "11/03/2026",
+            "sigpago": "11\/03\/2026",
             "Error": "prue"
         },
         "Edilberto Benitez. 80.000*30": {
-            "sigpago": "11/03/2026",
+            "sigpago": "11\/03\/2026",
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 13000
         },
         "Gilberto Molinas. 150.000*44": {
-            "sigpago": "11/03/2026",
+            "sigpago": "11\/03\/2026",
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
@@ -28,7 +28,7 @@
         },
         "Abelino Peralta. 600.000": {
             "NoTCuota": 10000,
-            "NoTInteres": 0,
+            "NoTInteres": 65000,
             "TCuota": 0,
             "TInteres": 0
         },
@@ -45,7 +45,7 @@
             "TInteres": 0
         },
         "Graciela Cardozo. 200.000*23": {
-            "sigpago": "12/03/2026"
+            "sigpago": "12\/03\/2026"
         }
     },
     "Gastos": {}
