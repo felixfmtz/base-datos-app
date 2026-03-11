@@ -110,6 +110,12 @@
         },
         "Alcides Armando. 350.000*10. Ma": {
             "sigpago": "17\/03\/2026"
+        },
+        "Francieli Da Silva. 140.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 240000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
