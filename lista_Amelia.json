@@ -27,14 +27,14 @@
             "TInteres": 13000
         },
         "Abelino Peralta. 600.000": {
-            "NoTCuota": 10000,
-            "NoTInteres": 65000,
+            "NoTCuota": 0,
+            "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
         },
         "Delfina Britez. 150.000*44. C2": {
             "NoTCuota": 0,
-            "NoTInteres": 13000,
+            "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
         },
