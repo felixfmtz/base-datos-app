@@ -13,6 +13,12 @@
         },
         "Dorca Zarza. 1.800.000": {
             "sigpago": "14\/03\/2026"
+        },
+        "Bartola Cubilla. 220.000*6. Ma": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
