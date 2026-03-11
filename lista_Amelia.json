@@ -19,7 +19,11 @@
             "TInteres": 13000
         },
         "Gilberto Molinas. 150.000*44": {
-            "sigpago": "11\/03\/2026"
+            "sigpago": "11\/03\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 13000
         },
         "Abelino Peralta. 600.000": {
             "NoTCuota": 10000,
