@@ -1,63 +1,10 @@
 {
-    "fecha_ultimo_guardado": "10\/03\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Adela Cristaldo",
-                    "Deuda": "1.000.000",
-                    "NCuotas": "10",
-                    "Frecuencia": "Viernes",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Maria Cristina Martinez",
-                    "Deuda": "3.000.000",
-                    "NCuotas": "10",
-                    "Frecuencia": "Quincenal",
-                    "Transferencia": "Si"
-                }
-            ]
-        }
-    ],
+    "fecha_ultimo_guardado": "11/03/2026",
+    "cuentas": [],
     "Pagos": {
-        "Catalina Santacruz. 45.000*44. C1": {
-            "NoTCuota": 45000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Edilberto Benitez. 80.000*30": {
-            "NoTCuota": 70000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Gilberto Molinas. 150.000*44": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 150000,
-            "TInteres": 0
-        },
-        "Candido Cabral. 440.000*3. Ma": {
-            "sigpago": "16\/03\/2026"
-        },
-        "Maria Cristina Martinez. 140.000*10. Sa": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 840000,
-            "TInteres": 0
+        "Concepcion Oviedo. 110.000*6. Vi": {
+            "sigpago": "13/03/2026"
         }
     },
-    "Gastos": {
-        "uña": {
-            "valor": 150000,
-            "accion": "sumar"
-        },
-        "conbus": {
-            "valor": 280000,
-            "accion": "sumar"
-        }
-    }
+    "Gastos": {}
 }
