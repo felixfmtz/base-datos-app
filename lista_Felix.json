@@ -1,19 +1,24 @@
 {
-    "fecha_ultimo_guardado": "11/03/2026",
+    "fecha_ultimo_guardado": "11\/03\/2026",
     "cuentas": [],
     "Pagos": {
         "Anastacio Baez. 110.000*6. Sa": {
-            "sigpago": "14/03/2026"
+            "sigpago": "14\/03\/2026"
         },
         "Anastacio Baez. 110.000. Sa": {
-            "sigpago": "14/03/2026"
+            "sigpago": "14\/03\/2026"
         },
         "Anastacio Baez. 220.000*6. Sa": {
-            "sigpago": "14/03/2026"
+            "sigpago": "14\/03\/2026"
         },
         "Dorca Zarza. 1.800.000": {
-            "sigpago": "14/03/2026"
+            "sigpago": "14\/03\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "remeio": {
+            "valor": 147000,
+            "accion": "sumar"
+        }
+    }
 }
