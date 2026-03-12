@@ -136,6 +136,10 @@
         "joel": {
             "valor": 2000000,
             "accion": "sumar"
+        },
+        "María rodas": {
+            "valor": 396000,
+            "accion": "sumar"
         }
     }
 }
