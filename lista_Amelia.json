@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "12\/03\/2026",
+    "fecha_ultimo_guardado": "12/03/2026",
     "cuentas": [
         {
             "seccion": "Crear cuenta",
@@ -17,16 +17,16 @@
     ],
     "Pagos": {
         "Arcelia Romero. Hijo. 280.000*10. Ma": {
-            "sigpago": "13\/03\/2026"
+            "sigpago": "13/03/2026"
         },
         "Estanislaa Villar. 700.000*8. Mi": {
-            "sigpago": "14\/03\/2026"
+            "sigpago": "14/03/2026"
         },
         "Felix Villalba. 140.000*10. Sa": {
-            "sigpago": "14\/03\/2026"
+            "sigpago": "14/03/2026"
         },
         "Juliana Roman. 420.000*10. Mi": {
-            "sigpago": "14\/03\/2026"
+            "sigpago": "14/03/2026"
         },
         "Luana Sosa. 280.000*10. Lu": {
             "NoTCuota": 0,
@@ -35,10 +35,10 @@
             "TInteres": 0
         },
         "Andrea Avelina Cardozo. 700.000*10. Lu": {
-            "sigpago": "14\/03\/2026"
+            "sigpago": "14/03/2026"
         },
         "Cristhian Pedroso. 700.000*5": {
-            "sigpago": "14\/03\/2026"
+            "sigpago": "14/03/2026"
         },
         "Maria Rodas. Papa. 550.000": {
             "NoTCuota": 0,
@@ -138,10 +138,10 @@
             "TInteres": 0
         },
         "Norma Beatriz Rivarola. 140.000*10. Ma": {
-            "sigpago": "16\/03\/2026"
+            "sigpago": "16/03/2026"
         },
         "Oscar Pacheco. 145.000*7. Vi": {
-            "sigpago": "28\/03\/2026"
+            "sigpago": "28/03/2026"
         },
         "Alfredo Franco. 1.000.000*15. Sa": {
             "NoTCuota": 0,
@@ -160,6 +160,9 @@
             "NoTInteres": 0,
             "TCuota": 210000,
             "TInteres": 0
+        },
+        "Agustin Gimenez. 140.000*10. Ju": {
+            "sigpago": "14/03/2026"
         }
     },
     "Gastos": {
