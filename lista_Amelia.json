@@ -112,6 +112,10 @@
         "porta celular ": {
             "valor": 45000,
             "accion": "sumar"
+        },
+        "casa": {
+            "valor": 52000,
+            "accion": "sumar"
         }
     }
 }
