@@ -19,6 +19,14 @@
                     "NCuotas": "",
                     "Frecuencia": "",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Adela Cristaldo",
+                    "Deuda": "650.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "",
+                    "Frecuencia": "",
+                    "Transferencia": "No"
                 }
             ]
         }
