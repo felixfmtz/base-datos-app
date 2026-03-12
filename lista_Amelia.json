@@ -218,6 +218,10 @@
         "ggg": {
             "valor": 396000,
             "accion": "sumar"
+        },
+        "uuy": {
+            "valor": 369000,
+            "accion": "sumar"
         }
     }
 }
