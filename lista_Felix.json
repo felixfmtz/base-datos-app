@@ -18,7 +18,8 @@
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 300000
+            "TInteres": 300000,
+            "Error": "lunes"
         },
         "Juan Albino. 1.100.000": {
             "NoTCuota": 0,
