@@ -1,18 +1,18 @@
 {
-    "fecha_ultimo_guardado": "12/03/2026",
+    "fecha_ultimo_guardado": "12\/03\/2026",
     "cuentas": [],
     "Pagos": {
         "Arcelia Romero. Hijo. 280.000*10. Ma": {
-            "sigpago": "13/03/2026"
+            "sigpago": "13\/03\/2026"
         },
         "Estanislaa Villar. 700.000*8. Mi": {
-            "sigpago": "14/03/2026"
+            "sigpago": "14\/03\/2026"
         },
         "Felix Villalba. 140.000*10. Sa": {
-            "sigpago": "14/03/2026"
+            "sigpago": "14\/03\/2026"
         },
         "Juliana Roman. 420.000*10. Mi": {
-            "sigpago": "14/03/2026"
+            "sigpago": "14\/03\/2026"
         },
         "Luana Sosa. 280.000*10. Lu": {
             "NoTCuota": 0,
@@ -21,10 +21,16 @@
             "TInteres": 0
         },
         "Andrea Avelina Cardozo. 700.000*10. Lu": {
-            "sigpago": "14/03/2026"
+            "sigpago": "14\/03\/2026"
         },
         "Cristhian Pedroso. 700.000*5": {
-            "sigpago": "14/03/2026"
+            "sigpago": "14\/03\/2026"
+        },
+        "Maria Rodas. Papa. 550.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 50000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
