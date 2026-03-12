@@ -35,6 +35,14 @@
                     "NCuotas": "8",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Cristian Castillo",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "Si"
                 }
             ]
         },
