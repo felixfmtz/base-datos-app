@@ -13,6 +13,15 @@
                     "Transferencia": "Si"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Cristobal Muñoz",
+                    "dia": "Vi"
+                }
+            ]
         }
     ],
     "Pagos": {
