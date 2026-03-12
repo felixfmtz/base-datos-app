@@ -17,7 +17,11 @@
             "TInteres": 0
         },
         "Anastacio Baez. 220.000*6. Sa": {
-            "sigpago": "14\/03\/2026"
+            "sigpago": "14\/03\/2026",
+            "NoTCuota": 440000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         },
         "Monica Gomez. 280.000*5": {
             "sigpago": "14\/03\/2026"
