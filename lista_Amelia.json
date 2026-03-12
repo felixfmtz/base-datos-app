@@ -214,6 +214,10 @@
         "jdje": {
             "valor": 369000,
             "accion": "restar"
+        },
+        "ggg": {
+            "valor": 396000,
+            "accion": "sumar"
         }
     }
 }
