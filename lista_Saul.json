@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "12\/03\/2026",
+    "fecha_ultimo_guardado": "12/03/2026",
     "cuentas": [],
     "Pagos": {
         "Ana Torres. 150.000*44": {
@@ -8,13 +8,13 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "error",
-            "sigpago": "14\/03\/2026"
+            "sigpago": "14/03/2026"
         },
         "Anibal Godoy. 40.000*30": {
-            "sigpago": "12\/03\/2026"
+            "sigpago": "12/03/2026"
         },
         "Clyde Isabel Justiniano. 20.000*33": {
-            "sigpago": "12\/03\/2026"
+            "sigpago": "12/03/2026"
         },
         "Ignacio Melgarejo. 20.000*30": {
             "NoTCuota": 20000,
@@ -39,6 +39,9 @@
             "NoTInteres": 0,
             "TCuota": 180000,
             "TInteres": 0
+        },
+        "Maria Gauto. 15.000*44": {
+            "sigpago": "16/03/2026"
         }
     },
     "Gastos": {
