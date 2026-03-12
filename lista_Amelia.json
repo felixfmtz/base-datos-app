@@ -132,6 +132,10 @@
         "isolina": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "joel": {
+            "valor": 2000000,
+            "accion": "sumar"
         }
     }
 }
