@@ -61,6 +61,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Teresa de Fernandez. 120.000*33": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "cancelado"
         }
     },
     "Gastos": {}
