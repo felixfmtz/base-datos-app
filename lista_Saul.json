@@ -55,6 +55,10 @@
         "fidel": {
             "valor": 280000,
             "accion": "sumar"
+        },
+        "conf": {
+            "valor": 250000,
+            "accion": "sumar"
         }
     }
 }
