@@ -1,70 +1,9 @@
 {
-    "fecha_ultimo_guardado": "10\/03\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Abelino Peralta",
-                    "Deuda": "1.000.000",
-                    "Garante": "prueba",
-                    "NCuotas": "6",
-                    "Frecuencia": "Quincenal",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Adela Cristaldo",
-                    "Deuda": "10.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Diario",
-                    "Transferencia": "No"
-                }
-            ]
-        }
-    ],
+    "fecha_ultimo_guardado": "12/03/2026",
+    "cuentas": [],
     "Pagos": {
-        "Ana Torres. 150.000*44": {
-            "NoTCuota": 1050000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Elva Mateus. 30.000*44": {
-            "NoTCuota": 90000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Clyde Isabel Justiniano. 20.000*33": {
-            "NoTCuota": 20000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ignacio Melgarejo. 20.000*30": {
-            "NoTCuota": 50000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Luis Arzamendia. 140.000*43": {
-            "NoTCuota": 50000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Anibal Godoy. 40.000*30": {
-            "NoTCuota": 40000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Gedalia DelValle. 180.000*30": {
-            "NoTCuota": 180000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
+        "Carlos Garcete. 220.000*6. Mi": {
+            "sigpago": "19/03/2026"
         }
     },
     "Gastos": {}
