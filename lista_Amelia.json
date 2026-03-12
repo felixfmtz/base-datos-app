@@ -140,6 +140,10 @@
         "María rodas": {
             "valor": 396000,
             "accion": "sumar"
+        },
+        "mar": {
+            "valor": 396000,
+            "accion": "restar"
         }
     }
 }
