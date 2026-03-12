@@ -27,6 +27,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Viernes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Denis de Oliveira",
+                    "Deuda": "6.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "8",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
                 }
             ]
         },
