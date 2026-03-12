@@ -210,6 +210,10 @@
         "roda": {
             "valor": 396000,
             "accion": "restar"
+        },
+        "jdje": {
+            "valor": 369000,
+            "accion": "restar"
         }
     }
 }
