@@ -108,5 +108,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "porta celular ": {
+            "valor": 45000,
+            "accion": "sumar"
+        }
+    }
 }
