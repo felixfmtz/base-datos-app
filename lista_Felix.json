@@ -127,6 +127,10 @@
         "sueldo derlis": {
             "valor": 70000,
             "accion": "sumar"
+        },
+        "fidel": {
+            "valor": 280000,
+            "accion": "sumar"
         }
     }
 }
