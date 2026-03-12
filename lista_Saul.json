@@ -93,6 +93,12 @@
             "NoTInteres": 0,
             "TCuota": 65000,
             "TInteres": 63000
+        },
+        "Thais Orquiola. Cesar Solis. 30.000*44": {
+            "NoTCuota": 69000,
+            "NoTInteres": 63000,
+            "TCuota": 85000,
+            "TInteres": 63000
         }
     },
     "Gastos": {
