@@ -123,6 +123,10 @@
         "cooperativa": {
             "valor": 9178000,
             "accion": "sumar"
+        },
+        "sueldo derlis": {
+            "valor": 70000,
+            "accion": "sumar"
         }
     }
 }
