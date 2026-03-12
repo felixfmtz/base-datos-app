@@ -144,6 +144,10 @@
         "mar": {
             "valor": 396000,
             "accion": "restar"
+        },
+        "roda": {
+            "valor": 396000,
+            "accion": "restar"
         }
     }
 }
