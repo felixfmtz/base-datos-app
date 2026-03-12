@@ -1,30 +1,30 @@
 {
-    "fecha_ultimo_guardado": "12\/03\/2026",
+    "fecha_ultimo_guardado": "12/03/2026",
     "cuentas": [],
     "Pagos": {
         "Anastacio Baez. 110.000*6. Sa": {
-            "sigpago": "14\/03\/2026",
+            "sigpago": "14/03/2026",
             "NoTCuota": 220000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
         },
         "Anastacio Baez. 110.000. Sa": {
-            "sigpago": "14\/03\/2026",
+            "sigpago": "14/03/2026",
             "NoTCuota": 110000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
         },
         "Anastacio Baez. 220.000*6. Sa": {
-            "sigpago": "14\/03\/2026",
+            "sigpago": "14/03/2026",
             "NoTCuota": 440000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
         },
         "Monica Gomez. 280.000*5": {
-            "sigpago": "14\/03\/2026"
+            "sigpago": "14/03/2026"
         },
         "Dorca Zarza. 1.800.000": {
             "NoTCuota": 0,
@@ -82,7 +82,7 @@
             "TInteres": 0
         },
         "Hugo Marmori. 1.200.000. C2": {
-            "sigpago": "16\/03\/2026"
+            "sigpago": "16/03/2026"
         },
         "Dorca Zarza. 600.000. C2": {
             "NoTCuota": 0,
@@ -109,6 +109,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "sigpago": "Pagado"
+        },
+        "Felicia Zarza. 550.000": {
+            "sigpago": "14/03/2026"
         }
     },
     "Gastos": {
