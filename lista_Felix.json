@@ -70,6 +70,13 @@
         },
         "Hugo Marmori. 1.200.000. C2": {
             "sigpago": "16\/03\/2026"
+        },
+        "Dorca Zarza. 600.000. C2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "semanal lunes"
         }
     },
     "Gastos": {
