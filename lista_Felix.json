@@ -143,6 +143,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 30000
+        },
+        "Claudelina Lopez. 100.000*36. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
