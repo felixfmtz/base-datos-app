@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "13\/03\/2026",
+    "fecha_ultimo_guardado": "13/03/2026",
     "cuentas": [],
     "Pagos": {
         "Derlis Pintos. 140.000*10. Vi": {
@@ -25,6 +25,9 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Recordatorio 1. Gim. 1": {
+            "sigpago": "16/03/2026"
         }
     },
     "Gastos": {
