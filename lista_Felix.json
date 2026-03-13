@@ -219,6 +219,10 @@
         "agua": {
             "valor": 4000,
             "accion": "sumar"
+        },
+        "combus": {
+            "valor": 250000,
+            "accion": "sumar"
         }
     }
 }
