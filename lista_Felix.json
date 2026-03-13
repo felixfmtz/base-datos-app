@@ -125,6 +125,10 @@
         "comida": {
             "valor": 65000,
             "accion": "sumar"
+        },
+        "creatina": {
+            "valor": 370000,
+            "accion": "sumar"
         }
     }
 }
