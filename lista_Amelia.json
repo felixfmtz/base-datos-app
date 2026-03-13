@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "13/03/2026",
+    "fecha_ultimo_guardado": "13\/03\/2026",
     "cuentas": [],
     "Pagos": {
         "Delfina Britez. 120.000*44": {
@@ -33,10 +33,16 @@
             "TInteres": 0
         },
         "Gilmar Rich. 1.100.000. Vi": {
-            "sigpago": "21/03/2026"
+            "sigpago": "21\/03\/2026"
         },
         "Adriana Ovando. 140.000*10. Ju": {
-            "sigpago": "14/03/2026"
+            "sigpago": "14\/03\/2026"
+        },
+        "Irma Raquel Cantero. 265.000*8. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 265000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
