@@ -195,6 +195,10 @@
         "creatina": {
             "valor": 370000,
             "accion": "sumar"
+        },
+        "agua": {
+            "valor": 4000,
+            "accion": "sumar"
         }
     }
 }
