@@ -130,6 +130,10 @@
         "basura": {
             "valor": 80000,
             "accion": "sumar"
+        },
+        "jesica": {
+            "valor": 100000,
+            "accion": "restar"
         }
     }
 }
