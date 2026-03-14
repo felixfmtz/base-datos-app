@@ -68,7 +68,8 @@
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 150000,
-            "TInteres": 0
+            "TInteres": 0,
+            "Error": "está mal la cuota es en 10 pagos"
         },
         "Gilmar Rich. 1.100.000. Vi": {
             "sigpago": "21\/03\/2026"
