@@ -142,6 +142,10 @@
         "comida": {
             "valor": 10000,
             "accion": "sumar"
+        },
+        "mama": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
