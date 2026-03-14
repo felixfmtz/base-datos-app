@@ -1,21 +1,27 @@
 {
-    "fecha_ultimo_guardado": "14/03/2026",
+    "fecha_ultimo_guardado": "14\/03\/2026",
     "cuentas": [],
     "Pagos": {
         "Fatima Fonseca. 140.000*10. Sa": {
-            "sigpago": "19/03/2026"
+            "sigpago": "19\/03\/2026"
         },
         "Sebastiana Bogado. 140.000*10. Sa": {
-            "sigpago": "20/03/2026"
+            "sigpago": "20\/03\/2026"
         },
         "Evelin Silva. 700.000*2. C1": {
-            "sigpago": "17/03/2026"
+            "sigpago": "17\/03\/2026"
         },
         "Derlis Pintos. Celular. 100.000*22. Vi": {
-            "sigpago": "20/03/2026"
+            "sigpago": "20\/03\/2026"
         },
         "Eliane Mariela Colman. 525.000*8. Vi": {
-            "sigpago": "20/03/2026"
+            "sigpago": "20\/03\/2026"
+        },
+        "Pedro Franco. 50.000*7. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 50000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
