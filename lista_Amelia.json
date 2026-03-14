@@ -202,5 +202,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "claudia": {
+            "valor": 140000,
+            "accion": "sumar"
+        }
+    }
 }
