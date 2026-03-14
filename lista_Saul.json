@@ -1,29 +1,72 @@
 {
     "fecha_ultimo_guardado": "14\/03\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Cliente Nuevo",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "",
-                    "Frecuencia": "",
-                    "Transferencia": "No"
-                }
-            ]
-        }
-    ],
+    "cuentas": [],
     "Pagos": {
-        "Bienvenido Martinez. 1.650.000": {
-            "NoTCuota": 0,
+        "Gedalia DelValle. 180.000*30": {
+            "NoTCuota": 200000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
         },
-        "Adela Cristaldo. 700.000*10. Lu": {
-            "sigpago": "16\/03\/2026"
+        "Ignacio Melgarejo. 20.000*30": {
+            "NoTCuota": 20000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Leopoldo Pereira. 90.000*44": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Maria Gauto. 15.000*44": {
+            "NoTCuota": 15000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Rosalina del Valle. 400.000*30": {
+            "NoTCuota": 400000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Aldo Alcaraz. 100.000*35. Sa": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Augusto Segobia. 98.000*10. Sa": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Clyde Isabel Justiniano. 20.000*33": {
+            "NoTCuota": 20000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Benita Alfonzo. Visicooler. 150.000*33. Sa": {
+            "NoTCuota": 150000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Benita Alfonzo. Celular. 50.000*32. Sa": {
+            "NoTCuota": 50000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Gloria Cristaldo. 220.000*6. Sa": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
