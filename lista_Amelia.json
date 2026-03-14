@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "14\/03\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Blasida Lezme",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Catalina Santacruz. 45.000*44. C1": {
             "sigpago": "16\/03\/2026"
