@@ -134,6 +134,10 @@
         "jesica": {
             "valor": 100000,
             "accion": "restar"
+        },
+        "sueldo derlis": {
+            "valor": 700000,
+            "accion": "sumar"
         }
     }
 }
