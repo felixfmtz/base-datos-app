@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "13\/03\/2026",
+    "fecha_ultimo_guardado": "13/03/2026",
     "cuentas": [
         {
             "seccion": "Crear cuenta",
@@ -69,13 +69,14 @@
             "NoTInteres": 0,
             "TCuota": 150000,
             "TInteres": 0,
-            "Error": "está mal la cuota es en 10 pagos"
+            "Error": "está mal la cuota es en 10 pagos",
+            "sigpago": "16/03/2026"
         },
         "Gilmar Rich. 1.100.000. Vi": {
-            "sigpago": "21\/03\/2026"
+            "sigpago": "21/03/2026"
         },
         "Adriana Ovando. 140.000*10. Ju": {
-            "sigpago": "14\/03\/2026"
+            "sigpago": "14/03/2026"
         },
         "Irma Raquel Cantero. 265.000*8. Ma": {
             "NoTCuota": 0,
@@ -156,10 +157,10 @@
             "TInteres": 0
         },
         "Willian Dominguez. 880.000*3": {
-            "sigpago": "15\/03\/2026"
+            "sigpago": "15/03/2026"
         },
         "Laureana Insfran. 130.000*6. Lu": {
-            "sigpago": "16\/03\/2026"
+            "sigpago": "16/03/2026"
         },
         "Felicia Vda de Franco. 220.000*10. Vi": {
             "NoTCuota": 220000,
