@@ -1,9 +1,12 @@
 {
-    "fecha_ultimo_guardado": "13/03/2026",
+    "fecha_ultimo_guardado": "14\/03\/2026",
     "cuentas": [],
     "Pagos": {
-        "Clyde Isabel Justiniano. 20.000*33": {
-            "sigpago": "15/03/2026"
+        "Gedalia DelValle. 180.000*30": {
+            "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
