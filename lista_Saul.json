@@ -93,5 +93,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "combu": {
+            "valor": 280000,
+            "accion": "sumar"
+        }
+    }
 }
