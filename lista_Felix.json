@@ -102,6 +102,10 @@
         "namc": {
             "valor": 60000,
             "accion": "sumar"
+        },
+        "perro": {
+            "valor": 428000,
+            "accion": "sumar"
         }
     }
 }
