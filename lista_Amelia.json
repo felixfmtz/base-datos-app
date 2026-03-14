@@ -293,6 +293,10 @@
         "leona": {
             "valor": 30000,
             "accion": "sumar"
+        },
+        "real": {
+            "valor": 1080000,
+            "accion": "sumar"
         }
     }
 }
