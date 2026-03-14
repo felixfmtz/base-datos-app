@@ -60,5 +60,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "namc": {
+            "valor": 60000,
+            "accion": "sumar"
+        }
+    }
 }
