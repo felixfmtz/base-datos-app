@@ -255,6 +255,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Leonarda Baez. Nelly. 1.320.000*3": {
+            "NoTCuota": 1660000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
