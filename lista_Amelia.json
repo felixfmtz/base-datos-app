@@ -289,6 +289,10 @@
         "claudia": {
             "valor": 140000,
             "accion": "sumar"
+        },
+        "leona": {
+            "valor": 30000,
+            "accion": "sumar"
         }
     }
 }
