@@ -246,6 +246,13 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "ekeke"
+        },
+        "Fabiola Cañete. 1.100.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "ekdk"
         }
     },
     "Gastos": {
