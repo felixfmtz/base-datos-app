@@ -1,9 +1,9 @@
 {
-    "fecha_ultimo_guardado": "14/03/2026",
+    "fecha_ultimo_guardado": "14\/03\/2026",
     "cuentas": [],
     "Pagos": {
         "Catalina Santacruz. 45.000*44. C1": {
-            "sigpago": "16/03/2026"
+            "sigpago": "16\/03\/2026"
         },
         "Derlis Delgadillo. 210.000*10. Sa": {
             "NoTCuota": 0,
@@ -43,7 +43,13 @@
             "Error": "numero"
         },
         "Wilson Florentin. Pintor. 490.000*10. Sa": {
-            "sigpago": "21/03/2026"
+            "sigpago": "21\/03\/2026"
+        },
+        "Estanislaa Villar. 700.000*8. Mi": {
+            "NoTCuota": 300000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
