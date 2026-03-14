@@ -90,6 +90,12 @@
             "NoTInteres": 0,
             "TCuota": 550000,
             "TInteres": 0
+        },
+        "Matias Gamarra. 600.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 600000,
+            "TInteres": 0
         }
     },
     "Gastos": {
