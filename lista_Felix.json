@@ -31,6 +31,13 @@
             ]
         }
     ],
-    "Pagos": {},
+    "Pagos": {
+        "Elsa Cañete. 60.000*44": {
+            "NoTCuota": 60000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        }
+    },
     "Gastos": {}
 }
