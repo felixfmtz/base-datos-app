@@ -2,80 +2,8 @@
     "fecha_ultimo_guardado": "15\/03\/2026",
     "cuentas": [],
     "Pagos": {
-        "Clyde Isabel Justiniano. 20.000*33": {
+        "Elva Mateus. 30.000*44": {
             "NoTCuota": 140000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ana Torres. 150.000*44": {
-            "NoTCuota": 0,
-            "NoTInteres": 140000,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Leopoldo Pereira. 90.000*44": {
-            "NoTCuota": 25000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Lourdes Arce. 120.000*30": {
-            "NoTCuota": 140000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Gedalia DelValle. 180.000*30": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 140000,
-            "TInteres": 0
-        },
-        "Maria Francisca. 30.000*44": {
-            "NoTCuota": 140000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Luis Arzamendia. 140.000*43": {
-            "NoTCuota": 140000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Maria Gauto. 15.000*44": {
-            "NoTCuota": 150000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Narciso Achar. 105.000*44": {
-            "NoTCuota": 0,
-            "NoTInteres": 25000,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ordonia Davalos. 25.000*24": {
-            "NoTCuota": 140000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Nanci Milton. 30.000*44. C1": {
-            "NoTCuota": 140000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ordonia Davalos. 50.000*24. C1": {
-            "NoTCuota": 140000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Rosalba Gonzalez Duarte. 15.000*44": {
-            "NoTCuota": 440000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
