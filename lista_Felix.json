@@ -1,78 +1,8 @@
 {
     "fecha_ultimo_guardado": "15\/03\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Adriana Amarilla",
-                    "Deuda": "52.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "",
-                    "Frecuencia": "",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Adela Cristaldo",
-                    "Deuda": "35.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "",
-                    "Frecuencia": "",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Alejandro Martinez",
-                    "Deuda": "25.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "",
-                    "Frecuencia": "",
-                    "Transferencia": "Si"
-                }
-            ]
-        }
-    ],
+    "cuentas": [],
     "Pagos": {
-        "Elsa Cañete. 60.000*44": {
-            "NoTCuota": 60000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Elsa Cañete. 60.000*44. C2": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 60000,
-            "TInteres": 0
-        },
-        "Ramon Vera. 560.000*5": {
-            "NoTCuota": 140000,
-            "NoTInteres": 0,
-            "TCuota": 60000,
-            "TInteres": 0
-        },
-        "Elsa Cañete. 60.000*44. C1": {
-            "NoTCuota": 140000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Denis Francisco Colman. 440.000*3": {
-            "sigpago": "22\/03\/2026"
-        },
-        "Roque Martinez. 220.000*3": {
-            "sigpago": "22\/03\/2026"
-        },
-        "Ramona Ortiz. 300.000*2": {
-            "sigpago": "19\/04\/2026"
-        },
-        "Recordatorio 1. Gim. 1": {
-            "sigpago": "21\/03\/2026"
-        },
-        "Recordatorio 1. Paola. 0": {
-            "sigpago": "29\/03\/2026"
-        },
-        "Delia Blanco. 140.000*10. Ma": {
-            "sigpago": "27\/03\/2026",
+        "Delia Blanco. 100.000*35. Sa": {
             "NoTCuota": 140000,
             "NoTInteres": 0,
             "TCuota": 0,
