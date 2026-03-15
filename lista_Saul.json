@@ -1,45 +1,12 @@
 {
-    "fecha_ultimo_guardado": "14\/03\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Cliente Nuevo",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "",
-                    "Frecuencia": "",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Abelino Peralta",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "",
-                    "Frecuencia": "",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Abelino Peralta",
-                    "Deuda": "10.000.000",
-                    "Garante": "yty",
-                    "NCuotas": "6",
-                    "Frecuencia": "Jueves",
-                    "Transferencia": "No"
-                }
-            ]
-        }
-    ],
+    "fecha_ultimo_guardado": "15\/03\/2026",
+    "cuentas": [],
     "Pagos": {
-        "Bienvenido Martinez. 1.650.000": {
-            "NoTCuota": 0,
+        "Clyde Isabel Justiniano. 20.000*33": {
+            "NoTCuota": 140000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
-        },
-        "Adela Cristaldo. 700.000*10. Lu": {
-            "sigpago": "16\/03\/2026"
         }
     },
     "Gastos": {}
