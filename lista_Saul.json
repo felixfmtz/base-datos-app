@@ -1,25 +1,108 @@
 {
-    "fecha_ultimo_guardado": "15\/03\/2026",
+    "fecha_ultimo_guardado": "14\/03\/2026",
     "cuentas": [],
     "Pagos": {
-        "Elva Mateus. 30.000*44": {
-            "NoTCuota": 140000,
+        "Gedalia DelValle. 180.000*30": {
+            "NoTCuota": 200000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
         },
-        "Gedalia DelValle. 180.000*30": {
-            "NoTCuota": 140000,
+        "Ignacio Melgarejo. 20.000*30": {
+            "NoTCuota": 20000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Leopoldo Pereira. 90.000*44": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Maria Gauto. 15.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Rosalina del Valle. 400.000*30": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Aldo Alcaraz. 100.000*35. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Augusto Segobia. 98.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Clyde Isabel Justiniano. 20.000*33": {
+            "NoTCuota": 20000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Benita Alfonzo. Visicooler. 150.000*33. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Benita Alfonzo. Celular. 50.000*32. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Gloria Cristaldo. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Gloria Cristaldo. Celular. 100.000*16. Ju": {
+            "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
         },
         "Ana Torres. 150.000*44": {
+            "NoTCuota": 150000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Anibal Godoy. 40.000*30": {
+            "NoTCuota": 40000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Lurde Gomez. 280.000*10. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
+        },
+        "Narciso Achar. 105.000*44": {
             "NoTCuota": 140000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "combu": {
+            "valor": 280000,
+            "accion": "sumar"
+        }
+    }
 }
