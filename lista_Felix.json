@@ -3,7 +3,16 @@
     "cuentas": [
         {
             "seccion": "Crear cuenta",
-            "items": []
+            "items": [
+                {
+                    "nombreOriginal": "Abelino Peralta",
+                    "Deuda": "200.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "",
+                    "Frecuencia": "",
+                    "Transferencia": "No"
+                }
+            ]
         }
     ],
     "Pagos": {},
