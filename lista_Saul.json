@@ -15,6 +15,13 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "número equivocado"
+        },
+        "Lucia Quiñonez. 525.000*4": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "número equivocado"
         }
     },
     "Gastos": {}
