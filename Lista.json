@@ -1,5 +1,5 @@
 {
-    "fecha_creacion": "15/03/2026",
+    "fecha_creacion": "16/03/2026",
     "lista": {
         "Amelia": {
             "Diario": [
@@ -20,10 +20,63 @@
             "Mensual": [
                 "Arcelia Romero. Marcial. 1.200.000"
             ],
-            "Quincenal": [],
-            "Semanal": [],
+            "Quincenal": [
+                "Cristhian Pedroso. 700.000*5",
+                "Eugenio Oviedo. 560.000*5",
+                "Griselda Pereira. Rolando. 440.000*3",
+                "Lorenza Rojas. 175.000*4"
+            ],
+            "Semanal": [
+                "Adela Cristaldo. 700.000*10. Lu",
+                "Amanda Fariña. 100.000*23. Lu",
+                "Andrea Avelina Cardozo. 700.000*10. Lu",
+                "Antolin Rotela. 440.000*6. Lu",
+                "Celso Ferreira. 420.000*10. Lu",
+                "Concepcion Oviedo. Aire. 100.000*36. Lu",
+                "Concepcion Oviedo. Tv. 100.000*16. Lu",
+                "Crispin Rolon. 140.000*10. Lu. C2",
+                "Delfina Acosta. 140.000*10. Lu",
+                "Diego Martinez. 210.000*10. Lu",
+                "Edgar Erique Cuevas. 400.000*7. Lu",
+                "Edmundo Mendoza. 280.000*10. Lu. C2",
+                "Eduardo Duarte. 140.000*10. Lu",
+                "Gertrudis Riberos. 110.000*6. Lu",
+                "Gloria Amada Gomez. 140.000*10. Lu",
+                "Hector Recalde. 280.000*10. Lu",
+                "Helida Ortiz. 280.000*10. Lu",
+                "Ignacio Fleitas. Raquel. 140.000*10. Lu",
+                "Ignacio Fleitas. Raquel. 70.000*10. Lu",
+                "Laureana Insfran. 110.000*6. Lu",
+                "Laureana Insfran. 130.000*6. Lu",
+                "Laureana Insfran. Clara. 110.000*6. Lu",
+                "Laureana Insfran. Yerna. 220.000*6. Lu",
+                "Lidia Jara. 110.000*6. Lu",
+                "Lizandro Villalba. 210.000*10. Lu",
+                "Luana Sosa. 280.000*10. Lu",
+                "Maria Matilde Romero. Arcelia. 280.000*10. Lu",
+                "Maria Tomasa Ruiz. 420.000*10. Lu",
+                "Mario Franco. 140.000*10. Lu",
+                "Mateo Garcete. 210.000*10. Lu",
+                "Miguel Mendoza. 440.000*6. Lu",
+                "Pedro Antonio Gamarra. 150.000*4. Lu",
+                "Ramon Figueredo. 140.000*10. Lu",
+                "Raul Obregon. 210.000*10. Lu",
+                "Rosa Oviedo. 140.000*10. Lu",
+                "Rosalia Morinigo. Sandra. 140.000*10. Lu",
+                "Rosalia Morinigo. Sandra. 140.000*10. Lu. C2",
+                "Rosalia Morinigo. Sandra. 210.000*10. Lu",
+                "Rosalia Morinigo. Sandra. 70.000*10. Lu",
+                "Rosalia Morinigo. Sandra. 70.000*10. Lu. C1",
+                "Santiago Pereira. 140.000*10. Lu",
+                "Sixto Baez. 150.000*38. Lu",
+                "Victoria Romero. Aire. 300.000*35. Lu",
+                "Vilma Leguizamon. 140.000*10. Lu",
+                "Viviana Ortiz. 140.000*10. Lu",
+                "Zenaida Miltos. 210.000*10. Lu"
+            ],
             "Atrasados": [
                 "Arnaldo Saucedo. 440.000*3",
+                "Norma Beatriz Rivarola. 140.000*10. Ma",
                 "Willian Dominguez. 880.000*3"
             ]
         },
@@ -40,14 +93,27 @@
                 "Delia Blanco. 100.000*35. Sa",
                 "Delia Blanco. 140.000*10. Ma",
                 "Denis Francisco Colman. 440.000*3",
+                "Miguel Martinez. 660.000*3",
                 "Ramon Vera. 560.000*5",
                 "Ramona Ortiz. 300.000*2",
+                "Ramona Ortiz. 300.000*3",
+                "Ramona Ortiz. 440.000*3",
                 "Roque Martinez. 220.000*3",
                 "Walter Abel Oviedo. 990.000*2",
                 "Yesica Suarez. 560.000*5"
             ],
-            "Semanal": [],
-            "Atrasados": []
+            "Semanal": [
+                "Alfonzo Cabral. 175.000*6. Lu",
+                "Dorca Zarza. 280.000*10. Lu",
+                "Edgar Fleitas. 100.000*23. Lu",
+                "Edgar Fleitas. 140.000*10. Lu",
+                "Liz Paola Mancuello. 140.000*10. Lu"
+            ],
+            "Atrasados": [
+                "Evelin Silva. 1.200.000",
+                "Evelin Silva. 700.000*2. C1",
+                "Luciano Pintos. 600.000"
+            ]
         },
         "Saul": {
             "Diario": [
@@ -70,10 +136,94 @@
                 "Rosalina del Valle. 400.000*30",
                 "Thais Orquiola. Cesar Solis. 30.000*44"
             ],
-            "Mensual": [],
-            "Quincenal": [],
-            "Semanal": [],
-            "Atrasados": []
+            "Mensual": [
+                "Aldo Alcaraz. 1.200.000"
+            ],
+            "Quincenal": [
+                "Antonio Gonzalez. 440.000*3",
+                "Irene Martinez. 560.000*5",
+                "Juan Raimundo. 1.100.000",
+                "Lucia Quiñonez. 525.000*4",
+                "Richard Ronaldo Ayala. 560.000*5",
+                "Walter Gabriel Peralta. 280.000*5. C1",
+                "Walter Gabriel Peralta. 280.000*5. C2"
+            ],
+            "Semanal": [
+                "Adriana Amarilla. 220.000*6. Lu",
+                "Alberto Peralta. 150.000*4. Lu. C1",
+                "Alcides Rodas. 100.000*36. Lu",
+                "Alejandra Cano. 280.000*10. Lu. C1",
+                "Ana Gayoso. 220.000*6. Lu",
+                "Angelina Forcado. 140.000*10. Lu. C1",
+                "Benita Alfonzo. 420.000*10. Lu",
+                "Cesar Solis. 100.000*33. Lu",
+                "Cesar Solis. 280.000*10. Lu",
+                "Cristian Escobar. 220.000*6. Lu",
+                "Damian Gimenez. 220.000*6. Lu",
+                "Denis Coronel. 220.000*10. Lu",
+                "Elisa Ozorio. 110.000*6. Lu",
+                "Elsa Sotelo. 210.000*10. Lu",
+                "Elva Ferreira. 280.000*10. Lu",
+                "Erica Fidelina Roa. 140.000*10. Lu",
+                "Erica Fidelina Roa. Mama. 140.000*10. Lu",
+                "Evarista Aguilar. 220.000*6. Lu",
+                "Ezequiel Gimenez. 220.000*6. Lu",
+                "Feliciana Arevalos. 220.000*6. Lu",
+                "Fermiano Menese. Celular. 100.000*16. Lu",
+                "Flaminio Gonzalez. 140.000*10. Lu",
+                "Flaminio Gonzalez. 420.000*10. Lu",
+                "Flaminio Gonzalez. Hija. 265.000*8. Lu",
+                "Francisca Pereira. 140.000*10. Lu",
+                "Gedalia DelValle. Celular. 100.000*19. Lu",
+                "Gerardo Florentin. 150.000*4. Lu",
+                "Hugo Cabral. 70.000*10. Lu",
+                "Inocencia Gonzalez. 220.000*6. Lu",
+                "Juan Ayala. Aire. 100.000*29. Lu",
+                "Juan Delgado. 2.000.000*6. Lu",
+                "Juan Delgado. 400.000*6. Lu",
+                "Juan Pastor Gomez. 140.000*10. Lu",
+                "Juan Ricardo Martinez. 140.000*10. Lu",
+                "Juan Ricardo Martinez. Esposa. 110.000*6. Lu",
+                "Juan Ricardo Martinez. Herramientas. 80.000*14. Lu",
+                "Juana Fariña. 220.000*6. Lu",
+                "Lalia Barrios. 280.000*10. Lu",
+                "Leonarda Zalazar. 220.000*6. Lu",
+                "Librada Peralta. 140.000*10. Lu",
+                "Liduvina Cristaldo. 280.000*10. Lu",
+                "Liz Marina Colman. 140.000*10. Lu",
+                "Luis Arzamendia. 1.200.000*5. Lu",
+                "Mabel Villalba. Celular. 100.000*22. Lu",
+                "Marcia Torres. 140.000*10. Lu",
+                "Marcial Garcete Orue. 140.000*10. Lu",
+                "Marcos Acosta. 330.000*6. Lu",
+                "Maria Antonia Caballero. Heladera. 100.000*29. Lu",
+                "Maria Gregoria Florentin. 110.000*6. Lu",
+                "Mirian Molina. 265.000*8. Lu",
+                "Nidia Teresita Duarte. 350.000*10. Lu",
+                "Noelia Gonzalez Cano. 100.000*19. Lu",
+                "Noelia Gonzalez Cano. 280.000*10. Lu",
+                "Norma Beatriz Blanco. 140.000*10. Lu",
+                "Ovidio Ortiz. 210.000*10. Lu",
+                "Perla Fernandez. 110.000*6. Lu",
+                "Perla Gonzalez Cano. 280.000*10. Lu",
+                "Rosalba Ojeda. 220.000*6. Lu",
+                "Rosalia Gonzalez. 110.000*6. Lu. C1",
+                "Ruth Mendez Olmedo. 140.000*10. Lu",
+                "Saul Cardenas. Amiga. 110.000*6. Lu. C1",
+                "Silvina Delvalle. 140.000*10. Lu",
+                "Susana de Leite. Pablo. 300.000*7. Lu",
+                "Vanesa Servian. 110.000*6. Lu",
+                "Victor Mendoza. 420.000*10. Lu",
+                "Wilner Peralta. 220.000*6. Lu"
+            ],
+            "Atrasados": [
+                "Cessia Cocco. 125.000*31. Vi",
+                "Liz Karina Bogado. 140.000*10. Mi",
+                "Liz Karina Bogado. 210.000*10. Mi",
+                "Lucila Delgado. 200.000*7. Sa",
+                "Sofia Aquino. 280.000*10. Vi",
+                "Tomasa Cantero. 100.000*28. Mi"
+            ]
         }
     }
 }
