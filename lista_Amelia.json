@@ -57,6 +57,12 @@
             "NoTInteres": 0,
             "TCuota": 170000,
             "TInteres": 0
+        },
+        "Andrea Avelina Cardozo. 700.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 900000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
