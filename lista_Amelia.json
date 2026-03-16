@@ -165,6 +165,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Rosalia Morinigo. Sandra. 70.000*10. Lu. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "en 7 pagos"
         }
     },
     "Gastos": {}
