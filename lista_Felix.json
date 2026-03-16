@@ -1,12 +1,13 @@
 {
-    "fecha_ultimo_guardado": "15\/03\/2026",
+    "fecha_ultimo_guardado": "16\/03\/2026",
     "cuentas": [],
     "Pagos": {
-        "Delia Blanco. 100.000*35. Sa": {
-            "NoTCuota": 140000,
+        "Edgar Fleitas. 100.000*23. Lu": {
+            "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 0
+            "TInteres": 0,
+            "Error": "número equivocado"
         }
     },
     "Gastos": {}
