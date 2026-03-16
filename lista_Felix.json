@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "16/03/2026",
+    "fecha_ultimo_guardado": "16\/03\/2026",
     "cuentas": [
         {
             "seccion": "Crear cuenta",
@@ -30,10 +30,10 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "número equivocado",
-            "sigpago": "23/03/2026"
+            "sigpago": "23\/03\/2026"
         },
         "Edgar Fleitas. 140.000*10. Lu": {
-            "sigpago": "23/03/2026"
+            "sigpago": "23\/03\/2026"
         },
         "Miguel Martinez. 660.000*3": {
             "NoTCuota": 0,
@@ -43,25 +43,25 @@
             "Error": "número equivocado"
         },
         "Yesica Suarez. 560.000*5": {
-            "sigpago": "20/03/2026"
+            "sigpago": "20\/03\/2026"
         },
         "Cynthia Alarcon. 220.000*3": {
-            "sigpago": "21/03/2026"
+            "sigpago": "21\/03\/2026"
         },
         "Cynthia Alarcon. 220.000*3. C2": {
-            "sigpago": "21/03/2026"
+            "sigpago": "21\/03\/2026"
         },
         "Derlis Pintos. Celular. 100.000*22. Vi": {
-            "sigpago": "20/03/2026"
+            "sigpago": "20\/03\/2026"
         },
         "Eliane Mariela Colman. 525.000*8. Vi": {
-            "sigpago": "20/03/2026"
+            "sigpago": "20\/03\/2026"
         },
         "Evelin Silva. 1.200.000": {
-            "sigpago": "23/03/2026"
+            "sigpago": "23\/03\/2026"
         },
         "Evelin Silva. 700.000*2. C1": {
-            "sigpago": "23/03/2026"
+            "sigpago": "23\/03\/2026"
         },
         "Fabiola Cañete. 1.200.000*3": {
             "NoTCuota": 0,
@@ -71,7 +71,7 @@
             "Error": "fin de mes"
         },
         "Fatima Fonseca. 140.000*10. Sa": {
-            "sigpago": "19/03/2026"
+            "sigpago": "19\/03\/2026"
         },
         "Elsa Cañete. 60.000*44": {
             "NoTCuota": 0,
@@ -128,19 +128,25 @@
             "TInteres": 0
         },
         "Ramon Vera. 560.000*5": {
-            "sigpago": "20/03/2026"
+            "sigpago": "20\/03\/2026"
         },
         "Ramon Vera. 1.200.000": {
-            "sigpago": "20/03/2026"
+            "sigpago": "20\/03\/2026"
         },
         "Walter Abel Oviedo. 990.000*2": {
-            "sigpago": "20/03/2026"
+            "sigpago": "20\/03\/2026"
         },
         "Yanina Plaz. 140.000*10. Sa": {
-            "sigpago": "21/03/2026"
+            "sigpago": "21\/03\/2026"
         },
         "Yanina Plaz. 210.000*10. Sa": {
-            "sigpago": "21/03/2026"
+            "sigpago": "21\/03\/2026"
+        },
+        "Miguel Angel Flores. 140.000*10. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 175000,
+            "TInteres": 0
         }
     },
     "Gastos": {
