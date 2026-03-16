@@ -202,6 +202,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Leonarda Baez. Estela. 210.000*10. Ma": {
+            "NoTCuota": 300000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
