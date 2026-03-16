@@ -85,6 +85,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 320000
+        },
+        "Alberto Peralta. 150.000*4. Lu. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pasar sabado"
         }
     },
     "Gastos": {}
