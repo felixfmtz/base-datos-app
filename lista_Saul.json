@@ -2,26 +2,11 @@
     "fecha_ultimo_guardado": "16\/03\/2026",
     "cuentas": [],
     "Pagos": {
-        "Juana Fariña. 220.000*6. Lu": {
-            "NoTCuota": 0,
+        "Clyde Isabel Justiniano. 20.000*33": {
+            "NoTCuota": 20000,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 0,
-            "Error": "número equivocado"
-        },
-        "Lalia Barrios. 280.000*10. Lu": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "número equivocado"
-        },
-        "Lucia Quiñonez. 525.000*4": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "número equivocado"
+            "TInteres": 0
         }
     },
     "Gastos": {}
