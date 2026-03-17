@@ -27,6 +27,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Martes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Delcia Castillo",
+                    "Deuda": "2.000.000",
+                    "Garante": "marcelo",
+                    "NCuotas": "10",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
