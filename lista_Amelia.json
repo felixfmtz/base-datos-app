@@ -11,6 +11,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Matilde Rodriguez",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
                 }
             ]
         }
