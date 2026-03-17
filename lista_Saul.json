@@ -1,14 +1,18 @@
 {
-    "fecha_ultimo_guardado": "16\/03\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": []
-        }
-    ],
+    "fecha_ultimo_guardado": "17\/03\/2026",
+    "cuentas": [],
     "Pagos": {
-        "Adriana Amarilla. 220.000*6. Lu": {
-            "sigpago": "23\/03\/2026"
+        "Irene Martinez. 560.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 160000
+        },
+        "Ignacio Melgarejo. 20.000*30": {
+            "NoTCuota": 20000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
