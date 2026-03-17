@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "17\/03\/2026",
+    "fecha_ultimo_guardado": "17/03/2026",
     "cuentas": [],
     "Pagos": {
         "Recordatorio 2. Comisario": {
@@ -14,7 +14,8 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0,
-            "Error": "puerva"
+            "Error": "puerva",
+            "sigpago": "18/03/2026"
         }
     },
     "Gastos": {}
