@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "17\/03\/2026",
+    "fecha_ultimo_guardado": "17/03/2026",
     "cuentas": [],
     "Pagos": {
         "Delfina Britez. 120.000*44": {
@@ -31,6 +31,9 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Leonarda Baez. Estela. 210.000*10. Ma": {
+            "sigpago": "21/03/2026"
         }
     },
     "Gastos": {}
