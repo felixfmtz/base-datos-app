@@ -24,6 +24,12 @@
         },
         "Ignacio Melgarejo. 20.000*30": {
             "sigpago": "18\/03\/2026"
+        },
+        "Maria Gauto. 15.000*44": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
