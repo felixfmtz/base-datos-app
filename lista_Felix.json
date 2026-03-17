@@ -166,6 +166,10 @@
         "motor": {
             "valor": 750000,
             "accion": "sumar"
+        },
+        "sueldo bruni": {
+            "valor": 750000,
+            "accion": "sumar"
         }
     }
 }
