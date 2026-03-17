@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "17/03/2026",
+    "fecha_ultimo_guardado": "17\/03\/2026",
     "cuentas": [
         {
             "seccion": "Crear cuenta",
@@ -10,6 +10,14 @@
                     "Garante": "pueba",
                     "NCuotas": "1",
                     "Frecuencia": "Viernes",
+                    "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Adela Cristaldo",
+                    "Deuda": "1.000.000",
+                    "Garante": "666",
+                    "NCuotas": "",
+                    "Frecuencia": "Martes",
                     "Transferencia": "No"
                 }
             ]
@@ -29,10 +37,10 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "puerva",
-            "sigpago": "18/03/2026"
+            "sigpago": "18\/03\/2026"
         },
         "Ignacio Melgarejo. 20.000*30": {
-            "sigpago": "18/03/2026"
+            "sigpago": "18\/03\/2026"
         }
     },
     "Gastos": {}
