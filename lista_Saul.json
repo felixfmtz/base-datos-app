@@ -2,56 +2,8 @@
     "fecha_ultimo_guardado": "17\/03\/2026",
     "cuentas": [],
     "Pagos": {
-        "Irene Martinez. 560.000*5": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 160000
-        },
-        "Ignacio Melgarejo. 20.000*30": {
-            "NoTCuota": 20000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Lourdes Arce. 120.000*30": {
-            "NoTCuota": 80000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Gedalia DelValle. 180.000*30": {
-            "NoTCuota": 180000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Rosalina del Valle. 400.000*30": {
-            "NoTCuota": 400000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Thais Orquiola. Cesar Solis. 30.000*44": {
-            "NoTCuota": 90000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Maria Gauto. 15.000*44": {
-            "NoTCuota": 15000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Marcelina Lopez. 220.000*6. Ma": {
-            "NoTCuota": 220000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Leopoldo Pereira. 90.000*44": {
-            "NoTCuota": 100000,
+        "Anibal Godoy. 40.000*30": {
+            "NoTCuota": 110000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
