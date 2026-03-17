@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "17/03/2026",
+    "fecha_ultimo_guardado": "17\/03\/2026",
     "cuentas": [
         {
             "seccion": "Crear cuenta",
@@ -17,7 +17,7 @@
     ],
     "Pagos": {
         "Ruben Dario Gonzalez. 300.000*7. Sa": {
-            "sigpago": "21/03/2026"
+            "sigpago": "21\/03\/2026"
         },
         "Sonia Amarilla. 220.000*6. Sa": {
             "NoTCuota": 0,
@@ -26,10 +26,17 @@
             "TInteres": 50000
         },
         "Sixto Villalba. 280.000*5": {
-            "sigpago": "21/03/2026"
+            "sigpago": "21\/03\/2026"
         },
         "Roque Martinez. 220.000*3": {
-            "sigpago": "28/03/2026"
+            "sigpago": "28\/03\/2026"
+        },
+        "Recordatorio F. Joya. 0. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "borrar"
         }
     },
     "Gastos": {
