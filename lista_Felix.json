@@ -142,6 +142,12 @@
         },
         "Alfredo Castillo. 1.200.000. C2": {
             "sigpago": "18\/03\/2026"
+        },
+        "Bruno Martinez. 100.000*30. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
