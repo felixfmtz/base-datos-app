@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "17\/03\/2026",
+    "fecha_ultimo_guardado": "17/03/2026",
     "cuentas": [],
     "Pagos": {
         "Delfina Britez. 120.000*44": {
@@ -33,10 +33,10 @@
             "TInteres": 0
         },
         "Leonarda Baez. Estela. 210.000*10. Ma": {
-            "sigpago": "21\/03\/2026"
+            "sigpago": "21/03/2026"
         },
         "Adela Cristaldo. 700.000*10. Lu": {
-            "sigpago": "19\/03\/2026"
+            "sigpago": "19/03/2026"
         },
         "Concepcion Oviedo. 110.000*6. Vi": {
             "NoTCuota": 0,
@@ -49,6 +49,9 @@
             "NoTInteres": 0,
             "TCuota": 100000,
             "TInteres": 0
+        },
+        "Dario Rene Pintos. 1.200.000": {
+            "sigpago": "08/04/2026"
         }
     },
     "Gastos": {}
