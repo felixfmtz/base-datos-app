@@ -349,6 +349,10 @@
         "casa 2": {
             "valor": 15000,
             "accion": "sumar"
+        },
+        "gomeria": {
+            "valor": 70000,
+            "accion": "sumar"
         }
     }
 }
