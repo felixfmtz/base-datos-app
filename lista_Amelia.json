@@ -19,6 +19,14 @@
                     "NCuotas": "",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Cristian Baez",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "3",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
                 }
             ]
         }
