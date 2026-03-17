@@ -1,9 +1,15 @@
 {
-    "fecha_ultimo_guardado": "17/03/2026",
+    "fecha_ultimo_guardado": "17\/03\/2026",
     "cuentas": [],
     "Pagos": {
         "Ruben Dario Gonzalez. 300.000*7. Sa": {
-            "sigpago": "21/03/2026"
+            "sigpago": "21\/03\/2026"
+        },
+        "Sonia Amarilla. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 50000
         }
     },
     "Gastos": {}
