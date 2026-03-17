@@ -5,14 +5,6 @@
             "seccion": "Crear cuenta",
             "items": [
                 {
-                    "nombreOriginal": "Adela Cristaldo",
-                    "Deuda": "1.000.000",
-                    "Garante": "666",
-                    "NCuotas": "",
-                    "Frecuencia": "Martes",
-                    "Transferencia": "No"
-                },
-                {
                     "nombreOriginal": "Adriana Amarilla",
                     "Deuda": "65.000",
                     "Garante": "Sin Garante",
