@@ -65,6 +65,13 @@
             "NoTInteres": 120000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Roman Flores. 300.000*4. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "primer pago sig"
         }
     },
     "Gastos": {
