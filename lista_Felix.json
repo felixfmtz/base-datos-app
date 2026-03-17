@@ -156,6 +156,10 @@
         "joya": {
             "valor": 300000,
             "accion": "sumar"
+        },
+        "motor": {
+            "valor": 750000,
+            "accion": "sumar"
         }
     }
 }
