@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "17\/03\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Dorca Zarza",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Ruben Dario Gonzalez. 300.000*7. Sa": {
             "sigpago": "21\/03\/2026"
