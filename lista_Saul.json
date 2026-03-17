@@ -5,14 +5,6 @@
             "seccion": "Crear cuenta",
             "items": [
                 {
-                    "nombreOriginal": "Abelino Peralta",
-                    "Deuda": "1.000.000",
-                    "Garante": "pueba",
-                    "NCuotas": "1",
-                    "Frecuencia": "Viernes",
-                    "Transferencia": "No"
-                },
-                {
                     "nombreOriginal": "Adela Cristaldo",
                     "Deuda": "1.000.000",
                     "Garante": "666",
