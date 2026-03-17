@@ -27,6 +27,14 @@
                     "NCuotas": "3",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Kateri Mareco Rios",
+                    "Deuda": "1.000.000",
+                    "Garante": "Gloria ",
+                    "NCuotas": "6",
+                    "Frecuencia": "",
+                    "Transferencia": "Si"
                 }
             ]
         }
