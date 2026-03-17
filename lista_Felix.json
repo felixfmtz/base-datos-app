@@ -3,7 +3,16 @@
     "cuentas": [
         {
             "seccion": "Crear cuenta",
-            "items": []
+            "items": [
+                {
+                    "nombreOriginal": "Dorca Zarza",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "Si"
+                }
+            ]
         }
     ],
     "Pagos": {
