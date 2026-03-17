@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "17\/03\/2026",
+    "fecha_ultimo_guardado": "17/03/2026",
     "cuentas": [
         {
             "seccion": "Crear cuenta",
@@ -47,10 +47,10 @@
             "TInteres": 0
         },
         "Leonarda Baez. Estela. 210.000*10. Ma": {
-            "sigpago": "21\/03\/2026"
+            "sigpago": "21/03/2026"
         },
         "Adela Cristaldo. 700.000*10. Lu": {
-            "sigpago": "19\/03\/2026"
+            "sigpago": "19/03/2026"
         },
         "Concepcion Oviedo. 110.000*6. Vi": {
             "NoTCuota": 0,
@@ -65,16 +65,16 @@
             "TInteres": 0
         },
         "Dario Rene Pintos. 1.200.000": {
-            "sigpago": "08\/04\/2026"
+            "sigpago": "08/04/2026"
         },
         "Griselda Pereira. 110.000*6. Ma": {
-            "sigpago": "18\/03\/2026"
+            "sigpago": "18/03/2026"
         },
         "Fredy Pintos. 140.000*10. Ma": {
-            "sigpago": "21\/03\/2026"
+            "sigpago": "21/03/2026"
         },
         "Marciano Cerdan. Liz. 280.000*5": {
-            "sigpago": "23\/03\/2026"
+            "sigpago": "23/03/2026"
         },
         "Willian Dominguez. 880.000*3": {
             "NoTCuota": 0,
@@ -119,7 +119,7 @@
             "TInteres": 0
         },
         "Norma Beatriz Rivarola. 140.000*10. Ma": {
-            "sigpago": "19\/03\/2026"
+            "sigpago": "19/03/2026"
         },
         "Juliana Roman. 420.000*10. Mi": {
             "NoTCuota": 1320000,
@@ -138,6 +138,9 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Maria del Rosario. 220.000*6. Ma": {
+            "sigpago": "19/03/2026"
         }
     },
     "Gastos": {}
