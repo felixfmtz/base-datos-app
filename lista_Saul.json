@@ -1,27 +1,23 @@
 {
-    "fecha_ultimo_guardado": "17\/03\/2026",
-    "cuentas": [],
+    "fecha_ultimo_guardado": "16\/03\/2026",
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Dorca Zarza",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
-        "Dario Roman. 360.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "sin numero"
-        },
-        "Lalia Barrios. 280.000*10. Lu": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "numero equivocado"
-        },
-        "Lucia Quiñonez. 525.000*4": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "numero equivocado"
+        "Adriana Amarilla. 220.000*6. Lu": {
+            "sigpago": "23\/03\/2026"
         }
     },
     "Gastos": {}
