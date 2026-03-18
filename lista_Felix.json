@@ -76,6 +76,10 @@
                 {
                     "nombreOriginal": "Abelino Peralta",
                     "dia": "Lu"
+                },
+                {
+                    "nombreOriginal": "Adelina Barreto",
+                    "dia": "Ma"
                 }
             ]
         }
@@ -201,6 +205,10 @@
         "plomero 3": {
             "valor": 1000000,
             "accion": "restar"
+        },
+        "73737": {
+            "valor": 3232000,
+            "accion": "sumar"
         }
     }
 }
