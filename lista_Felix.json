@@ -1,9 +1,16 @@
 {
-    "fecha_ultimo_guardado": "18/03/2026",
+    "fecha_ultimo_guardado": "18\/03\/2026",
     "cuentas": [],
     "Pagos": {
         "Laura Morinigo. 440.000*3": {
-            "sigpago": "20/03/2026"
+            "sigpago": "20\/03\/2026"
+        },
+        "Recordatorio 1. Gim. 1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "sigpago": "Pagado"
         }
     },
     "Gastos": {}
