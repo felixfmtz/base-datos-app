@@ -1,9 +1,15 @@
 {
-    "fecha_ultimo_guardado": "18/03/2026",
+    "fecha_ultimo_guardado": "18\/03\/2026",
     "cuentas": [],
     "Pagos": {
         "Candido Cabral. 220.000*6. Ma": {
-            "sigpago": "24/03/2026"
+            "sigpago": "24\/03\/2026"
+        },
+        "Irma Raquel Cantero. 350.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 700000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
