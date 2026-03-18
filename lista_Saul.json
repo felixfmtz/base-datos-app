@@ -43,6 +43,10 @@
         "prueb": {
             "valor": 10000,
             "accion": "sumar"
+        },
+        "pueba 2": {
+            "valor": 10000,
+            "accion": "restar"
         }
     }
 }
