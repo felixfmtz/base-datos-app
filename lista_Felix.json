@@ -59,6 +59,14 @@
                     "NCuotas": "",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Alberto Peralta",
+                    "Deuda": "35.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
                 }
             ]
         },
@@ -166,6 +174,12 @@
         },
         "Nelva Colman. 350.000*8. Ju": {
             "NoTCuota": 350000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Ramona Ortiz. 110.000*6. Sa": {
+            "NoTCuota": 110000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
