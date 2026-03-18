@@ -39,6 +39,10 @@
         "83637": {
             "valor": 36000,
             "accion": "sumar"
+        },
+        "prueb": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
