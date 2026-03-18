@@ -3,16 +3,7 @@
     "cuentas": [
         {
             "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Abelino Peralta",
-                    "Deuda": "2.580.000",
-                    "Garante": "356",
-                    "NCuotas": "",
-                    "Frecuencia": "Quincenal",
-                    "Transferencia": "No"
-                }
-            ]
+            "items": []
         }
     ],
     "Pagos": {
