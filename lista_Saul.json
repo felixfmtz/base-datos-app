@@ -7,6 +7,12 @@
             "NoTInteres": 0,
             "TCuota": 150000,
             "TInteres": 0
+        },
+        "Valdecir de Oliveira. 100.000*17. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
