@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "18\/03\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Adela Cristaldo",
+                    "Deuda": "1.000.000",
+                    "Garante": "prueba",
+                    "NCuotas": "6",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Anibal Godoy. 40.000*30": {
             "NoTCuota": 220000,
