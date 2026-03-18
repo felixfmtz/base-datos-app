@@ -35,6 +35,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Victor Gimenez",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
@@ -114,6 +122,9 @@
             "TInteres": 0
         },
         "Mirna Cardenas. 1.000.000*6. Mi": {
+            "sigpago": "19\/03\/2026"
+        },
+        "Alfonzo Cabral. 175.000*6. Lu": {
             "sigpago": "19\/03\/2026"
         }
     },
