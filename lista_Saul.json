@@ -166,6 +166,12 @@
             "NoTInteres": 0,
             "TCuota": 120000,
             "TInteres": 0
+        },
+        "Anibal Godoy. 1.320.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 100000
         }
     },
     "Gastos": {
