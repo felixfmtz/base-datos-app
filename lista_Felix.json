@@ -45,6 +45,15 @@
                     "Transferencia": "Si"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Abelino Peralta",
+                    "dia": "Lu"
+                }
+            ]
         }
     ],
     "Pagos": {
