@@ -19,6 +19,14 @@
                     "NCuotas": "3",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Paola Insfran",
+                    "Deuda": "100.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "Si"
                 }
             ]
         }
@@ -68,6 +76,12 @@
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 80000,
+            "TInteres": 0
+        },
+        "Cristobal Muñoz. 250.000*6. Mi": {
+            "NoTCuota": 250000,
+            "NoTInteres": 0,
+            "TCuota": 0,
             "TInteres": 0
         }
     },
