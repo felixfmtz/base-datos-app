@@ -92,6 +92,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Mabel Villalba. 220.000*6. Ma": {
+            "NoTCuota": 22000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
@@ -113,6 +119,10 @@
         },
         "90": {
             "valor": 36000,
+            "accion": "sumar"
+        },
+        "65": {
+            "valor": 32000,
             "accion": "sumar"
         }
     }
