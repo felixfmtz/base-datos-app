@@ -87,7 +87,11 @@
             "TInteres": 0
         },
         "Cesar Solis. 100.000*23. Ma": {
-            "sigpago": "18\/03\/2026"
+            "sigpago": "18\/03\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
