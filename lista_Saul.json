@@ -2,11 +2,12 @@
     "fecha_ultimo_guardado": "18\/03\/2026",
     "cuentas": [],
     "Pagos": {
-        "Anibal Godoy. 40.000*30": {
-            "NoTCuota": 220000,
+        "Dario Roman. 840.000": {
+            "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 0
+            "TInteres": 0,
+            "Error": "telefono"
         }
     },
     "Gastos": {}
