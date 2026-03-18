@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "18/03/2026",
+    "fecha_ultimo_guardado": "18\/03\/2026",
     "cuentas": [],
     "Pagos": {
         "Rosalba Ojeda. Aire. 150.000*34. Ma": {
@@ -15,10 +15,10 @@
             "TInteres": 0
         },
         "Liz Karina Bogado. 210.000*10. Mi": {
-            "sigpago": "23/03/2026"
+            "sigpago": "23\/03\/2026"
         },
         "Liz Karina Bogado. 140.000*10. Mi": {
-            "sigpago": "23/03/2026"
+            "sigpago": "23\/03\/2026"
         },
         "Andrea Felicia Arzamendia. 140.000*10. Sa": {
             "NoTCuota": 134000,
@@ -45,7 +45,7 @@
             "TInteres": 0
         },
         "Cristina Yegros. 280.000*10. Mi": {
-            "sigpago": "21/03/2026"
+            "sigpago": "21\/03\/2026"
         },
         "Gedalia DelValle. 180.000*30": {
             "NoTCuota": 180000,
@@ -72,7 +72,13 @@
             "TInteres": 0
         },
         "Liliana Olmedo. 70.000*10. Sa": {
-            "sigpago": "21/03/2026"
+            "sigpago": "21\/03\/2026"
+        },
+        "Claudio Nicolas Aguilar. 110.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
