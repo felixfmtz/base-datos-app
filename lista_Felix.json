@@ -114,5 +114,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "daniel saucedo": {
+            "valor": 600000,
+            "accion": "sumar"
+        }
+    }
 }
