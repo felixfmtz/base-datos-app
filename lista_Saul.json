@@ -102,6 +102,10 @@
         "ue73": {
             "valor": 33000,
             "accion": "sumar"
+        },
+        "90": {
+            "valor": 36000,
+            "accion": "sumar"
         }
     }
 }
