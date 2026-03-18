@@ -11,6 +11,14 @@
                     "NCuotas": "4",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Digna Lopez",
+                    "Deuda": "700.000",
+                    "Garante": "monica",
+                    "NCuotas": "3",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
                 }
             ]
         }
