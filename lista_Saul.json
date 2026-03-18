@@ -124,6 +124,10 @@
         "65": {
             "valor": 32000,
             "accion": "sumar"
+        },
+        "57": {
+            "valor": 36000,
+            "accion": "sumar"
         }
     }
 }
