@@ -132,6 +132,12 @@
         },
         "Alfredo Castillo. 1.200.000. C2": {
             "sigpago": "19\/03\/2026"
+        },
+        "Pedro Franco. 700.000*10. Mi": {
+            "NoTCuota": 1400000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
