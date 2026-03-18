@@ -77,7 +77,8 @@
             "NoTCuota": 220000,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 0
+            "TInteres": 0,
+            "sigpago": "18\/03\/2026"
         },
         "Narciso Achar. 105.000*44": {
             "NoTCuota": 32000,
