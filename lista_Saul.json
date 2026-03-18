@@ -1,5 +1,5 @@
 {
-    "fecha_ultimo_guardado": "18\/03\/2026",
+    "fecha_ultimo_guardado": "18/03/2026",
     "cuentas": [],
     "Pagos": {
         "Rosalba Ojeda. Aire. 150.000*34. Ma": {
@@ -13,6 +13,9 @@
             "NoTInteres": 0,
             "TCuota": 100000,
             "TInteres": 0
+        },
+        "Liz Karina Bogado. 210.000*10. Mi": {
+            "sigpago": "23/03/2026"
         }
     },
     "Gastos": {}
