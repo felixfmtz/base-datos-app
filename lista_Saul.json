@@ -1,133 +1,13 @@
 {
-    "fecha_ultimo_guardado": "17\/03\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": []
-        }
-    ],
+    "fecha_ultimo_guardado": "18\/03\/2026",
+    "cuentas": [],
     "Pagos": {
-        "Recordatorio 2. Comisario": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "sigpago": "Pagado"
-        },
-        "Adriana Hobeker. 70.000*10. Sa": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "puerva",
-            "sigpago": "18\/03\/2026"
-        },
-        "Ignacio Melgarejo. 20.000*30": {
-            "sigpago": "18\/03\/2026"
-        },
-        "Maria Gauto. 15.000*44": {
+        "Anibal Godoy. 40.000*30": {
             "NoTCuota": 220000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Maria Francisca. 30.000*44": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Nanci Milton. 30.000*44. C1": {
-            "NoTCuota": 220000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ordonia Davalos. 50.000*24. C1": {
-            "NoTCuota": 220000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Rosalba Gonzalez Duarte. 15.000*44": {
-            "NoTCuota": 220000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Thais Orquiola. Cesar Solis. 30.000*44": {
-            "NoTCuota": 220000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Rosalina del Valle. 400.000*30": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 220000,
-            "TInteres": 0
-        },
-        "Bartola Cubilla. 220.000*6. Ma": {
-            "NoTCuota": 220000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ordonia Davalos. 25.000*24": {
-            "NoTCuota": 220000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "sigpago": "18\/03\/2026"
-        },
-        "Narciso Achar. 105.000*44": {
-            "NoTCuota": 32000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Cesar Solis. 100.000*23. Ma": {
-            "sigpago": "18\/03\/2026",
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Mabel Villalba. 220.000*6. Ma": {
-            "NoTCuota": 22000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
         }
     },
-    "Gastos": {
-        "jsjsj": {
-            "valor": 23000,
-            "accion": "sumar"
-        },
-        "jsjsj 2": {
-            "valor": 23000,
-            "accion": "sumar"
-        },
-        "yqyqyq": {
-            "valor": 22000,
-            "accion": "sumar"
-        },
-        "ue73": {
-            "valor": 33000,
-            "accion": "sumar"
-        },
-        "90": {
-            "valor": 36000,
-            "accion": "sumar"
-        },
-        "65": {
-            "valor": 32000,
-            "accion": "sumar"
-        },
-        "57": {
-            "valor": 36000,
-            "accion": "sumar"
-        }
-    }
+    "Gastos": {}
 }
