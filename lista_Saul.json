@@ -2,19 +2,11 @@
     "fecha_ultimo_guardado": "18\/03\/2026",
     "cuentas": [],
     "Pagos": {
-        "Dario Roman. 840.000": {
+        "Rosalba Ojeda. Aire. 150.000*34. Ma": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "telefono"
-        },
-        "Liduvina Cristaldo. 280.000*10. Lu": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "telefono"
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
