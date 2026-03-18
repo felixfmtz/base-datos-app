@@ -146,6 +146,10 @@
         "plomero 2": {
             "valor": 1000000,
             "accion": "sumar"
+        },
+        "plomero 3": {
+            "valor": 1000000,
+            "accion": "restar"
         }
     }
 }
