@@ -19,6 +19,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Jueves",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Juan Carlos Duarte",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
                 }
             ]
         }
@@ -94,6 +102,12 @@
             "NoTCuota": 200000,
             "NoTInteres": 0,
             "TCuota": 0,
+            "TInteres": 0
+        },
+        "Dorca Zarza. 2.100.000. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 700000,
             "TInteres": 0
         }
     },
