@@ -92,6 +92,10 @@
         "combus": {
             "valor": 280000,
             "accion": "sumar"
+        },
+        "casa": {
+            "valor": 5000,
+            "accion": "sumar"
         }
     }
 }
