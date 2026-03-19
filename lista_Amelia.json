@@ -86,6 +86,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "pasar jueves"
+        },
+        "Adriana Ovando. 140.000*10. Ju": {
+            "NoTCuota": 40000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
