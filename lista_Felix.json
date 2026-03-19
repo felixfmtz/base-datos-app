@@ -152,6 +152,12 @@
         },
         "Alfredo Castillo. 280.000": {
             "sigpago": "21\/03\/2026"
+        },
+        "Elsa Cañete. 60.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 60000,
+            "TInteres": 0
         }
     },
     "Gastos": {
