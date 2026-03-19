@@ -105,6 +105,10 @@
         "maquina": {
             "valor": 4890000,
             "accion": "sumar"
+        },
+        "plomeria": {
+            "valor": 860000,
+            "accion": "sumar"
         }
     }
 }
