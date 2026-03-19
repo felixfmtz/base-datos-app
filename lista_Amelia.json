@@ -31,6 +31,22 @@
         },
         "Miguel Pascual Alfonzo. Emilce. 140.000*5": {
             "sigpago": "23\/03\/2026"
+        },
+        "Santiago Pereira. 280.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "mudar viernes"
+        },
+        "Norma Beatriz Rivarola. 140.000*10. Ma": {
+            "sigpago": "23\/03\/2026"
+        },
+        "Claudia Gomez. 70.000*10. Sa": {
+            "NoTCuota": 70000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
