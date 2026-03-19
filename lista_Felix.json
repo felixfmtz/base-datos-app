@@ -1,24 +1,9 @@
 {
-    "fecha_ultimo_guardado": "18\/03\/2026",
+    "fecha_ultimo_guardado": "19\/03\/2026",
     "cuentas": [],
     "Pagos": {
-        "Cristobal Muñoz. 250.000*6. Mi": {
-            "NoTCuota": 250000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Mirna Cardenas. 1.000.000*6. Mi": {
+        "Delia Blanco. 100.000*35. Sa": {
             "sigpago": "22\/03\/2026"
-        },
-        "Cristobal Muñoz. 250.000*6. Mi. C1": {
-            "NoTCuota": 250000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Pedro Franco. 700.000*10. Mi": {
-            "sigpago": "29\/03\/2026"
         }
     },
     "Gastos": {}
