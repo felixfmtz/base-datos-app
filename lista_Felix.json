@@ -37,6 +37,12 @@
         },
         "Isaias Castillo. 550.000. Ju": {
             "sigpago": "26\/03\/2026"
+        },
+        "Gladys Robertti. Leonardo Dure. 1.200.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 200000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
