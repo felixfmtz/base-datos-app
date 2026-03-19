@@ -79,7 +79,19 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Victoria Romero. 280.000*10. Mi. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pasar jueves"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "combus": {
+            "valor": 280000,
+            "accion": "sumar"
+        }
+    }
 }
