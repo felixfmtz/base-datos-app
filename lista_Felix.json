@@ -158,6 +158,10 @@
         "plomeria": {
             "valor": 860000,
             "accion": "sumar"
+        },
+        "bebida": {
+            "valor": 141000,
+            "accion": "sumar"
         }
     }
 }
