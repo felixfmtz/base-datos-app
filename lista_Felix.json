@@ -59,6 +59,14 @@
                     "NCuotas": "3",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Gessica Bobadilla",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
@@ -177,6 +185,12 @@
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 80000,
+            "TInteres": 0
+        },
+        "Camila Heinler. Luis. 220.000*3": {
+            "NoTCuota": 250000,
+            "NoTInteres": 0,
+            "TCuota": 0,
             "TInteres": 0
         }
     },
