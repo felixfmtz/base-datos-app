@@ -11,6 +11,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Jueves",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Diego Dure",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "No"
                 }
             ]
         }
@@ -67,6 +75,12 @@
         "Diego Dure. 220.000*6. Sa": {
             "NoTCuota": 220000,
             "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Hugo Careres. Olier. 300.000*2. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 50000,
             "TCuota": 0,
             "TInteres": 0
         }
