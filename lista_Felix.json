@@ -95,6 +95,10 @@
         "ajuste": {
             "valor": 40000,
             "accion": "sumar"
+        },
+        "maquina": {
+            "valor": 4890000,
+            "accion": "sumar"
         }
     }
 }
