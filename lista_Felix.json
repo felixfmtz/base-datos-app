@@ -7,6 +7,12 @@
         },
         "Delia Blanco. 140.000*10. Ma": {
             "sigpago": "21\/03\/2026"
+        },
+        "Pedro Franco. 50.000*7. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 50000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
