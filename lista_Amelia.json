@@ -3,16 +3,7 @@
     "cuentas": [
         {
             "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Laureana Insfran",
-                    "Deuda": "660.000",
-                    "Garante": "Benito ",
-                    "NCuotas": "6",
-                    "Frecuencia": "Lunes",
-                    "Transferencia": "No"
-                }
-            ]
+            "items": []
         }
     ],
     "Pagos": {
