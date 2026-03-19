@@ -57,5 +57,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "ajuste": {
+            "valor": 40000,
+            "accion": "sumar"
+        }
+    }
 }
