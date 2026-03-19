@@ -27,6 +27,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Laureana Insfran",
+                    "Deuda": "500.000",
+                    "Garante": "liz",
+                    "NCuotas": "6",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
@@ -186,6 +194,12 @@
         },
         "Crispin Rolon. 140.000*10. Ju": {
             "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Felicia Vda de Franco. 220.000*6. Vi. C1": {
+            "NoTCuota": 220000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
