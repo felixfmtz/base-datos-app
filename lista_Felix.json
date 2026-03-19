@@ -162,6 +162,10 @@
         "bebida": {
             "valor": 141000,
             "accion": "sumar"
+        },
+        "basurero": {
+            "valor": 136000,
+            "accion": "sumar"
         }
     }
 }
