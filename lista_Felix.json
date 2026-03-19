@@ -43,6 +43,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Tomasa Cantero",
+                    "Deuda": "2.340.000",
+                    "Garante": "lavarropa ",
+                    "NCuotas": "28",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "No"
                 }
             ]
         }
