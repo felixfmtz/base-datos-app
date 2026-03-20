@@ -180,6 +180,10 @@
         "sueldo jesica": {
             "valor": 300000,
             "accion": "sumar"
+        },
+        "comida": {
+            "valor": 28000,
+            "accion": "sumar"
         }
     }
 }
