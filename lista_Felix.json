@@ -13,6 +13,15 @@
                     "Transferencia": "No"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Adelina Barreto",
+                    "dia": "Ma"
+                }
+            ]
         }
     ],
     "Pagos": {},
