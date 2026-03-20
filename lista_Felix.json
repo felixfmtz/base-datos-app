@@ -1,84 +1,9 @@
 {
-    "fecha_ultimo_guardado": "19\/03\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Abelino Peralta 2",
-                    "Deuda": "36.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Miércoles",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Adela Cristaldo",
-                    "Deuda": "22.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "",
-                    "Frecuencia": "",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Adela Cristaldo 2",
-                    "Deuda": "35.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "",
-                    "Frecuencia": "",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Adela Cristaldo 3",
-                    "Deuda": "356.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "",
-                    "Frecuencia": "",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Adela Cristaldo 4",
-                    "Deuda": "66.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "",
-                    "Frecuencia": "",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Adela Cristaldo 5",
-                    "Deuda": "35.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "",
-                    "Frecuencia": "",
-                    "Transferencia": "No"
-                }
-            ]
-        },
-        {
-            "seccion": "Pedido",
-            "items": [
-                {
-                    "nombreOriginal": "Adelina Barreto",
-                    "dia": "Ma"
-                }
-            ]
-        }
-    ],
+    "fecha_ultimo_guardado": "20\/03\/2026",
+    "cuentas": [],
     "Pagos": {
-        "Nelva Colman. 350.000*8. Ju": {
-            "NoTCuota": 250000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Elsa Cañete. 60.000*44. C1": {
-            "NoTCuota": 0,
-            "NoTInteres": 65000,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Alfredo Castillo. 280.000": {
-            "NoTCuota": 25000,
+        "Derlis Pintos. 140.000*10. Vi": {
+            "NoTCuota": 140000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
