@@ -4,6 +4,9 @@
     "Pagos": {
         "Elsa Cañete. 60.000*44": {
             "sigpago": "21\/03\/2026"
+        },
+        "Elsa Cañete. 60.000*44. C2": {
+            "sigpago": "21\/03\/2026"
         }
     },
     "Gastos": {}
