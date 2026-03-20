@@ -19,6 +19,12 @@
         },
         "Nicanor Rodas. 350.000*4": {
             "sigpago": "05\/04\/2026"
+        },
+        "Teresa de Fernandez. 120.000*30": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 250000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
