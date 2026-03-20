@@ -11,6 +11,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Pedro Antonio Gamarra",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "4",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
@@ -65,6 +73,14 @@
     "Gastos": {
         "sueldo derlis": {
             "valor": 500000,
+            "accion": "sumar"
+        },
+        "cel equifax": {
+            "valor": 759000,
+            "accion": "sumar"
+        },
+        "cel equifax 2": {
+            "valor": 759000,
             "accion": "sumar"
         }
     }
