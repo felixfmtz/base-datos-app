@@ -31,6 +31,12 @@
         },
         "Isaias Castillo. 550.000. Ju": {
             "sigpago": "26\/03\/2026"
+        },
+        "Liz Mabel Dure. 1.100.000*6. Mi": {
+            "NoTCuota": 1100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
