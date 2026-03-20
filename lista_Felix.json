@@ -5,6 +5,46 @@
             "seccion": "Crear cuenta",
             "items": [
                 {
+                    "nombreOriginal": "Dario Rene Pintos",
+                    "Deuda": "300.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Pedro Antonio Gamarra",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "4",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Elsa Cañete",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "44",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Feliciana Arevalos",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Derlis Pintos",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "Si"
+                },
+                {
                     "nombreOriginal": "Claudio Insfran",
                     "Deuda": "200.000",
                     "Garante": "Sin Garante",
@@ -13,29 +53,21 @@
                     "Transferencia": "No"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Elsa Sotelo",
+                    "dia": "Sa"
+                }
+            ]
         }
     ],
     "Pagos": {
-        "Elsa Cañete. 60.000*44": {
-            "sigpago": "21\/03\/2026",
-            "Error": "prueba"
-        },
-        "Elsa Cañete. 60.000*44. C2": {
-            "sigpago": "21\/03\/2026",
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
         "Derlis Pintos. 140.000*10. Vi": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Derlis Pintos. 70.000*10. Vi. C1": {
             "NoTCuota": 140000,
-            "NoTInteres": 70000,
+            "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
         },
@@ -44,7 +76,106 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Derlis Pintos. 70.000*10. Vi. C1": {
+            "NoTCuota": 70000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Derlis Pintos. Celular. 100.000*22. Vi": {
+            "NoTCuota": 150000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Alfonzo Cabral. 175.000*6. Lu": {
+            "sigpago": "23\/03\/2026"
+        },
+        "Isaias Castillo. 550.000. Ju": {
+            "sigpago": "26\/03\/2026"
+        },
+        "Liz Mabel Dure. 1.100.000*6. Mi": {
+            "NoTCuota": 1100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Fabiola Lopez. 700.000*10. Mi": {
+            "sigpago": "23\/03\/2026"
+        },
+        "Elsa Cañete. 60.000*44. C2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1060000,
+            "TInteres": 0
+        },
+        "Recordatorio 1. Celular. 0": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "sigpago": "Pagado"
+        },
+        "Paola Insfran. 600.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 100000
+        },
+        "Dorca Zarza. 2.100.000. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
+        },
+        "Hugo Marmori. 1.200.000. C2": {
+            "sigpago": "23\/03\/2026"
+        },
+        "Eliane Mariela Colman. 525.000*8. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 400000,
+            "TInteres": 0
+        },
+        "Elsa Cañete. 60.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Feliciana Arevalos. 220.000*6. Lu": {
+            "NoTCuota": 460000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Nelva Colman. 350.000*8. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 350000,
+            "TInteres": 0
+        },
+        "Elsa Cañete. Secaropa. 100.000*30. Vi": {
+            "sigpago": "21\/03\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "sueldo derlis": {
+            "valor": 500000,
+            "accion": "sumar"
+        },
+        "cel equifax": {
+            "valor": 759000,
+            "accion": "sumar"
+        },
+        "cel equifax 2": {
+            "valor": 759000,
+            "accion": "sumar"
+        },
+        "corregir equi": {
+            "valor": 759000,
+            "accion": "restar"
+        }
+    }
 }
