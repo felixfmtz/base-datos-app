@@ -7,6 +7,12 @@
         },
         "Elsa Cañete. 60.000*44. C2": {
             "sigpago": "21\/03\/2026"
+        },
+        "Derlis Pintos. 140.000*10. Vi": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
