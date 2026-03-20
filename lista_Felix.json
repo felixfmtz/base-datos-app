@@ -176,6 +176,10 @@
         "corregir equi": {
             "valor": 759000,
             "accion": "restar"
+        },
+        "sueldo jesica": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
