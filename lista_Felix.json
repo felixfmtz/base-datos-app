@@ -82,6 +82,10 @@
         "cel equifax 2": {
             "valor": 759000,
             "accion": "sumar"
+        },
+        "corregir equi": {
+            "valor": 759000,
+            "accion": "restar"
         }
     }
 }
