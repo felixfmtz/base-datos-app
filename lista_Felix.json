@@ -54,6 +54,12 @@
         },
         "Fabiola Lopez. 700.000*10. Mi": {
             "sigpago": "23\/03\/2026"
+        },
+        "Elsa Cañete. 60.000*44. C2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 40000,
+            "TInteres": 0
         }
     },
     "Gastos": {
