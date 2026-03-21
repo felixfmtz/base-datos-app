@@ -35,6 +35,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Cliente Nuevo",
+                    "Deuda": "500.000",
+                    "Garante": "antonia baez",
+                    "NCuotas": "6",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "No"
                 }
             ]
         }
@@ -81,6 +89,12 @@
         },
         "Derlis Gamarra. 1.800.000": {
             "NoTCuota": 1800000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Maria Romina Sosa. 280.000*10. Sa": {
+            "NoTCuota": 280000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
