@@ -239,6 +239,12 @@
         },
         "Leonarda Baez. Estela. 210.000*10. Ma": {
             "sigpago": "26\/03\/2026"
+        },
+        "Angel Rios. Cristian. 800.000*14. Ma": {
+            "NoTCuota": 800000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
