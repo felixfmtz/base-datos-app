@@ -3,16 +3,7 @@
     "cuentas": [
         {
             "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Raul Obregon",
-                    "Deuda": "2.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "1",
-                    "Frecuencia": "Lunes",
-                    "Transferencia": "No"
-                }
-            ]
+            "items": []
         }
     ],
     "Pagos": {},
