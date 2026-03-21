@@ -97,6 +97,12 @@
             "NoTInteres": 0,
             "TCuota": 120000,
             "TInteres": 0
+        },
+        "Liza Fabiola Bogado. 420.000*5": {
+            "NoTCuota": 420000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
