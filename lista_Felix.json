@@ -18,6 +18,12 @@
     "Pagos": {
         "Derlis Pintos. Celular. 100.000*22. Vi": {
             "sigpago": "27\/03\/2026"
+        },
+        "Susana de Leite. Pablo. 300.000*7. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 300000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
