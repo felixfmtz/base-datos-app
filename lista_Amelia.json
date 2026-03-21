@@ -180,6 +180,12 @@
         },
         "Celso Ferreira. 420.000*10. Lu": {
             "sigpago": "28\/03\/2026"
+        },
+        "Ilsa Santacruz. 200.000*7. Mi": {
+            "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
