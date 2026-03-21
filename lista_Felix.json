@@ -19,6 +19,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Martes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Mirna Gauto",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "Si"
                 }
             ]
         }
@@ -59,6 +67,12 @@
         },
         "Bartola Cubilla. 220.000*6. Vi": {
             "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Derlis Gamarra. 1.800.000": {
+            "NoTCuota": 1800000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
