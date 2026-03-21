@@ -51,6 +51,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Sábado",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Anastacio Baez",
+                    "Deuda": "500.000",
+                    "Garante": "hija ",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
@@ -117,6 +125,12 @@
             "NoTCuota": 220000,
             "NoTInteres": 0,
             "TCuota": 0,
+            "TInteres": 0
+        },
+        "Eliane Mariela Colman. 525.000*8. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 120000,
             "TInteres": 0
         }
     },
