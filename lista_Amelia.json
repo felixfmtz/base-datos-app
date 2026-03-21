@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "21\/03\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Maria del Rosario",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Francieli Silvero. 420.000*10. Sa": {
             "sigpago": "23\/03\/2026"
@@ -100,6 +114,12 @@
         },
         "Maria del Rosario. 220.000*6. Ma": {
             "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Derlis Delgadillo. 210.000*10. Sa": {
+            "NoTCuota": 210000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
