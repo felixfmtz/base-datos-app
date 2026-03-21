@@ -159,6 +159,12 @@
             "NoTInteres": 0,
             "TCuota": 440000,
             "TInteres": 0
+        },
+        "Graciela Vargas. 30.000*44": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
