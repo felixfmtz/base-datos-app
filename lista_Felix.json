@@ -67,6 +67,14 @@
                     "NCuotas": "7",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Elsa Sotelo",
+                    "Deuda": "1.090.000",
+                    "Garante": "tv",
+                    "NCuotas": "17",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
@@ -161,6 +169,12 @@
         },
         "Ramon Ruiz Diaz. 200.000*7. Sa": {
             "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Recordatorio F. Adelanto": {
+            "NoTCuota": 100000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
