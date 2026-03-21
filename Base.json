@@ -4662,6 +4662,29 @@
             "Telefono": "595973106624"
         },
         {
+            "Nombre": "Claudio Insfran. 220.000",
+            "C.I.": 5680877,
+            "Metodo de Pago": "Mensual",
+            "Deuda": 200000,
+            "Interes": 20000,
+            "Fecha de Retiro": "21/03/2026",
+            "Fecha de Calculo": "10/03/2026",
+            "Fecha 1": "10/04/2026",
+            "Fecha 2": "10/05/2026",
+            "Debe": 0,
+            "Cuota": 220000,
+            "Cuotas Pagadas": 0.0,
+            "Cuotas Totales": 1,
+            "Fecha de Vencimiento": "09/04/2026",
+            "Estado": " ",
+            "Total": 0,
+            "Interes por atraso": 0,
+            "Pagos Abonados": [],
+            "Cobrador": "Felix",
+            "Nombre Original": "Claudio Insfran",
+            "Telefono": "595974725425"
+        },
+        {
             "Nombre": "Claudio Insfran. 240.000",
             "C.I.": 5680877,
             "Metodo de Pago": "Quincenal",
@@ -11267,16 +11290,16 @@
             "Interes": 400000,
             "Fecha de Retiro": "20/12/2025",
             "Fecha de Calculo": "20/12/2025",
-            "Fecha 1": "20/03/2026",
-            "Fecha 2": "05/04/2026",
-            "Debe": 350,
+            "Fecha 1": "05/04/2026",
+            "Fecha 2": "20/04/2026",
+            "Debe": 0,
             "Cuota": 350000,
             "Cuotas Pagadas": 3.0,
             "Cuotas Totales": 4,
-            "Fecha de Vencimiento": "20/03/2026",
-            "Estado": "Vencio",
+            "Fecha de Vencimiento": "04/04/2026",
+            "Estado": " ",
             "Total": 1050000,
-            "Interes por atraso": 2,
+            "Interes por atraso": 3,
             "Pagos Abonados": [
                 {
                     "Monto Abonado": 350000,
@@ -26438,7 +26461,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 1",
-            "C.I.": 90279840,
+            "C.I.": 85116006,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26457,11 +26480,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Adriana Dias",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 2",
-            "C.I.": 57747454,
+            "C.I.": 81365414,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26480,11 +26503,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Adriana Gamarra",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 3",
-            "C.I.": 26537454,
+            "C.I.": 30065043,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26503,11 +26526,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Adriana Ovando",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 4",
-            "C.I.": 24544205,
+            "C.I.": 74390754,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26526,11 +26549,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Agustin Sanabria",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 5",
-            "C.I.": 89984580,
+            "C.I.": 92157856,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26549,11 +26572,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Albino Denis",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 6",
-            "C.I.": 87820748,
+            "C.I.": 49189560,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26572,11 +26595,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Alcides Armando",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 7",
-            "C.I.": 22384759,
+            "C.I.": 10079090,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26595,11 +26618,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Alcides Morinigo",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 8",
-            "C.I.": 90084878,
+            "C.I.": 91596558,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26618,11 +26641,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Aldo Alfonzo",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 9",
-            "C.I.": 62319181,
+            "C.I.": 73856243,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26641,11 +26664,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Aldo de Oliveira",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 10",
-            "C.I.": 51688391,
+            "C.I.": 60334585,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26664,11 +26687,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Aldo Dias",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 11",
-            "C.I.": 33125585,
+            "C.I.": 59640069,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26687,11 +26710,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Aldo Roman",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 12",
-            "C.I.": 55974949,
+            "C.I.": 95279736,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26714,7 +26737,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 13",
-            "C.I.": 65687749,
+            "C.I.": 60069344,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26733,11 +26756,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Amancio Morel",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 14",
-            "C.I.": 39665490,
+            "C.I.": 12246383,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26756,11 +26779,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Ana Benitez Mercado",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 15",
-            "C.I.": 50883772,
+            "C.I.": 89409870,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26783,7 +26806,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 16",
-            "C.I.": 75985229,
+            "C.I.": 34087022,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26802,11 +26825,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Ana Maria Guerrero",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 17",
-            "C.I.": 75019735,
+            "C.I.": 22259815,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26829,7 +26852,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 18",
-            "C.I.": 66874112,
+            "C.I.": 59424254,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26848,11 +26871,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Ana Rosa",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 19",
-            "C.I.": 68863474,
+            "C.I.": 20878793,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26871,11 +26894,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Ana Rosio Villasboa",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 20",
-            "C.I.": 94017651,
+            "C.I.": 37316756,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26894,11 +26917,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Anderson Albañil",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 21",
-            "C.I.": 56879487,
+            "C.I.": 82846757,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26921,7 +26944,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 22",
-            "C.I.": 19781190,
+            "C.I.": 37766230,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26940,11 +26963,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Andres Escobar",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 23",
-            "C.I.": 96117464,
+            "C.I.": 64217936,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26967,7 +26990,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 24",
-            "C.I.": 31265817,
+            "C.I.": 80375071,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -26990,7 +27013,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 25",
-            "C.I.": 11051623,
+            "C.I.": 15331062,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27009,11 +27032,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Angel Bogado",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 26",
-            "C.I.": 81092781,
+            "C.I.": 16872298,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27036,7 +27059,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 27",
-            "C.I.": 61304180,
+            "C.I.": 22603469,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27055,11 +27078,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Angel Quiroga",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 28",
-            "C.I.": 68290813,
+            "C.I.": 19838167,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27078,11 +27101,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Angel Sosa",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 29",
-            "C.I.": 14943690,
+            "C.I.": 34694095,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27101,11 +27124,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Antonia Acosta",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 30",
-            "C.I.": 93905065,
+            "C.I.": 13788156,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27124,11 +27147,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Antonia Baez",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 31",
-            "C.I.": 60328901,
+            "C.I.": 81136594,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27147,11 +27170,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Antonia Caceres",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 32",
-            "C.I.": 57630234,
+            "C.I.": 18904576,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27170,11 +27193,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Antonia Mercado",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 33",
-            "C.I.": 20358047,
+            "C.I.": 37580702,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27197,7 +27220,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 34",
-            "C.I.": 53897615,
+            "C.I.": 45562418,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27216,11 +27239,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Antonio Orue",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 35",
-            "C.I.": 75625697,
+            "C.I.": 37125744,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27239,11 +27262,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Antonio Roman",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 36",
-            "C.I.": 24739475,
+            "C.I.": 84089368,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27262,11 +27285,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Antonio Romero",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 37",
-            "C.I.": 22189502,
+            "C.I.": 31088834,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27289,7 +27312,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 38",
-            "C.I.": 22755957,
+            "C.I.": 20173618,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27308,11 +27331,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Aracely Fanego",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 39",
-            "C.I.": 54292765,
+            "C.I.": 69714814,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27331,11 +27354,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Arioney Lemes",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 40",
-            "C.I.": 56134227,
+            "C.I.": 42398590,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27354,11 +27377,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Arnaldo Dias",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 41",
-            "C.I.": 44081949,
+            "C.I.": 75494852,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27377,11 +27400,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Arnaldo Duarte Almada",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 42",
-            "C.I.": 64053243,
+            "C.I.": 69003011,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27404,7 +27427,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 43",
-            "C.I.": 95679025,
+            "C.I.": 86553006,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27423,11 +27446,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Aureliano Medina",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 44",
-            "C.I.": 75568613,
+            "C.I.": 70973046,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27450,7 +27473,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 45",
-            "C.I.": 36449920,
+            "C.I.": 15884837,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27473,7 +27496,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 46",
-            "C.I.": 33821162,
+            "C.I.": 76197981,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27492,11 +27515,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Benigno Benitez",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 47",
-            "C.I.": 99903059,
+            "C.I.": 21617817,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27519,7 +27542,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 48",
-            "C.I.": 21460240,
+            "C.I.": 86792968,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27542,7 +27565,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 49",
-            "C.I.": 95612641,
+            "C.I.": 47483922,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27561,11 +27584,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Blanca Riveros",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 50",
-            "C.I.": 85479249,
+            "C.I.": 41726032,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27588,7 +27611,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 51",
-            "C.I.": 84925975,
+            "C.I.": 71141296,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27611,7 +27634,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 52",
-            "C.I.": 90099459,
+            "C.I.": 29572577,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27630,11 +27653,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Carlos Alvares Lopez",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 53",
-            "C.I.": 64506509,
+            "C.I.": 59897668,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27653,11 +27676,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Carlos Cabral",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 54",
-            "C.I.": 75229582,
+            "C.I.": 11176060,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27676,11 +27699,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Carlos Duarte",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 55",
-            "C.I.": 88843238,
+            "C.I.": 62417192,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27703,7 +27726,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 56",
-            "C.I.": 23252297,
+            "C.I.": 71180803,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27726,7 +27749,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 57",
-            "C.I.": 29254344,
+            "C.I.": 23045689,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27745,11 +27768,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Carolina Martinez",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 58",
-            "C.I.": 99985250,
+            "C.I.": 75696848,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27768,11 +27791,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Celina Candia",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 59",
-            "C.I.": 94587890,
+            "C.I.": 93751960,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27795,7 +27818,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 60",
-            "C.I.": 16259697,
+            "C.I.": 84310132,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27814,11 +27837,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Celso Rocha",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 61",
-            "C.I.": 85432925,
+            "C.I.": 56063952,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27837,11 +27860,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Cessia Cocco",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 62",
-            "C.I.": 65147770,
+            "C.I.": 61316713,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27860,11 +27883,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Christian Villalba",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 63",
-            "C.I.": 85376072,
+            "C.I.": 62018309,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27883,11 +27906,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Cinthia Carolina Gonzalez",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 64",
-            "C.I.": 68146029,
+            "C.I.": 22380748,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27906,11 +27929,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Claudia Achucarro",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 65",
-            "C.I.": 51163368,
+            "C.I.": 93458546,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27933,7 +27956,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 66",
-            "C.I.": 31629024,
+            "C.I.": 75929611,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27956,7 +27979,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 67",
-            "C.I.": 69107897,
+            "C.I.": 22856827,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27975,11 +27998,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Cristian Albañil",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 68",
-            "C.I.": 88985122,
+            "C.I.": 70480143,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -27998,11 +28021,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Cristian Benitez",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 69",
-            "C.I.": 51111110,
+            "C.I.": 45634723,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28025,7 +28048,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 70",
-            "C.I.": 39944363,
+            "C.I.": 76463272,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28044,11 +28067,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Cristian Saucedo",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 71",
-            "C.I.": 87215448,
+            "C.I.": 58676895,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28067,11 +28090,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Cristina Alfonzo",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 72",
-            "C.I.": 71134828,
+            "C.I.": 57744389,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28090,11 +28113,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Cynthia Cabral",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 73",
-            "C.I.": 58599919,
+            "C.I.": 88372901,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28113,11 +28136,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Cynthia Lorena Soto",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 74",
-            "C.I.": 28356929,
+            "C.I.": 94229290,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28136,11 +28159,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Daniel Villalba",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 75",
-            "C.I.": 11271150,
+            "C.I.": 58736064,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28159,11 +28182,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "David Cardozo Gimenez",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 76",
-            "C.I.": 90056926,
+            "C.I.": 67564821,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28182,11 +28205,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Debora Davalos",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 77",
-            "C.I.": 20826166,
+            "C.I.": 73809727,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28205,11 +28228,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Deysi Villalba",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 78",
-            "C.I.": 60443266,
+            "C.I.": 96306485,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28228,11 +28251,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Diego Mancuello",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 79",
-            "C.I.": 18129043,
+            "C.I.": 99598369,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28255,7 +28278,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 80",
-            "C.I.": 99235617,
+            "C.I.": 65294749,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28278,7 +28301,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 81",
-            "C.I.": 99302073,
+            "C.I.": 51465280,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28297,11 +28320,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Dora Caceres",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 82",
-            "C.I.": 67022299,
+            "C.I.": 23220943,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28324,7 +28347,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 83",
-            "C.I.": 63990351,
+            "C.I.": 59774760,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28343,11 +28366,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Edgar Jara",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 84",
-            "C.I.": 95595762,
+            "C.I.": 56594399,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28366,11 +28389,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Efigenia Talabera",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 85",
-            "C.I.": 35155418,
+            "C.I.": 39743369,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28389,11 +28412,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Elena Baez",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 86",
-            "C.I.": 54461504,
+            "C.I.": 97556666,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28412,11 +28435,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Elenio Martinez",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 87",
-            "C.I.": 26470508,
+            "C.I.": 97032773,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28435,11 +28458,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Eliane Karajallo",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 88",
-            "C.I.": 70766554,
+            "C.I.": 20195451,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28458,11 +28481,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Eliane Marisol Colman",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 89",
-            "C.I.": 15762191,
+            "C.I.": 86804068,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28485,7 +28508,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 90",
-            "C.I.": 69708604,
+            "C.I.": 87691797,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28508,7 +28531,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 91",
-            "C.I.": 69696482,
+            "C.I.": 64685280,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28527,11 +28550,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Emeterio Quiroga",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 92",
-            "C.I.": 17989272,
+            "C.I.": 80148113,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28550,11 +28573,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Emiliano Rodas",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 93",
-            "C.I.": 12724984,
+            "C.I.": 85649392,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28577,7 +28600,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 94",
-            "C.I.": 87546846,
+            "C.I.": 84418939,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28600,7 +28623,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 95",
-            "C.I.": 80535840,
+            "C.I.": 79314132,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28623,7 +28646,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 96",
-            "C.I.": 31398071,
+            "C.I.": 41664276,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28642,11 +28665,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Ever Hugo Ullon",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 97",
-            "C.I.": 10517734,
+            "C.I.": 94267295,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28669,7 +28692,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 98",
-            "C.I.": 21652837,
+            "C.I.": 55874365,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28688,11 +28711,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Fabio Espinoza",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 99",
-            "C.I.": 24408878,
+            "C.I.": 90794876,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28711,11 +28734,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Fabio Vazquez",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 100",
-            "C.I.": 85501700,
+            "C.I.": 69166972,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28734,11 +28757,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Fabiola Vargas",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 101",
-            "C.I.": 51815611,
+            "C.I.": 90125113,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28757,11 +28780,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Fanny Monges",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 102",
-            "C.I.": 36411275,
+            "C.I.": 32993122,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28784,7 +28807,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 103",
-            "C.I.": 68351667,
+            "C.I.": 98918252,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28807,7 +28830,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 104",
-            "C.I.": 93664200,
+            "C.I.": 64856391,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28826,11 +28849,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Felicia Rios",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 105",
-            "C.I.": 80521290,
+            "C.I.": 19295657,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28849,11 +28872,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Felicita Miltos",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 106",
-            "C.I.": 96626872,
+            "C.I.": 85083995,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28872,11 +28895,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Felix Roberto Delvalle",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 107",
-            "C.I.": 98837080,
+            "C.I.": 21657371,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28895,11 +28918,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Francieli Da Silva",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 108",
-            "C.I.": 48473764,
+            "C.I.": 66730459,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28918,11 +28941,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Francisca Rotela",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 109",
-            "C.I.": 74019004,
+            "C.I.": 71640232,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28941,11 +28964,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Francisco Arguello",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 110",
-            "C.I.": 28799944,
+            "C.I.": 82714188,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28968,7 +28991,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 111",
-            "C.I.": 82798554,
+            "C.I.": 74564537,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -28991,7 +29014,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 112",
-            "C.I.": 29139959,
+            "C.I.": 61530623,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29014,7 +29037,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 113",
-            "C.I.": 22738240,
+            "C.I.": 59921817,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29033,11 +29056,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Gerardo Rodriguez",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 114",
-            "C.I.": 46570479,
+            "C.I.": 67376242,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29060,7 +29083,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 115",
-            "C.I.": 75770958,
+            "C.I.": 73072082,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29079,11 +29102,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Gisselle Garcete",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 116",
-            "C.I.": 43243902,
+            "C.I.": 58050198,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29106,7 +29129,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 117",
-            "C.I.": 69467185,
+            "C.I.": 44200989,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29129,7 +29152,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 118",
-            "C.I.": 80560592,
+            "C.I.": 38069119,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29148,11 +29171,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Gloria Martinez",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 119",
-            "C.I.": 33067687,
+            "C.I.": 92550241,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29171,11 +29194,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Graciela Cardozo",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 120",
-            "C.I.": 35282450,
+            "C.I.": 91464214,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29194,11 +29217,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Graciela Ramos",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 121",
-            "C.I.": 34792365,
+            "C.I.": 68718383,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29221,7 +29244,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 122",
-            "C.I.": 63592185,
+            "C.I.": 51800675,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29240,11 +29263,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Hugo Franco",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 123",
-            "C.I.": 58089692,
+            "C.I.": 13660604,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29263,11 +29286,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Idalina Villamayor",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 124",
-            "C.I.": 95596249,
+            "C.I.": 32362960,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29286,11 +29309,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Isabel Larrea",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 125",
-            "C.I.": 49294581,
+            "C.I.": 50579565,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29309,11 +29332,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Isabel Narvae",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 126",
-            "C.I.": 10240052,
+            "C.I.": 35054338,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29336,7 +29359,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 127",
-            "C.I.": 31628598,
+            "C.I.": 57935122,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29355,11 +29378,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Ismilda Cardozo",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 128",
-            "C.I.": 88658592,
+            "C.I.": 86257718,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29378,11 +29401,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Jeferson Gamarra",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 129",
-            "C.I.": 62941619,
+            "C.I.": 32937438,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29401,11 +29424,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Jesica Empleada",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 130",
-            "C.I.": 53698947,
+            "C.I.": 52523625,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29424,11 +29447,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Jessica Davalos",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 131",
-            "C.I.": 29509880,
+            "C.I.": 47322589,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29447,11 +29470,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Jesus Emanuel Baez",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 132",
-            "C.I.": 84674118,
+            "C.I.": 54882384,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29470,11 +29493,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Joel Dias",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 133",
-            "C.I.": 26191004,
+            "C.I.": 79590595,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29497,7 +29520,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 134",
-            "C.I.": 63803616,
+            "C.I.": 34788852,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29516,11 +29539,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Jorge Alberto Gonzalez",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 135",
-            "C.I.": 41366399,
+            "C.I.": 89656676,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29539,11 +29562,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Jorge Montiel",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 136",
-            "C.I.": 43897778,
+            "C.I.": 33109145,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29566,7 +29589,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 137",
-            "C.I.": 15103633,
+            "C.I.": 28848206,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29585,11 +29608,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Josue Angel Fleitas",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 138",
-            "C.I.": 73128687,
+            "C.I.": 28388580,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29608,11 +29631,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Josue Benitez",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 139",
-            "C.I.": 44101284,
+            "C.I.": 25530380,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29635,7 +29658,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 140",
-            "C.I.": 29588583,
+            "C.I.": 37960621,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29658,7 +29681,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 141",
-            "C.I.": 80366307,
+            "C.I.": 75571582,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29681,7 +29704,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 142",
-            "C.I.": 70604855,
+            "C.I.": 63976588,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29700,11 +29723,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Juan Paulino Ruiz",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 143",
-            "C.I.": 47143932,
+            "C.I.": 23242480,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29723,11 +29746,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Julia Gonzalez",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 144",
-            "C.I.": 80616508,
+            "C.I.": 92987124,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29750,7 +29773,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 145",
-            "C.I.": 69792744,
+            "C.I.": 26136063,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29773,7 +29796,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 146",
-            "C.I.": 62088361,
+            "C.I.": 54392536,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29796,7 +29819,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 147",
-            "C.I.": 98126776,
+            "C.I.": 95252771,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29815,11 +29838,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Laura Antonia Galeano",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 148",
-            "C.I.": 96282546,
+            "C.I.": 64743196,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29838,11 +29861,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Laura Sanchez",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 149",
-            "C.I.": 17845185,
+            "C.I.": 50635763,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29861,11 +29884,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Leoni de Oliveira",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 150",
-            "C.I.": 79823318,
+            "C.I.": 44389640,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29888,7 +29911,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 151",
-            "C.I.": 89685761,
+            "C.I.": 43454197,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29907,11 +29930,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Lidia Espinola",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 152",
-            "C.I.": 42797614,
+            "C.I.": 50542022,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29934,7 +29957,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 153",
-            "C.I.": 73127431,
+            "C.I.": 93715351,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29953,11 +29976,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Lilian Concepcion Frutos",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 154",
-            "C.I.": 17472009,
+            "C.I.": 69678357,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29976,11 +29999,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Liliana Duarte",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 155",
-            "C.I.": 58959036,
+            "C.I.": 96709143,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -29999,11 +30022,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Liz Arnaldo Prieto",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 156",
-            "C.I.": 22916082,
+            "C.I.": 44472553,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30026,7 +30049,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 157",
-            "C.I.": 71386778,
+            "C.I.": 13727308,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30049,7 +30072,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 158",
-            "C.I.": 59762476,
+            "C.I.": 42155071,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30068,11 +30091,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Liz Noelia Insfran",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 159",
-            "C.I.": 51693964,
+            "C.I.": 43853560,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30091,11 +30114,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Liza Ozuna Ortiz",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 160",
-            "C.I.": 85849903,
+            "C.I.": 26239838,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30114,11 +30137,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Lorena Soledad Martinez",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 161",
-            "C.I.": 22434099,
+            "C.I.": 39400793,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30137,11 +30160,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Lorenza Rojas",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 162",
-            "C.I.": 33687076,
+            "C.I.": 10520227,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30164,7 +30187,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 163",
-            "C.I.": 22311074,
+            "C.I.": 70590783,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30187,7 +30210,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 164",
-            "C.I.": 78781259,
+            "C.I.": 80610786,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30206,11 +30229,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Lucia Gonzalez",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 165",
-            "C.I.": 63572211,
+            "C.I.": 52372541,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30229,11 +30252,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Lucia Pintos",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 166",
-            "C.I.": 92440468,
+            "C.I.": 50472426,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30252,11 +30275,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Luciano Pintos",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 167",
-            "C.I.": 42986021,
+            "C.I.": 57101276,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30279,7 +30302,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 168",
-            "C.I.": 25071193,
+            "C.I.": 56391606,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30298,11 +30321,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Luis Fernando Maidana",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 169",
-            "C.I.": 47262119,
+            "C.I.": 82490212,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30321,11 +30344,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Luz Marina",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 170",
-            "C.I.": 71735604,
+            "C.I.": 94394476,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30344,11 +30367,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Marcelina Merlo",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 171",
-            "C.I.": 12212818,
+            "C.I.": 32397862,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30371,7 +30394,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 172",
-            "C.I.": 60357908,
+            "C.I.": 55516926,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30390,11 +30413,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Maria Aguero Echeguren",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 173",
-            "C.I.": 90573599,
+            "C.I.": 63987636,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30417,7 +30440,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 174",
-            "C.I.": 52942049,
+            "C.I.": 94948357,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30436,11 +30459,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Maria Concepcion Ibarra",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 175",
-            "C.I.": 84869096,
+            "C.I.": 65078988,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30463,7 +30486,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 176",
-            "C.I.": 40474458,
+            "C.I.": 57853199,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30482,11 +30505,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Maria Galeano",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 177",
-            "C.I.": 38313209,
+            "C.I.": 58490691,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30509,7 +30532,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 178",
-            "C.I.": 68773632,
+            "C.I.": 51788494,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30528,11 +30551,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Maria Graciela",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 179",
-            "C.I.": 93874825,
+            "C.I.": 85953443,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30551,11 +30574,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Maria Gricelda Fretes",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 180",
-            "C.I.": 65891140,
+            "C.I.": 16467415,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30574,11 +30597,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Maria Lujan Aguero",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 181",
-            "C.I.": 10349552,
+            "C.I.": 74173747,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30601,7 +30624,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 182",
-            "C.I.": 62954210,
+            "C.I.": 10026767,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30620,11 +30643,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Maria Petrona Pintos",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 183",
-            "C.I.": 54630330,
+            "C.I.": 72543895,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30643,11 +30666,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Maria Segobia",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 184",
-            "C.I.": 72406954,
+            "C.I.": 93173511,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30670,7 +30693,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 185",
-            "C.I.": 62484773,
+            "C.I.": 12474086,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30693,7 +30716,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 186",
-            "C.I.": 97469816,
+            "C.I.": 25886007,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30712,11 +30735,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Maricel Rojas",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 187",
-            "C.I.": 35390929,
+            "C.I.": 47519135,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30735,11 +30758,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Mariela Caceres",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 188",
-            "C.I.": 34029892,
+            "C.I.": 84847466,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30762,7 +30785,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 189",
-            "C.I.": 47014580,
+            "C.I.": 55225026,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30785,7 +30808,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 190",
-            "C.I.": 75920971,
+            "C.I.": 31798676,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30804,11 +30827,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Marta Casco",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 191",
-            "C.I.": 45334657,
+            "C.I.": 82837437,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30827,11 +30850,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Marta Saldaña",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 192",
-            "C.I.": 82084269,
+            "C.I.": 48319539,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30854,7 +30877,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 193",
-            "C.I.": 81807340,
+            "C.I.": 81613405,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30873,11 +30896,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Martin Ruiz Diaz",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 194",
-            "C.I.": 29905810,
+            "C.I.": 48600745,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30900,7 +30923,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 195",
-            "C.I.": 40881505,
+            "C.I.": 70578236,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30919,11 +30942,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Mauro Venialgo",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 196",
-            "C.I.": 10419052,
+            "C.I.": 39568669,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30946,7 +30969,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 197",
-            "C.I.": 71411191,
+            "C.I.": 59226654,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30965,11 +30988,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Miguel Angel Flores",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 198",
-            "C.I.": 47066178,
+            "C.I.": 55303288,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -30992,7 +31015,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 199",
-            "C.I.": 91496394,
+            "C.I.": 70717994,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31015,7 +31038,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 200",
-            "C.I.": 29769059,
+            "C.I.": 97540105,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31038,7 +31061,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 201",
-            "C.I.": 14458355,
+            "C.I.": 93387641,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31061,7 +31084,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 202",
-            "C.I.": 21542835,
+            "C.I.": 67776169,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31080,11 +31103,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Mirian Sosa",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 203",
-            "C.I.": 39657248,
+            "C.I.": 88332900,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31103,11 +31126,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Mirna Ayala",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 204",
-            "C.I.": 81556686,
+            "C.I.": 31994986,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31126,11 +31149,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Mirna Gayoso",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 205",
-            "C.I.": 33068890,
+            "C.I.": 79405912,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31153,7 +31176,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 206",
-            "C.I.": 15625932,
+            "C.I.": 93954294,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31172,11 +31195,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Mirtha Raquel Peña",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 207",
-            "C.I.": 16727665,
+            "C.I.": 16149824,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31195,11 +31218,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Moises Dos Santos",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 208",
-            "C.I.": 29231454,
+            "C.I.": 72034777,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31218,11 +31241,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Monica Cristaldo",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 209",
-            "C.I.": 18771166,
+            "C.I.": 41572959,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31241,11 +31264,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Naida Alfonzo",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 210",
-            "C.I.": 70260032,
+            "C.I.": 52474903,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31264,11 +31287,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Nanci Riveros",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 211",
-            "C.I.": 24080723,
+            "C.I.": 78343974,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31291,7 +31314,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 212",
-            "C.I.": 53103145,
+            "C.I.": 52384636,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31314,7 +31337,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 213",
-            "C.I.": 20844801,
+            "C.I.": 33774773,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31333,11 +31356,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Nelson Alonso",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 214",
-            "C.I.": 30047747,
+            "C.I.": 12398338,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31360,7 +31383,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 215",
-            "C.I.": 58241141,
+            "C.I.": 21410661,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31379,11 +31402,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Nelson Sosa",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 216",
-            "C.I.": 61909726,
+            "C.I.": 39709028,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31402,11 +31425,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Nestor Cristaldo",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 217",
-            "C.I.": 92259338,
+            "C.I.": 70450687,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31425,11 +31448,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Nidia Luisa Roa",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 218",
-            "C.I.": 87565906,
+            "C.I.": 72481314,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31448,11 +31471,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Nilda Lucia Lopez",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 219",
-            "C.I.": 58530550,
+            "C.I.": 46713920,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31475,7 +31498,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 220",
-            "C.I.": 87430825,
+            "C.I.": 16808778,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31494,11 +31517,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Noelia Albarenga",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 221",
-            "C.I.": 99173193,
+            "C.I.": 35496653,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31521,7 +31544,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 222",
-            "C.I.": 14841958,
+            "C.I.": 18363009,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31540,11 +31563,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Oscar Fernandez",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 223",
-            "C.I.": 38985303,
+            "C.I.": 13092879,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31563,11 +31586,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Oscar Talabera",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 224",
-            "C.I.": 50859718,
+            "C.I.": 78494444,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31590,7 +31613,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 225",
-            "C.I.": 74538146,
+            "C.I.": 35752398,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31609,11 +31632,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Pablo Lopez",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 226",
-            "C.I.": 28528909,
+            "C.I.": 58108512,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31636,7 +31659,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 227",
-            "C.I.": 47722576,
+            "C.I.": 21759927,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31659,7 +31682,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 228",
-            "C.I.": 20266090,
+            "C.I.": 16204844,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31678,11 +31701,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Pedro Francisco Martinez",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 229",
-            "C.I.": 83966709,
+            "C.I.": 15250389,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31701,11 +31724,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Pele Albañil",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 230",
-            "C.I.": 26164089,
+            "C.I.": 19445116,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31728,7 +31751,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 231",
-            "C.I.": 80973563,
+            "C.I.": 83106313,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31747,11 +31770,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Petrona Paredes",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 232",
-            "C.I.": 94244132,
+            "C.I.": 96431705,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31770,11 +31793,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Ramon Barrios Recalde",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 233",
-            "C.I.": 84693959,
+            "C.I.": 85443443,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31793,11 +31816,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Ramon Melgarejo",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 234",
-            "C.I.": 64964790,
+            "C.I.": 93651859,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31816,11 +31839,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Ramona Benitez",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 235",
-            "C.I.": 92488677,
+            "C.I.": 82177023,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31839,11 +31862,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Ramona del Valle",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 236",
-            "C.I.": 96311440,
+            "C.I.": 14426893,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31866,7 +31889,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 237",
-            "C.I.": 23654753,
+            "C.I.": 50196676,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31885,11 +31908,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Reinaldo Riquelme",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 238",
-            "C.I.": 96808354,
+            "C.I.": 45766637,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31912,7 +31935,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 239",
-            "C.I.": 46563197,
+            "C.I.": 84834572,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31931,11 +31954,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Richard Cerdan",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 240",
-            "C.I.": 78556698,
+            "C.I.": 52789444,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31954,11 +31977,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Richard Silvero",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 241",
-            "C.I.": 59408683,
+            "C.I.": 47253560,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -31981,7 +32004,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 242",
-            "C.I.": 28442717,
+            "C.I.": 79258377,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32004,7 +32027,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 243",
-            "C.I.": 15424039,
+            "C.I.": 81523008,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32027,7 +32050,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 244",
-            "C.I.": 29332593,
+            "C.I.": 24623904,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32046,11 +32069,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Rodney Acuña",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 245",
-            "C.I.": 31998720,
+            "C.I.": 33344937,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32073,7 +32096,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 246",
-            "C.I.": 16841329,
+            "C.I.": 94614250,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32096,7 +32119,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 247",
-            "C.I.": 30374036,
+            "C.I.": 59727633,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32119,7 +32142,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 248",
-            "C.I.": 19448172,
+            "C.I.": 24452749,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32138,11 +32161,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Ronni Caceres Albañil",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 249",
-            "C.I.": 63917116,
+            "C.I.": 71534682,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32165,7 +32188,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 250",
-            "C.I.": 62252256,
+            "C.I.": 78527256,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32184,11 +32207,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Rosalino Benitez",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 251",
-            "C.I.": 65904568,
+            "C.I.": 45208902,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32211,7 +32234,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 252",
-            "C.I.": 44731388,
+            "C.I.": 50596819,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32234,7 +32257,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 253",
-            "C.I.": 60956438,
+            "C.I.": 16330898,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32253,11 +32276,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Ruben Ibarrola",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 254",
-            "C.I.": 77516321,
+            "C.I.": 67584363,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32276,11 +32299,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Ruth Petrona",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 255",
-            "C.I.": 57331842,
+            "C.I.": 62611544,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32299,11 +32322,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Santiago Baez",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 256",
-            "C.I.": 63130234,
+            "C.I.": 98942618,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32322,11 +32345,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Santiago Duarte",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 257",
-            "C.I.": 75679591,
+            "C.I.": 64338473,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32345,11 +32368,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Sara Negri",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 258",
-            "C.I.": 30786057,
+            "C.I.": 95150859,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32368,11 +32391,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Sergio Dominguez",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 259",
-            "C.I.": 59799066,
+            "C.I.": 32094432,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32395,7 +32418,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 260",
-            "C.I.": 29094932,
+            "C.I.": 94372069,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32414,11 +32437,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Silvino Ayala",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 261",
-            "C.I.": 73367197,
+            "C.I.": 50226669,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32437,11 +32460,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Silvio Mendieta Ortiz",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 262",
-            "C.I.": 96827721,
+            "C.I.": 73600784,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32464,7 +32487,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 263",
-            "C.I.": 42989061,
+            "C.I.": 77111244,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32487,7 +32510,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 264",
-            "C.I.": 55593688,
+            "C.I.": 87071515,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32506,11 +32529,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Tatiana Britez",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 265",
-            "C.I.": 90023890,
+            "C.I.": 66988175,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32529,11 +32552,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Teresa Lezcano",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 266",
-            "C.I.": 41946205,
+            "C.I.": 77103763,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32552,11 +32575,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Thadeo Portillo",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 267",
-            "C.I.": 19721200,
+            "C.I.": 50370795,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32575,11 +32598,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Tomasa Figueredo",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 268",
-            "C.I.": 12183648,
+            "C.I.": 63921438,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32602,7 +32625,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 269",
-            "C.I.": 37384665,
+            "C.I.": 87400995,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32621,11 +32644,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Veronica Bianca Pereira",
             "Telefono": "",
-            "Cobrador": "Saul"
+            "Cobrador": "Amelia"
         },
         {
             "Nombre": "Cuenta ficticio 270",
-            "C.I.": 60597240,
+            "C.I.": 41976017,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32648,7 +32671,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 271",
-            "C.I.": 34093857,
+            "C.I.": 68906422,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32667,11 +32690,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Vicente Cantero",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 272",
-            "C.I.": 19180602,
+            "C.I.": 92423651,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32690,11 +32713,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Victorina Chaparro",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 273",
-            "C.I.": 50135808,
+            "C.I.": 22104776,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32717,7 +32740,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 274",
-            "C.I.": 18511623,
+            "C.I.": 25462075,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32740,7 +32763,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 275",
-            "C.I.": 73271920,
+            "C.I.": 95363465,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32759,11 +32782,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Weneslaa Gimenez",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Saul"
         },
         {
             "Nombre": "Cuenta ficticio 276",
-            "C.I.": 57613190,
+            "C.I.": 82476820,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32786,7 +32809,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 277",
-            "C.I.": 95419929,
+            "C.I.": 66113470,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32809,7 +32832,7 @@
         },
         {
             "Nombre": "Cuenta ficticio 278",
-            "C.I.": 36908888,
+            "C.I.": 75243211,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32828,11 +32851,11 @@
             "Pagos Abonados": [],
             "Nombre Original": "Yessica Mieres Davalos",
             "Telefono": "",
-            "Cobrador": "Amelia"
+            "Cobrador": "Felix"
         },
         {
             "Nombre": "Cuenta ficticio 279",
-            "C.I.": 96902172,
+            "C.I.": 10326152,
             "Metodo de Pago": "Sábado",
             "Deuda": 0,
             "Interes": 0,
@@ -32851,7 +32874,7 @@
             "Pagos Abonados": [],
             "Nombre Original": "Zulma Zabala",
             "Telefono": "",
-            "Cobrador": "Felix"
+            "Cobrador": "Amelia"
         }
     ]
 }
