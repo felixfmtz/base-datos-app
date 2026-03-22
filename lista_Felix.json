@@ -3,7 +3,16 @@
     "cuentas": [
         {
             "seccion": "Crear cuenta",
-            "items": []
+            "items": [
+                {
+                    "nombreOriginal": "Adela Cristaldo 2",
+                    "Deuda": "35.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "",
+                    "Frecuencia": "",
+                    "Transferencia": "No"
+                }
+            ]
         },
         {
             "seccion": "Pedido",
