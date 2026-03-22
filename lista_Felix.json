@@ -57,6 +57,10 @@
         "uy": {
             "valor": 25000,
             "accion": "sumar"
+        },
+        "76": {
+            "valor": 36000,
+            "accion": "sumar"
         }
     }
 }
