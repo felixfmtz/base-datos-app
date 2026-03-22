@@ -54,5 +54,10 @@
             "sigpago": "Pagado"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "65": {
+            "valor": 208000,
+            "accion": "sumar"
+        }
+    }
 }
