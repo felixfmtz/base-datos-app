@@ -45,6 +45,10 @@
         "576": {
             "valor": 366000,
             "accion": "sumar"
+        },
+        "otro": {
+            "valor": 25000,
+            "accion": "sumar"
         }
     }
 }
