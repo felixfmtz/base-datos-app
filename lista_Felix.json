@@ -255,6 +255,10 @@
         "remedio": {
             "valor": 258000,
             "accion": "sumar"
+        },
+        "comida": {
+            "valor": 18000,
+            "accion": "sumar"
         }
     }
 }
