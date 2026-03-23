@@ -37,6 +37,12 @@
         },
         "Zulma Peralta. 140.000*10. Sa. C2": {
             "sigpago": "26\/03\/2026"
+        },
+        "Teresa de Fernandez. 120.000*30": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
