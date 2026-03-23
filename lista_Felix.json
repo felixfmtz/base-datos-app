@@ -277,6 +277,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Liliana Amanda Pereira. 560.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 590000,
+            "TInteres": 0
         }
     },
     "Gastos": {
