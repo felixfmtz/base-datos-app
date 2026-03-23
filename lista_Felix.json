@@ -1,70 +1,14 @@
 {
-    "fecha_ultimo_guardado": "21\/03\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": []
-        },
-        {
-            "seccion": "Pedido",
-            "items": [
-                {
-                    "nombreOriginal": "Adela Cristaldo",
-                    "dia": "Lu"
-                }
-            ]
-        }
-    ],
+    "fecha_ultimo_guardado": "23\/03\/2026",
+    "cuentas": [],
     "Pagos": {
-        "Elsa Cañete. 60.000*44": {
-            "sigpago": "24\/03\/2026"
-        },
-        "Fatima Fonseca. 140.000*10. Sa": {
-            "sigpago": "26\/03\/2026"
-        },
-        "Elsa Cañete. 60.000*44. C1": {
+        "Jessica Cabral. 440.000*6. Lu": {
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0,
-            "Error": "hola"
-        },
-        "Recordatorio 1. Electro. 1. Mi": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "sigpago": "Pagado"
+            "Error": "número errado"
         }
     },
-    "Gastos": {
-        "65": {
-            "valor": 208000,
-            "accion": "sumar"
-        },
-        "576": {
-            "valor": 366000,
-            "accion": "sumar"
-        },
-        "otro": {
-            "valor": 25000,
-            "accion": "sumar"
-        },
-        "56": {
-            "valor": 1000,
-            "accion": "sumar"
-        },
-        "uy": {
-            "valor": 25000,
-            "accion": "sumar"
-        },
-        "76": {
-            "valor": 36000,
-            "accion": "sumar"
-        },
-        "76 2": {
-            "valor": 1000,
-            "accion": "sumar"
-        }
-    }
+    "Gastos": {}
 }
