@@ -235,6 +235,12 @@
         },
         "Yanina Plaz. 210.000*10. Sa": {
             "sigpago": "28\/03\/2026"
+        },
+        "Recordatorio F. Adelanto": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
