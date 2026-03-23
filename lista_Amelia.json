@@ -27,6 +27,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Griselda Pereira",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
@@ -437,6 +445,12 @@
         },
         "Griselda Pereira. 110.000*6. Ma": {
             "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Alfredo Franco. 1.000.000*15. Sa": {
+            "NoTCuota": 500000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
