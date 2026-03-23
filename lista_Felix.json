@@ -115,6 +115,14 @@
                     "NCuotas": "24",
                     "Frecuencia": "Martes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Derlis Pintos",
+                    "Deuda": "300.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "Si"
                 }
             ]
         }
