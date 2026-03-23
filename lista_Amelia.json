@@ -25,6 +25,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Miguel Pascual Alfonzo. Emilce. 840.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 10000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
