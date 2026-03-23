@@ -165,5 +165,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "remedio": {
+            "valor": 258000,
+            "accion": "sumar"
+        }
+    }
 }
