@@ -299,6 +299,10 @@
         "combustible ": {
             "valor": 320000,
             "accion": "sumar"
+        },
+        "casa": {
+            "valor": 15000,
+            "accion": "sumar"
         }
     }
 }
