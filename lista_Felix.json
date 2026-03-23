@@ -1,6 +1,11 @@
 {
     "fecha_ultimo_guardado": "23\/03\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": []
+        }
+    ],
     "Pagos": {},
     "Gastos": {}
 }
