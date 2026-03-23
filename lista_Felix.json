@@ -107,6 +107,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Claudelina Lopez",
+                    "Deuda": "1.550.000",
+                    "Garante": "tv",
+                    "NCuotas": "24",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
                 }
             ]
         }
