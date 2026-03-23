@@ -22,6 +22,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "número errado"
+        },
+        "Cristobal Muños. 1.100.000": {
+            "sigpago": "25\/03\/2026"
         }
     },
     "Gastos": {}
