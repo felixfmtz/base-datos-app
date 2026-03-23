@@ -1,6 +1,16 @@
 {
     "fecha_ultimo_guardado": "23\/03\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Rosalba Ojeda",
+                    "dia": "Mi"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Antonio Gonzalez. 440.000*3": {
             "NoTCuota": 0,
@@ -201,9 +211,9 @@
             "TInteres": 0
         },
         "Damian Gimenez. 220.000*6. Lu": {
-            "NoTCuota": 220000,
+            "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 220000,
+            "TCuota": 0,
             "TInteres": 0
         },
         "Cristian Escobar. 220.000*6. Lu": {
