@@ -59,6 +59,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Lunes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Claudio Insfran 2",
+                    "Deuda": "200.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "Si"
                 }
             ]
         }
