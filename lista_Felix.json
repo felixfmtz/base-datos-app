@@ -55,6 +55,13 @@
             "TInteres": 0,
             "Error": "prueb",
             "sigpago": "25\/03\/2026"
+        },
+        "Recordatorio 1. Paola. 0": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "sigpago": "Pagado"
         }
     },
     "Gastos": {
