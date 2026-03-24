@@ -5,14 +5,6 @@
             "seccion": "Crear cuenta",
             "items": [
                 {
-                    "nombreOriginal": "Elena Baez",
-                    "Deuda": "500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "1",
-                    "Frecuencia": "Mensual",
-                    "Transferencia": "No"
-                },
-                {
                     "nombreOriginal": "Helida Ortiz",
                     "Deuda": "500.000",
                     "Garante": "hijo ",
