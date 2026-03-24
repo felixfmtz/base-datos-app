@@ -19,6 +19,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Helida Ortiz",
+                    "Deuda": "500.000",
+                    "Garante": "hijo ",
+                    "NCuotas": "2",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
                 }
             ]
         }
@@ -95,6 +103,12 @@
         },
         "Evangelista Ortiz. Marlene. 150.000*4. Ma": {
             "NoTCuota": 150000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "De los Santos Melos. 110.000*6. Ma": {
+            "NoTCuota": 110000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
