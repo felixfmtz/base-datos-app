@@ -4,6 +4,12 @@
     "Pagos": {
         "Norma Beatriz Rivarola. 140.000*10. Ma": {
             "sigpago": "30\/03\/2026"
+        },
+        "Angela Roa. 140.000*10. Sa. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
