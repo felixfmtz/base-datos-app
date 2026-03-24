@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "24\/03\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Ana Gayoso",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Sonia Amarilla. 220.000*6. Sa": {
             "NoTCuota": 0,
