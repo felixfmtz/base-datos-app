@@ -66,6 +66,13 @@
         },
         "Roman Flores. 300.000*4. Ma": {
             "sigpago": "25\/03\/2026"
+        },
+        "Recordatorio 1. Gim. 1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "sigpago": "Pagado"
         }
     },
     "Gastos": {
