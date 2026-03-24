@@ -49,7 +49,7 @@
         "Juan Ayala. Aire. 100.000*29. Lu": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 100000,
             "TInteres": 0
         },
         "Valdecir de Oliveira. 100.000*17. Ma": {
