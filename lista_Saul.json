@@ -43,7 +43,7 @@
         "Leonarda Zalazar. 220.000*6. Lu": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 100000,
             "TInteres": 0
         },
         "Juan Ayala. Aire. 100.000*29. Lu": {
