@@ -78,6 +78,12 @@
             "NoTInteres": 120000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Hugo Caceres. Olier. C1. 480.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 80000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
