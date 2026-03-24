@@ -141,6 +141,12 @@
             "NoTInteres": 0,
             "TCuota": 20000,
             "TInteres": 0
+        },
+        "Hugo Ariel Arrua. 175.000*8. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 175000,
+            "TInteres": 0
         }
     },
     "Gastos": {
