@@ -96,6 +96,12 @@
         },
         "Hugo Caceres. 180.000*4. Sa": {
             "sigpago": "26\/03\/2026"
+        },
+        "Eduardo David Fanego. 110.000*6. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {
