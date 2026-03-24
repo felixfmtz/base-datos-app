@@ -13,6 +13,12 @@
         },
         "Andres Godoy. 1.200.000. C2": {
             "sigpago": "27\/03\/2026"
+        },
+        "Susana de Leite. Pablo. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
