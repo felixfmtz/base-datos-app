@@ -58,6 +58,10 @@
         "gomeria": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "lavarropa": {
+            "valor": 1000000,
+            "accion": "sumar"
         }
     }
 }
