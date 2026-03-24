@@ -5,167 +5,61 @@
             "seccion": "Crear cuenta",
             "items": [
                 {
-                    "nombreOriginal": "Ana Gayoso",
-                    "Deuda": "1.000.000",
+                    "nombreOriginal": "Abelino Peralta",
+                    "Deuda": "250.000",
                     "Garante": "Sin Garante",
                     "NCuotas": "6",
-                    "Frecuencia": "Miércoles",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Luciano Pintos",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "10",
-                    "Frecuencia": "Jueves",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Juana Fariña",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Lunes",
+                    "Frecuencia": "Martes",
                     "Transferencia": "No"
                 }
             ]
         }
     ],
     "Pagos": {
-        "Sonia Amarilla. 220.000*6. Sa": {
+        "Fabiola Cañete. Cheque. 1.100.000": {
             "NoTCuota": 0,
-            "NoTInteres": 0,
+            "NoTInteres": 100000,
             "TCuota": 0,
-            "TInteres": 50000
-        },
-        "Juan Benitez. Kague. 350.000*2": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 100000
-        },
-        "Elsa Cañete. 60.000*44": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 200000,
             "TInteres": 0
         },
-        "Elsa Cañete. 60.000*44. C1": {
+        "Juan Alberto Venialgo. 4.000.000*6. Ma": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 120000,
+            "TCuota": 0,
             "TInteres": 0
         },
         "Elsa Cañete. 60.000*44. C3": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 120000,
+            "TCuota": 0,
             "TInteres": 0
         },
-        "Delcia Castillo. 2.400.000": {
+        "Elsa Cañete. 60.000*44": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 1400000,
+            "TCuota": 0,
             "TInteres": 0,
-            "Error": "corregir en 2 pagos"
+            "sigpago": "25\/03\/2026"
         },
-        "Fabiola Cañete. Cheque. 1.100.000": {
+        "Paola Insfran. 275.000. Ma": {
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 100000
+            "TInteres": 0,
+            "Error": "prueba"
         },
-        "Roman Flores. 300.000*4. Ma": {
-            "NoTCuota": 300000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ruth Martinez. 180.000*4. Sa": {
-            "NoTCuota": 0,
-            "NoTInteres": 120000,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Hugo Caceres. Olier. C1. 480.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 80000,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Hugo Caceres. Olier. C2. 480.000": {
-            "sigpago": "26\/03\/2026"
-        },
-        "Hugo Caceres. Olier. 105.000*4": {
-            "sigpago": "26\/03\/2026"
-        },
-        "Hugo Caceres. Olier. 1.080.000": {
-            "sigpago": "26\/03\/2026"
-        },
-        "Hugo Caceres. 180.000*4. Sa": {
-            "sigpago": "26\/03\/2026"
-        },
-        "Eduardo David Fanego. 110.000*6. Vi": {
+        "Elsa Cañete. 60.000*44. C1": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 110000,
-            "TInteres": 0
-        },
-        "Juana Fariña. 220.000*6. Lu": {
-            "NoTCuota": 660000,
-            "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 0
-        },
-        "Juan Alberto Venialgo. 4.000.000*6. Sa": {
-            "NoTCuota": 4000000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Juan Alberto Venialgo. 4.000.000*6. Ma": {
-            "sigpago": "28\/03\/2026",
-            "NoTCuota": 2000000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Maria Rolon. 700.000*5": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 500000,
-            "TInteres": 0
-        },
-        "Elsa Cañete. Secaropa. 100.000*30. Vi": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 20000,
-            "TInteres": 0
-        },
-        "Hugo Ariel Arrua. 175.000*8. Sa": {
-            "NoTCuota": 175000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Hugo Ariel Arrua. 175.000*8. Sa. C2": {
-            "NoTCuota": 175000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
+            "TInteres": 0,
+            "Error": "prueb",
+            "sigpago": "25\/03\/2026"
         }
     },
     "Gastos": {
-        "gomeria": {
-            "valor": 20000,
-            "accion": "sumar"
-        },
-        "lavarropa": {
-            "valor": 1000000,
-            "accion": "sumar"
-        },
-        "lavadero": {
-            "valor": 35000,
+        "687": {
+            "valor": 250000,
             "accion": "sumar"
         }
     }
