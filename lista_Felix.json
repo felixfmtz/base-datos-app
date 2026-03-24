@@ -124,7 +124,11 @@
             "TInteres": 0
         },
         "Juan Alberto Venialgo. 4.000.000*6. Ma": {
-            "sigpago": "28\/03\/2026"
+            "sigpago": "28\/03\/2026",
+            "NoTCuota": 2000000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
