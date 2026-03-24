@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "24\/03\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Carlos Derlis Duarte",
+                    "Deuda": "100.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Juana de la Cruz. 1.200.000": {
             "sigpago": "27\/03\/2026"
@@ -33,7 +47,7 @@
             "TInteres": 0
         },
         "Juan Ayala. Aire. 100.000*29. Lu": {
-            "NoTCuota": 100000,
+            "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
