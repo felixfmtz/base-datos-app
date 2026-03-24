@@ -62,6 +62,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "sigpago": "Pagado"
+        },
+        "Roman Flores. 300.000*4. Ma": {
+            "sigpago": "25\/03\/2026"
         }
     },
     "Gastos": {
