@@ -137,5 +137,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "entregado": {
+            "valor": 1580000,
+            "accion": "sumar"
+        }
+    }
 }
