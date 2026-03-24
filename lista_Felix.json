@@ -54,5 +54,10 @@
             "Error": "corregir en 2 pagos"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "gomeria": {
+            "valor": 20000,
+            "accion": "sumar"
+        }
+    }
 }
