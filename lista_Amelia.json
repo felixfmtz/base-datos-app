@@ -241,6 +241,10 @@
         "casa": {
             "valor": 190000,
             "accion": "sumar"
+        },
+        "agua": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
