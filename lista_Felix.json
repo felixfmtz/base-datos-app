@@ -8,6 +8,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "numero errado"
+        },
+        "Cynthia Alarcon. 220.000*3": {
+            "sigpago": "28\/03\/2026"
         }
     },
     "Gastos": {}
