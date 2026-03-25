@@ -10,6 +10,12 @@
         },
         "Arbelino Gonzalez. 660.000*3": {
             "sigpago": "28\/03\/2026"
+        },
+        "Claudelina Lopez. 100.000*36. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
