@@ -257,6 +257,10 @@
         "agua": {
             "valor": 10000,
             "accion": "sumar"
+        },
+        "real": {
+            "valor": 120000,
+            "accion": "sumar"
         }
     }
 }
