@@ -1,84 +1,14 @@
 {
-    "fecha_ultimo_guardado": "24\/03\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Abelino Peralta",
-                    "Deuda": "250.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Martes",
-                    "Transferencia": "No"
-                }
-            ]
-        }
-    ],
+    "fecha_ultimo_guardado": "25\/03\/2026",
+    "cuentas": [],
     "Pagos": {
-        "Fabiola Cañete. Cheque. 1.100.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 100000,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Juan Alberto Venialgo. 4.000.000*6. Ma": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Elsa Cañete. 60.000*44. C3": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Elsa Cañete. 60.000*44": {
-            "NoTCuota": 80000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "sigpago": "25\/03\/2026"
-        },
-        "Paola Insfran. 275.000. Ma": {
+        "Angel Retamozo. 330.000": {
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0,
-            "Error": "prueba",
-            "sigpago": "26\/03\/2026"
-        },
-        "Elsa Cañete. 60.000*44. C1": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "prueb",
-            "sigpago": "25\/03\/2026"
-        },
-        "Recordatorio 1. Paola. 0": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "sigpago": "Pagado"
-        },
-        "Roman Flores. 300.000*4. Ma": {
-            "sigpago": "25\/03\/2026"
-        },
-        "Recordatorio 1. Gim. 1": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "sigpago": "Pagado"
+            "Error": "numero errado"
         }
     },
-    "Gastos": {
-        "687": {
-            "valor": 250000,
-            "accion": "sumar"
-        }
-    }
+    "Gastos": {}
 }
