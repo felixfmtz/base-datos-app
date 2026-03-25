@@ -10,6 +10,12 @@
         },
         "Leonarda Baez. Marlene. 420.000*10. Ma": {
             "sigpago": "31\/03\/2026"
+        },
+        "Rosalia Morinigo. Sandra. 210.000*10. Mi": {
+            "NoTCuota": 210000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
