@@ -131,6 +131,12 @@
         },
         "Delfina Britez. 120.000*44. C1": {
             "sigpago": "28\/03\/2026"
+        },
+        "Edmundo Mendoza. 280.000*10. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {
