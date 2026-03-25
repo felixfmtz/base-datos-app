@@ -144,6 +144,10 @@
         "comida": {
             "valor": 68000,
             "accion": "sumar"
+        },
+        "sueldo jesica": {
+            "valor": 2000000,
+            "accion": "sumar"
         }
     }
 }
