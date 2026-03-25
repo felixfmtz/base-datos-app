@@ -257,7 +257,7 @@
         "Fredy Pintos. 140.000*10. Ma": {
             "NoTCuota": 260000,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 20000,
             "TInteres": 0
         }
     },
