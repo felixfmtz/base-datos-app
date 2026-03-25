@@ -277,6 +277,10 @@
         "limpieza ": {
             "valor": 90000,
             "accion": "sumar"
+        },
+        "horno ": {
+            "valor": 250000,
+            "accion": "sumar"
         }
     }
 }
