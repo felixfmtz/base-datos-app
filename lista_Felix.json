@@ -52,7 +52,7 @@
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 0,
+            "TInteres": 50000,
             "Error": "numero errado"
         },
         "Cynthia Alarcon. 220.000*3": {
