@@ -1,223 +1,31 @@
 {
     "fecha_ultimo_guardado": "25\/03\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Nanci Riveros",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "1",
-                    "Frecuencia": "Mensual",
-                    "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Ordonia Davalos",
-                    "Deuda": "500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "24",
-                    "Frecuencia": "Diario",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Ordonia Davalos 2",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Miércoles",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Claudio Insfran",
-                    "Deuda": "200.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "1",
-                    "Frecuencia": "Mensual",
-                    "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Rosalba Ojeda",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Miércoles",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Veronica Bianca Pereira",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Lunes",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Ramon Irala",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "2",
-                    "Frecuencia": "Mensual",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Cliente Nuevo",
-                    "Deuda": "500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Lunes",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Leonardo Dure",
-                    "Deuda": "1.500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Sábado",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Benicio Portillo",
-                    "Deuda": "500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "1",
-                    "Frecuencia": "Mensual",
-                    "Transferencia": "Si"
-                }
-            ]
-        }
-    ],
+    "cuentas": [],
     "Pagos": {
         "Angel Retamozo. 330.000": {
-            "NoTCuota": 0,
+            "NoTCuota": 330000,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 50000,
-            "Error": "numero errado"
+            "TInteres": 0
         },
-        "Cynthia Alarcon. 220.000*3": {
-            "sigpago": "28\/03\/2026"
+        "Bruno Davalos. 220.000*3": {
+            "NoTCuota": 440000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         },
-        "Cynthia Alarcon. 220.000*3. C2": {
-            "sigpago": "28\/03\/2026"
-        },
-        "Delia Blanco. 100.000*35. Sa": {
-            "sigpago": "28\/03\/2026"
-        },
-        "Delia Blanco. 140.000*10. Ma": {
-            "sigpago": "28\/03\/2026"
+        "Ruth. Olier. Qui. C1. 300.000*2": {
+            "NoTCuota": 300000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         },
         "Elsa Cañete. 60.000*44": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 120000,
-            "TInteres": 0
-        },
-        "Elsa Cañete. 60.000*44. C1": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 60000,
-            "TInteres": 0
-        },
-        "Elsa Cañete. 60.000*44. C3": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 60000,
-            "TInteres": 0
-        },
-        "Felicia Zarza. 1.200.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 200000,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Felicia Zarza. Zantos. 1.200.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 200000,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ordonia Davalos. 25.000*24": {
-            "NoTCuota": 150000,
+            "NoTCuota": 220000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
-        },
-        "Ordonia Davalos. 50.000*24. C1": {
-            "NoTCuota": 50000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ordonia Davalos. 220.000*6. Vi": {
-            "NoTCuota": 440000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Dorca Zarza. 280.000*10. Lu": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 280000,
-            "TInteres": 0
-        },
-        "Rosalba Ojeda. 220.000*6. Mi": {
-            "NoTCuota": 440000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Rosalba Ojeda. Aire. 150.000*34. Ma": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 150000,
-            "TInteres": 0
-        },
-        "Cristobal Muñoz. 250.000*6. Mi. C1": {
-            "NoTCuota": 250000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Mirna Gauto. 1.100.000": {
-            "NoTCuota": 900000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ramon Irala. 700.000*2": {
-            "NoTCuota": 700000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Leonardo Dure. 330.000*6. Mi": {
-            "NoTCuota": 50000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ramon Vera. 1.200.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 200000
-        },
-        "Ramon Vera. 560.000*5": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 160000
         }
     },
-    "Gastos": {
-        "comida": {
-            "valor": 68000,
-            "accion": "sumar"
-        },
-        "sueldo jesica": {
-            "valor": 2000000,
-            "accion": "sumar"
-        }
-    }
+    "Gastos": {}
 }
