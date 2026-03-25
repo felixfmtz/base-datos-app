@@ -267,6 +267,10 @@
         "real": {
             "valor": 120000,
             "accion": "sumar"
+        },
+        "limpieza ": {
+            "valor": 90000,
+            "accion": "sumar"
         }
     }
 }
