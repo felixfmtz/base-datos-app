@@ -96,6 +96,10 @@
         "lavadero": {
             "valor": 45000,
             "accion": "sumar"
+        },
+        "carbon": {
+            "valor": 50000,
+            "accion": "sumar"
         }
     }
 }
