@@ -84,5 +84,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "lavadero": {
+            "valor": 45000,
+            "accion": "sumar"
+        }
+    }
 }
