@@ -1,105 +1,27 @@
 {
     "fecha_ultimo_guardado": "26\/03\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Fatima Fonseca",
-                    "Deuda": "500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Jueves",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Edgar Jara",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Lunes",
-                    "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Cristina Cabral",
-                    "Deuda": "500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "1",
-                    "Frecuencia": "Quincenal",
-                    "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Maria Belen Torres",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Jueves",
-                    "Transferencia": "Si"
-                }
-            ]
-        }
-    ],
+    "cuentas": [],
     "Pagos": {
-        "Cristobal Muños. 1.100.000": {
-            "sigpago": "28\/03\/2026"
-        },
-        "Mirna Gauto. 1.100.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 200000,
-            "TInteres": 0
-        },
-        "Pedro Franco. 50.000*7. Ma": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 50000,
-            "TInteres": 0
-        },
-        "Pedro Franco. 700.000*10. Mi": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 700000,
-            "TInteres": 0
-        },
-        "Pedro Franco. Aire. 100.000*32. Mi": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 100000,
-            "TInteres": 0
-        },
-        "Leticia Alfonzo. 200.000*7. Sa": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 800000,
-            "TInteres": 0
-        },
-        "Isaias Castillo. 550.000. Ju": {
-            "sigpago": "28\/03\/2026"
-        },
-        "Juan Albino. 1.100.000": {
-            "sigpago": "11\/04\/2026"
-        },
-        "Rolando Lopez. 300.000*2": {
-            "NoTCuota": 300000,
+        "Alfredo Castillo. 1.560.000": {
+            "NoTCuota": 60000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
         },
-        "Fatima Fonseca. 140.000*10. Sa": {
-            "NoTCuota": 130000,
+        "Elsa Cañete. 60.000*44. C3": {
+            "sigpago": "27\/03\/2026"
+        },
+        "Elsa Cañete. 60.000*44": {
+            "sigpago": "28\/03\/2026",
+            "Error": "0yrthh"
+        },
+        "Recordatorio 1. Gim. 1": {
+            "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 0
+            "TInteres": 0,
+            "sigpago": "Pagado"
         }
     },
-    "Gastos": {
-        "lavadero": {
-            "valor": 45000,
-            "accion": "sumar"
-        },
-        "carbon": {
-            "valor": 50000,
-            "accion": "sumar"
-        }
-    }
+    "Gastos": {}
 }
