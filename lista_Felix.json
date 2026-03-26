@@ -3,7 +3,7 @@
     "cuentas": [],
     "Pagos": {
         "Alfredo Castillo. 1.560.000": {
-            "NoTCuota": 60000,
+            "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
