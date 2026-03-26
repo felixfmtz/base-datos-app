@@ -4,6 +4,12 @@
     "Pagos": {
         "Cristobal Muños. 1.100.000": {
             "sigpago": "28\/03\/2026"
+        },
+        "Mirna Gauto. 1.100.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
