@@ -12,16 +12,7 @@
         },
         {
             "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Abelino Peralta",
-                    "Deuda": "256.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Diario",
-                    "Transferencia": "No"
-                }
-            ]
+            "items": []
         }
     ],
     "Pagos": {
