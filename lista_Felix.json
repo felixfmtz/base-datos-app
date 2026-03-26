@@ -187,6 +187,10 @@
         "carbon": {
             "valor": 50000,
             "accion": "sumar"
+        },
+        "pilar": {
+            "valor": 35000,
+            "accion": "sumar"
         }
     }
 }
