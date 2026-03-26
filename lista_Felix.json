@@ -51,6 +51,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Cliente Nuevo",
+                    "Deuda": "500.000",
+                    "Garante": "Matías ugarte 115x6",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
