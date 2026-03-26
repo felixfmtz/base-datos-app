@@ -4,6 +4,12 @@
     "Pagos": {
         "Juan Carlos Flores. 280.000*10. Sa": {
             "sigpago": "28\/03\/2026"
+        },
+        "Irma Raquel Cantero. 265.000*8. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 265000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
