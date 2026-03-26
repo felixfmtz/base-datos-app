@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "26\/03\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Fatima Fonseca",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Cristobal Muños. 1.100.000": {
             "sigpago": "28\/03\/2026"
