@@ -1,6 +1,16 @@
 {
     "fecha_ultimo_guardado": "26\/03\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Adelina Barreto",
+                    "dia": "Lu"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Alfredo Castillo. 1.560.000": {
             "NoTCuota": 0,
