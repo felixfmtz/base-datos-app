@@ -35,6 +35,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Viernes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Felicia Dominguez",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
                 }
             ]
         }
