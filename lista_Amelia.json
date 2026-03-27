@@ -156,5 +156,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "comisión derlis": {
+            "valor": 180000,
+            "accion": "sumar"
+        }
+    }
 }
