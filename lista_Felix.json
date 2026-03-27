@@ -236,6 +236,10 @@
         "agua": {
             "valor": 48000,
             "accion": "sumar"
+        },
+        "bolsa ": {
+            "valor": 18000,
+            "accion": "sumar"
         }
     }
 }
