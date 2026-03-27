@@ -11,6 +11,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Digna Lopez",
+                    "Deuda": "150.000",
+                    "Garante": "hijo ventilador ",
+                    "NCuotas": "7",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
