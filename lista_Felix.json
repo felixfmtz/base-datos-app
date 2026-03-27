@@ -165,6 +165,10 @@
         "rosa": {
             "valor": 15000,
             "accion": "sumar"
+        },
+        "remedio": {
+            "valor": 325000,
+            "accion": "sumar"
         }
     }
 }
