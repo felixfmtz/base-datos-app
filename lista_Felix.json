@@ -240,6 +240,10 @@
         "bolsa ": {
             "valor": 18000,
             "accion": "sumar"
+        },
+        "sueldo jessica": {
+            "valor": 700000,
+            "accion": "sumar"
         }
     }
 }
