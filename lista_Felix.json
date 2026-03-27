@@ -59,6 +59,14 @@
                     "NCuotas": "33",
                     "Frecuencia": "Diario",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Gedalia DelValle",
+                    "Deuda": "5.530.000",
+                    "Garante": "heladera",
+                    "NCuotas": "42",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "No"
                 }
             ]
         }
