@@ -51,6 +51,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Clyde Isabel Justiniano",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "33",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "No"
                 }
             ]
         }
