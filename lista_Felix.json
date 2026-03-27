@@ -214,6 +214,10 @@
         "remedio": {
             "valor": 325000,
             "accion": "sumar"
+        },
+        "combu": {
+            "valor": 265000,
+            "accion": "sumar"
         }
     }
 }
