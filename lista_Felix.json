@@ -101,6 +101,15 @@
                     "Transferencia": "No"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "lios",
+                    "dia": "Lu"
+                }
+            ]
         }
     ],
     "Pagos": {
