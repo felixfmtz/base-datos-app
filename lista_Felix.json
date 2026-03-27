@@ -232,6 +232,10 @@
         "combu": {
             "valor": 265000,
             "accion": "sumar"
+        },
+        "agua": {
+            "valor": 48000,
+            "accion": "sumar"
         }
     }
 }
