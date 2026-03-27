@@ -67,6 +67,14 @@
                     "NCuotas": "42",
                     "Frecuencia": "Viernes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Cliente Nuevo",
+                    "Deuda": "500.000",
+                    "Garante": "hugo Javier gomez",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
