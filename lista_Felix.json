@@ -244,6 +244,10 @@
         "sueldo jessica": {
             "valor": 700000,
             "accion": "sumar"
+        },
+        "taller": {
+            "valor": 900000,
+            "accion": "sumar"
         }
     }
 }
