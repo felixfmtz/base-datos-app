@@ -75,6 +75,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Jesica Empleada",
+                    "Deuda": "1.101.000",
+                    "Garante": "celular",
+                    "NCuotas": "2",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "Si"
                 }
             ]
         }
