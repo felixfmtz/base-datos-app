@@ -72,5 +72,10 @@
             "sigpago": "30\/03\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "entregado": {
+            "valor": 785000,
+            "accion": "sumar"
+        }
+    }
 }
