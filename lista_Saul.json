@@ -55,6 +55,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Taiane Dos Santos. 2.400.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 2400000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
