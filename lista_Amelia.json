@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "28\/03\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Jose Miguel Caceres",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Luana Sosa. 280.000*10. Lu": {
             "NoTCuota": 0,
