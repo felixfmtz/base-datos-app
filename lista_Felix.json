@@ -30,6 +30,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "en 2 pagos"
+        },
+        "Liz Mabel Dure. 1.100.000*6. Mi": {
+            "NoTCuota": 1100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
