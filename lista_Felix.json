@@ -5,6 +5,14 @@
             "seccion": "Crear cuenta",
             "items": [
                 {
+                    "nombreOriginal": "prueba",
+                    "Deuda": "100.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "",
+                    "Frecuencia": "",
+                    "Transferencia": "Si"
+                },
+                {
                     "nombreOriginal": "Susana de Leite",
                     "Deuda": "1.000.000",
                     "Garante": "pablo",
@@ -15,32 +23,6 @@
             ]
         }
     ],
-    "Pagos": {
-        "Reinaldo Narvae. 440.000*3": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "en 2 pagos"
-        },
-        "Liz Mabel Dure. 1.100.000*6. Mi": {
-            "NoTCuota": 1100000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Walter Abel Oviedo. 990.000*2": {
-            "sigpago": "03\/04\/2026"
-        },
-        "Sebastiana Bogado. 140.000*10. Sa": {
-            "sigpago": "03\/04\/2026"
-        },
-        "Derlis Pintos. Celular. 100.000*22. Vi": {
-            "sigpago": "03\/04\/2026"
-        },
-        "Yesica Suarez. 560.000*5": {
-            "sigpago": "03\/04\/2026"
-        }
-    },
+    "Pagos": {},
     "Gastos": {}
 }
