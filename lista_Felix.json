@@ -176,5 +176,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "veterinario": {
+            "valor": 660000,
+            "accion": "sumar"
+        }
+    }
 }
