@@ -271,6 +271,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Maria Magdalena. 560.000*10. Sa": {
+            "NoTCuota": 1120000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
