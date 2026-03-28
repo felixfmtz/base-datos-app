@@ -11,6 +11,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Lunes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Noelia Gonzalez Cano",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
