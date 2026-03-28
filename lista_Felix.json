@@ -144,6 +144,12 @@
             "NoTInteres": 0,
             "TCuota": 880000,
             "TInteres": 0
+        },
+        "Liliana Lugo. 210.000*10. Sa": {
+            "NoTCuota": 840000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
