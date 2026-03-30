@@ -139,6 +139,14 @@
                     "NCuotas": "",
                     "Frecuencia": "",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "prueba final",
+                    "Deuda": "36.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "",
+                    "Frecuencia": "",
+                    "Transferencia": "No"
                 }
             ]
         }
@@ -182,6 +190,12 @@
         },
         "pueba11": {
             "NoTCuota": 300000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "prueba2": {
+            "NoTCuota": 150000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
