@@ -14,6 +14,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "en 2 pagos"
+        },
+        "Juana Fariña. 220.000*6. Lu": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
