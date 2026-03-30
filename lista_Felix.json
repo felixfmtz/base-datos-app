@@ -5,8 +5,24 @@
             "seccion": "Crear cuenta",
             "items": [
                 {
-                    "nombreOriginal": "vicotr",
-                    "Deuda": "100.000",
+                    "nombreOriginal": "Claudio Insfran",
+                    "Deuda": "300.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Juan Delgado",
+                    "Deuda": "10.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Mirian Molina",
+                    "Deuda": "1.500.000",
                     "Garante": "Sin Garante",
                     "NCuotas": "6",
                     "Frecuencia": "Lunes",
@@ -14,23 +30,139 @@
                 },
                 {
                     "nombreOriginal": "Victor Gimenez",
-                    "Deuda": "25.000",
+                    "Deuda": "1.790.000",
                     "Garante": "Sin Garante",
-                    "NCuotas": "",
-                    "Frecuencia": "",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "victor gimenez",
-                    "Deuda": "36.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "",
-                    "Frecuencia": "",
+                    "NCuotas": "30",
+                    "Frecuencia": "Sábado",
                     "Transferencia": "No"
                 }
             ]
         }
     ],
-    "Pagos": {},
+    "Pagos": {
+        "Laura Morinigo. 440.000*3": {
+            "sigpago": "15\/04\/2026"
+        },
+        "Liz Ramirez. 140.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
+        },
+        "Ramona Ortiz. 110.000*6. Sa": {
+            "sigpago": "04\/04\/2026"
+        },
+        "Victor Gimenez. 110.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
+        },
+        "Yanina Plaz. 140.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
+        },
+        "Yanina Plaz. 210.000*10. Sa": {
+            "sigpago": "04\/04\/2026"
+        },
+        "Edgar Jara. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
+        },
+        "Eliane Mariela Colman. 525.000*8. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
+        },
+        "Roque Martinez. 220.000*3": {
+            "NoTCuota": 220000,
+            "NoTInteres": 50000,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Denis Francisco Colman. 440.000*3": {
+            "NoTCuota": 440000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Hugo Marmori. 1.200.000. C2": {
+            "NoTCuota": 0,
+            "NoTInteres": 200000,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Felicia Zarza. 550.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 50000,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Elsa Cañete. 60.000*44": {
+            "NoTCuota": 130000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Elsa Cañete. 60.000*44. C1": {
+            "NoTCuota": 60000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Elsa Cañete. 60.000*44. C3": {
+            "NoTCuota": 10000,
+            "NoTInteres": 0,
+            "TCuota": 50000,
+            "TInteres": 0
+        },
+        "Sonia Amarilla. 220.000*6. Sa": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Sonia Amarilla. 220.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 50000,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Sonia Amarilla. 180.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 30000,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Nelva Colman. 350.000*8. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 350000,
+            "TInteres": 0
+        },
+        "Juan Delgado. 2.000.000*6. Lu": {
+            "NoTCuota": 7100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Mirian Molina. 265.000*8. Lu": {
+            "NoTCuota": 795000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Rosalia Gonzalez. 110.000*6. Lu. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        }
+    },
     "Gastos": {}
 }
