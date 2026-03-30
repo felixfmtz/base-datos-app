@@ -35,6 +35,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Rosalia Morinigo",
+                    "Deuda": "500.000",
+                    "Garante": "sandra",
+                    "NCuotas": "10",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
