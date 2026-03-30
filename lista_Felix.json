@@ -266,6 +266,10 @@
         "sandalia ": {
             "valor": 140000,
             "accion": "sumar"
+        },
+        "yogurt": {
+            "valor": 18000,
+            "accion": "sumar"
         }
     }
 }
