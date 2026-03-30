@@ -11,6 +11,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Victor Gimenez",
+                    "Deuda": "25.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "",
+                    "Frecuencia": "",
+                    "Transferencia": "No"
                 }
             ]
         }
