@@ -51,6 +51,14 @@
                     "NCuotas": "",
                     "Frecuencia": "",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "pueba",
+                    "Deuda": "344.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "",
+                    "Frecuencia": "",
+                    "Transferencia": "No"
                 }
             ]
         }
