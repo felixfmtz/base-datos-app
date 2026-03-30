@@ -51,6 +51,14 @@
                     "NCuotas": "30",
                     "Frecuencia": "Diario",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Pablo Alderete",
+                    "Deuda": "825.000",
+                    "Garante": "lavarropa",
+                    "NCuotas": "14",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
