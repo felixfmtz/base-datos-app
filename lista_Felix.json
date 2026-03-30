@@ -115,6 +115,14 @@
                     "NCuotas": "",
                     "Frecuencia": "",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "ujo",
+                    "Deuda": "32.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "",
+                    "Frecuencia": "",
+                    "Transferencia": "No"
                 }
             ]
         }
@@ -140,6 +148,12 @@
         },
         "cliente prueba": {
             "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Alcides Rodas": {
+            "NoTCuota": 25000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
