@@ -225,6 +225,10 @@
         "paquete": {
             "valor": 110000,
             "accion": "sumar"
+        },
+        "sandalia ": {
+            "valor": 140000,
+            "accion": "sumar"
         }
     }
 }
