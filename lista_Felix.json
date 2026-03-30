@@ -67,6 +67,14 @@
                     "NCuotas": "",
                     "Frecuencia": "",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "adela prueba",
+                    "Deuda": "39.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "",
+                    "Frecuencia": "",
+                    "Transferencia": "No"
                 }
             ]
         }
