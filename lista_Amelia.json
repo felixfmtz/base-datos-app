@@ -51,6 +51,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Martes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Nelson Alonso",
+                    "Deuda": "1.500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
                 }
             ]
         }
