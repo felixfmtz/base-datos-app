@@ -213,6 +213,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Rosalia Morinigo. Sandra. 210.000*10. Lu": {
+            "NoTCuota": 190000,
+            "NoTInteres": 0,
+            "TCuota": 20000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
