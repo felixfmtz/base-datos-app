@@ -221,5 +221,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "paquete": {
+            "valor": 110000,
+            "accion": "sumar"
+        }
+    }
 }
