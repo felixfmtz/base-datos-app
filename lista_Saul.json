@@ -92,6 +92,12 @@
             "NoTInteres": 0,
             "TCuota": 220000,
             "TInteres": 0
+        },
+        "Fredy Espinoza. 468.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 450000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
