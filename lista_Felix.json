@@ -90,6 +90,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Fabiola Lopez. 700.000*10. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 500000,
+            "TInteres": 0
         }
     },
     "Gastos": {
