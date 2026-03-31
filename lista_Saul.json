@@ -66,7 +66,7 @@
             "TInteres": 0
         },
         "Gedalia DelValle. 180.000*30": {
-            "NoTCuota": 1800000,
+            "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
@@ -91,6 +91,12 @@
         },
         "Isabelina Villarreal. 140.000*10. Ma": {
             "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Demesia Nuñez. 168.000*10. Sa": {
+            "NoTCuota": 335000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
