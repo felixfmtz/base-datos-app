@@ -13,6 +13,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Arnaldo Saucedo. 440.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 880000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
