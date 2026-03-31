@@ -82,6 +82,10 @@
         "mochila ": {
             "valor": 47000,
             "accion": "sumar"
+        },
+        "yerba": {
+            "valor": 46000,
+            "accion": "sumar"
         }
     }
 }
