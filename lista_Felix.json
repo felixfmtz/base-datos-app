@@ -42,6 +42,12 @@
             "NoTInteres": 0,
             "TCuota": 1400000,
             "TInteres": 0
+        },
+        "Ronda. Felix. 6.500.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 4500000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
