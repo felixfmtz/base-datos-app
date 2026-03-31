@@ -25,6 +25,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Evangelista Ortiz. Marlene. 150.000*4. Ma": {
+            "NoTCuota": 300000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
