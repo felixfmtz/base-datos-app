@@ -78,5 +78,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "mochila ": {
+            "valor": 47000,
+            "accion": "sumar"
+        }
+    }
 }
