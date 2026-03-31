@@ -2,19 +2,15 @@
     "fecha_ultimo_guardado": "31\/03\/2026",
     "cuentas": [],
     "Pagos": {
-        "Paola Insfran. 275.000. Ma": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "número equivocado"
-        },
         "Roman Flores. 300.000*4. Ma": {
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0,
             "Error": "7 de mayo"
+        },
+        "Cynthia Alarcon. 220.000*3": {
+            "sigpago": "04\/04\/2026"
         }
     },
     "Gastos": {}
