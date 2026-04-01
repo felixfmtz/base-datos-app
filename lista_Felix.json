@@ -206,7 +206,8 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0,
-            "Error": "el 6"
+            "Error": "el 6",
+            "sigpago": "06\/04\/2026"
         }
     },
     "Gastos": {
