@@ -153,6 +153,10 @@
         "contador": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "pan": {
+            "valor": 84000,
+            "accion": "sumar"
         }
     }
 }
