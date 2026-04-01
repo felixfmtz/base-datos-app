@@ -155,6 +155,12 @@
             "NoTInteres": 0,
             "TCuota": 960000,
             "TInteres": 0
+        },
+        "Pedro Franco. 700.000*10. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 700000,
+            "TInteres": 0
         }
     },
     "Gastos": {
