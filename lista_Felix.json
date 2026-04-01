@@ -171,6 +171,10 @@
         "pan": {
             "valor": 84000,
             "accion": "sumar"
+        },
+        "percarbonato": {
+            "valor": 55000,
+            "accion": "sumar"
         }
     }
 }
