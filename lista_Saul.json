@@ -8,6 +8,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "numero equivocado"
+        },
+        "Claudelina Lopez. 110.000*6. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
