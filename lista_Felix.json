@@ -279,6 +279,10 @@
         "veterinario": {
             "valor": 730000,
             "accion": "sumar"
+        },
+        "reme": {
+            "valor": 66000,
+            "accion": "sumar"
         }
     }
 }
