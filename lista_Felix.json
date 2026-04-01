@@ -175,6 +175,10 @@
         "percarbonato": {
             "valor": 55000,
             "accion": "sumar"
+        },
+        "bebidas": {
+            "valor": 112000,
+            "accion": "sumar"
         }
     }
 }
