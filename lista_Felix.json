@@ -33,6 +33,10 @@
         "comida": {
             "valor": 66000,
             "accion": "sumar"
+        },
+        "sueldo saul": {
+            "valor": 2000000,
+            "accion": "sumar"
         }
     }
 }
