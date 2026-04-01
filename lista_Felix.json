@@ -78,6 +78,12 @@
             "NoTInteres": 0,
             "TCuota": 2000000,
             "TInteres": 0
+        },
+        "Cayo Castillo. 360.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 360000,
+            "TInteres": 0
         }
     },
     "Gastos": {
