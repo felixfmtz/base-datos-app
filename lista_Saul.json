@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "01\/04\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Gedalia DelValle",
+                    "Deuda": "4.500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "30",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Lucia Quiñonez. 525.000*4": {
             "NoTCuota": 0,
