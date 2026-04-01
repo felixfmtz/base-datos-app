@@ -69,6 +69,15 @@
                     "Transferencia": "Si"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Banesa Benitez",
+                    "dia": "Lu"
+                }
+            ]
         }
     ],
     "Pagos": {
