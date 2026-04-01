@@ -275,6 +275,10 @@
         "bebidas": {
             "valor": 112000,
             "accion": "sumar"
+        },
+        "veterinario": {
+            "valor": 730000,
+            "accion": "sumar"
         }
     }
 }
