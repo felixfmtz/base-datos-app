@@ -265,6 +265,10 @@
         "entregado": {
             "valor": 3160000,
             "accion": "sumar"
+        },
+        "cubierta": {
+            "valor": 170000,
+            "accion": "sumar"
         }
     }
 }
