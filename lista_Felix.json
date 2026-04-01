@@ -200,6 +200,13 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "el 6"
+        },
+        "Jose Miguel Gamarra. 600.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "el 6"
         }
     },
     "Gastos": {
