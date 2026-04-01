@@ -292,6 +292,12 @@
             "NoTInteres": 0,
             "TCuota": 220000,
             "TInteres": 0
+        },
+        "Dario Rene Pintos. Manu. 1.200.000": {
+            "NoTCuota": 1200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
