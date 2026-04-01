@@ -1,117 +1,13 @@
 {
-    "fecha_ultimo_guardado": "31\/03\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Elvio Fariña",
-                    "Deuda": "1.500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "10",
-                    "Frecuencia": "Lunes",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Pedro Antonio Gamarra",
-                    "Deuda": "500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "4",
-                    "Frecuencia": "Lunes",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Alfredo Castillo",
-                    "Deuda": "1.500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "1",
-                    "Frecuencia": "Miércoles",
-                    "Transferencia": "No"
-                }
-            ]
-        }
-    ],
+    "fecha_ultimo_guardado": "01\/04\/2026",
+    "cuentas": [],
     "Pagos": {
-        "Paola Insfran. 275.000. Ma": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "número equivocado"
-        },
-        "Roman Flores. 300.000*4. Ma": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "7 de mayo"
-        },
-        "Cynthia Alarcon. 220.000*3": {
-            "sigpago": "04\/04\/2026"
-        },
-        "Cynthia Alarcon. 220.000*3. C2": {
-            "sigpago": "04\/04\/2026"
-        },
-        "Edgar Fleitas. 100.000*23. Lu": {
-            "sigpago": "06\/04\/2026"
-        },
-        "Edgar Fleitas. 140.000*10. Lu": {
-            "sigpago": "06\/04\/2026"
-        },
-        "Edgar Lopez. 3.000.000": {
-            "sigpago": "01\/04\/2026"
-        },
-        "Eliane Mariela Colman. 525.000*8. Vi": {
-            "sigpago": "03\/04\/2026"
-        },
-        "Yanina Plaz. 140.000*10. Sa": {
-            "sigpago": "04\/04\/2026"
-        },
-        "Maria Rolon. 700.000*5": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ronda. Felix. 6.500.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 4500000,
-            "TInteres": 0
-        },
-        "Elvio Fariña. 220.000*6. Sa": {
-            "NoTCuota": 220000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Mirna Gauto. 140.000*10. Ma": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 140000,
-            "TInteres": 0
-        },
-        "Fabiola Lopez. 700.000*10. Mi": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 500000,
-            "TInteres": 0
-        },
-        "Bienvenido Martinez. 600.000*2": {
-            "NoTCuota": 600000,
+        "Victor Lopez. 560.000*5": {
+            "NoTCuota": 500000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
         }
     },
-    "Gastos": {
-        "mochila ": {
-            "valor": 47000,
-            "accion": "sumar"
-        },
-        "yerba": {
-            "valor": 46000,
-            "accion": "sumar"
-        }
-    }
+    "Gastos": {}
 }
