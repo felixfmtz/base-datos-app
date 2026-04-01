@@ -48,6 +48,12 @@
         },
         "Liz Paola Mancuello. 70.000*10. Sa": {
             "sigpago": "06\/04\/2026"
+        },
+        "Maria Rolon. 700.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1400000,
+            "TInteres": 0
         }
     },
     "Gastos": {
