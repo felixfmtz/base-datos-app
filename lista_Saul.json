@@ -133,6 +133,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Walter Gabriel Peralta. 280.000*5. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 80000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
