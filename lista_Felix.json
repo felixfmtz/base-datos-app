@@ -209,6 +209,12 @@
             "TInteres": 0,
             "Error": "el 6",
             "sigpago": "06\/04\/2026"
+        },
+        "Ignacio Melgarejo. 20.000*30": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 20000,
+            "TInteres": 0
         }
     },
     "Gastos": {
