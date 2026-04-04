@@ -297,5 +297,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "comisario ": {
+            "valor": 1000000,
+            "accion": "sumar"
+        }
+    }
 }
