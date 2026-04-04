@@ -280,6 +280,10 @@
         "giro carolina": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "agua": {
+            "valor": 4000,
+            "accion": "sumar"
         }
     }
 }
