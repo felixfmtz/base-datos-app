@@ -199,6 +199,10 @@
         "Internet ": {
             "valor": 460000,
             "accion": "sumar"
+        },
+        "diarte ": {
+            "valor": 800000,
+            "accion": "sumar"
         }
     }
 }
