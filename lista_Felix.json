@@ -289,6 +289,12 @@
         },
         "Mirta Larroza. 700.000*2": {
             "sigpago": "01\/05\/2026"
+        },
+        "Ronda. Juan. 1.400.000": {
+            "NoTCuota": 1300000,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
