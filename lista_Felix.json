@@ -242,6 +242,10 @@
         "sueldo bruno": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "giro carolina": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
