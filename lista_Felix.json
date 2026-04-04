@@ -11,6 +11,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Anastacio Baez",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
