@@ -229,6 +229,12 @@
             "NoTInteres": 40000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Sonia Larrea. Marido. 140.000*10. Sa": {
+            "NoTCuota": 140000,
+            "NoTInteres": 50000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
