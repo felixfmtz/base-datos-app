@@ -173,6 +173,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "corregir fecha"
+        },
+        "Eliane Mariela Colman. 525.000*8. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
         }
     },
     "Gastos": {
