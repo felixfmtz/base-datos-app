@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "04\/04\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Leonarda Baez",
+                    "Deuda": "700.000",
+                    "Garante": "Fredy ",
+                    "NCuotas": "",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Victoria Rodas. Novio. 140.000*10. Ju": {
             "NoTCuota": 0,
