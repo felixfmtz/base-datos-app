@@ -147,6 +147,10 @@
         "sueldo derlis": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "hitnet": {
+            "valor": 130000,
+            "accion": "sumar"
         }
     }
 }
