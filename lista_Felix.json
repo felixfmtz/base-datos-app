@@ -195,6 +195,10 @@
         "hitnet": {
             "valor": 130000,
             "accion": "sumar"
+        },
+        "Internet ": {
+            "valor": 460000,
+            "accion": "sumar"
         }
     }
 }
