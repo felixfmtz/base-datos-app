@@ -51,14 +51,6 @@
                     "NCuotas": "44",
                     "Frecuencia": "Diario",
                     "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Ruth Olmedo",
-                    "Deuda": "500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "10",
-                    "Frecuencia": "Lunes",
-                    "Transferencia": "No"
                 }
             ]
         }
