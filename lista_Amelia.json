@@ -19,6 +19,14 @@
                     "NCuotas": "44",
                     "Frecuencia": "Diario",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Joel Paredes",
+                    "Deuda": "5.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
                 }
             ]
         }
