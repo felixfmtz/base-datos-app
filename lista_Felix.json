@@ -27,14 +27,6 @@
                     "NCuotas": "6",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Hugo Cabral",
-                    "Deuda": "500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "10",
-                    "Frecuencia": "Lunes",
-                    "Transferencia": "No"
                 }
             ]
         }
