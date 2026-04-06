@@ -25,6 +25,12 @@
             "NoTInteres": 0,
             "TCuota": 115000,
             "TInteres": 0
+        },
+        "De las Nieves Lopez. 280.000*10. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 270000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
