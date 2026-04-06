@@ -187,6 +187,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Ana Manuela. 310.000": {
+            "NoTCuota": 60000,
+            "NoTInteres": 50000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
