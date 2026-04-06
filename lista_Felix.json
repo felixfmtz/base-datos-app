@@ -339,6 +339,10 @@
         "retiro giro": {
             "valor": 220000,
             "accion": "restar"
+        },
+        "gasto": {
+            "valor": 2799000,
+            "accion": "sumar"
         }
     }
 }
