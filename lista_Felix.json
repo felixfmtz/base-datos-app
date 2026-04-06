@@ -253,6 +253,10 @@
         "remedio ": {
             "valor": 259000,
             "accion": "sumar"
+        },
+        "fidel": {
+            "valor": 440000,
+            "accion": "sumar"
         }
     }
 }
