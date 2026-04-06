@@ -351,6 +351,10 @@
         "agua arreglo": {
             "valor": 480000,
             "accion": "restar"
+        },
+        "agua gasto": {
+            "valor": 48000,
+            "accion": "sumar"
         }
     }
 }
