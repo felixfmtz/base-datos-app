@@ -343,6 +343,10 @@
         "gasto": {
             "valor": 2799000,
             "accion": "sumar"
+        },
+        "agua": {
+            "valor": 480000,
+            "accion": "sumar"
         }
     }
 }
