@@ -335,6 +335,10 @@
         "fidel": {
             "valor": 440000,
             "accion": "sumar"
+        },
+        "retiro giro": {
+            "valor": 220000,
+            "accion": "restar"
         }
     }
 }
