@@ -31,6 +31,12 @@
             "NoTInteres": 0,
             "TCuota": 270000,
             "TInteres": 0
+        },
+        "Pedro Florentin. Griselda. 110.000*6. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
