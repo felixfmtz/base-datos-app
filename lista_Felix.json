@@ -377,6 +377,10 @@
         "agua gasto": {
             "valor": 48000,
             "accion": "sumar"
+        },
+        "centrífuga ": {
+            "valor": 835000,
+            "accion": "sumar"
         }
     }
 }
