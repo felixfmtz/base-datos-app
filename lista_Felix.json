@@ -35,6 +35,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Lunes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Leticia Alfonzo",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "7",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
