@@ -19,6 +19,12 @@
         },
         "Mario Medina. Esposa. 420.000*5": {
             "sigpago": "10\/04\/2026"
+        },
+        "Matias Ugarte. 115.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 115000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
