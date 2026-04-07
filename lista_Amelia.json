@@ -48,6 +48,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "Enciso 140.  10 pg"
+        },
+        "Angela Roa. 140.000*10. Sa": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
