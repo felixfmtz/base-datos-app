@@ -57,6 +57,12 @@
         },
         "Juan Carlos Flores. 280.000*10. Sa": {
             "sigpago": "11\/04\/2026"
+        },
+        "Victoria Romero. 280.000*10. Ma": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 60000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
