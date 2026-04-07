@@ -138,6 +138,10 @@
         "farmacia": {
             "valor": 91000,
             "accion": "sumar"
+        },
+        "comida gato": {
+            "valor": 40000,
+            "accion": "sumar"
         }
     }
 }
