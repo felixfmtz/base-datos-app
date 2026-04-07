@@ -108,6 +108,10 @@
         "coima": {
             "valor": 50000,
             "accion": "sumar"
+        },
+        "farmacia": {
+            "valor": 91000,
+            "accion": "sumar"
         }
     }
 }
