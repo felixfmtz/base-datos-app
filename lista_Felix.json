@@ -146,6 +146,10 @@
         "hoja": {
             "valor": 44000,
             "accion": "sumar"
+        },
+        "bidon": {
+            "valor": 90000,
+            "accion": "sumar"
         }
     }
 }
