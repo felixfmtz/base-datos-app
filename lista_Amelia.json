@@ -323,6 +323,12 @@
         },
         "Edilberto Benitez. 80.000*30. C1": {
             "sigpago": "08\/04\/2026"
+        },
+        "Hector Recalde. 280.000*10. Lu": {
+            "NoTCuota": 560000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
