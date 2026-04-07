@@ -27,6 +27,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Banesa Benitez",
+                    "Deuda": "835.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "13",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
                 }
             ]
         }
