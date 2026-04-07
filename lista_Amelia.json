@@ -171,6 +171,12 @@
         },
         "Wilson Florentin. Pintor. 490.000*10. Sa": {
             "sigpago": "11\/04\/2026"
+        },
+        "Kateri Mareco Rios. Gloria. 220.000*6. Ma": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
