@@ -45,6 +45,15 @@
                     "Transferencia": "No"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Marcelina Lopez",
+                    "dia": "Mi"
+                }
+            ]
         }
     ],
     "Pagos": {
