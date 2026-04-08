@@ -197,7 +197,8 @@
             "TInteres": 0
         },
         "Hugo Caceres. Olier. 1.080.000": {
-            "sigpago": "09\/04\/2026"
+            "sigpago": "09\/04\/2026",
+            "Error": "corregir pago"
         }
     },
     "Gastos": {
