@@ -134,5 +134,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "gomeria": {
+            "valor": 5000,
+            "accion": "sumar"
+        }
+    }
 }
