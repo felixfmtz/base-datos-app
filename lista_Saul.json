@@ -15,5 +15,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "comutilbe": {
+            "valor": 280000,
+            "accion": "sumar"
+        }
+    }
 }
