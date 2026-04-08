@@ -97,6 +97,12 @@
         },
         "Denis de Oliveira. 990.000*8. Mi": {
             "sigpago": "10\/04\/2026"
+        },
+        "Flaminio Gonzalez. 140.000*10. Lu": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
