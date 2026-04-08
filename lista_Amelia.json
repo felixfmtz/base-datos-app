@@ -160,6 +160,10 @@
         "gomeria": {
             "valor": 5000,
             "accion": "sumar"
+        },
+        "cada": {
+            "valor": 218000,
+            "accion": "sumar"
         }
     }
 }
