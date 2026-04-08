@@ -78,6 +78,10 @@
         "dolar": {
             "valor": 64000,
             "accion": "sumar"
+        },
+        "combustible ": {
+            "valor": 317000,
+            "accion": "sumar"
         }
     }
 }
