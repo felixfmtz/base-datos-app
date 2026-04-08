@@ -62,6 +62,12 @@
             "NoTInteres": 0,
             "TCuota": 150000,
             "TInteres": 0
+        },
+        "Marcelo Centurion. 180.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 30000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
