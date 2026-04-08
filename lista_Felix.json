@@ -43,6 +43,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Celia Gimenez",
+                    "Deuda": "2.050.000",
+                    "Garante": "secarropa",
+                    "NCuotas": "31",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
