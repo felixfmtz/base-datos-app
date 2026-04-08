@@ -17,6 +17,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "cargar infoconm"
+        },
+        "Jose Miguel Caceres. 1.200.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
