@@ -223,6 +223,12 @@
         },
         "Cristobal Muñoz. 250.000*6. Mi. C1": {
             "sigpago": "11\/04\/2026"
+        },
+        "Maximina Paredes. 220.000*6. Lu": {
+            "NoTCuota": 880000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
