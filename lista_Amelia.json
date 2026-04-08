@@ -275,6 +275,10 @@
         "cada": {
             "valor": 218000,
             "accion": "sumar"
+        },
+        "delfina": {
+            "valor": 5000000,
+            "accion": "sumar"
         }
     }
 }
