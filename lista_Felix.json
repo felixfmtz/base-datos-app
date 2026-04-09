@@ -119,6 +119,10 @@
         "combustible ": {
             "valor": 329000,
             "accion": "sumar"
+        },
+        "remedio": {
+            "valor": 360000,
+            "accion": "sumar"
         }
     }
 }
