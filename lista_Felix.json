@@ -24,6 +24,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "pasar a mama"
+        },
+        "Paola Insfran. 110.000. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
