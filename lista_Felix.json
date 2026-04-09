@@ -180,6 +180,10 @@
         "piscina ": {
             "valor": 710000,
             "accion": "sumar"
+        },
+        "giro sonia": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
