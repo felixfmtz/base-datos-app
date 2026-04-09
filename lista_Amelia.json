@@ -180,6 +180,10 @@
         "casa 2": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "cómic Derlis ": {
+            "valor": 500000,
+            "accion": "sumar"
         }
     }
 }
