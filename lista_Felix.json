@@ -27,6 +27,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Jueves",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Dorca Zarza",
+                    "Deuda": "1.300.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
