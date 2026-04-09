@@ -56,6 +56,12 @@
         },
         "Kateri Mareco Rios. 210.000*10. Ju": {
             "sigpago": "13\/04\/2026"
+        },
+        "Cynthia Carolina Baez. 15.000*44": {
+            "NoTCuota": 15000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
