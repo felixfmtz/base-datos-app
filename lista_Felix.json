@@ -10,7 +10,8 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0,
-            "Error": "pasar a saul"
+            "Error": "pasar a saul",
+            "sigpago": "11\/04\/2026"
         },
         "Luciano Pintos. 140.000*10. Ju": {
             "NoTCuota": 140000,
