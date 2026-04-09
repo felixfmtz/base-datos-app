@@ -134,6 +134,10 @@
         "remedio": {
             "valor": 360000,
             "accion": "sumar"
+        },
+        "piscina ": {
+            "valor": 710000,
+            "accion": "sumar"
         }
     }
 }
