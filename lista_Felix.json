@@ -36,6 +36,12 @@
             "NoTInteres": 0,
             "TCuota": 110000,
             "TInteres": 0
+        },
+        "Paola Insfran. 275.000. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 25000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
