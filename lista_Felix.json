@@ -11,6 +11,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "pasar a saul"
+        },
+        "Luciano Pintos. 140.000*10. Ju": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
