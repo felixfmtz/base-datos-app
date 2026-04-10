@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "10\/04\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Felicita Miltos",
+                    "Deuda": "1.500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Gertrudis Riberos. 350.000*4. C2": {
             "NoTCuota": 0,
