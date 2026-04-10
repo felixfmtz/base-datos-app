@@ -41,7 +41,7 @@
         },
         "Matilde Rodriguez. 220.000*3": {
             "NoTCuota": 0,
-            "NoTInteres": 0,
+            "NoTInteres": 150000,
             "TCuota": 0,
             "TInteres": 0,
             "Error": "unificar la cuenta de 1 millón con este, sacar semanal"
