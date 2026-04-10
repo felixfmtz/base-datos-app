@@ -160,6 +160,10 @@
         "casa": {
             "valor": 10000,
             "accion": "sumar"
+        },
+        "arreglo visiculer ": {
+            "valor": 350000,
+            "accion": "sumar"
         }
     }
 }
