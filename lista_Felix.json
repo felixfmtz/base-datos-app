@@ -83,6 +83,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Viernes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "ramona mabel lopez",
+                    "Deuda": "1.500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "No"
                 }
             ]
         }
