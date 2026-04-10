@@ -92,6 +92,10 @@
         "entregado": {
             "valor": 310000,
             "accion": "sumar"
+        },
+        "detergente": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
