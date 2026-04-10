@@ -49,6 +49,10 @@
         "sueldo derlis": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "cooperativa ": {
+            "valor": 9180000,
+            "accion": "sumar"
         }
     }
 }
