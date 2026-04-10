@@ -81,6 +81,10 @@
         "carne": {
             "valor": 210000,
             "accion": "sumar"
+        },
+        "madioca": {
+            "valor": 15000,
+            "accion": "sumar"
         }
     }
 }
