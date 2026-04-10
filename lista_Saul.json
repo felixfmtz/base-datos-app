@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "10\/04\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Abelino Peralta",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "4",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Ignacio Melgarejo. 20.000*33": {
             "NoTCuota": 20000,
