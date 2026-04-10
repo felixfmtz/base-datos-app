@@ -126,6 +126,10 @@
         "cooperativa ": {
             "valor": 9180000,
             "accion": "sumar"
+        },
+        "sueldo jessica": {
+            "valor": 600000,
+            "accion": "sumar"
         }
     }
 }
