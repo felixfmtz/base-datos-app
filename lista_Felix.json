@@ -31,6 +31,12 @@
             "NoTInteres": 0,
             "TCuota": 50000,
             "TInteres": 0
+        },
+        "Francisco Villalba. 1.100.000": {
+            "NoTCuota": 1100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
