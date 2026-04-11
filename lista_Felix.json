@@ -17,6 +17,12 @@
         },
         "Sebastiana Bogado. 140.000*10. Sa": {
             "sigpago": "17\/04\/2026"
+        },
+        "Adelina Barreto. 110.000*6. Vi. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 120000,
+            "TInteres": 0
         }
     },
     "Gastos": {
