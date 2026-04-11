@@ -132,6 +132,10 @@
         "agua": {
             "valor": 8000,
             "accion": "sumar"
+        },
+        "agua ": {
+            "valor": 40000,
+            "accion": "sumar"
         }
     }
 }
