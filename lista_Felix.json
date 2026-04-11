@@ -242,6 +242,10 @@
         "pan": {
             "valor": 35000,
             "accion": "sumar"
+        },
+        "termo": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
