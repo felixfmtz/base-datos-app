@@ -136,6 +136,10 @@
         "agua ": {
             "valor": 40000,
             "accion": "sumar"
+        },
+        "comida perro": {
+            "valor": 428000,
+            "accion": "sumar"
         }
     }
 }
