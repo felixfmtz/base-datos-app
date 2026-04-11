@@ -128,6 +128,12 @@
             "NoTInteres": 0,
             "TCuota": 100000,
             "TInteres": 0
+        },
+        "Perla Gonzalez Cano. 280.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 840000,
+            "TInteres": 0
         }
     },
     "Gastos": {
