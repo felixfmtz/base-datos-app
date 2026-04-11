@@ -11,6 +11,14 @@
                     "NCuotas": "2",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Ilsa Santacruz",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "7",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "No"
                 }
             ]
         }
