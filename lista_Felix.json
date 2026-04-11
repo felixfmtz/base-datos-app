@@ -38,6 +38,12 @@
         },
         "Fabiola Lopez. 700.000*10. Mi": {
             "sigpago": "17\/04\/2026"
+        },
+        "Reinaldo Narvae. 600.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 600000,
+            "TInteres": 0
         }
     },
     "Gastos": {
