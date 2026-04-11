@@ -257,6 +257,12 @@
             "NoTInteres": 0,
             "TCuota": 180000,
             "TInteres": 0
+        },
+        "Delia Blanco. 140.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {
