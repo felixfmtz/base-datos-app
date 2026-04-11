@@ -13,6 +13,12 @@
             "NoTInteres": 0,
             "TCuota": 150000,
             "TInteres": 0
+        },
+        "Cristina Cabral. 550.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 550000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
