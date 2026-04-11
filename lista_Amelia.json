@@ -19,6 +19,12 @@
             "NoTInteres": 0,
             "TCuota": 550000,
             "TInteres": 0
+        },
+        "Daniel Saucedo Zaya. 440.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 440000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
