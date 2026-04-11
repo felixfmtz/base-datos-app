@@ -194,6 +194,12 @@
             "NoTInteres": 0,
             "TCuota": 450000,
             "TInteres": 0
+        },
+        "Alejandro Lopez. Robert. 220.000*6. Mi": {
+            "NoTCuota": 440000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
