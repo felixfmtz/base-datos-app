@@ -123,7 +123,11 @@
             "Error": "revisar"
         },
         "Claudelina Lopez. 100.000*36. Sa": {
-            "sigpago": "18\/04\/2026"
+            "sigpago": "18\/04\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
