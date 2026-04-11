@@ -149,6 +149,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Andres Santacruz. 1.050.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1300000,
+            "TInteres": 0
         }
     },
     "Gastos": {
