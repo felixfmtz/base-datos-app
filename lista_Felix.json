@@ -174,7 +174,11 @@
             "TInteres": 0
         },
         "Juan Albino. 420.000*5": {
-            "sigpago": "14\/04\/2026"
+            "sigpago": "14\/04\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 40000,
+            "TInteres": 150000
         }
     },
     "Gastos": {
