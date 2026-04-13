@@ -19,6 +19,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Edilberto Benitez",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "33",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "No"
                 }
             ]
         }
