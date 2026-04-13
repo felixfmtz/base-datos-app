@@ -13,6 +13,12 @@
         },
         "Liz Paola Mancuello. 140.000*10. Sa": {
             "sigpago": "06\/05\/2026"
+        },
+        "Nelva Colman. 350.000*8. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 250000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
