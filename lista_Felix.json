@@ -231,6 +231,12 @@
         },
         "Cristobal Muñoz. 250.000*6. Mi. C1": {
             "sigpago": "15\/04\/2026"
+        },
+        "Dorca Zarza. 880.000. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 770000,
+            "TInteres": 0
         }
     },
     "Gastos": {
