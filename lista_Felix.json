@@ -160,5 +160,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "laura": {
+            "valor": 330000,
+            "accion": "sumar"
+        }
+    }
 }
