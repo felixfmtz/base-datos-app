@@ -140,6 +140,12 @@
             "TCuota": 70000,
             "TInteres": 0,
             "Error": "en 10 pagos"
+        },
+        "Fabiola Cañete. 1.100.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
