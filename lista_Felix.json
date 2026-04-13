@@ -125,8 +125,8 @@
         "Susana de Leite. Pablo. 220.000*6. Lu. C2": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 50000,
+            "TCuota": 170000,
+            "TInteres": 100000,
             "Error": "revisar"
         },
         "Felicia Zarza. 550.000": {
