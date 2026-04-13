@@ -37,14 +37,6 @@
                     "Transferencia": "Si"
                 },
                 {
-                    "nombreOriginal": "ronda",
-                    "Deuda": "1.200.000",
-                    "Garante": "felix",
-                    "NCuotas": "1",
-                    "Frecuencia": "Mensual",
-                    "Transferencia": "No"
-                },
-                {
                     "nombreOriginal": "Juan Albino",
                     "Deuda": "1.000.000",
                     "Garante": "Sin Garante",
