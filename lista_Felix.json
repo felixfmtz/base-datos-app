@@ -263,6 +263,10 @@
         "laura": {
             "valor": 330000,
             "accion": "sumar"
+        },
+        "comida": {
+            "valor": 68000,
+            "accion": "sumar"
         }
     }
 }
