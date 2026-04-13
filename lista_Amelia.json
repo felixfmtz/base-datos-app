@@ -7,6 +7,12 @@
             "NoTInteres": 0,
             "TCuota": 200000,
             "TInteres": 0
+        },
+        "Juan Carlos Flores. 280.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
