@@ -27,6 +27,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Ronda",
+                    "Deuda": "1.200.000",
+                    "Garante": "amelia",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "Si"
                 }
             ]
         }
