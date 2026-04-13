@@ -154,6 +154,12 @@
         },
         "Joel Paredes. 1.000.000*6. Lu": {
             "sigpago": "14\/04\/2026"
+        },
+        "Maria Rodas. Papa. 550.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 50000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
