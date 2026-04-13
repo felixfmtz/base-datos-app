@@ -51,6 +51,14 @@
                     "NCuotas": "3",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Alcides Rodas",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "No"
                 }
             ]
         }
