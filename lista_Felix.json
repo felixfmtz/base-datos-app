@@ -144,7 +144,7 @@
         "Fabiola Cañete. 1.100.000": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 100000,
+            "TCuota": 0,
             "TInteres": 0
         }
     },
