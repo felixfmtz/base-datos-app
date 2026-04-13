@@ -37,6 +37,12 @@
         },
         "Derlis Delgadillo. 210.000*10. Sa": {
             "sigpago": "18\/04\/2026"
+        },
+        "Gessica Bobadilla. 280.000*10. Sa. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
