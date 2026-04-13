@@ -111,6 +111,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "cuenta hermana"
+        },
+        "Juan Delgado. 2.000.000*6. Lu. C1": {
+            "sigpago": "15\/04\/2026"
         }
     },
     "Gastos": {}
