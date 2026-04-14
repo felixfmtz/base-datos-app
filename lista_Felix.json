@@ -5,31 +5,113 @@
             "seccion": "Crear cuenta",
             "items": [
                 {
-                    "nombreOriginal": "Abelino Peralta",
-                    "Deuda": "1.000.000",
+                    "nombreOriginal": "Paola Insfran",
+                    "Deuda": "100.000",
                     "Garante": "Sin Garante",
-                    "NCuotas": "6",
+                    "NCuotas": "1",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Lucas Ariel Gonzalez",
+                    "Deuda": "5.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
                     "Frecuencia": "",
                     "Transferencia": "No"
                 },
                 {
-                    "nombreOriginal": "Abelino Peralta 2",
-                    "Deuda": "500.000",
+                    "nombreOriginal": "Gladys Cocco",
+                    "Deuda": "1.000.000",
                     "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "",
+                    "NCuotas": "10",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Rosmery Coronel",
+                    "Deuda": "200.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
                     "Transferencia": "No"
                 }
             ]
         }
     ],
     "Pagos": {
-        "Abelino Peralta": {
+        "Eliane Mariela Colman. 525.000*8. Vi": {
+            "sigpago": "17\/04\/2026"
+        },
+        "Jose Carlos Pintos. 220.000*6. Sa. C1": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 20000,
+            "TCuota": 220000,
             "TInteres": 0
+        },
+        "Monica Gomez. 280.000*5": {
+            "sigpago": "18\/04\/2026"
+        },
+        "Ramon Vera. 960.000": {
+            "sigpago": "17\/04\/2026"
+        },
+        "Hugo Marmori. 1.200.000": {
+            "sigpago": "17\/04\/2026"
+        },
+        "Flaminio Gonzalez. 140.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
+        },
+        "Maria Romina Sosa. 280.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
+        },
+        "Ruth. Olier. Qui. C1. 300.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 100000,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Dorca Zarza. 1.800.000. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 300000,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Dorca Zarza. 2.090.000. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 190000,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Dorca Zarza. 880.000. Ju": {
+            "NoTCuota": 110000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Dorca Zarza. 280.000*10. Lu": {
+            "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Blas Sosa. Esposa. 1.200.000": {
+            "sigpago": "17\/04\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "gasto": {
+            "valor": 71000,
+            "accion": "sumar"
+        },
+        "varilla": {
+            "valor": 7037000,
+            "accion": "sumar"
+        }
+    }
 }
