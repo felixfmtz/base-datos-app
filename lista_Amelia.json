@@ -91,7 +91,7 @@
         "Teresa de Fernandez. 120.000*30": {
             "NoTCuota": 300000,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 120000,
             "TInteres": 0
         },
         "De los Santos Melos. 110.000*6. Ma": {
@@ -152,6 +152,12 @@
             "NoTCuota": 200000,
             "NoTInteres": 0,
             "TCuota": 0,
+            "TInteres": 0
+        },
+        "Alfredo Franco. 1.000.000*15. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
             "TInteres": 0
         }
     },
