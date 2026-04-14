@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "14\/04\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Laureana Insfran",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Norma Beatriz Rivarola. 140.000*10. Ma": {
             "sigpago": "20\/04\/2026"
