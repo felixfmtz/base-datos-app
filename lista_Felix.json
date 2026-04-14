@@ -23,6 +23,13 @@
             ]
         }
     ],
-    "Pagos": {},
+    "Pagos": {
+        "Abelino Peralta": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 20000,
+            "TInteres": 0
+        }
+    },
     "Gastos": {}
 }
