@@ -105,6 +105,10 @@
         "gasto": {
             "valor": 71000,
             "accion": "sumar"
+        },
+        "varilla": {
+            "valor": 7037000,
+            "accion": "sumar"
         }
     }
 }
