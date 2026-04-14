@@ -61,6 +61,15 @@
                     "Transferencia": "No"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Evarista Aguilar",
+                    "dia": "Mi"
+                }
+            ]
         }
     ],
     "Pagos": {
