@@ -238,6 +238,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "cancelado"
+        },
+        "Catalina Santacruz. 45.000*44": {
+            "NoTCuota": 45000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
