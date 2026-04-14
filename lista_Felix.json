@@ -114,6 +114,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Maria Gauto. 15.000*44": {
+            "NoTCuota": 300000,
+            "NoTInteres": 0,
+            "TCuota": 15000,
+            "TInteres": 0
         }
     },
     "Gastos": {
