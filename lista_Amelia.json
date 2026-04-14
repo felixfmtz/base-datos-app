@@ -162,6 +162,12 @@
         },
         "Matilde Rodriguez. 280.000*10. Lu": {
             "sigpago": "16\/04\/2026"
+        },
+        "Juliana Roman. 420.000*10. Mi": {
+            "NoTCuota": 420000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
