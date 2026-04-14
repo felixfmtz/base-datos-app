@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "14\/04\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Paola Insfran",
+                    "Deuda": "100.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Eliane Mariela Colman. 525.000*8. Vi": {
             "sigpago": "17\/04\/2026"
