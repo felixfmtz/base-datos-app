@@ -2,14 +2,27 @@
     "fecha_ultimo_guardado": "14\/04\/2026",
     "cuentas": [],
     "Pagos": {
+        "Andres Godoy. 1.200.000": {
+            "sigpago": "17\/04\/2026"
+        },
+        "Andres Godoy. 1.200.000. C2": {
+            "sigpago": "17\/04\/2026"
+        },
+        "Claudelina Maldonado. 140.000*10. Ju": {
+            "sigpago": "16\/04\/2026"
+        },
         "Denis de Oliveira. 990.000*8. Mi": {
             "sigpago": "17\/04\/2026"
+        },
+        "Victor Lopez. 560.000*5": {
+            "sigpago": "28\/04\/2026"
+        },
+        "Saul Cardenas. Amiga. 110.000*6. Lu. C1": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
-    "Gastos": {
-        "comida": {
-            "valor": 71000,
-            "accion": "sumar"
-        }
-    }
+    "Gastos": {}
 }
