@@ -25,6 +25,12 @@
         },
         "Yesica Suarez. 560.000*5": {
             "sigpago": "17\/04\/2026"
+        },
+        "Fatima Fonseca. 1.200.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1200000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
