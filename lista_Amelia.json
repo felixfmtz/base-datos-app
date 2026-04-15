@@ -147,5 +147,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "giro fredi": {
+            "valor": 1320000,
+            "accion": "restar"
+        }
+    }
 }
