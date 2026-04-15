@@ -96,6 +96,10 @@
         "carne": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "giro derlis": {
+            "valor": 1000000,
+            "accion": "restar"
         }
     }
 }
