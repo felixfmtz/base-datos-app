@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "15\/04\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Lizandro Villalba",
+                    "Deuda": "1.500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Adela Cristaldo. 280.000*10. Lu": {
             "NoTCuota": 0,
