@@ -16,6 +16,12 @@
         },
         "Liliana Lugo. 210.000*10. Sa": {
             "sigpago": "18\/04\/2026"
+        },
+        "Camila Heinler. 220.000*3": {
+            "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
