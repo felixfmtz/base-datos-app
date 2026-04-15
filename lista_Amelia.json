@@ -169,6 +169,10 @@
         "giro fredi": {
             "valor": 1320000,
             "accion": "restar"
+        },
+        "casa": {
+            "valor": 30000,
+            "accion": "sumar"
         }
     }
 }
