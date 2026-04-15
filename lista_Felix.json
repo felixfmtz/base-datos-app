@@ -147,6 +147,10 @@
         "limpieza": {
             "valor": 237000,
             "accion": "sumar"
+        },
+        "farmacia": {
+            "valor": 346000,
+            "accion": "sumar"
         }
     }
 }
