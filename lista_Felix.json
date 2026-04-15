@@ -131,6 +131,10 @@
         "giro derlis": {
             "valor": 1000000,
             "accion": "restar"
+        },
+        "limpieza": {
+            "valor": 237000,
+            "accion": "sumar"
         }
     }
 }
