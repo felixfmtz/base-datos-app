@@ -10,6 +10,12 @@
         },
         "Lurde Gomez. 280.000*10. Mi": {
             "sigpago": "20\/04\/2026"
+        },
+        "Nidia Teresita Duarte. 350.000*10. Lu": {
+            "NoTCuota": 350000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
