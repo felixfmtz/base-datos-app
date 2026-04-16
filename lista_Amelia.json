@@ -64,5 +64,10 @@
             "sigpago": "20\/04\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "comisión derlis ": {
+            "valor": 150000,
+            "accion": "sumar"
+        }
+    }
 }
