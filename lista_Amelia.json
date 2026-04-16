@@ -28,7 +28,11 @@
             "sigpago": "18\/04\/2026"
         },
         "Leonarda Baez. 440.000*3. C1": {
-            "sigpago": "18\/04\/2026"
+            "sigpago": "18\/04\/2026",
+            "NoTCuota": 400000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         },
         "Maria Belen Torres. 220.000*6. Ju": {
             "NoTCuota": 0,
