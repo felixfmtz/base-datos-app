@@ -247,6 +247,10 @@
         "niños ": {
             "valor": 16000,
             "accion": "sumar"
+        },
+        "banana": {
+            "valor": 15000,
+            "accion": "sumar"
         }
     }
 }
