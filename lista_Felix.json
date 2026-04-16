@@ -42,5 +42,10 @@
             "TInteres": 30000
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "giro sonia": {
+            "valor": 29000,
+            "accion": "restar"
+        }
+    }
 }
