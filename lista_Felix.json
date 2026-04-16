@@ -35,6 +35,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Juan Alberto Venialgo",
+                    "Deuda": "20.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
                 }
             ]
         }
