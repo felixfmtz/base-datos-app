@@ -212,6 +212,10 @@
         "entregado ": {
             "valor": 1975000,
             "accion": "sumar"
+        },
+        "detergente para cubierta": {
+            "valor": 25000,
+            "accion": "sumar"
         }
     }
 }
