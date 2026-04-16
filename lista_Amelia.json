@@ -231,6 +231,10 @@
         "comisión derlis ": {
             "valor": 150000,
             "accion": "sumar"
+        },
+        "niños ": {
+            "valor": 16000,
+            "accion": "sumar"
         }
     }
 }
