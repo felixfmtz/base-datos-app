@@ -10,6 +10,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Wilfrido Maldonado. 200.000*7. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 400000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
