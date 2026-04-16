@@ -127,6 +127,10 @@
         "basura": {
             "valor": 80000,
             "accion": "sumar"
+        },
+        "veterinario ": {
+            "valor": 63000,
+            "accion": "sumar"
         }
     }
 }
