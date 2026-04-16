@@ -121,7 +121,7 @@
         "Juan Albino. 420.000*5": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 110000,
+            "TCuota": 0,
             "TInteres": 0,
             "Error": "corregir"
         }
