@@ -80,6 +80,12 @@
             "NoTInteres": 65000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Elena Flores. Cristian. 420.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 50000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
