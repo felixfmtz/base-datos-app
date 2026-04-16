@@ -27,6 +27,14 @@
                     "NCuotas": "2",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Taiane Dos Santos",
+                    "Deuda": "3.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
                 }
             ]
         }
