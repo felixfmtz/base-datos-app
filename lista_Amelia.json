@@ -183,6 +183,10 @@
         "comisario ": {
             "valor": 1000000,
             "accion": "sumar"
+        },
+        "comisión derlis ": {
+            "valor": 150000,
+            "accion": "sumar"
         }
     }
 }
