@@ -27,6 +27,14 @@
                     "NCuotas": "2",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Jose Augusto Cantero",
+                    "Deuda": "500.000",
+                    "Garante": "hermano ",
+                    "NCuotas": "6",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "No"
                 }
             ]
         }
