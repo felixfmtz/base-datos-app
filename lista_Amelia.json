@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "17\/04\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Diego Armando",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Leonarda Baez. Nelly. 700.000*4": {
             "sigpago": "25\/04\/2026"
