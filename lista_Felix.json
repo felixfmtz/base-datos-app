@@ -135,7 +135,7 @@
         },
         "Hugo Careres. Olier. 300.000*2. C2": {
             "NoTCuota": 0,
-            "NoTInteres": 0,
+            "NoTInteres": 50000,
             "TCuota": 0,
             "TInteres": 0
         },
