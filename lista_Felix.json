@@ -48,6 +48,12 @@
         },
         "Sixto Villalba. 280.000*5": {
             "sigpago": "21\/04\/2026"
+        },
+        "Benicio Portillo. 600.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 100000
         }
     },
     "Gastos": {
