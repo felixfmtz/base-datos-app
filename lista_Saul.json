@@ -79,5 +79,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "agua": {
+            "valor": 20000,
+            "accion": "sumar"
+        }
+    }
 }
