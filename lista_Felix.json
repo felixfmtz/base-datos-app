@@ -112,6 +112,12 @@
         },
         "Nelva Colman. 350.000*8. Ju": {
             "sigpago": "20\/04\/2026"
+        },
+        "Hugo Caceres. 180.000*4. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 120000
         }
     },
     "Gastos": {
