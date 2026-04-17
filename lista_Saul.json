@@ -83,6 +83,10 @@
         "agua": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "Entregado ": {
+            "valor": 1430000,
+            "accion": "sumar"
         }
     }
 }
