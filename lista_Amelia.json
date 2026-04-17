@@ -19,6 +19,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Viernes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Javier Mesa",
+                    "Deuda": "500.000",
+                    "Garante": "mamá ",
+                    "NCuotas": "2",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "Si"
                 }
             ]
         }
