@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "18\/04\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Saul Cardenas",
+                    "Deuda": "700.000",
+                    "Garante": "amiga",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Fermin Lopez. 220.000*6. Sa": {
             "sigpago": "22\/04\/2026"
