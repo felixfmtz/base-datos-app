@@ -341,6 +341,10 @@
         "gasto": {
             "valor": 15000,
             "accion": "sumar"
+        },
+        "casa": {
+            "valor": 25000,
+            "accion": "sumar"
         }
     }
 }
