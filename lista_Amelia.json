@@ -185,6 +185,12 @@
             "NoTInteres": 0,
             "TCuota": 260000,
             "TInteres": 0
+        },
+        "Derlis Delgadillo. 210.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 420000,
+            "TInteres": 0
         }
     },
     "Gastos": {
