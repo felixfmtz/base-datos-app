@@ -35,6 +35,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Luis Arzamendia",
+                    "Deuda": "10.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "43",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "No"
                 }
             ]
         }
