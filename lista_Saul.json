@@ -94,6 +94,10 @@
         "combutible": {
             "valor": 280000,
             "accion": "sumar"
+        },
+        "entrgado": {
+            "valor": 1600000,
+            "accion": "sumar"
         }
     }
 }
