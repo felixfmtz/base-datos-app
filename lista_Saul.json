@@ -208,6 +208,12 @@
             "NoTInteres": 0,
             "TCuota": 220000,
             "TInteres": 0
+        },
+        "Sandra Agüero. 140.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 290000,
+            "TInteres": 0
         }
     },
     "Gastos": {
