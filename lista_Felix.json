@@ -232,6 +232,10 @@
         "sueldo jesica ": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "agua": {
+            "valor": 45000,
+            "accion": "sumar"
         }
     }
 }
