@@ -166,6 +166,12 @@
             "NoTInteres": 60000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Dario Roman. 840.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 140000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
