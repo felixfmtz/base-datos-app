@@ -236,6 +236,12 @@
         },
         "Cristobal Muñoz. 250.000*6. Sa. C1": {
             "sigpago": "22\/04\/2026"
+        },
+        "Juan Alberto Venialgo. 4.000.000*6. Sa": {
+            "NoTCuota": 4000000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
