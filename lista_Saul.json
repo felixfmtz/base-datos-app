@@ -64,6 +64,12 @@
         },
         "Gladys Cocco. 140.000*10. Sa": {
             "sigpago": "25\/04\/2026"
+        },
+        "Eusebio Galeano. 220.000*6. Vi": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
