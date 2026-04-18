@@ -51,6 +51,14 @@
                     "NCuotas": "2",
                     "Frecuencia": "Mensual",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Erica Fidelina Roa",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
                 }
             ]
         }
