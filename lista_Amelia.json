@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "18\/04\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Derlis Delgadillo",
+                    "Deuda": "1.500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Hugo Ariel Arrua. 350.000*8. Lu": {
             "NoTCuota": 0,
