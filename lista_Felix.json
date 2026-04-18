@@ -254,6 +254,10 @@
         "agua": {
             "valor": 45000,
             "accion": "sumar"
+        },
+        "pan": {
+            "valor": 115000,
+            "accion": "sumar"
         }
     }
 }
