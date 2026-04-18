@@ -78,5 +78,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "combutible": {
+            "valor": 280000,
+            "accion": "sumar"
+        }
+    }
 }
