@@ -231,6 +231,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Angel Rios. Cristian. 800.000*14. Sa": {
+            "NoTCuota": 800000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
