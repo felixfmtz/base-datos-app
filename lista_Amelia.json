@@ -370,6 +370,10 @@
         "casa": {
             "valor": 25000,
             "accion": "sumar"
+        },
+        "tt": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
