@@ -140,6 +140,12 @@
             "NoTInteres": 0,
             "TCuota": 40000,
             "TInteres": 0
+        },
+        "Bienvenido Martinez. 600.000*2": {
+            "NoTCuota": 600000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
