@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "18\/04\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Ramona Ortiz",
+                    "Deuda": "800.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Ramona Ortiz. 440.000*3. C1": {
             "NoTCuota": 450000,
