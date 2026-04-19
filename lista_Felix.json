@@ -27,6 +27,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Ramona Ortiz. 110.000*6. Sa": {
+            "NoTCuota": 330000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
