@@ -215,6 +215,12 @@
         },
         "Ruth Martinez. 180.000*4. Sa": {
             "sigpago": "22\/04\/2026"
+        },
+        "Ruth. Olier. Qui. C2. 300.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 50000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
