@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "20\/04\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Porfirio Sanabria",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "5",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Liz Paola Mancuello. 140.000*10. Lu": {
             "sigpago": "06\/05\/2026"
