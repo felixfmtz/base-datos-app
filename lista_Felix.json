@@ -221,6 +221,12 @@
             "NoTInteres": 50000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Celia Gimenez. 280.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 560000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
