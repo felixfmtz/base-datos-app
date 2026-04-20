@@ -297,6 +297,10 @@
         "ferretería ": {
             "valor": 4177000,
             "accion": "sumar"
+        },
+        "moto": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
