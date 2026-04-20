@@ -110,6 +110,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Benita Alfonzo. Visicooler. 150.000*33. Sa": {
+            "NoTCuota": 150000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
