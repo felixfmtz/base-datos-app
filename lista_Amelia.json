@@ -7,6 +7,13 @@
         },
         "Daniel Saucedo Zaya. 440.000*3": {
             "sigpago": "25\/04\/2026"
+        },
+        "Felix Villalba. 140.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "cargar infoconm"
         }
     },
     "Gastos": {}
