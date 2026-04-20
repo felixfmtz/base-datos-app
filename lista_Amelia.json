@@ -229,6 +229,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Cynthia Carolina Baez. 15.000*44. C3": {
+            "NoTCuota": 15000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
