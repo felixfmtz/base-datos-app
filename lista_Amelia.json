@@ -14,6 +14,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "cargar infoconm"
+        },
+        "Gessica Bobadilla. 280.000*10. Sa. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
