@@ -273,6 +273,12 @@
         },
         "Arnaldo Saucedo. 880.000*3": {
             "sigpago": "30\/04\/2026"
+        },
+        "Pedro Antonio Gamarra. 150.000*4. Lu. C1": {
+            "NoTCuota": 150000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
