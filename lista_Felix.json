@@ -241,6 +241,10 @@
         "telefono": {
             "valor": 285000,
             "accion": "sumar"
+        },
+        "Giménez ": {
+            "valor": 1048000,
+            "accion": "sumar"
         }
     }
 }
