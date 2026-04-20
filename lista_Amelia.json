@@ -30,6 +30,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "cargar infoconm"
+        },
+        "Leonarda Baez. Estela. 210.000*10. Ma": {
+            "sigpago": "25\/04\/2026"
         }
     },
     "Gastos": {}
