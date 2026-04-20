@@ -243,6 +243,12 @@
             "NoTInteres": 0,
             "TCuota": 560000,
             "TInteres": 0
+        },
+        "Maria Flores. 280.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {
