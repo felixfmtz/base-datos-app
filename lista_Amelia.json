@@ -248,6 +248,13 @@
         },
         "Carolina Villarreal. 420.000*10. Lu": {
             "sigpago": "21\/04\/2026"
+        },
+        "Joel Paredes. 1.000.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pasar martes"
         }
     },
     "Gastos": {}
