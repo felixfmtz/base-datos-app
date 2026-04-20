@@ -104,6 +104,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Benita Alfonzo. Celular. 50.000*32. Sa": {
+            "NoTCuota": 50000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
