@@ -59,6 +59,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Lunes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Elsa Cañete",
+                    "Deuda": "660.000",
+                    "Garante": "freidora ",
+                    "NCuotas": "10",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
                 }
             ]
         }
