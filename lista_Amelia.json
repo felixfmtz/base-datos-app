@@ -33,6 +33,12 @@
         },
         "Leonarda Baez. Estela. 210.000*10. Ma": {
             "sigpago": "25\/04\/2026"
+        },
+        "Lido Maciel. Helacera. 150.000*28. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
