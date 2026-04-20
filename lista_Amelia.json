@@ -413,5 +413,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "carne": {
+            "valor": 172000,
+            "accion": "sumar"
+        }
+    }
 }
