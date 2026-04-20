@@ -159,6 +159,12 @@
         },
         "Hugo Marmori. 1.200.000. C2": {
             "sigpago": "24\/04\/2026"
+        },
+        "Sonia Amarilla. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 50000
         }
     },
     "Gastos": {}
