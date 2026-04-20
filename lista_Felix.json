@@ -245,6 +245,10 @@
         "Giménez ": {
             "valor": 1048000,
             "accion": "sumar"
+        },
+        "ferretería ": {
+            "valor": 4177000,
+            "accion": "sumar"
         }
     }
 }
