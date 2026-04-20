@@ -3,7 +3,7 @@
     "cuentas": [],
     "Pagos": {
         "Abelino Peralta. 150.000*4. Sa": {
-            "NoTCuota": 0,
+            "NoTCuota": 250000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0,
