@@ -4,6 +4,12 @@
     "Pagos": {
         "Norma Beatriz Rivarola. 140.000*10. Ma": {
             "sigpago": "27\/04\/2026"
+        },
+        "Adela Cristaldo. 280.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 300000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
