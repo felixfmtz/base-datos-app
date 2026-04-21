@@ -51,6 +51,12 @@
         },
         "Alfredo Castillo. 280.000": {
             "sigpago": "24\/04\/2026"
+        },
+        "Blas Sosa. Esposa. 1.200.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 200000
         }
     },
     "Gastos": {}
