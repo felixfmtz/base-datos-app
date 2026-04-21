@@ -205,6 +205,12 @@
         },
         "Felicia Britez. 280.000*10. Sa": {
             "sigpago": "24\/04\/2026"
+        },
+        "Liz Paiva. 350.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 100000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
