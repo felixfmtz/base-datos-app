@@ -205,6 +205,12 @@
             "NoTInteres": 0,
             "TCuota": 40000,
             "TInteres": 0
+        },
+        "Nidia Teresita Duarte. 350.000*10. Lu": {
+            "NoTCuota": 1750000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
