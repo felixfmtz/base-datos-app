@@ -220,6 +220,12 @@
         },
         "Eusebio Canata. 130.000*8. Vi": {
             "sigpago": "24\/04\/2026"
+        },
+        "Luis Arzamendia. 280.000*43": {
+            "NoTCuota": 280000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
