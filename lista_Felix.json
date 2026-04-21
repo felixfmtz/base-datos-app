@@ -21,6 +21,15 @@
                     "Transferencia": "Si"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Isabel Narvae",
+                    "dia": "Mi"
+                }
+            ]
         }
     ],
     "Pagos": {
