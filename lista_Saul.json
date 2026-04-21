@@ -230,7 +230,7 @@
         "Lourdes Arce. 120.000*30. C1": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 120000,
             "TInteres": 0
         },
         "Lourdes Arce. 280.000*10. Ju": {
