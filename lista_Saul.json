@@ -121,6 +121,12 @@
         },
         "Celia Gimenez. Secarropa. 100.000*31. Sa": {
             "sigpago": "25\/04\/2026"
+        },
+        "Clyde Isabel Justiniano. 20.000*33. C1": {
+            "NoTCuota": 20000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
