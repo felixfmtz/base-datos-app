@@ -67,6 +67,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Gertrudis Riberos",
+                    "Deuda": "3.000.000",
+                    "Garante": "alcides",
+                    "NCuotas": "10",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "Si"
                 }
             ]
         }
