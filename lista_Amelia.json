@@ -11,6 +11,14 @@
                     "NCuotas": "4",
                     "Frecuencia": "Martes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Teresa de Fernandez",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "30",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "No"
                 }
             ]
         }
