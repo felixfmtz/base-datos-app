@@ -264,6 +264,10 @@
         "combustible ": {
             "valor": 340000,
             "accion": "sumar"
+        },
+        "mandioca": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
