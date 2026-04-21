@@ -132,6 +132,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 80000
+        },
+        "Gloria Cristaldo. Celular. 100.000*16. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "cambiar numero"
         }
     },
     "Gastos": {}
