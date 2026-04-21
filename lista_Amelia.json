@@ -304,6 +304,10 @@
         "mandioca": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "mama": {
+            "valor": 1000000,
+            "accion": "sumar"
         }
     }
 }
