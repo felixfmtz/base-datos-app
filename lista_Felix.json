@@ -79,6 +79,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "cambiar numero"
+        },
+        "Sebastiana Bogado. 140.000*10. Sa": {
+            "sigpago": "24\/04\/2026"
         }
     },
     "Gastos": {}
