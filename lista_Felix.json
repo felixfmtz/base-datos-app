@@ -88,6 +88,12 @@
         },
         "Yesica Suarez. 560.000*5": {
             "sigpago": "24\/04\/2026"
+        },
+        "Flaminio Gonzalez. 140.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
