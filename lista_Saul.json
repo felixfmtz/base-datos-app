@@ -130,6 +130,12 @@
         },
         "Maria Flores. 440.000*3": {
             "sigpago": "24\/04\/2026"
+        },
+        "Gladys Robertti. Leonardo Dure. 1.200.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 200000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
