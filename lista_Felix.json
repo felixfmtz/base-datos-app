@@ -139,6 +139,13 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "cambiar numero"
+        },
+        "Vanesa Servian. Lavarropa. 100.000*28. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pasar para mi"
         }
     },
     "Gastos": {}
