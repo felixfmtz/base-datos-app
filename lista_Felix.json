@@ -38,6 +38,13 @@
             "NoTInteres": 0,
             "TCuota": 220000,
             "TInteres": 0
+        },
+        "Elsa Cañete. Freidora. 100.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "corregir fecha de pago"
         }
     },
     "Gastos": {}
