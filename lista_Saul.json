@@ -82,6 +82,12 @@
         },
         "Eusebio Canata. 135.000*8. Ma": {
             "sigpago": "29\/04\/2026"
+        },
+        "Maria Gauto. 30.000*44": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
