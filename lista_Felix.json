@@ -219,6 +219,10 @@
         "recuperal": {
             "valor": 105000,
             "accion": "sumar"
+        },
+        "equifax": {
+            "valor": 193000,
+            "accion": "sumar"
         }
     }
 }
