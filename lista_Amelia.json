@@ -45,6 +45,12 @@
         },
         "Lido Maciel. Helacera. 150.000*28. Sa": {
             "sigpago": "25\/04\/2026"
+        },
+        "Maria Matilde Romero. 280.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
