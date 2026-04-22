@@ -219,6 +219,10 @@
         "moto": {
             "valor": 60000,
             "accion": "sumar"
+        },
+        "pipoca": {
+            "valor": 16000,
+            "accion": "sumar"
         }
     }
 }
