@@ -22,6 +22,12 @@
         },
         "Leonarda Baez. Marlene. 420.000*10. Ma": {
             "sigpago": "28\/04\/2026"
+        },
+        "Nelson Enciso. 210.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
