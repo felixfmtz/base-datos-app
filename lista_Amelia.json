@@ -147,5 +147,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "moto": {
+            "valor": 60000,
+            "accion": "sumar"
+        }
+    }
 }
