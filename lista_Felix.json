@@ -61,6 +61,15 @@
                     "Transferencia": "No"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Julia Gonzalez",
+                    "dia": "Sa"
+                }
+            ]
         }
     ],
     "Pagos": {
