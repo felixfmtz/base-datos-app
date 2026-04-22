@@ -152,6 +152,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Fatima Fonseca. 110.000*6. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pasar a sa"
         }
     },
     "Gastos": {
