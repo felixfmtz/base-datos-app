@@ -57,6 +57,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Zenaida Miltos. 210.000*10. Lu": {
+            "NoTCuota": 630000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
