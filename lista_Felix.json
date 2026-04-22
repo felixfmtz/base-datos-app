@@ -140,5 +140,10 @@
             "TInteres": 100000
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "giro elsa": {
+            "valor": 300000,
+            "accion": "restar"
+        }
+    }
 }
