@@ -173,6 +173,10 @@
         "giro elsa": {
             "valor": 300000,
             "accion": "restar"
+        },
+        "recuperal": {
+            "valor": 105000,
+            "accion": "sumar"
         }
     }
 }
