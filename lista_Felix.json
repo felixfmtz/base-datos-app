@@ -16,6 +16,12 @@
         },
         "Fabiola Lopez. 300.000*38. Hidro. Mi": {
             "sigpago": "25\/04\/2026"
+        },
+        "Felicia Dominguez. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1320000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
