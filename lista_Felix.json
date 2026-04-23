@@ -60,5 +60,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "comida gato": {
+            "valor": 40000,
+            "accion": "sumar"
+        }
+    }
 }
