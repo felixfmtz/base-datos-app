@@ -237,6 +237,12 @@
         },
         "Marcos Acosta. 220.000*6. Lu": {
             "sigpago": "27\/04\/2026"
+        },
+        "Ruth Mendez Olmedo. 140.000*10. Lu": {
+            "NoTCuota": 400000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
