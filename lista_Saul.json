@@ -40,6 +40,12 @@
             "NoTInteres": 50000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Juan Raimundo. 220.000*3. C2": {
+            "NoTCuota": 0,
+            "NoTInteres": 50000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
