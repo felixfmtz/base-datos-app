@@ -16,6 +16,12 @@
         },
         "Liza Fabiola Bogado. 420.000*5": {
             "sigpago": "24\/04\/2026"
+        },
+        "Bartola Cubilla. 220.000*6. Mi": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
