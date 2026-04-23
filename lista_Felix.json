@@ -137,6 +137,12 @@
         },
         "Juan Alberto Venialgo. 4.000.000*6. Ma": {
             "sigpago": "25\/04\/2026"
+        },
+        "Delcia Castillo. 1.400.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 400000
         }
     },
     "Gastos": {
