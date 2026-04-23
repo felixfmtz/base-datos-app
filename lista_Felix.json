@@ -52,6 +52,12 @@
         },
         "Yanina Plaz. 210.000*10. Sa": {
             "sigpago": "25\/04\/2026"
+        },
+        "Eduardo David Fanego. 110.000*6. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
