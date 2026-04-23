@@ -168,6 +168,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Lindamir Pedroso. 280.000*10. Ma": {
+            "NoTCuota": 280000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
