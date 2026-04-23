@@ -172,6 +172,12 @@
         },
         "Denis Coronel. 220.000*10. Lu": {
             "sigpago": "25\/04\/2026"
+        },
+        "Josue Benitez. 140.000*10. Lu": {
+            "NoTCuota": 90000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
