@@ -147,6 +147,10 @@
         "comida": {
             "valor": 27000,
             "accion": "sumar"
+        },
+        "taller": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
