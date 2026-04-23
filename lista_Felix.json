@@ -151,6 +151,10 @@
         "taller": {
             "valor": 300000,
             "accion": "sumar"
+        },
+        "motor": {
+            "valor": 200000,
+            "accion": "sumar"
         }
     }
 }
