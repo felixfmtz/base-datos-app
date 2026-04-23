@@ -82,6 +82,12 @@
         },
         "Petrona Paredes. 140.000*10. Mi": {
             "sigpago": "25\/04\/2026"
+        },
+        "Ilsa Santacruz. 200.000*7. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
