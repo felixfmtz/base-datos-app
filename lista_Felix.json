@@ -143,6 +143,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 400000
+        },
+        "Victor Mendoza. 420.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 840000,
+            "TInteres": 0
         }
     },
     "Gastos": {
