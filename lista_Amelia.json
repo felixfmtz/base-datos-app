@@ -223,6 +223,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "revisar"
+        },
+        "Victoria Rodas. Novio. 140.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
