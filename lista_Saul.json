@@ -109,6 +109,12 @@
         },
         "Ovidio Ortiz. 210.000*10. Lu": {
             "sigpago": "25\/04\/2026"
+        },
+        "Graciela Peralta. 220.000*6. Ju": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
