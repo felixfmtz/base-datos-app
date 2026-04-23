@@ -64,6 +64,10 @@
         "comida gato": {
             "valor": 40000,
             "accion": "sumar"
+        },
+        "comida": {
+            "valor": 27000,
+            "accion": "sumar"
         }
     }
 }
