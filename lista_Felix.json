@@ -190,6 +190,10 @@
         "motor": {
             "valor": 200000,
             "accion": "sumar"
+        },
+        "sueldo jesi a": {
+            "valor": 1000000,
+            "accion": "sumar"
         }
     }
 }
