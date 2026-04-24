@@ -225,6 +225,10 @@
         "mercado": {
             "valor": 398000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 195000,
+            "accion": "sumar"
         }
     }
 }
