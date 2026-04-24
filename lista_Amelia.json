@@ -19,6 +19,12 @@
         },
         "Rosalia Morinigo. Sandra. 100.000*7. Lu. C1": {
             "sigpago": "27\/04\/2026"
+        },
+        "Jose Augusto Cantero. Hermano. 110.000*6. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
