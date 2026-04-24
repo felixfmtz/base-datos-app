@@ -113,6 +113,10 @@
         "sueldo derlis": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "mercado": {
+            "valor": 398000,
+            "accion": "sumar"
         }
     }
 }
