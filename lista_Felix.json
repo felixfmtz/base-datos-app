@@ -168,7 +168,11 @@
             "TInteres": 0
         },
         "Ezequiel Gimenez. 700.000*4": {
-            "sigpago": "27\/04\/2026"
+            "sigpago": "27\/04\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 200000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
