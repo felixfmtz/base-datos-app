@@ -141,6 +141,12 @@
             "NoTInteres": 0,
             "TCuota": 120000,
             "TInteres": 0
+        },
+        "Alejandra Cano": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
