@@ -189,6 +189,12 @@
             "NoTInteres": 200000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Tomasa Cantero. Lavarropa. 100.000*28. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 10000
         }
     },
     "Gastos": {
