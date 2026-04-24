@@ -51,6 +51,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Alejandra Cano",
+                    "Deuda": "1.471.000",
+                    "Garante": "cel C71",
+                    "NCuotas": "25",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
                 }
             ]
         }
