@@ -27,6 +27,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Viernes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Julia Gonzalez",
+                    "Deuda": "3.950.000",
+                    "Garante": "caminadora",
+                    "NCuotas": "40",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
