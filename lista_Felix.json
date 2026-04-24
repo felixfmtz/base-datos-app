@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "24\/04\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Felicia Zarza",
+                    "Deuda": "1.000.000",
+                    "Garante": "santos",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Adelina Barreto. 110.000*6. Vi. C1": {
             "sigpago": "25\/04\/2026"
