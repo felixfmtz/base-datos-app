@@ -37,6 +37,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Felicia Zarza. Zantos. 1.200.000": {
+            "NoTCuota": 1200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
