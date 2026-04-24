@@ -205,8 +205,8 @@
         "Tomasa Cantero. Lavarropa. 100.000*28. Ju": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 100000,
-            "TInteres": 10000
+            "TCuota": 0,
+            "TInteres": 0
         },
         "Victor Gimenez. 100.000*30. Sa": {
             "NoTCuota": 0,
