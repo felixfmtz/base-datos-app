@@ -11,6 +11,14 @@
                     "NCuotas": "11",
                     "Frecuencia": "Sábado",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Felicia Vda de Franco",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "No"
                 }
             ]
         }
