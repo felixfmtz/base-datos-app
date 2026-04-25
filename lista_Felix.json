@@ -19,6 +19,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Sábado",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Feliciana Arevalos",
+                    "Deuda": "1.810.000",
+                    "Garante": "tv",
+                    "NCuotas": "28",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
