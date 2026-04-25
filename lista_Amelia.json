@@ -202,6 +202,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "mudar lunes"
+        },
+        "Alfredo Franco. 1.000.000*15. Sa": {
+            "NoTCuota": 1000000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
