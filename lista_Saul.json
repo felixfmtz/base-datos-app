@@ -85,6 +85,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Marcelina Lopez. 220.000*6. Mi": {
+            "NoTCuota": 1100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
