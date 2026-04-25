@@ -211,6 +211,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Sonia Larrea. 110.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 25000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
