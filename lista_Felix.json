@@ -270,6 +270,10 @@
         "carne 2": {
             "valor": 365000,
             "accion": "restar"
+        },
+        "sueldo bruno 2": {
+            "valor": 150000,
+            "accion": "sumar"
         }
     }
 }
