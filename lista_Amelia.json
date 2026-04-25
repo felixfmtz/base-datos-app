@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "25\/04\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Daniel Saucedo Zaya",
+                    "Deuda": "1.200.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "3",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Luana Sosa. 280.000*10. Vi": {
             "NoTCuota": 0,
