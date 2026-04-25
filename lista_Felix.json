@@ -56,6 +56,12 @@
         },
         "Walter Abel Oviedo. 990.000*2": {
             "sigpago": "28\/04\/2026"
+        },
+        "Liza Fabiola Bogado. 420.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 420000,
+            "TInteres": 0
         }
     },
     "Gastos": {
