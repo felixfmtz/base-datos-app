@@ -109,6 +109,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Clyde Isabel Justiniano. 20.000*33. C1": {
+            "NoTCuota": 20000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
