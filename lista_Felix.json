@@ -76,6 +76,12 @@
             "NoTInteres": 0,
             "TCuota": 420000,
             "TInteres": 0
+        },
+        "Antonio Gonzalez. 440.000*3. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1320000000,
+            "TInteres": 0
         }
     },
     "Gastos": {
