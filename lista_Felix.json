@@ -82,6 +82,12 @@
             "NoTInteres": 0,
             "TCuota": 1320000,
             "TInteres": 0
+        },
+        "Eduardo David Fanego. 110.000*6. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {
