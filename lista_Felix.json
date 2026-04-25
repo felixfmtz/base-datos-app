@@ -188,6 +188,12 @@
         },
         "Delia Blanco. 140.000*10. Ma": {
             "sigpago": "30\/04\/2026"
+        },
+        "Elsa Cañete. Secaropa. 100.000*30. Vi": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
