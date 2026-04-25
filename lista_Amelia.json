@@ -87,6 +87,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Adriana Hobeker. Zully. 70.000*10. Sa": {
+            "NoTCuota": 70000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
