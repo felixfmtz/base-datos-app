@@ -97,6 +97,10 @@
         "combustible": {
             "valor": 280000,
             "accion": "sumar"
+        },
+        "mama": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
