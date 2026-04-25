@@ -110,6 +110,12 @@
             "NoTInteres": 0,
             "TCuota": 280000,
             "TInteres": 0
+        },
+        "Felicia Dominguez. Amiga. 220.000*6. Sa": {
+            "NoTCuota": 110000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
