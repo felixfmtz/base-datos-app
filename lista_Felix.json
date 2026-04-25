@@ -37,6 +37,12 @@
         },
         "Jorge Villaverde. Celular. 100.000*20. Ma": {
             "sigpago": "21\/04\/2026"
+        },
+        "Mirna Cardenas. 2.600.000*6. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1000000,
+            "TInteres": 0
         }
     },
     "Gastos": {
