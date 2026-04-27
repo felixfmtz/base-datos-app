@@ -148,6 +148,12 @@
         },
         "Aldo Alcaraz. 1.100.000": {
             "sigpago": "29\/04\/2026"
+        },
+        "Mirian Molina. 330.000*6. Lu": {
+            "NoTCuota": 350000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
