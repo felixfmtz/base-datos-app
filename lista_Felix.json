@@ -201,6 +201,10 @@
         "camida": {
             "valor": 40000,
             "accion": "restar"
+        },
+        "remedio ": {
+            "valor": 48000,
+            "accion": "sumar"
         }
     }
 }
