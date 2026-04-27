@@ -55,6 +55,13 @@
         },
         "Alberta Zaya. 660.000*3. C1": {
             "sigpago": "29\/04\/2026"
+        },
+        "Fredy Pintos. 140.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "sábado mudar"
         }
     },
     "Gastos": {}
