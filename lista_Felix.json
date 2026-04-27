@@ -45,5 +45,10 @@
             "TInteres": 50000
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "cominda": {
+            "valor": 167000,
+            "accion": "sumar"
+        }
+    }
 }
