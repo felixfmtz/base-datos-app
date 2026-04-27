@@ -111,6 +111,10 @@
         "cominda": {
             "valor": 167000,
             "accion": "sumar"
+        },
+        "camida": {
+            "valor": 40000,
+            "accion": "restar"
         }
     }
 }
