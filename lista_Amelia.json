@@ -62,6 +62,12 @@
             "TCuota": 140000,
             "TInteres": 0,
             "Error": "sábado mudar"
+        },
+        "Sixto Baez. 150.000*38. Lu": {
+            "NoTCuota": 150000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
