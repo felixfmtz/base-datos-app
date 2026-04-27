@@ -312,6 +312,12 @@
             "NoTInteres": 50000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Rosa Oviedo. Hijo. 140.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
