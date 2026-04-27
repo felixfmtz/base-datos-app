@@ -28,6 +28,12 @@
         },
         "Alfredo Castillo. 1.200.000. C2": {
             "sigpago": "05\/05\/2026"
+        },
+        "Paola Insfran. 110.000. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 10000
         }
     },
     "Gastos": {}
