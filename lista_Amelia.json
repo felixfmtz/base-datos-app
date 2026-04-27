@@ -522,6 +522,10 @@
         "ajuste ": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "casa": {
+            "valor": 30000,
+            "accion": "sumar"
         }
     }
 }
