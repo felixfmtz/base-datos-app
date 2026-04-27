@@ -370,6 +370,12 @@
             "NoTInteres": 0,
             "TCuota": 100000,
             "TInteres": 0
+        },
+        "Arcelia Romero. Marcial. 6.000.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 5000000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
