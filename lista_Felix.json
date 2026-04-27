@@ -35,6 +35,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Gloria Cristaldo",
+                    "Deuda": "1.530.000",
+                    "Garante": "tv",
+                    "NCuotas": "24",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
