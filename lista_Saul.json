@@ -9,6 +9,19 @@
                     "dia": "Ma"
                 }
             ]
+        },
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Alberto Peralta",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "4",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
+                }
+            ]
         }
     ],
     "Pagos": {
