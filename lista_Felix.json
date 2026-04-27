@@ -173,6 +173,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 100000
+        },
+        "Digna Lopez. Hijo ventilador. 50.000*7. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 50000,
+            "TInteres": 0
         }
     },
     "Gastos": {
