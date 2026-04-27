@@ -37,6 +37,12 @@
         },
         "Yesica Suarez. 560.000*5": {
             "sigpago": "29\/05\/2026"
+        },
+        "Sonia Amarilla. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 50000
         }
     },
     "Gastos": {}
