@@ -52,6 +52,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Inocencia Gonzalez. 220.000*6. Lu. C1": {
+            "NoTCuota": 440000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
