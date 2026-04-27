@@ -131,6 +131,12 @@
         },
         "Edgar Fleitas. 140.000*10. Lu": {
             "sigpago": "04\/05\/2026"
+        },
+        "Sonia Amarilla. 220.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 50000
         }
     },
     "Gastos": {
