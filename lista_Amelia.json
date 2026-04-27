@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "27\/04\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Leandra Bobadilla",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Adriana Hobeker. Zully. 70.000*10. Sa": {
             "sigpago": "30\/04\/2026"
