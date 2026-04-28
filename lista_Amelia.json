@@ -259,6 +259,10 @@
         "cada 2": {
             "valor": 15000,
             "accion": "sumar"
+        },
+        "mas": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
