@@ -46,6 +46,12 @@
         },
         "Lindamir Pedroso. 280.000*10. Ma": {
             "sigpago": "30\/04\/2026"
+        },
+        "Mirian Raquel Oviedo. Marlene. 210.000*10. Ma": {
+            "NoTCuota": 210000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
