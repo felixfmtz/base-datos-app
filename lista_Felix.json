@@ -43,6 +43,14 @@
                     "NCuotas": "2",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Adriana Gamarra",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "Si"
                 }
             ]
         }
