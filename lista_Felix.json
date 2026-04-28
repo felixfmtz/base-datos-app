@@ -27,6 +27,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Martes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Fernando colman",
+                    "Deuda": "700.000",
+                    "Garante": "emilse mercado",
+                    "NCuotas": "6",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
                 }
             ]
         }
