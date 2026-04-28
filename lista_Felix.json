@@ -133,6 +133,12 @@
         },
         "Yanina Plaz. 210.000*10. Sa": {
             "sigpago": "30\/04\/2026"
+        },
+        "Jose Carlos Pintos. 220.000*6. Sa. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {
