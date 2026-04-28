@@ -67,6 +67,12 @@
         },
         "Celia Gimenez. Secarropa. 100.000*31. Sa": {
             "sigpago": "02\/05\/2026"
+        },
+        "Banesa Benitez. 100.000*13. Lu": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
