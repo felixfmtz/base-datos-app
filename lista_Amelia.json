@@ -37,6 +37,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 40000
+        },
+        "Ruben Peralta. 140.000*10. Sa. C2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 40000
         }
     },
     "Gastos": {}
