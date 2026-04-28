@@ -24,7 +24,11 @@
             "sigpago": "29\/04\/2026"
         },
         "Gloria Cristaldo. 220.000*6. Lu": {
-            "sigpago": "29\/04\/2026"
+            "sigpago": "29\/04\/2026",
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         },
         "Bartola Cubilla. 220.000*6. Ma. C1": {
             "NoTCuota": 220000,
