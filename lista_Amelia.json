@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "28\/04\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Barsiliza Aguero",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Lido Maciel. Helacera. 150.000*28. Sa": {
             "NoTCuota": 150000,
