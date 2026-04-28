@@ -19,6 +19,12 @@
         },
         "Walter Abel Oviedo. 990.000*2": {
             "sigpago": "01\/05\/2026"
+        },
+        "Cristian Escobar. 275.000*2. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 175000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
