@@ -51,6 +51,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Rosalba Gonzalez Duarte",
+                    "Deuda": "300.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "24",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "No"
                 }
             ]
         }
