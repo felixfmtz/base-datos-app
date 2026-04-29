@@ -206,6 +206,12 @@
             "NoTInteres": 30000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Wilner Peralta. 210.000*10. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 10000
         }
     },
     "Gastos": {
