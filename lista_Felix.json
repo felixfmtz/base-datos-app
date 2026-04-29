@@ -200,6 +200,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Pedro Silva. 330.000": {
+            "NoTCuota": 30000,
+            "NoTInteres": 30000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
