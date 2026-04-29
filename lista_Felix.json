@@ -212,6 +212,12 @@
             "NoTInteres": 0,
             "TCuota": 210000,
             "TInteres": 10000
+        },
+        "Fredy Pintos. 140.000*10. Ju": {
+            "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
