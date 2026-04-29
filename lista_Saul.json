@@ -79,6 +79,12 @@
         },
         "Demesia Nuñez. 168.000*10. Sa": {
             "sigpago": "02\/05\/2026"
+        },
+        "Leonardo Dure. 220.000*6. Ju": {
+            "NoTCuota": 120000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
