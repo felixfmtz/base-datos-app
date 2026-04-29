@@ -190,6 +190,10 @@
         "comida": {
             "valor": 115000,
             "accion": "sumar"
+        },
+        "tv": {
+            "valor": 1690000,
+            "accion": "sumar"
         }
     }
 }
