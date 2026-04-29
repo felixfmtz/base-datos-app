@@ -4,6 +4,12 @@
     "Pagos": {
         "Denis de Oliveira. 990.000*8. Mi": {
             "sigpago": "01\/05\/2026"
+        },
+        "Denis Coronel. 220.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 60000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
