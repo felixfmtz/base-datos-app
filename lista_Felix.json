@@ -27,14 +27,6 @@
                     "NCuotas": "6",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Elsa Cañete",
-                    "Deuda": "150.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "1",
-                    "Frecuencia": "Jueves",
-                    "Transferencia": "No"
                 }
             ]
         }
