@@ -124,5 +124,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "despenza": {
+            "valor": 42000,
+            "accion": "sumar"
+        }
+    }
 }
