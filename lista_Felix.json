@@ -159,7 +159,11 @@
             "TInteres": 400000
         },
         "Cristobal Muñoz. 250.000*6. Mi. C1": {
-            "sigpago": "02\/05\/2026"
+            "sigpago": "02\/05\/2026",
+            "NoTCuota": 250000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
