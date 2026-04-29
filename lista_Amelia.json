@@ -82,6 +82,12 @@
             "NoTInteres": 800000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Candido Cabral. 220.000*6. Ma": {
+            "NoTCuota": 250000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
