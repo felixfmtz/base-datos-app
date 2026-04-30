@@ -22,6 +22,12 @@
         },
         "Gloria Cristaldo. Celular. 100.000*16. Ju": {
             "sigpago": "02\/05\/2026"
+        },
+        "Lalia Barrios. 280.000*10. Lu": {
+            "NoTCuota": 290000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
