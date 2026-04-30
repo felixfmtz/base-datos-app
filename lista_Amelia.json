@@ -251,6 +251,12 @@
             "NoTInteres": 0,
             "TCuota": 300000,
             "TInteres": 0
+        },
+        "Blasida Lezme. 1.200.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
         }
     },
     "Gastos": {
