@@ -141,7 +141,7 @@
         "Raqueline Mercado. 140.000*10. Sa": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 140000,
+            "TCuota": 280000,
             "TInteres": 0
         },
         "Ana Torres. 150.000*44": {
@@ -253,6 +253,12 @@
             "TInteres": 0
         },
         "Blasida Lezme. 1.200.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
+        },
+        "Blasida Lezme. 1.200.000. C2": {
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 200000,
