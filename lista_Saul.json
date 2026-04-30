@@ -190,6 +190,12 @@
         },
         "Maria Antonia Caballero. Heladera. 100.000*29. Lu": {
             "sigpago": "02\/05\/2026"
+        },
+        "Luis Arzamendia. 280.000*43": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 300000,
+            "TInteres": 0
         }
     },
     "Gastos": {
