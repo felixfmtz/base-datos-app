@@ -145,6 +145,12 @@
         },
         "Hugo Caceres. Olier. C2. 480.000": {
             "sigpago": "02\/05\/2026"
+        },
+        "Mirna Gauto. 140.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {
