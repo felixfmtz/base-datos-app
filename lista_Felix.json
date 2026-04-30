@@ -130,6 +130,12 @@
             "NoTInteres": 0,
             "TCuota": 880000,
             "TInteres": 0
+        },
+        "Delcia Castillo. Marcelo. 300.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 600000,
+            "TInteres": 0
         }
     },
     "Gastos": {
