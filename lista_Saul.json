@@ -2,12 +2,8 @@
     "fecha_ultimo_guardado": "30\/04\/2026",
     "cuentas": [],
     "Pagos": {
-        "Alcides Rodas. 280.000*10. Ju": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "440x10"
+        "Adriana Amarilla. 220.000*6. Lu": {
+            "sigpago": "04\/05\/2026"
         }
     },
     "Gastos": {}
