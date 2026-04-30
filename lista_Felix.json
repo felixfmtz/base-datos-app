@@ -110,6 +110,12 @@
             "NoTInteres": 0,
             "TCuota": 280000,
             "TInteres": 0
+        },
+        "Raul Obregon. 210.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 412000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
