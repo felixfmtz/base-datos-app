@@ -19,14 +19,6 @@
                     "NCuotas": "10",
                     "Frecuencia": "Lunes",
                     "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Fredy Pintos",
-                    "Deuda": "000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "",
-                    "Frecuencia": "",
-                    "Transferencia": "No"
                 }
             ]
         }
