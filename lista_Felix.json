@@ -64,6 +64,12 @@
         },
         "Ruth. Olier. Qui. C1. 300.000*2": {
             "sigpago": "02\/05\/2026"
+        },
+        "Angelina Forcado. 140.000*10. Lu. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
