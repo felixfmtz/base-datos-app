@@ -169,6 +169,10 @@
         "farmacia ": {
             "valor": 18000,
             "accion": "sumar"
+        },
+        "papa": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
