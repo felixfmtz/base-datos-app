@@ -32,6 +32,12 @@
         },
         "Juan Alberto Venialgo. 4.000.000*6. Ma": {
             "sigpago": "02\/05\/2026"
+        },
+        "Jesica Empleada. 990.000": {
+            "NoTCuota": 500000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
