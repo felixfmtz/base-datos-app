@@ -37,6 +37,12 @@
         },
         "Liz Karina Bogado. 210.000*10. Ju": {
             "sigpago": "02\/05\/2026"
+        },
+        "Antonia Baez. 110.000*6. Ju": {
+            "NoTCuota": 110000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
