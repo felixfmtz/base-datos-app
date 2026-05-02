@@ -236,6 +236,12 @@
             "NoTInteres": 75000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Anastacio Baez. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 150000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
