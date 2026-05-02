@@ -2,19 +2,11 @@
     "fecha_ultimo_guardado": "02\/05\/2026",
     "cuentas": [],
     "Pagos": {
-        "Rosmery Coronel. 240.000": {
-            "NoTCuota": 0,
+        "Benigno Benitez. 110.000*6. Sa": {
+            "NoTCuota": 110000,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 0,
-            "Error": "numero"
-        },
-        "Santiago Baez. 220.000*6. Vi": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "numero"
+            "TInteres": 0
         }
     },
     "Gastos": {}
