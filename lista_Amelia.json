@@ -41,6 +41,12 @@
             "NoTInteres": 0,
             "TCuota": 1200000,
             "TInteres": 0
+        },
+        "Deida Gaete. 140.000*10. Mi. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
