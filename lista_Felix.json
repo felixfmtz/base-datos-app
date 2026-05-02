@@ -41,6 +41,10 @@
         "sueldo serlis": {
             "valor": 330000,
             "accion": "sumar"
+        },
+        "sueldo bruno": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
