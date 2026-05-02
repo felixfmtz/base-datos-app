@@ -93,6 +93,15 @@
                     "Transferencia": "No"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Cyntia Mendoza",
+                    "dia": "Lu"
+                }
+            ]
         }
     ],
     "Pagos": {
