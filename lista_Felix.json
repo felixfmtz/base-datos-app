@@ -82,6 +82,12 @@
         },
         "Walter Abel Oviedo. 990.000*2": {
             "sigpago": "05\/05\/2026"
+        },
+        "Noelia Gonzalez Cano. 280.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {
