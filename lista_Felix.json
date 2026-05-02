@@ -7,6 +7,12 @@
         },
         "Derlis Pintos. 1.200.000": {
             "sigpago": "09\/05\/2026"
+        },
+        "Jesica Empleada. Celular. 700.000*2": {
+            "NoTCuota": 700000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
