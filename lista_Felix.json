@@ -28,6 +28,10 @@
         "sueldo jesica": {
             "valor": 700000,
             "accion": "sumar"
+        },
+        "sueldo serlis": {
+            "valor": 330000,
+            "accion": "sumar"
         }
     }
 }
