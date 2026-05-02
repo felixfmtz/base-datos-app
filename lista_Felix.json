@@ -448,6 +448,10 @@
         "giro": {
             "valor": 300000,
             "accion": "restar"
+        },
+        "sueldo derlis ": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
