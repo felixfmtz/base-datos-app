@@ -22,6 +22,12 @@
         },
         "Leonarda Baez. Marlene. 420.000*10. Ma": {
             "sigpago": "04\/05\/2026"
+        },
+        "Lindamir Pedroso. 280.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 260000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
