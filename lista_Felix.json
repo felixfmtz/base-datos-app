@@ -73,6 +73,12 @@
         },
         "Jorge Villaverde. Celular. 100.000*20. Ma": {
             "sigpago": "05\/05\/2026"
+        },
+        "Luciano Pintos. 140.000*10. Ju": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
