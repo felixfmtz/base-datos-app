@@ -35,6 +35,12 @@
             "TCuota": 220000,
             "TInteres": 0,
             "Error": "220 por 6"
+        },
+        "Alejandro Arias. 1.200.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1200000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
