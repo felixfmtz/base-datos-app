@@ -4,6 +4,9 @@
     "Pagos": {
         "Alfredo Castillo. 600.000": {
             "sigpago": "05\/05\/2026"
+        },
+        "Derlis Pintos. 1.200.000": {
+            "sigpago": "09\/05\/2026"
         }
     },
     "Gastos": {}
