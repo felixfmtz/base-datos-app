@@ -389,6 +389,10 @@
         "sueldo derlis": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "giro": {
+            "valor": 300000,
+            "accion": "restar"
         }
     }
 }
