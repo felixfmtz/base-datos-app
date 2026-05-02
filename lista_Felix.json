@@ -91,6 +91,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Victor Gimenez",
+                    "Deuda": "300.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         },
