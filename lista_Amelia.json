@@ -211,9 +211,9 @@
             "TInteres": 0
         },
         "Arcelia Romero. Marcial. 6.000.000": {
-            "NoTCuota": 300000,
+            "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 700000,
+            "TCuota": 0,
             "TInteres": 0
         }
     },
