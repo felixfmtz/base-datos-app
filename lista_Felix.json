@@ -51,6 +51,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Sábado",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Rosalina del Valle",
+                    "Deuda": "10.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "30",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "No"
                 }
             ]
         }
