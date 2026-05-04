@@ -44,6 +44,13 @@
             "NoTInteres": 0,
             "TCuota": 500000,
             "TInteres": 0
+        },
+        "Oscar Pacheco. 145.000*7. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "cargar infoconm"
         }
     },
     "Gastos": {}
