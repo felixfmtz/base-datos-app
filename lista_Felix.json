@@ -120,6 +120,10 @@
         "farmacia ": {
             "valor": 374000,
             "accion": "sumar"
+        },
+        "contador": {
+            "valor": 500000,
+            "accion": "sumar"
         }
     }
 }
