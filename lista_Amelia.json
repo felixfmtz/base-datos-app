@@ -19,6 +19,12 @@
         },
         "Cristian Baez. 220.000*3": {
             "sigpago": "09\/05\/2026"
+        },
+        "Gessica Bobadilla. 280.000*10. Sa. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
