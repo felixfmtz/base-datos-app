@@ -239,6 +239,12 @@
         },
         "Antolin Rotela. 280.000*10. Lu": {
             "sigpago": "11\/05\/2026"
+        },
+        "Lido Maciel. Helacera. 150.000*28. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
