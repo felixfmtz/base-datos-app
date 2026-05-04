@@ -51,6 +51,13 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "cargar infoconm"
+        },
+        "Recordatorio 2. Comisario": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pagado"
         }
     },
     "Gastos": {}
