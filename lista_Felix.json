@@ -138,6 +138,12 @@
             "NoTInteres": 200000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Vidalia Gaete. 900.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1800000,
+            "TInteres": 0
         }
     },
     "Gastos": {
