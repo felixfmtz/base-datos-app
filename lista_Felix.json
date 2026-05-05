@@ -195,6 +195,10 @@
         "sueldo jesica": {
             "valor": 490000,
             "accion": "sumar"
+        },
+        "Internet ": {
+            "valor": 460000,
+            "accion": "sumar"
         }
     }
 }
