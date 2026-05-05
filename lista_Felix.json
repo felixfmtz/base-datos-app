@@ -131,6 +131,10 @@
         "mecanico": {
             "valor": 1000000,
             "accion": "sumar"
+        },
+        "jabon": {
+            "valor": 23000,
+            "accion": "sumar"
         }
     }
 }
