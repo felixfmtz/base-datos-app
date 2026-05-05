@@ -107,6 +107,12 @@
             "NoTInteres": 0,
             "TCuota": 2000000,
             "TInteres": 0
+        },
+        "Andrea Felicia Arzamendia. 110.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {
