@@ -69,6 +69,12 @@
             "NoTInteres": 0,
             "TCuota": 210000,
             "TInteres": 0
+        },
+        "Jose Miguel Gamarra. 1.200.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 200000
         }
     },
     "Gastos": {
