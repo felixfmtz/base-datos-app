@@ -3,16 +3,7 @@
     "cuentas": [
         {
             "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Fermiano Menese",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Martes",
-                    "Transferencia": "No"
-                }
-            ]
+            "items": []
         }
     ],
     "Pagos": {
