@@ -82,6 +82,12 @@
         },
         "Maria Antonia Caballero. Heladera. 100.000*29. Lu": {
             "sigpago": "08\/05\/2026"
+        },
+        "Maria Gauto. 30.000*44": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
