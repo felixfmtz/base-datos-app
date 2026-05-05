@@ -127,6 +127,10 @@
         "sueldo derlis": {
             "valor": 200000,
             "accion": "sumar"
+        },
+        "mecanico": {
+            "valor": 1000000,
+            "accion": "sumar"
         }
     }
 }
