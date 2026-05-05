@@ -58,7 +58,17 @@
             "sigpago": "08\/05\/2026"
         },
         "Sixto Villalba. 280.000*5": {
-            "sigpago": "09\/05\/2026"
+            "sigpago": "09\/05\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
+        },
+        "Elvio Fariña. 210.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
