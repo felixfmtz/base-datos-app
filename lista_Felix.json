@@ -135,6 +135,10 @@
         "jabon": {
             "valor": 23000,
             "accion": "sumar"
+        },
+        "comida perro ": {
+            "valor": 428000,
+            "accion": "sumar"
         }
     }
 }
