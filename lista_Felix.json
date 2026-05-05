@@ -202,6 +202,12 @@
         },
         "Roque Martinez. 220.000*3": {
             "sigpago": "15\/05\/2026"
+        },
+        "Mirna Gauto. 140.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {
