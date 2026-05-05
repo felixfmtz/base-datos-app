@@ -224,7 +224,11 @@
             "TInteres": 0
         },
         "Celia Gimenez. Secarropa. 100.000*31. Sa": {
-            "sigpago": "09\/05\/2026"
+            "sigpago": "09\/05\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 90000,
+            "TInteres": 0
         }
     },
     "Gastos": {
