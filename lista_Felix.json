@@ -11,6 +11,12 @@
         },
         "Jorge Villaverde. Celular. 100.000*20. Ma": {
             "sigpago": "08\/05\/2026"
+        },
+        "Fabiola Cañete. 3.300.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 300000
         }
     },
     "Gastos": {}
