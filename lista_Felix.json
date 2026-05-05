@@ -177,6 +177,10 @@
         "comida perro ": {
             "valor": 428000,
             "accion": "sumar"
+        },
+        "sueldo jesica": {
+            "valor": 490000,
+            "accion": "sumar"
         }
     }
 }
