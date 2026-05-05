@@ -286,6 +286,10 @@
         "mandioca ": {
             "valor": 10000,
             "accion": "sumar"
+        },
+        "cuentas ": {
+            "valor": 2422000,
+            "accion": "sumar"
         }
     }
 }
