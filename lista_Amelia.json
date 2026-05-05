@@ -209,9 +209,9 @@
         },
         "Ruben Peralta. 140.000*10. Sa": {
             "NoTCuota": 0,
-            "NoTInteres": 0,
+            "NoTInteres": 40000,
             "TCuota": 0,
-            "TInteres": 40000
+            "TInteres": 0
         },
         "Ruben Peralta. 140.000*10. Sa. C2": {
             "NoTCuota": 0,
