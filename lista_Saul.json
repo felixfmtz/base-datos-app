@@ -16,6 +16,12 @@
         },
         "Wilner Peralta. 210.000*10. Mi": {
             "sigpago": "07\/05\/2026"
+        },
+        "Leonarda Zalazar. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 120000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
