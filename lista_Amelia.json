@@ -11,6 +11,14 @@
                     "NCuotas": "7",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Gilberto Molinas",
+                    "Deuda": "3.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "39",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "No"
                 }
             ]
         }
