@@ -4,6 +4,12 @@
     "Pagos": {
         "De los Santos Melos. 110.000*6. Ma": {
             "sigpago": "12\/05\/2026"
+        },
+        "Nelson Enciso. 210.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
