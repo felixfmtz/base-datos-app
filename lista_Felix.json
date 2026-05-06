@@ -255,5 +255,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "gomero ": {
+            "valor": 40000,
+            "accion": "sumar"
+        }
+    }
 }
