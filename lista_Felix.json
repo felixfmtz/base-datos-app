@@ -74,6 +74,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Ruth Olmedo. 70.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 70000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
