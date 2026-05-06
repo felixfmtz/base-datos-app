@@ -333,7 +333,11 @@
             "TInteres": 0
         },
         "Ruth Martinez. 180.000*4. Sa": {
-            "sigpago": "07\/05\/2026"
+            "sigpago": "07\/05\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 10000
         }
     },
     "Gastos": {
