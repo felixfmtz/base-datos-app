@@ -187,6 +187,12 @@
         },
         "Gloria Cristaldo. 220.000*6. Lu": {
             "sigpago": "08\/05\/2026"
+        },
+        "Cessia Cocco. 420.000*10. Sa": {
+            "NoTCuota": 170000,
+            "NoTInteres": 0,
+            "TCuota": 250000,
+            "TInteres": 0
         }
     },
     "Gastos": {
