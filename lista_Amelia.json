@@ -253,6 +253,10 @@
         "casa ": {
             "valor": 238000,
             "accion": "sumar"
+        },
+        "transferencia ": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
