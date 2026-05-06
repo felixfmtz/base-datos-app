@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "06\/05\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Veronica Bianca Pereira",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Liduvina Cristaldo. 280.000*10. Lu": {
             "sigpago": "08\/05\/2026"
