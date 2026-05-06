@@ -180,6 +180,12 @@
             "TCuota": 210000,
             "TInteres": 0,
             "Error": "pasar ju"
+        },
+        "Paola Insfran. 176.000. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 176000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
