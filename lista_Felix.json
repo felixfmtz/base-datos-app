@@ -178,7 +178,8 @@
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 210000,
-            "TInteres": 0
+            "TInteres": 0,
+            "Error": "pasar ju"
         }
     },
     "Gastos": {}
