@@ -272,6 +272,12 @@
         },
         "Alejandro Lopez. Robert. 100.000*18. Sa": {
             "sigpago": "09\/05\/2026"
+        },
+        "Ordonia Davalos. 220.000*6. Mi": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
