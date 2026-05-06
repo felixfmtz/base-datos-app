@@ -173,6 +173,12 @@
         },
         "Hugo Marmori. 1.200.000. C2": {
             "sigpago": "09\/05\/2026"
+        },
+        "Wilner Peralta. 210.000*10. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
