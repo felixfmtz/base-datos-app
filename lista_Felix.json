@@ -127,7 +127,8 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0,
-            "Error": "pasar"
+            "Error": "pasar",
+            "sigpago": "09\/05\/2026"
         },
         "Norma Beatriz Blanco. 98.000*10. Vi": {
             "NoTCuota": 0,
