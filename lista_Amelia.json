@@ -17,7 +17,7 @@
     ],
     "Pagos": {
         "Viviana Ortiz. 140.000*10. Vi": {
-            "NoTCuota": 140000,
+            "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
