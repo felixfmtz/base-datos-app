@@ -22,6 +22,12 @@
         },
         "Liz Karina Bogado. 210.000*10. Ju": {
             "sigpago": "14\/05\/2026"
+        },
+        "Cristina Yegros. 280.000*10. Sa": {
+            "NoTCuota": 80000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
