@@ -96,7 +96,11 @@
             "TInteres": 0
         },
         "Demesia Nuñez. 168.000*10. Sa": {
-            "sigpago": "09\/05\/2026"
+            "sigpago": "09\/05\/2026",
+            "NoTCuota": 504000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         },
         "Clyde Isabel Justiniano. 20.000*33. C1": {
             "NoTCuota": 40000,
