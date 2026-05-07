@@ -76,7 +76,7 @@
         "Elsa Cañete. 60.000*44. C2": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 100000,
             "TInteres": 0
         }
     },
