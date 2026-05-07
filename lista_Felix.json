@@ -186,6 +186,10 @@
         "farmacia": {
             "valor": 198000,
             "accion": "sumar"
+        },
+        "sueldo jesica ": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
