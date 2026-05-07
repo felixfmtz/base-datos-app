@@ -155,6 +155,10 @@
         "gasto": {
             "valor": 230000,
             "accion": "sumar"
+        },
+        "lavadero ": {
+            "valor": 39000,
+            "accion": "sumar"
         }
     }
 }
