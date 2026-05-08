@@ -159,6 +159,10 @@
         "sueldo derlis": {
             "valor": 650000,
             "accion": "sumar"
+        },
+        "comida ": {
+            "valor": 26000,
+            "accion": "sumar"
         }
     }
 }
