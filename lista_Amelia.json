@@ -11,6 +11,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Liz Mabel Sosa",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "No"
                 }
             ]
         }
@@ -66,7 +74,7 @@
             "TInteres": 0
         },
         "Liz Mabel Sosa. 330.000*6. Sa": {
-            "NoTCuota": 0,
+            "NoTCuota": 1000000,
             "NoTInteres": 0,
             "TCuota": 250000,
             "TInteres": 0
