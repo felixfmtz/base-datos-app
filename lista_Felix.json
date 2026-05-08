@@ -197,6 +197,12 @@
             "NoTInteres": 0,
             "TCuota": 50000,
             "TInteres": 0
+        },
+        "Elsa Cañete. Secaropa. 100.000*30. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
