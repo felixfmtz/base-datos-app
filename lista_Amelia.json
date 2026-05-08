@@ -70,6 +70,12 @@
             "NoTInteres": 0,
             "TCuota": 250000,
             "TInteres": 0
+        },
+        "Lorenza Rojas. 175.000*4": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 175000,
+            "TInteres": 0
         }
     },
     "Gastos": {
