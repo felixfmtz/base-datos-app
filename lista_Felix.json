@@ -235,6 +235,10 @@
         "mecanico": {
             "valor": 200000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 2945000,
+            "accion": "sumar"
         }
     }
 }
