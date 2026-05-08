@@ -231,6 +231,10 @@
         "comida ": {
             "valor": 26000,
             "accion": "sumar"
+        },
+        "mecanico": {
+            "valor": 200000,
+            "accion": "sumar"
         }
     }
 }
