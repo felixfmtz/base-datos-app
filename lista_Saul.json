@@ -16,6 +16,12 @@
         },
         "Maria Antonia Caballero. Heladera. 100.000*29. Lu": {
             "sigpago": "14\/05\/2026"
+        },
+        "Santiago Baez. 220.000*6. Vi": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
