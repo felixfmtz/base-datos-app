@@ -43,6 +43,12 @@
         },
         "Celia Gimenez. 280.000*10. Vi": {
             "sigpago": "11\/05\/2026"
+        },
+        "Maria Gauto. 30.000*44": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
