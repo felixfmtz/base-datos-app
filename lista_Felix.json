@@ -167,6 +167,12 @@
             "TCuota": 500000,
             "TInteres": 0,
             "Error": "revisar"
+        },
+        "Alejandra Cano. 280.000*10. Lu. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {
