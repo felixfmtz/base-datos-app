@@ -247,6 +247,10 @@
         "carne": {
             "valor": 415000,
             "accion": "sumar"
+        },
+        "vasa": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
