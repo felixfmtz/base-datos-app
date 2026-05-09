@@ -126,6 +126,12 @@
         },
         "Fermin Lopez. 220.000*6. Sa": {
             "sigpago": "14\/05\/2026"
+        },
+        "Augusto Segobia. 140.000*10. Sa. C1": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
