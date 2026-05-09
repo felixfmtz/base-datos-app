@@ -67,6 +67,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Sábado",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Justina torres",
+                    "Deuda": "5.000.000",
+                    "Garante": "ana",
+                    "NCuotas": "44",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "No"
                 }
             ]
         }
