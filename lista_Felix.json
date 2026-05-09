@@ -207,7 +207,7 @@
             "sigpago": "16\/05\/2026",
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 100000,
+            "TCuota": 300000,
             "TInteres": 0
         }
     },
