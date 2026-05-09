@@ -4,6 +4,12 @@
     "Pagos": {
         "Fredy Espinoza. 468.000*10. Sa": {
             "sigpago": "14\/05\/2026"
+        },
+        "Liz Mabel Dure. 1.100.000*6. Mi": {
+            "NoTCuota": 1100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
