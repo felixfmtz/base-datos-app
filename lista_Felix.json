@@ -91,6 +91,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Sebastian Ayala",
+                    "Deuda": "1.400.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "Si"
                 }
             ]
         }
