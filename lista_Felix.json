@@ -40,6 +40,13 @@
         },
         "Yesica Suarez. 560.000*5": {
             "sigpago": "15\/05\/2026"
+        },
+        "Victor Villagra. 140.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pasar mama"
         }
     },
     "Gastos": {
