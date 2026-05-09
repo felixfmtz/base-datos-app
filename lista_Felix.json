@@ -258,7 +258,11 @@
             "sigpago": "14\/05\/2026"
         },
         "Yanina Plaz. 140.000*10. Sa": {
-            "sigpago": "14\/05\/2026"
+            "sigpago": "14\/05\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {
