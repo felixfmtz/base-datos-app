@@ -99,6 +99,12 @@
         },
         "Eusebio Canata. 130.000*8. Vi": {
             "sigpago": "12\/05\/2026"
+        },
+        "Ordonia Davalos. 25.000*24": {
+            "NoTCuota": 25000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
