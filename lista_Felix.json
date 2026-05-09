@@ -297,6 +297,10 @@
         "birome": {
             "valor": 3000,
             "accion": "sumar"
+        },
+        "sebasian": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
