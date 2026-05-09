@@ -185,6 +185,12 @@
             "NoTInteres": 0,
             "TCuota": 280000,
             "TInteres": 0
+        },
+        "Gertrudis Riberos. Alcides. 420.000*10": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 740000,
+            "TInteres": 0
         }
     },
     "Gastos": {
