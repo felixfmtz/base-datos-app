@@ -162,6 +162,10 @@
         "sueldo bruno": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "papa": {
+            "valor": 30000,
+            "accion": "sumar"
         }
     }
 }
