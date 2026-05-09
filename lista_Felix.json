@@ -320,6 +320,12 @@
         },
         "Monica Gomez. 280.000*5": {
             "sigpago": "14\/05\/2026"
+        },
+        "Juan Alberto Venialgo. 4.000.000*6. Sa": {
+            "NoTCuota": 1000000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
