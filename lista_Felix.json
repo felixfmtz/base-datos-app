@@ -13,6 +13,12 @@
         },
         "Sebastiana Bogado. 140.000*10. Sa": {
             "sigpago": "15\/05\/2026"
+        },
+        "Victor Gimenez. 100.000. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
