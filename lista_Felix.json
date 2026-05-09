@@ -63,7 +63,11 @@
             "Error": "pasar lu"
         },
         "Celia Gimenez. Secarropa. 100.000*31. Sa": {
-            "sigpago": "16\/05\/2026"
+            "sigpago": "16\/05\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
