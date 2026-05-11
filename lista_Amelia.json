@@ -266,6 +266,15 @@
             "NoTInteres": 0,
             "TCuota": 600000,
             "TInteres": 0
+        },
+        "De las Nieves Lopez. 280.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
+        },
+        "Gloria Amada Gomez. 140.000*10. Vi": {
+            "sigpago": "15\/05\/2026"
         }
     },
     "Gastos": {
