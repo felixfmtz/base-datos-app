@@ -85,6 +85,9 @@
             "NoTInteres": 0,
             "TCuota": 220000,
             "TInteres": 0
+        },
+        "Pedro Orue. 220.000*3": {
+            "sigpago": "15\/05\/2026"
         }
     },
     "Gastos": {}
