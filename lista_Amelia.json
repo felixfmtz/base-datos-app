@@ -274,6 +274,10 @@
         "real": {
             "valor": 600000,
             "accion": "sumar"
+        },
+        "ronda 2": {
+            "valor": 100000,
+            "accion": "restar"
         }
     }
 }
