@@ -278,6 +278,10 @@
         "ronda 2": {
             "valor": 100000,
             "accion": "restar"
+        },
+        "mandioca ": {
+            "valor": 15000,
+            "accion": "sumar"
         }
     }
 }
