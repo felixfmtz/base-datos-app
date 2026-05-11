@@ -402,6 +402,10 @@
         "cable": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "farmacia ": {
+            "valor": 95000,
+            "accion": "sumar"
         }
     }
 }
