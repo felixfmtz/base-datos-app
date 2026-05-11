@@ -350,6 +350,12 @@
             "TCuota": 210000,
             "TInteres": 0,
             "Error": "revisar"
+        },
+        "Maria Magdalena. 560.000*10. Sa": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
