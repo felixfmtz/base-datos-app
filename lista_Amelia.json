@@ -529,6 +529,10 @@
         "mandioca ": {
             "valor": 15000,
             "accion": "sumar"
+        },
+        "comisión ": {
+            "valor": 150000,
+            "accion": "sumar"
         }
     }
 }
