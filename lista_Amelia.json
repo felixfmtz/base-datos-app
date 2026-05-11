@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "11\/05\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Pedro Antonio Gamarra",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "4",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Delfina Britez. 120.000*44. NO": {
             "NoTCuota": 0,
