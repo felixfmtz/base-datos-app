@@ -343,6 +343,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Yanina Plaz. 210.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "revisar"
         }
     },
     "Gastos": {
