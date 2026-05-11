@@ -384,6 +384,12 @@
         },
         "Juan Albino. 440.000*3": {
             "sigpago": "26\/05\/2026"
+        },
+        "Elsa Florentin. 300.000*24. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 50000,
+            "TInteres": 0
         }
     },
     "Gastos": {
