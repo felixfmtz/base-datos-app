@@ -161,5 +161,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "cooperativa ": {
+            "valor": 28000,
+            "accion": "sumar"
+        }
+    }
 }
