@@ -51,5 +51,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "ronda": {
+            "valor": 100000,
+            "accion": "sumar"
+        }
+    }
 }
