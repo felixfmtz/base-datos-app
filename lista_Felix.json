@@ -220,6 +220,12 @@
         },
         "Juan Delgado. 2.000.000*6. Lu": {
             "sigpago": "16\/05\/2026"
+        },
+        "Juan Delgado. 2.100.000. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 100000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
