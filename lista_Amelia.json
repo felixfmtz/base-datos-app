@@ -230,6 +230,10 @@
         "ronda": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "casa": {
+            "valor": 50000,
+            "accion": "sumar"
         }
     }
 }
