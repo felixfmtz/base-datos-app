@@ -166,6 +166,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "sigpago": "Pagado"
+        },
+        "Leonardo Dure. 330.000*6. Sa": {
+            "sigpago": "13\/05\/2026"
         }
     },
     "Gastos": {
