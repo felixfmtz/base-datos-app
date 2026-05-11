@@ -127,6 +127,12 @@
         },
         "Claudio Nicolas Aguilar. 140.000*10. Sa": {
             "sigpago": "18\/05\/2026"
+        },
+        "Edgar Fleitas. 100.000*23. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
