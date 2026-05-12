@@ -22,6 +22,12 @@
         },
         "Yanina Plaz. 210.000*10. Sa": {
             "sigpago": "14\/05\/2026"
+        },
+        "Evarista Aguilar. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
