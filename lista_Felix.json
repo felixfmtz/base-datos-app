@@ -226,6 +226,10 @@
         "giro carolina ": {
             "valor": 50000,
             "accion": "sumar"
+        },
+        "basura": {
+            "valor": 90000,
+            "accion": "sumar"
         }
     }
 }
