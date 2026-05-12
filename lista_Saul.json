@@ -286,6 +286,10 @@
         "entregado ": {
             "valor": 2260000,
             "accion": "sumar"
+        },
+        "lavadro": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
