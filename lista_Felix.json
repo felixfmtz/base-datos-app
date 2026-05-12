@@ -122,6 +122,12 @@
         },
         "Maria Asuncion Flores. 420.000*5": {
             "sigpago": "15\/05\/2026"
+        },
+        "Pedro Franco. 700.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 700000,
+            "TInteres": 0
         }
     },
     "Gastos": {
