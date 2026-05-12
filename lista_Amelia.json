@@ -180,6 +180,13 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "clara"
+        },
+        "Laureana Insfran. Clara 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "carolina"
         }
     },
     "Gastos": {
