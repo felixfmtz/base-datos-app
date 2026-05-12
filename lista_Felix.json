@@ -108,7 +108,7 @@
         "Alejandro Lopez. Robert. 100.000*18. Sa": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 400000,
             "TInteres": 0,
             "Error": "pasar saul"
         }
