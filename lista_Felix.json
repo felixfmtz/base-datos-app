@@ -181,7 +181,17 @@
             "sigpago": "15\/05\/2026"
         },
         "Alfredo Franco. 1.000.000*15. Sa": {
-            "sigpago": "14\/05\/2026"
+            "sigpago": "14\/05\/2026",
+            "NoTCuota": 500000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Flaminio Gonzalez. 420.000*10. Lu. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 400000,
+            "TInteres": 0
         }
     },
     "Gastos": {
