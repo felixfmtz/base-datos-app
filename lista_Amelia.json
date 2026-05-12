@@ -187,6 +187,12 @@
             "TCuota": 220000,
             "TInteres": 0,
             "Error": "carolina"
+        },
+        "Justina Torres. Ana. 150.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {
