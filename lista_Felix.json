@@ -98,6 +98,12 @@
         },
         "Alfredo Castillo. 1.800.000": {
             "sigpago": "16\/05\/2026"
+        },
+        "Banesa Benitez. 100.000*13. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
