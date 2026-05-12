@@ -262,6 +262,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Flaminio Gonzalez. 420.000*10. Lu. C1": {
+            "NoTCuota": 20000,
+            "NoTInteres": 0,
+            "TCuota": 400000,
+            "TInteres": 0
         }
     },
     "Gastos": {
