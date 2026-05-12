@@ -183,6 +183,10 @@
         "casa": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "ración para pescado ": {
+            "valor": 1000000,
+            "accion": "sumar"
         }
     }
 }
