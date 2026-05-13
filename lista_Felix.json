@@ -280,6 +280,10 @@
         "obra": {
             "valor": 1767000,
             "accion": "sumar"
+        },
+        "pilar": {
+            "valor": 226000,
+            "accion": "sumar"
         }
     }
 }
