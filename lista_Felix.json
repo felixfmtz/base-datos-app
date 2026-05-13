@@ -179,6 +179,12 @@
             "NoTInteres": 200000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Lalia Barrios. 280.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 180000,
+            "TInteres": 0
         }
     },
     "Gastos": {
