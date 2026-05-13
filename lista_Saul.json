@@ -57,5 +57,10 @@
             "sigpago": "16\/05\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "combustible": {
+            "valor": 280000,
+            "accion": "sumar"
+        }
+    }
 }
