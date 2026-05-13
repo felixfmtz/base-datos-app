@@ -203,6 +203,10 @@
         "giri": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "farmacia ": {
+            "valor": 266000,
+            "accion": "sumar"
         }
     }
 }
