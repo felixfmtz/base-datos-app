@@ -39,6 +39,12 @@
             "NoTInteres": 0,
             "TCuota": 1660000,
             "TInteres": 0
+        },
+        "Rosalba Ojeda. Aire. 150.000*34. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
