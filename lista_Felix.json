@@ -276,6 +276,10 @@
         "farmacia ": {
             "valor": 266000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 1767000,
+            "accion": "sumar"
         }
     }
 }
