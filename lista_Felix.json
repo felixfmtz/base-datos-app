@@ -53,6 +53,15 @@
                     "Transferencia": "Si"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Liliana Lugo",
+                    "dia": "Ju"
+                }
+            ]
         }
     ],
     "Pagos": {
