@@ -19,6 +19,13 @@
         },
         "Maria Magdalena. 560.000*10. Sa": {
             "sigpago": "23\/05\/2026"
+        },
+        "Recordatorio 1. Gim. 1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "sigpago": "Pagado"
         }
     },
     "Gastos": {}
