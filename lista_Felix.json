@@ -127,6 +127,12 @@
         },
         "Lucila Delgado. 200.000*7. Sa": {
             "sigpago": "16\/05\/2026"
+        },
+        "Veronica Bianca Pereira. 220.000*6. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {
