@@ -139,6 +139,10 @@
         "comida": {
             "valor": 61000,
             "accion": "sumar"
+        },
+        "giri": {
+            "valor": 500000,
+            "accion": "sumar"
         }
     }
 }
