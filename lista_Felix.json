@@ -33,6 +33,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "sigpago": "Pagado"
+        },
+        "Leticia Alfonzo. 210.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1660000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
