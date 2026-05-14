@@ -16,6 +16,12 @@
         },
         "Tomasa Cantero. Lavarropa. 100.000*28. Ju": {
             "sigpago": "18\/05\/2026"
+        },
+        "Fermin Lopez. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 100000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
