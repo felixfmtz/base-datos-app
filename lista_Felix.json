@@ -41,6 +41,12 @@
         },
         "Luciano Pintos. 140.000*10. Ju": {
             "sigpago": "16\/05\/2026"
+        },
+        "Wilner Peralta. 210.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
