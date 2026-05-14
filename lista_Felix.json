@@ -150,6 +150,10 @@
         "obra": {
             "valor": 3100000,
             "accion": "sumar"
+        },
+        "sueldo jesica ": {
+            "valor": 400000,
+            "accion": "sumar"
         }
     }
 }
