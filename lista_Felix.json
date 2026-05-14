@@ -190,6 +190,10 @@
         "sueldo jesica ": {
             "valor": 400000,
             "accion": "sumar"
+        },
+        "carnr": {
+            "valor": 131000,
+            "accion": "sumar"
         }
     }
 }
