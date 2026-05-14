@@ -147,6 +147,13 @@
         },
         "Vanesa Servian. Aire. 100.000*30. Sa": {
             "sigpago": "18\/05\/2026"
+        },
+        "Feliciana Arevalos. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pasar jueves"
         }
     },
     "Gastos": {
