@@ -38,6 +38,12 @@
         },
         "Leonarda Baez. Marlene. 420.000*10. Ma": {
             "sigpago": "18\/05\/2026"
+        },
+        "Ruben Peralta. 140.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 40000
         }
     },
     "Gastos": {}
