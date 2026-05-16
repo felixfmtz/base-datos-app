@@ -248,6 +248,10 @@
         "basura": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "sueldo derlis": {
+            "valor": 200000,
+            "accion": "sumar"
         }
     }
 }
