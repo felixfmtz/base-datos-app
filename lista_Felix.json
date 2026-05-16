@@ -270,6 +270,10 @@
         "comicion": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "encomienda ": {
+            "valor": 12000,
+            "accion": "sumar"
         }
     }
 }
