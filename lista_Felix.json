@@ -206,6 +206,12 @@
         },
         "Yesica Suarez. 560.000*5": {
             "sigpago": "22\/05\/2026"
+        },
+        "Arbelino Gonzalez. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 440000,
+            "TInteres": 0
         }
     },
     "Gastos": {
