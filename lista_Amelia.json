@@ -279,6 +279,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Recordatorio 2. Comisario": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "comisario Oscar Olmedo"
         }
     },
     "Gastos": {
