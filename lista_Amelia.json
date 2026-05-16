@@ -330,6 +330,10 @@
         "casa 2": {
             "valor": 33000,
             "accion": "sumar"
+        },
+        "sueldo derlis": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
