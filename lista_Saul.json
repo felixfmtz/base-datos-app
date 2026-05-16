@@ -106,6 +106,12 @@
         },
         "Carlos Derlis Duarte. 220.000": {
             "sigpago": "30\/05\/2026"
+        },
+        "Walter Gabriel Peralta. 280.000*5. C1": {
+            "NoTCuota": 80000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
