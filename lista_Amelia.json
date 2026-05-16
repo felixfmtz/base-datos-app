@@ -287,6 +287,12 @@
             "TInteres": 0,
             "Error": "comisario Oscar Olmedo",
             "sigpago": "Pagado"
+        },
+        "Luana Sosa. 140.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
