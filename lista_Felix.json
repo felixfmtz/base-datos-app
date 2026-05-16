@@ -111,6 +111,12 @@
             "NoTInteres": 0,
             "TCuota": 210000,
             "TInteres": 0
+        },
+        "Edgar Martinez. Mario Medina. 280.000*10. Sa": {
+            "NoTCuota": 280000,
+            "NoTInteres": 0,
+            "TCuota": 30000,
+            "TInteres": 0
         }
     },
     "Gastos": {
