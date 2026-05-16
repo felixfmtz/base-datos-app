@@ -59,6 +59,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Derlis Pintos",
+                    "Deuda": "2.270.000",
+                    "Garante": "tv",
+                    "NCuotas": "35",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "No"
                 }
             ]
         }
