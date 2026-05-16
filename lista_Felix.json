@@ -117,6 +117,12 @@
             "NoTInteres": 0,
             "TCuota": 30000,
             "TInteres": 0
+        },
+        "Raul Obregon. 880.000*6. Mi. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 680000,
+            "TInteres": 0
         }
     },
     "Gastos": {
