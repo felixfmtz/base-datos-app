@@ -79,6 +79,12 @@
         },
         "Aldo Alcaraz. 280.000*10. Sa": {
             "sigpago": "20\/05\/2026"
+        },
+        "Evarista Aguilar. 110.000*6. Vi": {
+            "NoTCuota": 110000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
