@@ -301,7 +301,11 @@
             "TInteres": 0
         },
         "Mirian Cardozo. Cristian. 490.000*10. Ma": {
-            "sigpago": "23\/05\/2026"
+            "sigpago": "23\/05\/2026",
+            "NoTCuota": 1000000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
