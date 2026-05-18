@@ -114,5 +114,10 @@
             "TInteres": 120000
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "equigax": {
+            "valor": 203000,
+            "accion": "sumar"
+        }
+    }
 }
