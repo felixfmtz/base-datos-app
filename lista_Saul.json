@@ -301,6 +301,12 @@
         },
         "Liz Marina Colman. 210.000*10. Sa": {
             "sigpago": "23\/05\/2026"
+        },
+        "Lourdes Arce. 150.000*15": {
+            "NoTCuota": 60000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
