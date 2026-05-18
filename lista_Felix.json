@@ -27,6 +27,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Cesar Solis",
+                    "Deuda": "1.101.000",
+                    "Garante": "note 70",
+                    "NCuotas": "18",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "Si"
                 }
             ]
         }
