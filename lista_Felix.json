@@ -186,6 +186,10 @@
         "giro": {
             "valor": 840000,
             "accion": "restar"
+        },
+        "sueldo saul": {
+            "valor": 80000,
+            "accion": "sumar"
         }
     }
 }
