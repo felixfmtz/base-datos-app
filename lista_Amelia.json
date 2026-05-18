@@ -22,6 +22,12 @@
         },
         "Derlis Delgadillo. 210.000*10. Sa": {
             "sigpago": "20\/05\/2026"
+        },
+        "Eugenio Oviedo. 840.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 840000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
