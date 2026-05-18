@@ -464,6 +464,10 @@
         "transferencia ": {
             "valor": 250000,
             "accion": "sumar"
+        },
+        "benito": {
+            "valor": 500000,
+            "accion": "restar"
         }
     }
 }
