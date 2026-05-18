@@ -257,6 +257,10 @@
         "pilar": {
             "valor": 40000,
             "accion": "sumar"
+        },
+        "agua ": {
+            "valor": 48000,
+            "accion": "sumar"
         }
     }
 }
