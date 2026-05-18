@@ -118,6 +118,10 @@
         "equigax": {
             "valor": 203000,
             "accion": "sumar"
+        },
+        "giro": {
+            "valor": 840000,
+            "accion": "restar"
         }
     }
 }
