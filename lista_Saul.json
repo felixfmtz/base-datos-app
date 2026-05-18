@@ -184,6 +184,12 @@
         },
         "Juana Fariña. 220.000*6. Lu": {
             "sigpago": "20\/05\/2026"
+        },
+        "Tomasa Cantero. Lavarropa. 100.000*28. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
