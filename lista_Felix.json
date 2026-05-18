@@ -192,7 +192,11 @@
             "sigpago": "20\/05\/2026"
         },
         "Lucila Delgado. 200.000*7. Sa": {
-            "sigpago": "21\/05\/2026"
+            "sigpago": "21\/05\/2026",
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
