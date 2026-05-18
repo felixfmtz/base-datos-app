@@ -70,6 +70,12 @@
         },
         "Hugo Servian. 210.000*10. Sa": {
             "sigpago": "19\/05\/2026"
+        },
+        "Victoria Rodas. Novio. 140.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
