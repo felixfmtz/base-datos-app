@@ -34,6 +34,12 @@
         },
         "Vanesa Servian. 220.000*6. Mi": {
             "sigpago": "25\/05\/2026"
+        },
+        "Andrea Felicia Arzamendia. 110.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
