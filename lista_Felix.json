@@ -151,6 +151,10 @@
         "gomero ": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "comida": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
