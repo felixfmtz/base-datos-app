@@ -65,6 +65,12 @@
             "NoTInteres": 0,
             "TCuota": 1100000,
             "TInteres": 0
+        },
+        "Elsa Cañete. 60.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 80000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
