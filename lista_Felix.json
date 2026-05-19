@@ -186,6 +186,10 @@
         "comida": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "giro bruno": {
+            "valor": 500000,
+            "accion": "sumar"
         }
     }
 }
