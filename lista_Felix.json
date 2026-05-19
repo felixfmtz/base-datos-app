@@ -131,5 +131,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "sueldo bruno": {
+            "valor": 650000,
+            "accion": "sumar"
+        }
+    }
 }
