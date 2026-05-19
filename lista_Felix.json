@@ -240,6 +240,10 @@
         "giro bruno": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "farmacia ": {
+            "valor": 30000,
+            "accion": "sumar"
         }
     }
 }
