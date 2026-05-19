@@ -42,7 +42,17 @@
             "TInteres": 0
         },
         "Maria Rolon. 840.000*5": {
-            "sigpago": "22\/05\/2026"
+            "sigpago": "22\/05\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 600000,
+            "TInteres": 0
+        },
+        "Susana de Leite. Pablo. 220.000*6. Lu. C2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
