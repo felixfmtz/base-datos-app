@@ -1,13 +1,145 @@
 {
     "fecha_ultimo_guardado": "19\/05\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Marciano Cerdan",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Victoria Romero",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Pedro Florentin",
+                    "Deuda": "1.000.000",
+                    "Garante": "Griselda ",
+                    "NCuotas": "10",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Diego Armando. 110.000*6. Vi": {
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 110000,
             "TInteres": 0
+        },
+        "Felicita Miltos. 210.000*10. Vi": {
+            "NoTCuota": 210000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Derlis Rodrigo Gonzalez. 220.000*6. Ma": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Victoria Romero. 280.000*10. Ma": {
+            "NoTCuota": 280000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Barsiliza Aguero. 140.000*10. Ma": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Ilsa Santacruz. 200.000*7. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
+        },
+        "De los Santos Melos. 110.000*6. Ma": {
+            "NoTCuota": 120000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Juan Carlos Diana. 200.000*7. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
+        },
+        "Ana Manuela. 310.000": {
+            "sigpago": "29\/05\/2026"
+        },
+        "Kateri Mareco Rios. Gloria. 220.000*6. Ma": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Pedro Florentin. Griselda. 150.000*6. Ma": {
+            "NoTCuota": 450000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Teresa de Fernandez. 80.000*30": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
+        },
+        "Evangelista Ortiz. Marlene. 300.000*4. Ma": {
+            "NoTCuota": 300000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Pedro Florentin. Griselda. 150.000*6. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
+        },
+        "Cynthia Carolina Baez. 15.000*44. C1": {
+            "NoTCuota": 15000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Cynthia Carolina Baez. 15.000*44. C2": {
+            "NoTCuota": 15000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Cynthia Carolina Baez. 15.000*44. C3": {
+            "NoTCuota": 15000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "combustible ": {
+            "valor": 325000,
+            "accion": "sumar"
+        },
+        "casa": {
+            "valor": 15000,
+            "accion": "sumar"
+        }
+    }
 }
