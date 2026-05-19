@@ -166,6 +166,12 @@
         },
         "Hugo Marmori. 1.200.000. C2": {
             "sigpago": "26\/05\/2026"
+        },
+        "Juan Alberto Venialgo. 4.000.000*6. Ma": {
+            "NoTCuota": 4000000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
