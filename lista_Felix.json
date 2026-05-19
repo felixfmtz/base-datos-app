@@ -143,7 +143,11 @@
             "TInteres": 100000
         },
         "Roman Flores. 270.000*4. Lu": {
-            "sigpago": "25\/05\/2026"
+            "sigpago": "25\/05\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 230000,
+            "TInteres": 0
         }
     },
     "Gastos": {
