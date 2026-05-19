@@ -13,6 +13,12 @@
         },
         "Delia Blanco. 140.000*10. Ma": {
             "sigpago": "23\/05\/2026"
+        },
+        "Hugo Caceres. 180.000*4. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 10000
         }
     },
     "Gastos": {}
