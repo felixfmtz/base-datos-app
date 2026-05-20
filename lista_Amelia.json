@@ -73,6 +73,12 @@
         },
         "Mario Franco. 140.000*10. Lu. C1": {
             "sigpago": "22\/05\/2026"
+        },
+        "Josefina Figueredo. 220.000*6. Mi": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
