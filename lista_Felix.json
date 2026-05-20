@@ -74,5 +74,10 @@
             "TInteres": 10000
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "telefono ": {
+            "valor": 325000,
+            "accion": "sumar"
+        }
+    }
 }
