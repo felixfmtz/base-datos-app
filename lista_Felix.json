@@ -125,6 +125,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "revisar"
+        },
+        "Luz Duarte. 360.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 360000,
+            "TInteres": 0
         }
     },
     "Gastos": {
