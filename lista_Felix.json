@@ -235,6 +235,10 @@
         "telefono ": {
             "valor": 325000,
             "accion": "sumar"
+        },
+        "lavadero": {
+            "valor": 35000,
+            "accion": "sumar"
         }
     }
 }
