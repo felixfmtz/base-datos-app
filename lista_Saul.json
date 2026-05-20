@@ -167,6 +167,10 @@
         "sueldo saul": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "comicion": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
