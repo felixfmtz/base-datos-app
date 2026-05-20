@@ -155,6 +155,13 @@
             "NoTInteres": 0,
             "TCuota": 250000,
             "TInteres": 0
+        },
+        "Juan Ricardo Martinez. Herramientas. 80.000*14. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pasar a mi"
         }
     },
     "Gastos": {
