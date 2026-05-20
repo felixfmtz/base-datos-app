@@ -4,6 +4,12 @@
     "Pagos": {
         "Zenaida Miltos. 210.000*10. Mi": {
             "sigpago": "22\/05\/2026"
+        },
+        "Dario Rene Pintos. Fredy. 600.000": {
+            "NoTCuota": 600000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
