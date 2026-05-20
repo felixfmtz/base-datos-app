@@ -16,6 +16,12 @@
         },
         "Vanesa Servian. 220.000*6. Mi": {
             "sigpago": "25\/05\/2026"
+        },
+        "Mirna Gauto. 140.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
