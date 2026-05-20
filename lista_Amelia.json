@@ -237,6 +237,10 @@
         "ropa": {
             "valor": 35000,
             "accion": "sumar"
+        },
+        "taller ": {
+            "valor": 130000,
+            "accion": "sumar"
         }
     }
 }
