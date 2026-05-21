@@ -76,6 +76,12 @@
         },
         "Nicanor Rodas. 350.000*4": {
             "sigpago": "30\/05\/2026"
+        },
+        "Victoria Romero. 280.000*10. Ju": {
+            "NoTCuota": 280000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
