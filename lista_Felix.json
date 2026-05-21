@@ -112,6 +112,10 @@
         "comida ": {
             "valor": 52000,
             "accion": "sumar"
+        },
+        "liduvina": {
+            "valor": 800000,
+            "accion": "restar"
         }
     }
 }
