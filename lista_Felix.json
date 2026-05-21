@@ -23,6 +23,12 @@
         },
         "Ramon Vera. 2.780.000": {
             "sigpago": "23\/05\/2026"
+        },
+        "Antonia Baez. 110.000*6. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
