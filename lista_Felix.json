@@ -140,6 +140,12 @@
             "NoTInteres": 0,
             "TCuota": 90000,
             "TInteres": 0
+        },
+        "Carlos Garcete. 220.000*6. Mi": {
+            "NoTCuota": 300000,
+            "NoTInteres": 0,
+            "TCuota": 20000,
+            "TInteres": 0
         }
     },
     "Gastos": {
