@@ -180,6 +180,10 @@
         "liduvina": {
             "valor": 800000,
             "accion": "restar"
+        },
+        "gsto": {
+            "valor": 87000,
+            "accion": "sumar"
         }
     }
 }
