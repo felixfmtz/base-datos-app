@@ -4,6 +4,12 @@
     "Pagos": {
         "Celia Gimenez. Secarropa. 100.000*31. Sa": {
             "sigpago": "23\/05\/2026"
+        },
+        "Epifania Ortiz. 30.000*44": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
