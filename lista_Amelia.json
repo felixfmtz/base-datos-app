@@ -250,6 +250,10 @@
         "remedio ": {
             "valor": 30000,
             "accion": "sumar"
+        },
+        "birome": {
+            "valor": 6000,
+            "accion": "sumar"
         }
     }
 }
