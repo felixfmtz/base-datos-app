@@ -103,6 +103,10 @@
         "limpieza": {
             "valor": 83000,
             "accion": "sumar"
+        },
+        "ferreteria": {
+            "valor": 3321000,
+            "accion": "sumar"
         }
     }
 }
