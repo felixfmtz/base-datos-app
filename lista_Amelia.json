@@ -125,6 +125,10 @@
         "gasto": {
             "valor": 200000,
             "accion": "sumar"
+        },
+        "cade": {
+            "valor": 200000,
+            "accion": "restar"
         }
     }
 }
