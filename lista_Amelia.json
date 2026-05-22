@@ -26,6 +26,13 @@
             "TCuota": 0,
             "TInteres": 0,
             "sigpago": "Pagado"
+        },
+        "Recordatorio 2. Rush. 1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "sigpago": "Pagado"
         }
     },
     "Gastos": {}
