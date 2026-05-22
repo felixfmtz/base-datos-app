@@ -57,6 +57,12 @@
         },
         "Yesica Suarez. 560.000*5": {
             "sigpago": "26\/05\/2026"
+        },
+        "Dorca Zarza. 660.000. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 660000,
+            "TInteres": 0
         }
     },
     "Gastos": {
