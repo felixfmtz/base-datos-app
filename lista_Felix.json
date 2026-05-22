@@ -99,6 +99,10 @@
         "remedio": {
             "valor": 86000,
             "accion": "sumar"
+        },
+        "limpieza": {
+            "valor": 83000,
+            "accion": "sumar"
         }
     }
 }
