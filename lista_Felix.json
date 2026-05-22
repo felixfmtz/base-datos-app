@@ -31,6 +31,12 @@
         },
         "Eliane Mariela Colman. 525.000*8. Ju": {
             "sigpago": "28\/05\/2026"
+        },
+        "Liduvina Cristaldo. 280.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 800000,
+            "TInteres": 0
         }
     },
     "Gastos": {
