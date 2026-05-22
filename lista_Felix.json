@@ -107,6 +107,10 @@
         "ferreteria": {
             "valor": 3321000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 4265000,
+            "accion": "sumar"
         }
     }
 }
