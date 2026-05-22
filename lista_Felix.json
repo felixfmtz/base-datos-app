@@ -95,6 +95,10 @@
         "sueldo derlis ": {
             "valor": 450000,
             "accion": "sumar"
+        },
+        "remedio": {
+            "valor": 86000,
+            "accion": "sumar"
         }
     }
 }
