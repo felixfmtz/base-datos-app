@@ -25,6 +25,12 @@
         },
         "Monica Gomez. 280.000*5": {
             "sigpago": "28\/05\/2026"
+        },
+        "Lourdes Arce. 280.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {
