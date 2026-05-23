@@ -160,6 +160,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Reinaldo Riquelme. 440.000*6. Ma": {
+            "NoTCuota": 400000,
+            "NoTInteres": 0,
+            "TCuota": 40000,
+            "TInteres": 0
         }
     },
     "Gastos": {
