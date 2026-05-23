@@ -331,6 +331,10 @@
         "carne": {
             "valor": 166000,
             "accion": "sumar"
+        },
+        "combustible ": {
+            "valor": 324000,
+            "accion": "sumar"
         }
     }
 }
