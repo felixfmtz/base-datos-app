@@ -286,6 +286,10 @@
         "comida": {
             "valor": 78000,
             "accion": "sumar"
+        },
+        "motor": {
+            "valor": 780000,
+            "accion": "sumar"
         }
     }
 }
