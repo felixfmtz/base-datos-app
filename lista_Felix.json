@@ -148,6 +148,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "en 10 pagos"
+        },
+        "Anastacio Baez. 220.000*6. Sa": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
