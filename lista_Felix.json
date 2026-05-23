@@ -244,6 +244,12 @@
         },
         "Maria Flores. 180.000*2": {
             "sigpago": "26\/05\/2026"
+        },
+        "Dolores Cristina Gonzalez. 140.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {
