@@ -270,6 +270,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 150000
+        },
+        "Ronda. Ariel. 1.600.000": {
+            "NoTCuota": 1120000,
+            "NoTInteres": 0,
+            "TCuota": 480000,
+            "TInteres": 0
         }
     },
     "Gastos": {
