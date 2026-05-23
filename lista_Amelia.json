@@ -199,6 +199,10 @@
         "mais": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "carne": {
+            "valor": 166000,
+            "accion": "sumar"
         }
     }
 }
