@@ -234,6 +234,10 @@
         "porton": {
             "valor": 670000,
             "accion": "sumar"
+        },
+        "mouse": {
+            "valor": 98000,
+            "accion": "sumar"
         }
     }
 }
