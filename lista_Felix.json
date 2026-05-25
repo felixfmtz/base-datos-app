@@ -11,6 +11,14 @@
                     "NCuotas": "2",
                     "Frecuencia": "Mensual",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Diego Dure",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
                 }
             ]
         }
