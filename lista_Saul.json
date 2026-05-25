@@ -145,6 +145,12 @@
         },
         "Liz Karina Benitez. 880.000*3": {
             "sigpago": "29\/05\/2026"
+        },
+        "Rosalba Gonzalez Duarte. 15.000*24": {
+            "NoTCuota": 15000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
