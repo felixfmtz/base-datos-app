@@ -58,7 +58,11 @@
             "TInteres": 10000
         },
         "Cristina Yegros. 280.000*10. Sa": {
-            "sigpago": "28\/05\/2026"
+            "sigpago": "28\/05\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 10000
         }
     },
     "Gastos": {}
