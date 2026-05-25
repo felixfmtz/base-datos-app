@@ -7,6 +7,12 @@
         },
         "Celia Gimenez. Secarropa. 100.000*31. Sa": {
             "sigpago": "30\/05\/2026"
+        },
+        "Abelino Peralta. 600.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 100000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
