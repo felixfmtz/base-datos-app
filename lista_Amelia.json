@@ -261,6 +261,10 @@
         "ajuste Matilde ": {
             "valor": 210000,
             "accion": "sumar"
+        },
+        "gasto": {
+            "valor": 25000,
+            "accion": "sumar"
         }
     }
 }
