@@ -5,14 +5,6 @@
             "seccion": "Crear cuenta",
             "items": [
                 {
-                    "nombreOriginal": "Ramon Irala",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "2",
-                    "Frecuencia": "Mensual",
-                    "Transferencia": "Si"
-                },
-                {
                     "nombreOriginal": "Diego Dure",
                     "Deuda": "1.000.000",
                     "Garante": "Sin Garante",
