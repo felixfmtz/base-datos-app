@@ -205,6 +205,12 @@
         },
         "Erica Fidelina Roa. 140.000*10. Lu": {
             "sigpago": "27\/05\/2026"
+        },
+        "Cesar Solis. 280.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {
