@@ -19,6 +19,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Leonarda Baez",
+                    "Deuda": "700.000",
+                    "Garante": "fredy",
+                    "NCuotas": "",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
                 }
             ]
         }
