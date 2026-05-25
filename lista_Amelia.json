@@ -427,6 +427,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Ignacio Fleitas. Raquel. 140.000*10. Lu. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "6 pagos"
         }
     },
     "Gastos": {
