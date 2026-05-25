@@ -79,6 +79,12 @@
         },
         "Edgar Fleitas. 140.000*10. Lu": {
             "sigpago": "01\/06\/2026"
+        },
+        "Felicia Zarza. Santos. 1.200.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 200000
         }
     },
     "Gastos": {}
