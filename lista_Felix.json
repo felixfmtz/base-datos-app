@@ -203,6 +203,12 @@
         },
         "Cristobal Muños. 1.100.000": {
             "sigpago": "27\/05\/2026"
+        },
+        "Juan Alberto Venialgo. 4.000.000*6. Sa": {
+            "NoTCuota": 2000000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
