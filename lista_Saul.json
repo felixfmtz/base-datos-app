@@ -46,6 +46,12 @@
         },
         "Liz Karina Bogado. 210.000*10. Ju": {
             "sigpago": "28\/05\/2026"
+        },
+        "Lalia Barrios. 280.000*10. Lu": {
+            "NoTCuota": 180000,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
