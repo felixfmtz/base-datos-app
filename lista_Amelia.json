@@ -365,6 +365,10 @@
         "gasto": {
             "valor": 25000,
             "accion": "sumar"
+        },
+        "ajuste de Jonathan ": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
