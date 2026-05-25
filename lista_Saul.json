@@ -169,6 +169,12 @@
         },
         "Graciela Peralta. 220.000*6. Ju. C1": {
             "sigpago": "29\/05\/2026"
+        },
+        "Sergio Peralta. 1.200.000": {
+            "NoTCuota": 1200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
