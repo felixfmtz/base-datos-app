@@ -139,7 +139,11 @@
             "sigpago": "27\/05\/2026"
         },
         "Evarista Aguilar. 220.000*6. Lu": {
-            "sigpago": "01\/06\/2026"
+            "sigpago": "01\/06\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {
