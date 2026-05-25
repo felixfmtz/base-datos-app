@@ -239,5 +239,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "ajuste Matilde ": {
+            "valor": 210000,
+            "accion": "sumar"
+        }
+    }
 }
