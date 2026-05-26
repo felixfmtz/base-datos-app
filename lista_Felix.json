@@ -25,6 +25,12 @@
         },
         "Lucila Delgado. 200.000*7. Sa": {
             "sigpago": "03\/06\/2026"
+        },
+        "Smirna Zarza. 2.400.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 400000
         }
     },
     "Gastos": {}
