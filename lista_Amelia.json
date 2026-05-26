@@ -46,6 +46,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Maria Belen Torres. 3.300.000. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 2300000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
