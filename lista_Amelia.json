@@ -144,5 +144,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "uña": {
+            "valor": 150000,
+            "accion": "sumar"
+        }
+    }
 }
