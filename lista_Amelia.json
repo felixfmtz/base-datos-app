@@ -52,6 +52,12 @@
             "NoTInteres": 0,
             "TCuota": 2300000,
             "TInteres": 0
+        },
+        "Alejandro Tomas Gimenez. 210.000*10. Lu": {
+            "NoTCuota": 270000,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
