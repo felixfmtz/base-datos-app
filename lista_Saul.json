@@ -88,6 +88,12 @@
         },
         "Lalia Barrios. 280.000*10. Lu": {
             "sigpago": "28\/05\/2026"
+        },
+        "Hermelinda Herrera. 140.000*10. Ma": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
