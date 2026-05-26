@@ -35,6 +35,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Bruno Martinez",
+                    "Deuda": "300.000",
+                    "Garante": "albañil",
+                    "NCuotas": "2",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
