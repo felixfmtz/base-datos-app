@@ -61,6 +61,15 @@
                     "Transferencia": "No"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Digna Lopez",
+                    "dia": "Ju"
+                }
+            ]
         }
     ],
     "Pagos": {
