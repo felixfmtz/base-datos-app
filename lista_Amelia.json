@@ -223,6 +223,10 @@
         "casa 2": {
             "valor": 17000,
             "accion": "sumar"
+        },
+        "ajuste candado cabral": {
+            "valor": 220000,
+            "accion": "sumar"
         }
     }
 }
