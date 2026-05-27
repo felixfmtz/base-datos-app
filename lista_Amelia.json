@@ -4,6 +4,15 @@
     "Pagos": {
         "Agustin Gimenez. 140.000*10. Sa": {
             "sigpago": "30\/05\/2026"
+        },
+        "Zenaida Miltos. 210.000*10. Mi": {
+            "sigpago": "29\/05\/2026"
+        },
+        "Antolin Rotela. 280.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 440000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
