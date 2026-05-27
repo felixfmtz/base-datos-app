@@ -149,6 +149,12 @@
         },
         "Alejandro Martinez. 280.000*10. Mi": {
             "sigpago": "29\/05\/2026"
+        },
+        "Juan Alberto Venialgo. 3.000.000*6. Mi": {
+            "NoTCuota": 3000000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
