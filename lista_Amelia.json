@@ -29,6 +29,24 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "mudar jueves"
+        },
+        "Nelson Enciso. 210.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
+        },
+        "Marciano Cerdan. Liz carolina. 280.000*5": {
+            "NoTCuota": 300000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Pablo Alderete. 220.000*6. Mi": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
