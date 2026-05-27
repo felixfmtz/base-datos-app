@@ -183,6 +183,10 @@
         "limpiar": {
             "valor": 36000,
             "accion": "sumar"
+        },
+        "comicion": {
+            "valor": 170000,
+            "accion": "sumar"
         }
     }
 }
