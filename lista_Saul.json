@@ -179,6 +179,10 @@
         "pegamento ": {
             "valor": 4000,
             "accion": "sumar"
+        },
+        "limpiar": {
+            "valor": 36000,
+            "accion": "sumar"
         }
     }
 }
