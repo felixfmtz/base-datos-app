@@ -37,6 +37,24 @@
             "NoTInteres": 0,
             "TCuota": 60000,
             "TInteres": 0
+        },
+        "Sonia Amarilla. 180.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 30000
+        },
+        "Sonia Amarilla. 220.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 50000
+        },
+        "Elvio Fariña. 210.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {
