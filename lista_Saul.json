@@ -175,6 +175,10 @@
         "entregado ": {
             "valor": 2290000,
             "accion": "sumar"
+        },
+        "pegamento ": {
+            "valor": 4000,
+            "accion": "sumar"
         }
     }
 }
