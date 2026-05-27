@@ -55,6 +55,18 @@
             "NoTInteres": 0,
             "TCuota": 210000,
             "TInteres": 0
+        },
+        "Maria Magdalena. 560.000*10. Sa": {
+            "NoTCuota": 500000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Marcelo Centurion. 480.000": {
+            "NoTCuota": 480000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
