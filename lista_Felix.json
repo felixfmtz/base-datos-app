@@ -153,6 +153,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "numero"
+        },
+        "Evarista Aguilar. 110.000*6. Vi": {
+            "NoTCuota": 110000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
