@@ -88,7 +88,11 @@
             "TInteres": 0
         },
         "Eliane Mariela Colman. 525.000*8. Ju": {
-            "sigpago": "04\/06\/2026"
+            "sigpago": "04\/06\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 525000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
