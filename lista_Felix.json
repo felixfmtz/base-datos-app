@@ -107,6 +107,10 @@
         "poli": {
             "valor": 70000,
             "accion": "sumar"
+        },
+        "pili": {
+            "valor": 150000,
+            "accion": "sumar"
         }
     }
 }
