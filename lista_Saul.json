@@ -121,6 +121,12 @@
         },
         "Erica Fidelina Roa. 140.000*10. Lu. C1": {
             "sigpago": "30\/05\/2026"
+        },
+        "Ordonia Davalos. 25.000*24": {
+            "NoTCuota": 25000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
