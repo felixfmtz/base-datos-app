@@ -90,6 +90,10 @@
         "casa": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "lavadero ": {
+            "valor": 40000,
+            "accion": "sumar"
         }
     }
 }
