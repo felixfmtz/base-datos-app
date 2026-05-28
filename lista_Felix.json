@@ -243,6 +243,10 @@
         "sueldo jesica ": {
             "valor": 600000,
             "accion": "sumar"
+        },
+        "pan": {
+            "valor": 43000,
+            "accion": "sumar"
         }
     }
 }
