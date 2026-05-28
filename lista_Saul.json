@@ -4,6 +4,12 @@
     "Pagos": {
         "Carlos Garcete. 220.000*6. Ju": {
             "sigpago": "04\/06\/2026"
+        },
+        "Juan Ayala. Aire. 100.000*29. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
