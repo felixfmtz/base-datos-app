@@ -102,6 +102,10 @@
         "lavadero ": {
             "valor": 40000,
             "accion": "sumar"
+        },
+        "plomero": {
+            "valor": 400000,
+            "accion": "sumar"
         }
     }
 }
