@@ -221,6 +221,12 @@
         },
         "Hugo Caceres. Olier. C1. 480.000": {
             "sigpago": "30\/05\/2026"
+        },
+        "Gloria Martinez. 6.000.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 6000000,
+            "TInteres": 0
         }
     },
     "Gastos": {
