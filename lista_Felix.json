@@ -103,6 +103,10 @@
         "mun8": {
             "valor": 533000,
             "accion": "sumar"
+        },
+        "poli": {
+            "valor": 70000,
+            "accion": "sumar"
         }
     }
 }
