@@ -40,6 +40,12 @@
             "NoTInteres": 0,
             "TCuota": 90000,
             "TInteres": 0
+        },
+        "Maria Romina Sosa. 280.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 300000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
