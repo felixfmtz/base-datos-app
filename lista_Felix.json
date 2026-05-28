@@ -28,6 +28,12 @@
         },
         "Maria Flores. 180.000*2": {
             "sigpago": "07\/06\/2026"
+        },
+        "Eduardo David Fanego. 110.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
