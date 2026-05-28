@@ -181,6 +181,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Carlos Derlis Duarte. 240.000. C2": {
+            "NoTCuota": 240000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
