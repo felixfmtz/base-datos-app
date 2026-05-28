@@ -96,6 +96,12 @@
         },
         "Monica Gomez. 280.000*5": {
             "sigpago": "30\/05\/2026"
+        },
+        "Victor Mendoza. 420.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 420000,
+            "TInteres": 0
         }
     },
     "Gastos": {
