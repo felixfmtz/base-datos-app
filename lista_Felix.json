@@ -99,6 +99,10 @@
         "municipalidad ": {
             "valor": 930000,
             "accion": "sumar"
+        },
+        "mun8": {
+            "valor": 533000,
+            "accion": "sumar"
         }
     }
 }
