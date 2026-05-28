@@ -134,6 +134,10 @@
         "pili": {
             "valor": 150000,
             "accion": "sumar"
+        },
+        "sueldo jesica ": {
+            "valor": 600000,
+            "accion": "sumar"
         }
     }
 }
