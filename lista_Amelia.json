@@ -23,7 +23,7 @@
         "Pedro Florentin. 440.000*3": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 280000,
             "TInteres": 0,
             "Error": "5 por 280"
         }
