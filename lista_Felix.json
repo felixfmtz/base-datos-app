@@ -95,5 +95,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "municipalidad ": {
+            "valor": 930000,
+            "accion": "sumar"
+        }
+    }
 }
