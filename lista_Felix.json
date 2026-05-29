@@ -78,6 +78,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "pagado"
+        },
+        "Isabel Narvae. 700.000*4": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 700000,
+            "TInteres": 0
         }
     },
     "Gastos": {
