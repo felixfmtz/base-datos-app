@@ -157,6 +157,10 @@
         "ferreteria ": {
             "valor": 6740000,
             "accion": "sumar"
+        },
+        "tomate": {
+            "valor": 32000,
+            "accion": "sumar"
         }
     }
 }
