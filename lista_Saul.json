@@ -4,6 +4,12 @@
     "Pagos": {
         "Gedalia DelValle. Heladera. 200.000*42. Vi": {
             "sigpago": "01\/06\/2026"
+        },
+        "Tomasa Cantero. 280.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
