@@ -115,6 +115,12 @@
         },
         "Maria Flores. 180.000*2": {
             "sigpago": "03\/06\/2026"
+        },
+        "Alcides Rodas. 440.000*6. Ju": {
+            "NoTCuota": 430000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
