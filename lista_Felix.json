@@ -132,6 +132,10 @@
         "combustible ": {
             "valor": 300000,
             "accion": "sumar"
+        },
+        "ferreteria ": {
+            "valor": 6740000,
+            "accion": "sumar"
         }
     }
 }
