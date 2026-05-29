@@ -85,6 +85,15 @@
                     "Transferencia": "Si"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Antonio Gonzalez",
+                    "dia": "Sa"
+                }
+            ]
         }
     ],
     "Pagos": {
