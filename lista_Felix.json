@@ -167,7 +167,11 @@
             "TInteres": 0
         },
         "Claudelina Lopez. Tv. 100.000*24. Ma": {
-            "sigpago": "23\/06\/2026"
+            "sigpago": "23\/06\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
