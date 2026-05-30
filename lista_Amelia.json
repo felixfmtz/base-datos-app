@@ -90,5 +90,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "ajuste Osvaldo ": {
+            "valor": 60000,
+            "accion": "sumar"
+        }
+    }
 }
