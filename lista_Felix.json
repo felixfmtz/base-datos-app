@@ -214,6 +214,10 @@
         "giro rosalva": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "farmacia ": {
+            "valor": 60000,
+            "accion": "sumar"
         }
     }
 }
