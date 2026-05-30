@@ -164,6 +164,10 @@
         "ajuste Osvaldo ": {
             "valor": 60000,
             "accion": "sumar"
+        },
+        "comisario ": {
+            "valor": 1000000,
+            "accion": "sumar"
         }
     }
 }
