@@ -89,6 +89,12 @@
         },
         "Elizardo Coronel. 200.000*7. Sa": {
             "sigpago": "06\/06\/2026"
+        },
+        "Arbelino Gonzalez. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {
