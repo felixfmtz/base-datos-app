@@ -31,6 +31,12 @@
         },
         "Alcides Rodas. 440.000*6. Ju": {
             "sigpago": "04\/06\/2026"
+        },
+        "Roman Flores. 270.000*4. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 269000,
+            "TInteres": 0
         }
     },
     "Gastos": {
