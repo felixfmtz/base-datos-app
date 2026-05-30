@@ -40,6 +40,12 @@
         },
         "Maria Magdalena. 560.000*10. Sa": {
             "sigpago": "06\/06\/2026"
+        },
+        "Karen Gonzalez. 420.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 420000,
+            "TInteres": 0
         }
     },
     "Gastos": {
