@@ -36,6 +36,12 @@
         },
         "Arbelino Gonzalez. 220.000*6. Lu": {
             "sigpago": "08\/06\/2026"
+        },
+        "Sonia Larrea. 220.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 660000,
+            "TInteres": 0
         }
     },
     "Gastos": {
