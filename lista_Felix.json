@@ -149,6 +149,10 @@
         "cobtador": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "agua ": {
+            "valor": 192000,
+            "accion": "sumar"
         }
     }
 }
