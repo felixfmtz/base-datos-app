@@ -196,6 +196,12 @@
             "NoTInteres": 600000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Pedro Florentin. Gricelda. 140.000*10. Sa": {
+            "NoTCuota": 90000,
+            "NoTInteres": 0,
+            "TCuota": 50000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
