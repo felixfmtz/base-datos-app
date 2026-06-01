@@ -417,6 +417,10 @@
         "leonarda": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "dolar": {
+            "valor": 600000,
+            "accion": "sumar"
         }
     }
 }
