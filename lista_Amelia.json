@@ -279,6 +279,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Arnaldo Prieto. 110.000*6. Sa": {
+            "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
