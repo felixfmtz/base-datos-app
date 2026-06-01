@@ -240,6 +240,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Rosalia Morinigo. Sandra. 140.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "corregir"
         }
     },
     "Gastos": {
