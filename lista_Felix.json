@@ -95,6 +95,12 @@
         },
         "Alejandro Martinez. 280.000*10. Mi": {
             "sigpago": "05\/06\/2026"
+        },
+        "Mirna Gauto. 140.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {
