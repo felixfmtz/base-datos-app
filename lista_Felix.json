@@ -120,6 +120,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "sigpago": "Pagado"
+        },
+        "Vanesa Servian. Lavarropa. 100.000*28. Sa": {
+            "sigpago": "04\/06\/2026"
         }
     },
     "Gastos": {
