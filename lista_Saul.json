@@ -265,6 +265,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Sebastian Ayala. 1.680.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 280000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
