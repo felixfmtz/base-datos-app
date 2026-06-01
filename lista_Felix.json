@@ -51,6 +51,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Derlis Pintos 3",
+                    "Deuda": "121.000",
+                    "Garante": "c71",
+                    "NCuotas": "35",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "Si"
                 }
             ]
         }
