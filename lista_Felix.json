@@ -205,6 +205,12 @@
         },
         "Fatima Villagra. 1.200.000": {
             "sigpago": "05\/06\/2026"
+        },
+        "Derlis Pintos 3": {
+            "NoTCuota": 180000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
@@ -222,6 +228,10 @@
         },
         "agua ": {
             "valor": 192000,
+            "accion": "sumar"
+        },
+        "comicion": {
+            "valor": 80000,
             "accion": "sumar"
         }
     }
