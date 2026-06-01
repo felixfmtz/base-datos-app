@@ -273,6 +273,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "quitar de las list"
+        },
+        "Petrona Paredes. 140.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {
