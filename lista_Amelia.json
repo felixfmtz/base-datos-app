@@ -253,6 +253,13 @@
             "NoTInteres": 0,
             "TCuota": 700000,
             "TInteres": 0
+        },
+        "Florinda Blanco. Alejandro. 2.800.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "quitar de las list"
         }
     },
     "Gastos": {
