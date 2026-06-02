@@ -229,6 +229,12 @@
         },
         "Recordatorio. Contador": {
             "sigpago": "03\/06\/2026"
+        },
+        "Crispin Rolon. 140.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {
