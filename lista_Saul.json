@@ -133,6 +133,12 @@
         },
         "Claudelina Maldonado. 140.000*10. Lu": {
             "sigpago": "04\/06\/2026"
+        },
+        "Silvina Delvalle. 140.000*10. Lu": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
