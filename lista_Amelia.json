@@ -19,6 +19,12 @@
         },
         "Francieli Silvero. 420.000*10. Sa": {
             "sigpago": "06\/06\/2026"
+        },
+        "Juan Carlos Flores. 280.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
