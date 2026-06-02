@@ -274,6 +274,12 @@
         },
         "Nidia Teresita Duarte. 350.000*10. Ma": {
             "sigpago": "06\/06\/2026"
+        },
+        "Emilce Noelia Florentin. 30.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 60000,
+            "TInteres": 0
         }
     },
     "Gastos": {
