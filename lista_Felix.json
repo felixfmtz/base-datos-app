@@ -39,6 +39,12 @@
             "TInteres": 0,
             "Error": "numero",
             "sigpago": "07\/06\/2026"
+        },
+        "Monica Gomez. 280.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 80000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
