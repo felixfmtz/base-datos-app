@@ -25,6 +25,12 @@
             "NoTInteres": 0,
             "TCuota": 100000,
             "TInteres": 0
+        },
+        "Evarista Aguilar. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 230000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
