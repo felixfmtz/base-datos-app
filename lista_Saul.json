@@ -296,6 +296,10 @@
         "combustible": {
             "valor": 280000,
             "accion": "sumar"
+        },
+        "giro": {
+            "valor": 5000,
+            "accion": "sumar"
         }
     }
 }
