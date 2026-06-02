@@ -85,6 +85,13 @@
         },
         "Roman Flores. 270.000*4. Lu": {
             "sigpago": "08\/06\/2026"
+        },
+        "Recordatorio F. Internet Hinet. 0": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "sigpago": "Pagado"
         }
     },
     "Gastos": {}
