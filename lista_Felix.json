@@ -7,6 +7,12 @@
         },
         "Alejandro Martinez. 280.000*10. Mi": {
             "sigpago": "05\/06\/2026"
+        },
+        "Eduardo David Fanego. 110.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {
