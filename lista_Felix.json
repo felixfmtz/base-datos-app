@@ -9,5 +9,10 @@
             "sigpago": "05\/06\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "sueldo bruno": {
+            "valor": 650000,
+            "accion": "sumar"
+        }
+    }
 }
