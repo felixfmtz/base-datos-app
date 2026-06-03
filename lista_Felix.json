@@ -25,6 +25,12 @@
         },
         "Wilson Florentin. Pintor. 490.000*10. Sa": {
             "sigpago": "09\/06\/2026"
+        },
+        "Claudelina Lopez. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {
