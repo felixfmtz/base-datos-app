@@ -115,6 +115,12 @@
         },
         "Evarista Aguilar. 110.000*6. Lu": {
             "sigpago": "05\/06\/2026"
+        },
+        "Juan Ayala. Aire. 100.000*29. Lu": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
