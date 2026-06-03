@@ -154,6 +154,12 @@
         },
         "Ezequiel Gimenez. 220.000*6. Mi. C1": {
             "sigpago": "06\/06\/2026"
+        },
+        "Pablina Velazquez. 140.000*10. Lu": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
