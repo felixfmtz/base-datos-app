@@ -153,6 +153,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "sigpago": "Pagado"
+        },
+        "Juan Alberto Venialgo. 4.000.000*6. Mi": {
+            "sigpago": "06\/06\/2026"
         }
     },
     "Gastos": {
