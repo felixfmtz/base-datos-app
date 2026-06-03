@@ -46,6 +46,13 @@
             "TInteres": 0
         },
         "Ruth. Olier. Qui. C2. 300.000*2": {
+            "sigpago": "04\/06\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 50000,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Hugo Caceres. Olier. 105.000*4": {
             "sigpago": "04\/06\/2026"
         }
     },
