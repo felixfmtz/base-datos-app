@@ -156,6 +156,12 @@
         },
         "Juan Alberto Venialgo. 4.000.000*6. Mi": {
             "sigpago": "06\/06\/2026"
+        },
+        "Luciano Pintos. 140.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {
