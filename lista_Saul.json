@@ -34,6 +34,12 @@
         },
         "Yasmil Franciely Zelaya. 210.000*10. Sa": {
             "sigpago": "06\/06\/2026"
+        },
+        "Tomasa Cantero. Lavarropa. 100.000*28. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
