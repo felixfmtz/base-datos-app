@@ -64,5 +64,10 @@
             "sigpago": "06\/06\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "gomero ": {
+            "valor": 380000,
+            "accion": "sumar"
+        }
+    }
 }
