@@ -151,6 +151,12 @@
         },
         "Alejandro Lopez. Robert. 220.000*6. Sa": {
             "sigpago": "06\/06\/2026"
+        },
+        "Lourdes Arce. 100.000*30": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
