@@ -120,6 +120,10 @@
         "olla": {
             "valor": 1400000,
             "accion": "sumar"
+        },
+        "peluqueria": {
+            "valor": 30000,
+            "accion": "sumar"
         }
     }
 }
