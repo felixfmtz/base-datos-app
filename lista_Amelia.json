@@ -87,5 +87,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "mandioca ": {
+            "valor": 15000,
+            "accion": "sumar"
+        }
+    }
 }
