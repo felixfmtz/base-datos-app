@@ -68,6 +68,10 @@
         "gomero ": {
             "valor": 380000,
             "accion": "sumar"
+        },
+        "olla": {
+            "valor": 1400000,
+            "accion": "sumar"
         }
     }
 }
