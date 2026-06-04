@@ -193,6 +193,10 @@
         "mandioca ": {
             "valor": 15000,
             "accion": "sumar"
+        },
+        "pipoca": {
+            "valor": 30000,
+            "accion": "sumar"
         }
     }
 }
