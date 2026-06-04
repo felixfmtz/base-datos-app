@@ -62,6 +62,12 @@
         },
         "Lucila Delgado. 200.000*7. Sa": {
             "sigpago": "06\/06\/2026"
+        },
+        "Denis Francisco Colman. 440.000*3": {
+            "NoTCuota": 440000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
