@@ -172,6 +172,12 @@
             "NoTInteres": 0,
             "TCuota": 150000,
             "TInteres": 0
+        },
+        "Reinaldo Narvae. 2.700.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 2700000,
+            "TInteres": 0
         }
     },
     "Gastos": {
