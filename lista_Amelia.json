@@ -141,6 +141,10 @@
         "estacionamiento ": {
             "valor": 50000,
             "accion": "sumar"
+        },
+        "casa": {
+            "valor": 68000,
+            "accion": "sumar"
         }
     }
 }
