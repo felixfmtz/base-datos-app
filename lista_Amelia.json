@@ -7,6 +7,13 @@
             "NoTInteres": 0,
             "TCuota": 220000,
             "TInteres": 0
+        },
+        "Zulma Peralta. 140.000*10. Sa. C2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "quitar inforcom"
         }
     },
     "Gastos": {}
