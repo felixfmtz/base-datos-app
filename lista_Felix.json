@@ -190,6 +190,10 @@
         "cuentas": {
             "valor": 1662000,
             "accion": "sumar"
+        },
+        "obras": {
+            "valor": 6720000,
+            "accion": "sumar"
         }
     }
 }
