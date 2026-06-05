@@ -126,6 +126,10 @@
         "lavadero ": {
             "valor": 40000,
             "accion": "sumar"
+        },
+        "cuentas": {
+            "valor": 1662000,
+            "accion": "sumar"
         }
     }
 }
