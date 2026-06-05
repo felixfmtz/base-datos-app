@@ -51,6 +51,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Blanca marlene alarcon",
+                    "Deuda": "1.400.000",
+                    "Garante": "cel A51",
+                    "NCuotas": "14",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "Si"
                 }
             ]
         }
