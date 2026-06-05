@@ -115,6 +115,10 @@
         "farmacia ": {
             "valor": 38000,
             "accion": "sumar"
+        },
+        "lavadero ": {
+            "valor": 40000,
+            "accion": "sumar"
         }
     }
 }
