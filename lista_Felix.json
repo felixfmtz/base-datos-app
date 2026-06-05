@@ -72,12 +72,20 @@
             "sigpago": "10\/06\/2026"
         },
         "Eliane Mariela Colman. 525.000*8. Ju": {
-            "sigpago": "11\/06\/2026"
+            "sigpago": "11\/06\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {
         "sueldo derlis": {
             "valor": 450000,
+            "accion": "sumar"
+        },
+        "farmacia ": {
+            "valor": 38000,
             "accion": "sumar"
         }
     }
