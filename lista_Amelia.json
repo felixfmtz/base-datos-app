@@ -65,11 +65,21 @@
             "NoTInteres": 0,
             "TCuota": 15000,
             "TInteres": 0
+        },
+        "Justina Torres. Ana. 150.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {
         "combustible ": {
             "valor": 335000,
+            "accion": "sumar"
+        },
+        "celular": {
+            "valor": 1600000,
             "accion": "sumar"
         }
     }
