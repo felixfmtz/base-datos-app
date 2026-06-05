@@ -99,6 +99,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Felicia Zarza. 440.000. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 40000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
