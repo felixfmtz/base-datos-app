@@ -374,6 +374,10 @@
         "ajuste graciela": {
             "valor": 30000,
             "accion": "sumar"
+        },
+        "gordo": {
+            "valor": 400000,
+            "accion": "sumar"
         }
     }
 }
