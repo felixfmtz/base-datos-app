@@ -3,7 +3,16 @@
     "cuentas": [
         {
             "seccion": "Crear cuenta",
-            "items": []
+            "items": [
+                {
+                    "nombreOriginal": "Arcadio Benitez",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "Si"
+                }
+            ]
         }
     ],
     "Pagos": {
