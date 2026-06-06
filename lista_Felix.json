@@ -78,6 +78,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "pasar lunes"
+        },
+        "Ruben Dario Gonzalez. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
         }
     },
     "Gastos": {
