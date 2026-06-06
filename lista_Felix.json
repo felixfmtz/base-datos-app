@@ -403,6 +403,12 @@
         },
         "Cristobal Muños. 1.100.000": {
             "sigpago": "17\/06\/2026"
+        },
+        "Cristobal Muñoz. 250.000*6. Sa": {
+            "NoTCuota": 250000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
