@@ -27,6 +27,14 @@
                     "NCuotas": "",
                     "Frecuencia": "",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Sonia Larrea",
+                    "Deuda": "2.390.000",
+                    "Garante": "tv lg",
+                    "NCuotas": "36",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
