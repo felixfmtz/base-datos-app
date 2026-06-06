@@ -227,6 +227,10 @@
         "casa": {
             "valor": 437000,
             "accion": "sumar"
+        },
+        "ajuste Cristian angel ": {
+            "valor": 800000,
+            "accion": "sumar"
         }
     }
 }
