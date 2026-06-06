@@ -146,6 +146,10 @@
         "leche": {
             "valor": 107000,
             "accion": "sumar"
+        },
+        "comida gato ": {
+            "valor": 41000,
+            "accion": "sumar"
         }
     }
 }
