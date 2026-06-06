@@ -133,6 +133,10 @@
         "combustible": {
             "valor": 280000,
             "accion": "sumar"
+        },
+        "saul": {
+            "valor": 2260000,
+            "accion": "sumar"
         }
     }
 }
