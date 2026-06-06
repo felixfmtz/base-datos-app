@@ -16,6 +16,12 @@
         },
         "Zulma Peralta. 140.000*10. Sa. C2": {
             "sigpago": "09\/06\/2026"
+        },
+        "Jose Miguel Gamarra. 360.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 60000
         }
     },
     "Gastos": {
