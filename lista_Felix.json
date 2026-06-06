@@ -453,7 +453,11 @@
             "TInteres": 0
         },
         "Yasmil Franciely Zelaya. 210.000*10. Sa": {
-            "sigpago": "13\/06\/2026"
+            "sigpago": "13\/06\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {
