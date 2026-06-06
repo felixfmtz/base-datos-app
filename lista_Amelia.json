@@ -330,6 +330,10 @@
         "ajuste Cristian angel ": {
             "valor": 800000,
             "accion": "sumar"
+        },
+        "casa 2": {
+            "valor": 14000,
+            "accion": "sumar"
         }
     }
 }
