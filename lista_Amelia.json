@@ -290,6 +290,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Lucas Ariel Gonzalez. 700.000*10. Sa": {
+            "NoTCuota": 700000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
