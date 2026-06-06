@@ -151,6 +151,12 @@
             "NoTInteres": 50000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Hugo Careres. Olier. 300.000*2. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 50000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
