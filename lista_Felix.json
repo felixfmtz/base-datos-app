@@ -217,6 +217,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 20000
+        },
+        "Carolina Martinez": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 860000,
+            "TInteres": 0
         }
     },
     "Gastos": {
