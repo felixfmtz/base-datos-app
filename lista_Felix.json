@@ -213,6 +213,10 @@
         "comida gato ": {
             "valor": 41000,
             "accion": "sumar"
+        },
+        "carbon": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
