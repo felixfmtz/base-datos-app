@@ -99,6 +99,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Candelaria Armoa De Gonsalez",
+                    "Deuda": "1.000.000",
+                    "Garante": "hija",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
                 }
             ]
         }
