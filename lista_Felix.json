@@ -508,6 +508,10 @@
         "carbon": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "taller": {
+            "valor": 800000,
+            "accion": "sumar"
         }
     }
 }
