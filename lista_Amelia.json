@@ -338,6 +338,10 @@
         "casa 3": {
             "valor": 8000,
             "accion": "sumar"
+        },
+        "ajuste graciela": {
+            "valor": 30000,
+            "accion": "sumar"
         }
     }
 }
