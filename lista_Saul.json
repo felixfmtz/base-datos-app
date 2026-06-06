@@ -73,7 +73,18 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Rosalina del Valle. 400.000*30": {
+            "NoTCuota": 400000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "combustible": {
+            "valor": 280000,
+            "accion": "sumar"
+        }
+    }
 }
