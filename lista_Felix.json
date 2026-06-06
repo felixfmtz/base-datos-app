@@ -315,6 +315,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Anastacio Baez. Hija. 70.000*10. Sa": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
