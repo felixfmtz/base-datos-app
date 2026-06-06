@@ -35,6 +35,14 @@
                     "NCuotas": "36",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Noelia Gonzalez Cano",
+                    "Deuda": "1.622.000",
+                    "Garante": "cel redmi 15c",
+                    "NCuotas": "11",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
                 }
             ]
         }
