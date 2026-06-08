@@ -70,6 +70,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "controlar"
+        },
+        "Monica Gomez. 280.000*5": {
+            "sigpago": "13\/06\/2026"
         }
     },
     "Gastos": {}
