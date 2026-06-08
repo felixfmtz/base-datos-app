@@ -4,6 +4,9 @@
     "Pagos": {
         "Anastacio Baez. Hija. 70.000*10. Sa": {
             "sigpago": "13\/06\/2026"
+        },
+        "Anastacio Baez. 140.000*10. Sa": {
+            "sigpago": "13\/06\/2026"
         }
     },
     "Gastos": {}
