@@ -127,6 +127,12 @@
         },
         "Lucila Delgado. 200.000*7. Sa": {
             "sigpago": "11\/06\/2026"
+        },
+        "Gedalia DelValle. Heladera. 200.000*42. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
