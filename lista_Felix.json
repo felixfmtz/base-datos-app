@@ -31,7 +31,8 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0,
-            "Error": "informconf"
+            "Error": "informconf",
+            "sigpago": "09\/06\/2026"
         }
     },
     "Gastos": {}
