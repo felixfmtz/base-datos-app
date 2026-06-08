@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "08\/06\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Maria Rolon",
+                    "Deuda": "700.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Anastacio Baez. Hija. 70.000*10. Sa": {
             "sigpago": "13\/06\/2026"
