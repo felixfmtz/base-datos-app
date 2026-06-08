@@ -19,6 +19,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Sergio Peralta",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "Si"
                 }
             ]
         }
@@ -165,6 +173,12 @@
             "NoTCuota": 200000,
             "NoTInteres": 0,
             "TCuota": 0,
+            "TInteres": 0
+        },
+        "Maria Rolon. 840.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 840000,
             "TInteres": 0
         }
     },
