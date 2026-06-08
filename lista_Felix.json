@@ -33,6 +33,12 @@
             "TInteres": 0,
             "Error": "informconf",
             "sigpago": "09\/06\/2026"
+        },
+        "Emilse Mercado. 140.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
