@@ -4,6 +4,12 @@
     "Pagos": {
         "Maria Elsa Benitez. 140.000*10. Sa": {
             "sigpago": "09\/06\/2026"
+        },
+        "Epifania Ortiz. 30.000*44": {
+            "NoTCuota": 60000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
