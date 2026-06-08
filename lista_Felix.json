@@ -5,14 +5,6 @@
             "seccion": "Crear cuenta",
             "items": [
                 {
-                    "nombreOriginal": "Maria Rolon",
-                    "Deuda": "700.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "1",
-                    "Frecuencia": "Mensual",
-                    "Transferencia": "No"
-                },
-                {
                     "nombreOriginal": "Gedalia DelValle",
                     "Deuda": "4.500.000",
                     "Garante": "Sin Garante",
