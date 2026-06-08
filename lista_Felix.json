@@ -305,6 +305,10 @@
         "comida perro": {
             "valor": 428000,
             "accion": "sumar"
+        },
+        "garmacia": {
+            "valor": 46000,
+            "accion": "sumar"
         }
     }
 }
