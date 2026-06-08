@@ -246,5 +246,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "comida perro": {
+            "valor": 428000,
+            "accion": "sumar"
+        }
+    }
 }
