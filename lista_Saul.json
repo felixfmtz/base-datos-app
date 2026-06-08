@@ -375,7 +375,11 @@
             "TInteres": 0
         },
         "Maximina Paredes. 220.000*6. Lu": {
-            "sigpago": "13\/06\/2026"
+            "sigpago": "13\/06\/2026",
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
