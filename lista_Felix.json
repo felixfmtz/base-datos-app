@@ -25,6 +25,13 @@
         },
         "Liz Karina Bogado. 210.000*10. Ju": {
             "sigpago": "11\/06\/2026"
+        },
+        "Elizardo Coronel. 200.000*7. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "informconf"
         }
     },
     "Gastos": {}
