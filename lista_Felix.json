@@ -309,6 +309,10 @@
         "garmacia": {
             "valor": 46000,
             "accion": "sumar"
+        },
+        "agua": {
+            "valor": 141000,
+            "accion": "sumar"
         }
     }
 }
