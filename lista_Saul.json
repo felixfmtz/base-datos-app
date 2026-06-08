@@ -313,6 +313,12 @@
         },
         "Eusebio Galeano. 110.000*6. Mi": {
             "sigpago": "10\/06\/2026"
+        },
+        "Maria Antonia Caballero. Heladera. 100.000*29. Lu": {
+            "NoTCuota": 180000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
