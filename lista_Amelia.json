@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "08\/06\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Jose Miguel Caceres",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Antolin Rotela. 440.000*6. Lu": {
             "NoTCuota": 0,
