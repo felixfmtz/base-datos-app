@@ -55,6 +55,12 @@
         },
         "Camila Heinler. Luis. 220.000*3": {
             "sigpago": "12\/06\/2026"
+        },
+        "Bartola Cubilla. 220.000*6. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {
