@@ -25,6 +25,12 @@
         },
         "Maria Antonia Caballero. Heladera. 100.000*29. Lu": {
             "sigpago": "11\/06\/2026"
+        },
+        "Saul Cardenas. Amiga. 150.000*6. Sa": {
+            "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
