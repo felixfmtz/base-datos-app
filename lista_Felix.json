@@ -273,7 +273,8 @@
             "NoTCuota": 350000,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 0
+            "TInteres": 0,
+            "sigpago": "13\/06\/2026"
         },
         "Roman Flores. 270.000*4. Lu": {
             "NoTCuota": 0,
