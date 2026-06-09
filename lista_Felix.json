@@ -236,7 +236,11 @@
             "TInteres": 0
         },
         "Maria Magdalena. 560.000*10. Sa": {
-            "sigpago": "13\/06\/2026"
+            "sigpago": "13\/06\/2026",
+            "NoTCuota": 500000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
@@ -254,6 +258,10 @@
         },
         "sueldo jessica": {
             "valor": 1300000,
+            "accion": "sumar"
+        },
+        "combustible ": {
+            "valor": 30000,
             "accion": "sumar"
         }
     }
