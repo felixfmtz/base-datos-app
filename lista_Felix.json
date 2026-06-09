@@ -39,6 +39,12 @@
         },
         "Victor Gimenez. 260.000*5. Sa": {
             "sigpago": "13\/06\/2026"
+        },
+        "Wilner Castillo. 2.400.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 400000
         }
     },
     "Gastos": {
