@@ -43,6 +43,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Jueves",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Luana Sosa",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "Si"
                 }
             ]
         }
@@ -165,6 +173,12 @@
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 140000,
+            "TInteres": 0
+        },
+        "Marcos Acosta. 210.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
             "TInteres": 0
         }
     },
