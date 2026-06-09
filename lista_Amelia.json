@@ -34,6 +34,12 @@
         },
         "Matilde Rodriguez. Aire. 100.000*36. Sa": {
             "sigpago": "13\/06\/2026"
+        },
+        "Juan Carlos Diana. 200.000*7. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
