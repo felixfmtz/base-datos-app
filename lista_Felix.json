@@ -85,6 +85,15 @@
                     "Transferencia": "Si"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Derlis Rodrigo Gonzalez",
+                    "dia": "Mi"
+                }
+            ]
         }
     ],
     "Pagos": {
