@@ -273,6 +273,10 @@
         "combu": {
             "valor": 270000,
             "accion": "sumar"
+        },
+        "sueldo bruno": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
