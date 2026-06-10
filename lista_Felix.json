@@ -41,6 +41,12 @@
         },
         "Zulma Peralta. 140.000*10. Sa. C2": {
             "sigpago": "16\/06\/2026"
+        },
+        "Rosalba Ojeda. Aire. 150.000*34. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
