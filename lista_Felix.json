@@ -210,6 +210,12 @@
         },
         "Hugo Careres. Olier. 300.000*2. C1": {
             "sigpago": "12\/06\/2026"
+        },
+        "Graciela Peralta. 220.000*6. Ju. C1": {
+            "NoTCuota": 440000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
