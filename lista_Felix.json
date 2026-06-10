@@ -159,6 +159,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Denis de Oliveira. 990.000*8. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1000000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
