@@ -25,6 +25,12 @@
         },
         "Fredy Pintos. 140.000*10. Ma": {
             "sigpago": "13\/06\/2026"
+        },
+        "Leandra Bobadilla. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 90000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
