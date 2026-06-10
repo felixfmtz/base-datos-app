@@ -168,6 +168,12 @@
         },
         "Wilfrido Maldonado. 200.000*7. Mi": {
             "sigpago": "12\/06\/2026"
+        },
+        "Dorca Zarza. 476.000*10. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 226000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
