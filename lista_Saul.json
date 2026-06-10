@@ -52,6 +52,12 @@
         },
         "Liliana Lugo. 210.000*10. Sa": {
             "sigpago": "13\/06\/2026"
+        },
+        "Cessia Cocco. 420.000*10. Sa": {
+            "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
