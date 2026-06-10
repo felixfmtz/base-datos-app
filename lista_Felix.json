@@ -123,6 +123,12 @@
             "NoTInteres": 200000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Maricel Rojas. 660.000*3": {
+            "NoTCuota": 350000,
+            "NoTInteres": 0,
+            "TCuota": 1630000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
