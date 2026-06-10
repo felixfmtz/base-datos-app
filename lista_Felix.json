@@ -29,6 +29,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "numero"
+        },
+        "Wilson Florentin. Pintor. 490.000*10. Sa": {
+            "sigpago": "16\/06\/2026"
         }
     },
     "Gastos": {}
