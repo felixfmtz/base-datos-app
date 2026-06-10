@@ -7,6 +7,12 @@
         },
         "Nidia Teresita Duarte. 350.000*10. Ma": {
             "sigpago": "13\/06\/2026"
+        },
+        "Epifania Ortiz. 30.000*44": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
