@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "11\/06\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Rosalia Gonzalez",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Eduardo David Fanego. 110.000*6. Sa": {
             "sigpago": "13\/06\/2026"
