@@ -138,6 +138,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Jesica Figueredo. 330.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 230000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
