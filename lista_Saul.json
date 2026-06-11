@@ -106,6 +106,12 @@
         },
         "Noelia Gonzalez Cano. Celular. 300.000*13": {
             "sigpago": "13\/06\/2026"
+        },
+        "Thais Orquiola. 30.000*44": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
