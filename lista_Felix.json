@@ -265,5 +265,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "comoda": {
+            "valor": 10000,
+            "accion": "sumar"
+        }
+    }
 }
