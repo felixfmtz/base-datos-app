@@ -10,6 +10,12 @@
         },
         "Liz Karina Bogado. 210.000*10. Ju": {
             "sigpago": "13\/06\/2026"
+        },
+        "Epifania Ortiz. 30.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 90000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
