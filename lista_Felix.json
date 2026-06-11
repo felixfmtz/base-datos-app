@@ -4,6 +4,12 @@
     "Pagos": {
         "Eduardo David Fanego. 110.000*6. Sa": {
             "sigpago": "13\/06\/2026"
+        },
+        "Nelva Colman. 350.000*8. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
