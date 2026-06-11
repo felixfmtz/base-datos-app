@@ -26,6 +26,12 @@
             "NoTInteres": 0,
             "TCuota": 100000,
             "TInteres": 0
+        },
+        "Ronda. Freddy. 1.200.000": {
+            "NoTCuota": 660000,
+            "NoTInteres": 0,
+            "TCuota": 540000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
