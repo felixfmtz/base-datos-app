@@ -269,6 +269,10 @@
         "comoda": {
             "valor": 10000,
             "accion": "sumar"
+        },
+        "gasto": {
+            "valor": 700000,
+            "accion": "sumar"
         }
     }
 }
