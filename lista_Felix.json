@@ -150,6 +150,12 @@
         },
         "Alfredo Castillo. 1.800.000": {
             "sigpago": "17\/06\/2026"
+        },
+        "Digna Lopez. Monica. 300.000*2": {
+            "NoTCuota": 550000,
+            "NoTInteres": 0,
+            "TCuota": 50000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
