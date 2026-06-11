@@ -14,6 +14,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "30 por 40"
+        },
+        "Concepcion Oviedo. 110.000*6. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
