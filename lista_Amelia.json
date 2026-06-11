@@ -35,6 +35,14 @@
                     "NCuotas": "39",
                     "Frecuencia": "Diario",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Graciela Vargas",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "No"
                 }
             ]
         }
