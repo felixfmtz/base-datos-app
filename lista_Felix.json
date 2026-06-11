@@ -103,6 +103,12 @@
             "NoTInteres": 0,
             "TCuota": 80000,
             "TInteres": 0
+        },
+        "Sixto Villalba. 280.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 260000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
