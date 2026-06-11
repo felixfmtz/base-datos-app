@@ -16,6 +16,12 @@
         },
         "Norma Beatriz Blanco. 140.000*10. Lu": {
             "sigpago": "15\/06\/2026"
+        },
+        "Dorca Zarza. 1.100.000. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 100000
         }
     },
     "Gastos": {}
