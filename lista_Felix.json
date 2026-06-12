@@ -37,6 +37,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 50000
+        },
+        "Eliane Mariela Colman. 525.000*8. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
