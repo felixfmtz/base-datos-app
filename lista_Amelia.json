@@ -28,6 +28,12 @@
             "NoTInteres": 0,
             "TCuota": 350000,
             "TInteres": 0
+        },
+        "Ismael Segobia. 1.100.000. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 440000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
