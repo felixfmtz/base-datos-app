@@ -49,6 +49,12 @@
             "NoTInteres": 0,
             "TCuota": 1200000,
             "TInteres": 0
+        },
+        "Ignacio Insfran. 1.200.000. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1200000,
+            "TInteres": 0
         }
     },
     "Gastos": {
