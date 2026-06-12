@@ -11,6 +11,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Viernes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Isolina Lopez",
+                    "Deuda": "500.000",
+                    "Garante": "Juancho ",
+                    "NCuotas": "3",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
                 }
             ]
         }
