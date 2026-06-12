@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "12\/06\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Maria Belen Torres",
+                    "Deuda": "1.500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Norma Beatriz Rivarola. 140.000*10. Vi": {
             "NoTCuota": 0,
