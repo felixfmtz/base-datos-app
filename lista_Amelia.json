@@ -8,6 +8,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "lunes mudar"
+        },
+        "Irma Raquel Cantero. 350.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 350000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
