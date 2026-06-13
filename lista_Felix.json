@@ -76,6 +76,12 @@
         },
         "Rosmery Coronel. 300.000": {
             "sigpago": "20\/06\/2026"
+        },
+        "Leopoldo Pereira. 230.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 230000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
