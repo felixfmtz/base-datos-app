@@ -275,6 +275,10 @@
         "combustible": {
             "valor": 280000,
             "accion": "sumar"
+        },
+        "cargador ": {
+            "valor": 124000,
+            "accion": "sumar"
         }
     }
 }
