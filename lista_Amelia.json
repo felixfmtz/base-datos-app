@@ -150,6 +150,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Miguel Escobar. 440.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 13000,
+            "TInteres": 0
         }
     },
     "Gastos": {
