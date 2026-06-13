@@ -243,6 +243,10 @@
         "gas": {
             "valor": 120000,
             "accion": "sumar"
+        },
+        "giro carolina": {
+            "valor": 140000,
+            "accion": "sumar"
         }
     }
 }
