@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "13\/06\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Liz Arnaldo Prieto",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Victor Villagra. 140.000*10. Sa": {
             "NoTCuota": 0,
