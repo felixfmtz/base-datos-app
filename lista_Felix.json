@@ -28,6 +28,12 @@
         },
         "Wilson Florentin. Pintor. 490.000*10. Sa": {
             "sigpago": "16\/06\/2026"
+        },
+        "Yanina Plaz. 140.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
