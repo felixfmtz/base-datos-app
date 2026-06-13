@@ -317,6 +317,10 @@
         "mandioca": {
             "valor": 15000,
             "accion": "sumar"
+        },
+        "gasto": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
