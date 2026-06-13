@@ -176,6 +176,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Mirian Raquel Oviedo. 210.000*10. Sa": {
+            "NoTCuota": 10000,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
         }
     },
     "Gastos": {
