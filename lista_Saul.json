@@ -235,6 +235,10 @@
         "entregado ": {
             "valor": 3585000,
             "accion": "sumar"
+        },
+        "combustible": {
+            "valor": 280000,
+            "accion": "sumar"
         }
     }
 }
