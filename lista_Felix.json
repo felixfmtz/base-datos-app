@@ -58,6 +58,13 @@
         },
         "Fabiola Lopez. 700.000*10. Mi": {
             "sigpago": "20\/06\/2026"
+        },
+        "Richard Ronaldo Ayala. 560.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pasar a mi"
         }
     },
     "Gastos": {}
