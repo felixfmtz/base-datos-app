@@ -66,6 +66,13 @@
             "TInteres": 0,
             "Error": "pasar a mi",
             "sigpago": "16\/06\/2026"
+        },
+        "Marly Marisol Vazquez. 400.000*7. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pasar a mama"
         }
     },
     "Gastos": {}
