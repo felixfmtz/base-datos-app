@@ -279,6 +279,10 @@
         "cargador ": {
             "valor": 124000,
             "accion": "sumar"
+        },
+        "sueldo Saul": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
