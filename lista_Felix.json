@@ -335,6 +335,10 @@
         "tv tokyo 32": {
             "valor": 1020000,
             "accion": "sumar"
+        },
+        "comida": {
+            "valor": 255000,
+            "accion": "sumar"
         }
     }
 }
