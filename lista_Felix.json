@@ -24,6 +24,12 @@
         },
         "Yanina Plaz. 140.000*10. Sa": {
             "sigpago": "19\/06\/2026"
+        },
+        "Luis Arzamendia. 280.000*43": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 700000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
