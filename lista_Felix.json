@@ -315,6 +315,12 @@
         },
         "Juan Alberto Venialgo. 4.000.000*6. Sa": {
             "sigpago": "17\/06\/2026"
+        },
+        "Gloria Martinez. 3.600.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 600000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
