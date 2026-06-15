@@ -308,6 +308,10 @@
         "basura": {
             "valor": 80000,
             "accion": "sumar"
+        },
+        "tv tokyo 32": {
+            "valor": 1020000,
+            "accion": "sumar"
         }
     }
 }
