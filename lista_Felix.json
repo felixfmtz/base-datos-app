@@ -281,7 +281,11 @@
             "TInteres": 0
         },
         "Cristobal Muños. 1.100.000": {
-            "sigpago": "16\/06\/2026"
+            "sigpago": "16\/06\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 100000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
