@@ -286,6 +286,12 @@
             "NoTInteres": 100000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Cristobal Muñoz. 1.200.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 200000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
