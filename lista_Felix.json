@@ -15,6 +15,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "numero"
+        },
+        "Maria Magdalena. 560.000*10. Sa": {
+            "sigpago": "20\/06\/2026"
         }
     },
     "Gastos": {}
