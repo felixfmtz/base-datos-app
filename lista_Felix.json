@@ -164,6 +164,10 @@
         "puerta": {
             "valor": 430000,
             "accion": "sumar"
+        },
+        "basura": {
+            "valor": 80000,
+            "accion": "sumar"
         }
     }
 }
