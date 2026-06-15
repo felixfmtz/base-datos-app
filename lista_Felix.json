@@ -160,5 +160,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "puerta": {
+            "valor": 430000,
+            "accion": "sumar"
+        }
+    }
 }
