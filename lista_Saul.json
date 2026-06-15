@@ -383,6 +383,10 @@
         "entregado ": {
             "valor": 6650000,
             "accion": "sumar"
+        },
+        "comida": {
+            "valor": 96000,
+            "accion": "sumar"
         }
     }
 }
