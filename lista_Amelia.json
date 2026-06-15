@@ -25,6 +25,12 @@
             "NoTInteres": 0,
             "TCuota": 280000,
             "TInteres": 0
+        },
+        "Lido Maciel. Lavarropa. 150.000*38. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 20000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
