@@ -241,7 +241,8 @@
             "NoTCuota": 70000,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 0
+            "TInteres": 0,
+            "Error": "en 10 pagod"
         },
         "Erica Fidelina Roa. 140.000*10. Lu. C1": {
             "NoTCuota": 0,
