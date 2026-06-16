@@ -184,6 +184,12 @@
         },
         "Zulma Peralta. 140.000*10. Sa. C2": {
             "sigpago": "23\/06\/2026"
+        },
+        "Zunilda Mercado. 140.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
