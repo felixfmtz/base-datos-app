@@ -121,6 +121,12 @@
             "NoTInteres": 0,
             "TCuota": 110000,
             "TInteres": 0
+        },
+        "Nanci Milton. 30.000*44": {
+            "NoTCuota": 330000,
+            "NoTInteres": 0,
+            "TCuota": 60000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
