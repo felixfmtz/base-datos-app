@@ -234,6 +234,10 @@
         "pan": {
             "valor": 32000,
             "accion": "sumar"
+        },
+        "power": {
+            "valor": 144000,
+            "accion": "sumar"
         }
     }
 }
