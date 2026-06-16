@@ -88,6 +88,12 @@
         },
         "Evarista Aguilar. 110.000*6. Lu": {
             "sigpago": "19\/06\/2026"
+        },
+        "Ovidio Ortiz. 210.000*10. Lu. C1": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
