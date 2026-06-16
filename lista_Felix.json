@@ -27,6 +27,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Martes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Antonio Gonzalez",
+                    "Deuda": "2.490.000",
+                    "Garante": "tv Samsung ",
+                    "NCuotas": "28",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
