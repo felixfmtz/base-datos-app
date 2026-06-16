@@ -230,5 +230,10 @@
             "Error": "revisar"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "pan": {
+            "valor": 32000,
+            "accion": "sumar"
+        }
+    }
 }
