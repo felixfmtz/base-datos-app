@@ -45,6 +45,13 @@
         },
         "Liliana Olmedo. 70.000*10. Lu": {
             "sigpago": "20\/06\/2026"
+        },
+        "Leticia Alfonzo. 330.000*6. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pasar ju"
         }
     },
     "Gastos": {}
