@@ -51,6 +51,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Andres Santacruz",
+                    "Deuda": "1.500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "2",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "Si"
                 }
             ]
         }
