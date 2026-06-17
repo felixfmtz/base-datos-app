@@ -105,5 +105,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "gasto": {
+            "valor": 90000,
+            "accion": "sumar"
+        }
+    }
 }
