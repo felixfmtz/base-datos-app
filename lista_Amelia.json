@@ -229,6 +229,10 @@
         "coina": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "combustible ": {
+            "valor": 360000,
+            "accion": "sumar"
         }
     }
 }
