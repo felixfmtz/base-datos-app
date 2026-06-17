@@ -198,6 +198,10 @@
         "remdio": {
             "valor": 105000,
             "accion": "sumar"
+        },
+        "sueldo jesica ": {
+            "valor": 500000,
+            "accion": "sumar"
         }
     }
 }
