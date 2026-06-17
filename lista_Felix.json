@@ -43,6 +43,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Viernes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Marcelo Centurion",
+                    "Deuda": "600.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "Si"
                 }
             ]
         }
