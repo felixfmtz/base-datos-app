@@ -94,6 +94,10 @@
         "inform": {
             "valor": 405000,
             "accion": "sumar"
+        },
+        "remdio": {
+            "valor": 105000,
+            "accion": "sumar"
         }
     }
 }
