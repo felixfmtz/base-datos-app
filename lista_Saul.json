@@ -163,6 +163,12 @@
         },
         "Josue Benitez. 105.000*6. Ma": {
             "sigpago": "19\/06\/2026"
+        },
+        "Elva Mateus. 30.000*44. C1": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
