@@ -226,6 +226,10 @@
         "sueldo jesica ": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "gast": {
+            "valor": 490000,
+            "accion": "sumar"
         }
     }
 }
