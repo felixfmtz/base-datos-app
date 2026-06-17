@@ -73,6 +73,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "sábado"
+        },
+        "Gilberto Molinas. 100.000*39": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
