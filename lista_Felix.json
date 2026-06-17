@@ -171,6 +171,13 @@
         },
         "Victor Gimenez. 260.000*5. Sa": {
             "sigpago": "24\/06\/2026"
+        },
+        "Susana de Leite. Pablo. 140.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "en 6 pagos"
         }
     },
     "Gastos": {
