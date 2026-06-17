@@ -178,6 +178,12 @@
             "TCuota": 220000,
             "TInteres": 0,
             "Error": "en 6 pagos"
+        },
+        "Susana de Leite. Pablo. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {
