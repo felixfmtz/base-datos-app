@@ -127,6 +127,10 @@
         "gasto": {
             "valor": 90000,
             "accion": "sumar"
+        },
+        "coina": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
