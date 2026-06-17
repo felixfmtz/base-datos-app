@@ -158,7 +158,7 @@
         "Cesar Solis. Note 70. 100.000*18. Mi": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 100000,
             "TInteres": 0
         },
         "Josue Benitez. 105.000*6. Ma": {
