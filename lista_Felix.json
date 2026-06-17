@@ -7,6 +7,12 @@
         },
         "Mirta Larroza. 490.000*2": {
             "sigpago": "23\/06\/2026"
+        },
+        "Gloria Florentin. Evarista. 110.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 120000,
+            "TInteres": 0
         }
     },
     "Gastos": {
