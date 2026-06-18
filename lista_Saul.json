@@ -25,6 +25,12 @@
         },
         "Feliciana Arevalos. 220.000*6. Ju": {
             "sigpago": "20\/06\/2026"
+        },
+        "Dario Roman. 840.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 140000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
