@@ -49,6 +49,10 @@
         "comida": {
             "valor": 62000,
             "accion": "sumar"
+        },
+        "giro elsa": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
