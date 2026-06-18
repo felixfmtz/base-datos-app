@@ -7,6 +7,12 @@
         },
         "Florinda Blanco. Alejandro. 2.800.000*5": {
             "sigpago": "23\/06\/2026"
+        },
+        "Leticia Alfonzo. 330.000*6. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 330000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
