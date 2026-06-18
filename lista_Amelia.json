@@ -198,6 +198,12 @@
         },
         "Edmundo Mendoza. 280.000*10. Mi": {
             "sigpago": "24\/06\/2026"
+        },
+        "Derlis Rodrigo Gonzalez. 150.000*4. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
