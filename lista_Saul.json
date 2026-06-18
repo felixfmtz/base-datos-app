@@ -76,6 +76,12 @@
         },
         "Marcos Acosta. 210.000*10. Vi": {
             "sigpago": "20\/06\/2026"
+        },
+        "Gedalia DelValle. 180.000*30": {
+            "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
