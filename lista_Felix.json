@@ -167,6 +167,10 @@
         "giro elsa": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "tomate": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
