@@ -45,6 +45,12 @@
             "NoTInteres": 0,
             "TCuota": 200000,
             "TInteres": 0
+        },
+        "Francieli Silvero. 420.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1500000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
