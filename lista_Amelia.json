@@ -147,6 +147,10 @@
         "casa ": {
             "valor": 210000,
             "accion": "sumar"
+        },
+        "farmacia ": {
+            "valor": 193000,
+            "accion": "sumar"
         }
     }
 }
