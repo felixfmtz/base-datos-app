@@ -135,7 +135,11 @@
             "TInteres": 0
         },
         "Liliana Amanda Pereira. 560.000*5": {
-            "sigpago": "01\/07\/2026"
+            "sigpago": "01\/07\/2026",
+            "NoTCuota": 500000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
