@@ -37,6 +37,12 @@
         },
         "Carlos Garcete. 220.000*6. Ju": {
             "sigpago": "25\/06\/2026"
+        },
+        "Eliane Marisol Colman. 440.000*6. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 440000,
+            "TInteres": 0
         }
     },
     "Gastos": {
