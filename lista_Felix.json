@@ -198,6 +198,10 @@
         "comida": {
             "valor": 75000,
             "accion": "sumar"
+        },
+        "orea": {
+            "valor": 700000,
+            "accion": "sumar"
         }
     }
 }
