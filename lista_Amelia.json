@@ -307,6 +307,12 @@
             "NoTInteres": 0,
             "TCuota": 530000,
             "TInteres": 0
+        },
+        "Alberta Zaya. 660.000*3. C1": {
+            "NoTCuota": 560000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
