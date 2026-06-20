@@ -1,7 +1,11 @@
 {
     "fecha_ultimo_guardado": "20\/06\/2026",
     "cuentas": [],
-    "Pagos": {},
+    "Pagos": {
+        "Anastacio Baez. Hija. 70.000*10. Sa": {
+            "sigpago": "27\/06\/2026"
+        }
+    },
     "Gastos": {
         "comida": {
             "valor": 47000,
