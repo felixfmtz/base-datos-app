@@ -249,6 +249,13 @@
             "sigpago": "23\/06\/2026"
         },
         "Ruben Dario Gonzalez. 220.000*6. Sa": {
+            "sigpago": "27\/06\/2026",
+            "NoTCuota": 300000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Vanesa Servian. Aire. 100.000*30. Sa": {
             "sigpago": "27\/06\/2026"
         }
     },
