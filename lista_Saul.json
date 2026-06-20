@@ -4,6 +4,12 @@
     "Pagos": {
         "Claudio Nicolas Aguilar. 140.000*10. Sa": {
             "sigpago": "27\/06\/2026"
+        },
+        "Fermin Lopez. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 100000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
