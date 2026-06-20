@@ -131,7 +131,11 @@
             "sigpago": "27\/06\/2026"
         },
         "Anastacio Baez. 140.000*10. Sa": {
-            "sigpago": "27\/06\/2026"
+            "sigpago": "27\/06\/2026",
+            "NoTCuota": 20000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         },
         "Elizardo Coronel. 200.000*7. Sa": {
             "sigpago": "23\/06\/2026"
