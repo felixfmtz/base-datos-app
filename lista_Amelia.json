@@ -40,6 +40,12 @@
             "NoTInteres": 0,
             "TCuota": 330000,
             "TInteres": 0
+        },
+        "Maria Rodas. 440.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 40000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
