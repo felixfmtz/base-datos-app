@@ -25,6 +25,12 @@
         },
         "Zulma Peralta. 140.000*10. Sa. C2": {
             "sigpago": "23\/06\/2026"
+        },
+        "Carolina Martinez. 533.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 533000,
+            "TInteres": 0
         }
     },
     "Gastos": {
