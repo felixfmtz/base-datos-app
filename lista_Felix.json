@@ -266,6 +266,12 @@
         },
         "Victor Gimenez. 260.000*5. Sa": {
             "sigpago": "27\/06\/2026"
+        },
+        "Luciano Pintos. 140.000*10. Sa": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
