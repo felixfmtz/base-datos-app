@@ -49,6 +49,12 @@
         },
         "Luz Duarte. 2.400.000": {
             "sigpago": "23\/06\/2026"
+        },
+        "Juan Ricardo Martinez. 140.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 40000,
+            "TInteres": 0
         }
     },
     "Gastos": {
