@@ -275,6 +275,12 @@
         },
         "Maria Magdalena. 560.000*10. Sa": {
             "sigpago": "23\/06\/2026"
+        },
+        "Ordonia Davalos. 25.000*24. C1": {
+            "NoTCuota": 25000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
