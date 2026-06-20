@@ -368,6 +368,12 @@
             "NoTInteres": 0,
             "TCuota": 30000,
             "TInteres": 0
+        },
+        "Claudia Gomez. 140.000*10. Sa. C1": {
+            "NoTCuota": 10000,
+            "NoTInteres": 0,
+            "TCuota": 130000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
