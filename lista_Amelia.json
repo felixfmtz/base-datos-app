@@ -100,7 +100,7 @@
         "Maria del Rosario. 220.000*6. Sa": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 220000,
+            "TCuota": 0,
             "TInteres": 0
         },
         "Liz Arnaldo Prieto. 110.000*6. Sa": {
