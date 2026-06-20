@@ -163,6 +163,10 @@
         "comida": {
             "valor": 47000,
             "accion": "sumar"
+        },
+        "comida 2": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
