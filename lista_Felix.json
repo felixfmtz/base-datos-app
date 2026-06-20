@@ -35,6 +35,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Miguel Pascual Alfonzo",
+                    "Deuda": "3.500.000",
+                    "Garante": "emilce",
+                    "NCuotas": "5",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
                 }
             ]
         }
