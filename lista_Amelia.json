@@ -362,6 +362,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "pasa sábado"
+        },
+        "Marly Marisol Vazquez. 400.000*7. Sa": {
+            "NoTCuota": 90000,
+            "NoTInteres": 0,
+            "TCuota": 30000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
