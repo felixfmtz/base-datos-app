@@ -121,7 +121,11 @@
     ],
     "Pagos": {
         "Anastacio Baez. Hija. 70.000*10. Sa": {
-            "sigpago": "27\/06\/2026"
+            "sigpago": "27\/06\/2026",
+            "NoTCuota": 50000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         },
         "Anastacio Baez. 70.000*10. Sa": {
             "sigpago": "27\/06\/2026"
