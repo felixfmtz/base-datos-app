@@ -282,10 +282,10 @@
         },
         "Felicia Dominguez. 220.000*6. Sa": {
             "sigpago": "27\/06\/2026",
-            "NoTCuota": 220000,
+            "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 10000
+            "TInteres": 0
         },
         "Juan Alberto Venialgo. 4.000.000*6. Sa": {
             "NoTCuota": 4000000,
