@@ -25,6 +25,12 @@
         },
         "Maria Elsa Benitez. 110.000*6. Sa": {
             "sigpago": "23\/06\/2026"
+        },
+        "Benigno Benitez. 110.000*6. Sa": {
+            "NoTCuota": 110000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
