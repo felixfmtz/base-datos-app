@@ -220,6 +220,10 @@
         "farmac": {
             "valor": 58000,
             "accion": "sumar"
+        },
+        "farma10": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
