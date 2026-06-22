@@ -158,6 +158,12 @@
         },
         "Cristobal Muños. 1.100.000": {
             "sigpago": "24\/06\/2026"
+        },
+        "Leonardo Dure. 330.000*6. Lu": {
+            "NoTCuota": 300000,
+            "NoTInteres": 0,
+            "TCuota": 30000,
+            "TInteres": 0
         }
     },
     "Gastos": {
