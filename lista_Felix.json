@@ -13,6 +13,12 @@
         },
         "Edgar Fleitas. 140.000*10. Lu": {
             "sigpago": "29\/06\/2026"
+        },
+        "Mirna Cardenas. 2.600.000*6. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1000000,
+            "TInteres": 0
         }
     },
     "Gastos": {
