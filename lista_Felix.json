@@ -189,7 +189,17 @@
             "sigpago": "24\/06\/2026"
         },
         "Cristian Baez. 220.000*3": {
-            "sigpago": "28\/06\/2026"
+            "sigpago": "28\/06\/2026",
+            "NoTCuota": 215000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Susana de Leite. Pablo. 300.000*7. Lu": {
+            "NoTCuota": 300000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
