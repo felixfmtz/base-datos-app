@@ -142,6 +142,13 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "numero"
+        },
+        "Maria Gricelda Fretes": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "numero"
         }
     },
     "Gastos": {
