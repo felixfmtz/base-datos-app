@@ -276,5 +276,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "raul": {
+            "valor": 22000,
+            "accion": "sumar"
+        }
+    }
 }
