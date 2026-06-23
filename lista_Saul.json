@@ -166,6 +166,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Cesar Solis. Equipo. 100.000*12. Ma": {
+            "NoTCuota": 60000,
+            "NoTInteres": 0,
+            "TCuota": 40000,
+            "TInteres": 0
         }
     },
     "Gastos": {
