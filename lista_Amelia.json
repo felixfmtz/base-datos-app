@@ -243,6 +243,12 @@
             "NoTInteres": 0,
             "TCuota": 40000,
             "TInteres": 0
+        },
+        "Luana Sosa. 280.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 60000,
+            "TInteres": 0
         }
     },
     "Gastos": {
