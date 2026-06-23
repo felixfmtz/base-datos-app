@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "23\/06\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Librada Peralta",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Monica Gomez. 280.000*5": {
             "sigpago": "25\/06\/2026"
