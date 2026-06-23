@@ -170,6 +170,10 @@
         "sueldo jesica ": {
             "valor": 1500000,
             "accion": "sumar"
+        },
+        "comisión ": {
+            "valor": 80000,
+            "accion": "sumar"
         }
     }
 }
