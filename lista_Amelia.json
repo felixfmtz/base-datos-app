@@ -261,6 +261,12 @@
             "NoTInteres": 0,
             "TCuota": 100000,
             "TInteres": 0
+        },
+        "Carolina Villarreal. 330.000*6. Ma": {
+            "NoTCuota": 330000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
