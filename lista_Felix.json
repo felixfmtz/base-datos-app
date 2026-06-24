@@ -113,6 +113,10 @@
         "extintor": {
             "valor": 240000,
             "accion": "sumar"
+        },
+        "farmacia ": {
+            "valor": 305000,
+            "accion": "sumar"
         }
     }
 }
