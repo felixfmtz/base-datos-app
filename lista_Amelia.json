@@ -34,6 +34,12 @@
         },
         "Dario Rene Pintos. Ismael. 110.000*6. Sa": {
             "sigpago": "27\/06\/2026"
+        },
+        "Jose Miguel Caceres. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
