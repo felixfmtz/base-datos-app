@@ -100,5 +100,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "extintor": {
+            "valor": 240000,
+            "accion": "sumar"
+        }
+    }
 }
