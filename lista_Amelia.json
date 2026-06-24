@@ -236,6 +236,10 @@
         "derlis": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "casa 3": {
+            "valor": 135000,
+            "accion": "sumar"
         }
     }
 }
