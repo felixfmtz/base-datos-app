@@ -66,5 +66,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "casa": {
+            "valor": 68000,
+            "accion": "sumar"
+        }
+    }
 }
