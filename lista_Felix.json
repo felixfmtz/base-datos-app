@@ -22,6 +22,21 @@
         },
         "Zulma Peralta. 140.000*10. Sa. C2": {
             "sigpago": "30\/06\/2026"
+        },
+        "Elena Flores. Cristian. 200.000*7. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pasar a mi",
+            "sigpago": "30\/06\/2026"
+        },
+        "Hugo Cabral. 110.000*6. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "en 10 pagos"
         }
     },
     "Gastos": {}
