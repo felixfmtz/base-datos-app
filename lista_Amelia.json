@@ -82,6 +82,10 @@
         "casa": {
             "valor": 68000,
             "accion": "sumar"
+        },
+        "casa 2": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
