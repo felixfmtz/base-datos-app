@@ -117,6 +117,10 @@
         "farmacia ": {
             "valor": 305000,
             "accion": "sumar"
+        },
+        "secarropa": {
+            "valor": 1140000,
+            "accion": "sumar"
         }
     }
 }
