@@ -13,6 +13,19 @@
                     "dia": "Ju"
                 }
             ]
+        },
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Saul Cobrador",
+                    "Deuda": "1.180.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "Si"
+                }
+            ]
         }
     ],
     "Pagos": {
