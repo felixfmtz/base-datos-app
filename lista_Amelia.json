@@ -303,6 +303,10 @@
         "casa 3": {
             "valor": 135000,
             "accion": "sumar"
+        },
+        "cel": {
+            "valor": 380000,
+            "accion": "sumar"
         }
     }
 }
