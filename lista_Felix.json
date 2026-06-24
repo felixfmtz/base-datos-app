@@ -29,6 +29,15 @@
                     "Transferencia": "No"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Adriana Hobeker",
+                    "dia": "Ju"
+                }
+            ]
         }
     ],
     "Pagos": {
