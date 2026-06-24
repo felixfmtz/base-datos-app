@@ -19,6 +19,14 @@
                     "NCuotas": "7",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Arnaldo Prieto",
+                    "Deuda": "1.140.000",
+                    "Garante": "aurora. lavarropa",
+                    "NCuotas": "18",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
