@@ -112,6 +112,10 @@
         "entregado ": {
             "valor": 1885000,
             "accion": "sumar"
+        },
+        "pila": {
+            "valor": 35000,
+            "accion": "sumar"
         }
     }
 }
