@@ -46,6 +46,12 @@
         },
         "Arbelino Gonzalez. 210.000*10. Sa": {
             "sigpago": "27\/06\/2026"
+        },
+        "Claudelina Lopez. Tv. 100.000*24. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
