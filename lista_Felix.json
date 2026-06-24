@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "24\/06\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Adriana Hobeker",
+                    "Deuda": "910.000",
+                    "Garante": "planchita",
+                    "NCuotas": "19",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Fabiola Cañete. Cheque. 1.100.000": {
             "sigpago": "27\/06\/2026"
