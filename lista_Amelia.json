@@ -92,6 +92,10 @@
         "casa 2": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "derlis": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
