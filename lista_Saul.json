@@ -178,6 +178,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Aldo Alcaraz. 280.000*10. Mi": {
+            "NoTCuota": 250000,
+            "NoTInteres": 0,
+            "TCuota": 30000,
+            "TInteres": 0
         }
     },
     "Gastos": {
