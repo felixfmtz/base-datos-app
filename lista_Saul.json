@@ -7,6 +7,12 @@
         },
         "Felicia Britez. 280.000*10. Sa": {
             "sigpago": "27\/06\/2026"
+        },
+        "Epifania Ortiz. 30.000*44": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
