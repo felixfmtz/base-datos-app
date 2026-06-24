@@ -182,6 +182,10 @@
         "secarropa": {
             "valor": 1140000,
             "accion": "sumar"
+        },
+        "comida": {
+            "valor": 55000,
+            "accion": "sumar"
         }
     }
 }
