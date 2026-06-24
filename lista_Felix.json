@@ -37,6 +37,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "en 10 pagos"
+        },
+        "Noelia Gonzalez Cano. 210.000*10. Lu": {
+            "sigpago": "27\/06\/2026"
         }
     },
     "Gastos": {}
