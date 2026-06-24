@@ -94,6 +94,12 @@
         },
         "Demesia Nuñez. 140.000*10. Sa": {
             "sigpago": "27\/06\/2026"
+        },
+        "Arcadio Benitez. 220.000*6. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
