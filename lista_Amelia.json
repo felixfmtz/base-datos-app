@@ -49,6 +49,12 @@
             "NoTInteres": 0,
             "TCuota": 115000,
             "TInteres": 0
+        },
+        "Ronda. Cristian. 1.200.000": {
+            "NoTCuota": 890000,
+            "NoTInteres": 0,
+            "TCuota": 310000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
