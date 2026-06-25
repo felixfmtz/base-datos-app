@@ -200,6 +200,10 @@
         "sueldo saul": {
             "valor": 10000,
             "accion": "sumar"
+        },
+        "sueldo saul 2": {
+            "valor": 90000,
+            "accion": "sumar"
         }
     }
 }
