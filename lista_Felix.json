@@ -48,6 +48,13 @@
         },
         "Liliana Lugo. 210.000*10. Sa": {
             "sigpago": "27\/06\/2026"
+        },
+        "Liliana Lugo. 110.000*6. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "liliana olmedo"
         }
     },
     "Gastos": {}
