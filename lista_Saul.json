@@ -28,6 +28,12 @@
         },
         "Liz Karina Benitez. 880.000*3": {
             "sigpago": "30\/06\/2026"
+        },
+        "Nanci Milton. 30.000*44. C1": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
