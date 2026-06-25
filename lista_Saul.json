@@ -136,6 +136,12 @@
             "NoTInteres": 0,
             "TCuota": 80000,
             "TInteres": 0
+        },
+        "Silvio Solis. 175.000*8. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 175000,
+            "TInteres": 0
         }
     },
     "Gastos": {
