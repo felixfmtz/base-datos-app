@@ -61,6 +61,12 @@
         },
         "Marcia Torres. 220.000*6. Ju": {
             "sigpago": "27\/06\/2026"
+        },
+        "Wilner Peralta. 210.000*10. Ju": {
+            "NoTCuota": 210000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
