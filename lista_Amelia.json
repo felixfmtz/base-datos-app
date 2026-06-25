@@ -211,7 +211,13 @@
         "Jose Ovidio Cardozo. 30.000*44": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 30000,
+            "TCuota": 60000,
+            "TInteres": 0
+        },
+        "Celsa Garcete. 70.000*10. Lu": {
+            "NoTCuota": 210000,
+            "NoTInteres": 0,
+            "TCuota": 0,
             "TInteres": 0
         }
     },
