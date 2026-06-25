@@ -220,6 +220,10 @@
         "productos ": {
             "valor": 80000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 4980000,
+            "accion": "sumar"
         }
     }
 }
