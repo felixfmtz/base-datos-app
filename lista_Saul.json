@@ -145,6 +145,12 @@
         },
         "Claudelina Maldonado. 140.000*10. Lu": {
             "sigpago": "27\/06\/2026"
+        },
+        "Elva Mateus. 30.000*44. C1": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
