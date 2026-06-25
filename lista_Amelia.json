@@ -27,6 +27,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Jueves",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Ignacio Fleitas",
+                    "Deuda": "1.000.000",
+                    "Garante": "Raquel ",
+                    "NCuotas": "6",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
