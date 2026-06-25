@@ -273,6 +273,10 @@
         "real": {
             "valor": 54000,
             "accion": "sumar"
+        },
+        "casa": {
+            "valor": 35000,
+            "accion": "sumar"
         }
     }
 }
