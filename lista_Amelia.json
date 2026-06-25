@@ -57,5 +57,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "real": {
+            "valor": 54000,
+            "accion": "sumar"
+        }
+    }
 }
