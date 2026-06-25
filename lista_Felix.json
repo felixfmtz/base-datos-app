@@ -51,6 +51,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Jueves",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Adriana Hobeker",
+                    "Deuda": "1.010.000",
+                    "Garante": "cel c71",
+                    "NCuotas": "22",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "Si"
                 }
             ]
         }
