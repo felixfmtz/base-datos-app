@@ -55,6 +55,12 @@
             "NoTInteres": 0,
             "TCuota": 310000,
             "TInteres": 0
+        },
+        "Lido Maciel. 280.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {
