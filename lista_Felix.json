@@ -224,6 +224,10 @@
         "obra": {
             "valor": 4980000,
             "accion": "sumar"
+        },
+        "comida gato": {
+            "valor": 40000,
+            "accion": "sumar"
         }
     }
 }
