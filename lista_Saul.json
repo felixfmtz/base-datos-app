@@ -154,6 +154,12 @@
         },
         "Graciela Peralta. 220.000*6. Ju": {
             "sigpago": "27\/06\/2026"
+        },
+        "Ramon Irala. 700.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 200000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
