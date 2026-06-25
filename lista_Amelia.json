@@ -291,6 +291,10 @@
         "casa": {
             "valor": 35000,
             "accion": "sumar"
+        },
+        "elva": {
+            "valor": 200000,
+            "accion": "sumar"
         }
     }
 }
