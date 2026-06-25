@@ -43,6 +43,12 @@
         },
         "Silvia Elizabeth Lopez. 460.000*3": {
             "sigpago": "30\/06\/2026"
+        },
+        "Leandra Bobadilla. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 115000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
