@@ -33,6 +33,12 @@
         },
         "Leopoldo Pereira. 230.000*10. Ma": {
             "sigpago": "30\/06\/2026"
+        },
+        "Flaminio Gonzalez. 630.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 50000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
