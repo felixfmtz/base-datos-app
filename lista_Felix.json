@@ -44,6 +44,12 @@
         },
         "Sixto Villalba. 220.000*3": {
             "sigpago": "29\/06\/2026"
+        },
+        "Felicia Dominguez. 110.000*6. Ju": {
+            "NoTCuota": 110000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
