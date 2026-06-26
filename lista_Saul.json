@@ -222,6 +222,10 @@
         "entregado ": {
             "valor": 2555000,
             "accion": "sumar"
+        },
+        "azucar": {
+            "valor": 25000,
+            "accion": "sumar"
         }
     }
 }
