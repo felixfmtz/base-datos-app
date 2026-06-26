@@ -26,11 +26,18 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Wilfrido Maldonado. 200.000*7. Mi": {
+            "sigpago": "01\/07\/2026"
         }
     },
     "Gastos": {
         "comida": {
             "valor": 61000,
+            "accion": "sumar"
+        },
+        "sueldo derlis ": {
+            "valor": 450000,
             "accion": "sumar"
         }
     }
