@@ -143,6 +143,10 @@
         "casa ": {
             "valor": 110000,
             "accion": "sumar"
+        },
+        "comisario ": {
+            "valor": 1000000,
+            "accion": "sumar"
         }
     }
 }
