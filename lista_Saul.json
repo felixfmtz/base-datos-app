@@ -124,6 +124,10 @@
         "combustible": {
             "valor": 250000,
             "accion": "sumar"
+        },
+        "combu": {
+            "valor": 30000,
+            "accion": "sumar"
         }
     }
 }
