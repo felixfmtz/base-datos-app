@@ -164,6 +164,10 @@
         "sueldo bruno": {
             "valor": 1200000,
             "accion": "sumar"
+        },
+        "camida conejo": {
+            "valor": 85000,
+            "accion": "sumar"
         }
     }
 }
