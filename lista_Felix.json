@@ -160,6 +160,10 @@
         "obra": {
             "valor": 2965000,
             "accion": "sumar"
+        },
+        "sueldo bruno": {
+            "valor": 1200000,
+            "accion": "sumar"
         }
     }
 }
