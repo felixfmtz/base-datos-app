@@ -7,6 +7,12 @@
         },
         "Candido Cabral. 220.000*6. Mi": {
             "sigpago": "30\/06\/2026"
+        },
+        "Nelson Enciso. 210.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
