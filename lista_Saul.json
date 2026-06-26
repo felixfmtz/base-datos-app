@@ -128,6 +128,10 @@
         "combu": {
             "valor": 30000,
             "accion": "sumar"
+        },
+        "entregado ": {
+            "valor": 2555000,
+            "accion": "sumar"
         }
     }
 }
