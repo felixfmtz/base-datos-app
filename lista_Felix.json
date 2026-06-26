@@ -60,6 +60,10 @@
         "sueldo derlis ": {
             "valor": 450000,
             "accion": "sumar"
+        },
+        "carne": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
