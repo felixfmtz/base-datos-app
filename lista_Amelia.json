@@ -217,6 +217,13 @@
         },
         "Eugenio Oviedo. 840.000*5": {
             "sigpago": "30\/06\/2026"
+        },
+        "Gertrudis Riberos. Alcides. 840.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pagado"
         }
     },
     "Gastos": {
