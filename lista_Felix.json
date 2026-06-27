@@ -148,6 +148,12 @@
         },
         "Eliane Mariela Colman. 525.000*8. Ju": {
             "sigpago": "02\/07\/2026"
+        },
+        "Pedro Silva. 600.000. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 100000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
