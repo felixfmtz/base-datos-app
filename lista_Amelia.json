@@ -381,6 +381,10 @@
         "comisión de Derlis ": {
             "valor": 150000,
             "accion": "sumar"
+        },
+        "remdio": {
+            "valor": 14000,
+            "accion": "sumar"
         }
     }
 }
