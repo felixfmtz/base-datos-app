@@ -201,6 +201,12 @@
         },
         "Derlis Pintos. C71. 75.000*35. Vi": {
             "sigpago": "30\/06\/2026"
+        },
+        "Alejandro Martinez. 110.000*6. Sa": {
+            "NoTCuota": 110000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
