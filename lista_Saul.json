@@ -27,7 +27,11 @@
             "TInteres": 0
         },
         "Maria Elsa Benitez. 110.000*6. Sa": {
-            "sigpago": "30\/06\/2026"
+            "sigpago": "30\/06\/2026",
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         },
         "Ignacio Melgarejo. 20.000*33. C1": {
             "NoTCuota": 20000,
