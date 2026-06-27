@@ -26,6 +26,12 @@
         },
         "Liz Karina Bogado. 140.000*10. Ju": {
             "sigpago": "02\/07\/2026"
+        },
+        "Michaela Subeldia. 300.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 300000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
