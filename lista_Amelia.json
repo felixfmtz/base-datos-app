@@ -194,6 +194,13 @@
         },
         "Derlis Delgadillo. 210.000*10. Sa": {
             "sigpago": "02\/07\/2026"
+        },
+        "Hugo Ariel Arrua. 350.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "numero"
         }
     },
     "Gastos": {
