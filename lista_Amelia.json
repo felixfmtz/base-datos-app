@@ -320,7 +320,11 @@
             "TInteres": 0
         },
         "Juliana Roman. 420.000*10. Mi": {
-            "sigpago": "01\/07\/2026"
+            "sigpago": "01\/07\/2026",
+            "NoTCuota": 400000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
