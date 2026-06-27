@@ -197,6 +197,10 @@
         "casa": {
             "valor": 35000,
             "accion": "sumar"
+        },
+        "comisión de Derlis ": {
+            "valor": 150000,
+            "accion": "sumar"
         }
     }
 }
