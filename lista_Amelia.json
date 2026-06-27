@@ -159,7 +159,7 @@
         "Ismael Segobia. 1.100.000. Sa": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 1100000000,
+            "TCuota": 0,
             "TInteres": 0
         }
     },
