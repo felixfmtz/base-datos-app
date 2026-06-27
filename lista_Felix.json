@@ -229,7 +229,7 @@
         "Miguel Escobar. 220.000*3": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 300000,
             "TInteres": 0,
             "Error": "en 2 pagos"
         }
