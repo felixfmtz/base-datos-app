@@ -125,6 +125,12 @@
         },
         "Monica Gomez. 280.000*5": {
             "sigpago": "07\/07\/2026"
+        },
+        "Gedalia DelValle. 180.000*30": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 3110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
