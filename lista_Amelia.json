@@ -214,6 +214,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "en 3 pagos"
+        },
+        "Eugenio Oviedo. 840.000*5": {
+            "sigpago": "30\/06\/2026"
         }
     },
     "Gastos": {
