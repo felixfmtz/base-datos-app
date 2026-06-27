@@ -19,6 +19,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Mirta alarcon",
+                    "Deuda": "500.000",
+                    "Garante": "leonarda",
+                    "NCuotas": "",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "Si"
                 }
             ]
         }
