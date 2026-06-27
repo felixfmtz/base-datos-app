@@ -244,6 +244,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "pagado"
+        },
+        "Alfredo Franco. 1.000.000*15. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 300000,
+            "TInteres": 0
         }
     },
     "Gastos": {
