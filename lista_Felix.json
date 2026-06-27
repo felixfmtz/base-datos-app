@@ -234,5 +234,10 @@
             "Error": "en 2 pagos"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "sueldo saul": {
+            "valor": 1700000,
+            "accion": "sumar"
+        }
+    }
 }
