@@ -109,6 +109,12 @@
             "NoTInteres": 0,
             "TCuota": 480000,
             "TInteres": 0
+        },
+        "Antonio Gonzalez. Licuadora. 100.000*5. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
