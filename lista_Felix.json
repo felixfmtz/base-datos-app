@@ -54,7 +54,17 @@
             "sigpago": "04\/07\/2026"
         },
         "Cessia Cocco. 420.000*10. Sa": {
-            "sigpago": "02\/07\/2026"
+            "sigpago": "02\/07\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 300000,
+            "TInteres": 0
+        },
+        "Arcadio Benitez. 220.000*6. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
