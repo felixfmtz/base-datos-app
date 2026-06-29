@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "29\/06\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Arcadio Benitez",
+                    "Deuda": "1.010.000",
+                    "Garante": "cel A17",
+                    "NCuotas": "22",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Fabiola Cañete. 1.100.000. C1": {
             "sigpago": "04\/07\/2026"
