@@ -43,6 +43,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Lunes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Lourdes Arce",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "30",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "Si"
                 }
             ]
         }
