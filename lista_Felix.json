@@ -34,6 +34,12 @@
         },
         "Fabiola Lopez. 200.000*37. Aspiradora. Mi": {
             "sigpago": "04\/07\/2026"
+        },
+        "Jose Carlos Pintos. 110.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
