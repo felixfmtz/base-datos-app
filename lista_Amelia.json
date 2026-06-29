@@ -298,6 +298,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Concepcion Oviedo. Aire. 100.000*36. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "lunes"
         }
     },
     "Gastos": {
