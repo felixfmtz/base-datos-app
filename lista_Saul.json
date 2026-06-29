@@ -148,6 +148,12 @@
         },
         "Claudelina Maldonado. 140.000*10. Lu": {
             "sigpago": "01\/07\/2026"
+        },
+        "Gedalia DelValle. 180.000*30. C1": {
+            "NoTCuota": 180000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
