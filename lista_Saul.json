@@ -37,6 +37,12 @@
         },
         "Fernando Colman. Emilce. 110.000*6. Ju": {
             "sigpago": "04\/07\/2026"
+        },
+        "Feliciana Arevalos. Tv. 100.000*28. Lu": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
