@@ -137,6 +137,12 @@
             "NoTInteres": 0,
             "TCuota": 150000,
             "TInteres": 0
+        },
+        "Maximina Paredes. 330.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 660000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
