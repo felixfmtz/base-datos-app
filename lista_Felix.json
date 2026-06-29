@@ -77,6 +77,12 @@
             "NoTInteres": 0,
             "TCuota": 400000,
             "TInteres": 0
+        },
+        "Juan Delgado. 2.120.000. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 2120000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
