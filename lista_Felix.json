@@ -227,6 +227,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "semanal"
+        },
+        "Dorca Zarza. 476.000*10. Mi": {
+            "NoTCuota": 476000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 10000
         }
     },
     "Gastos": {}
