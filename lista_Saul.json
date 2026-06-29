@@ -4,6 +4,12 @@
     "Pagos": {
         "Damian Gimenez. 220.000*6. Lu": {
             "sigpago": "24\/07\/2026"
+        },
+        "Vicente Torres. 210.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
