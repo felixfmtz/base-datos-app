@@ -127,6 +127,12 @@
         },
         "Josue Benitez. 105.000*6. Ma": {
             "sigpago": "03\/07\/2026"
+        },
+        "Evarista Aguilar. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {
