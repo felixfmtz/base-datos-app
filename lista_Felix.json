@@ -27,6 +27,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Daniel Saucedo Zaya",
+                    "Deuda": "2.990.000",
+                    "Garante": "lavarropa 15 kg",
+                    "NCuotas": "18",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
                 }
             ]
         }
