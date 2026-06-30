@@ -337,6 +337,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Carlos Alberto Benitez. 200.000*7. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 600000,
+            "TInteres": 0
         }
     },
     "Gastos": {
