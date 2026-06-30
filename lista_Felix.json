@@ -61,6 +61,10 @@
         "ferreteria ": {
             "valor": 50000,
             "accion": "sumar"
+        },
+        "power": {
+            "valor": 192000,
+            "accion": "sumar"
         }
     }
 }
