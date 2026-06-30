@@ -122,6 +122,10 @@
         "racional conejo": {
             "valor": 320000,
             "accion": "sumar"
+        },
+        "sueldo bruno": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
