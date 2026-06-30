@@ -65,6 +65,10 @@
         "power": {
             "valor": 192000,
             "accion": "sumar"
+        },
+        "racional conejo": {
+            "valor": 320000,
+            "accion": "sumar"
         }
     }
 }
