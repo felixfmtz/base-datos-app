@@ -353,6 +353,10 @@
         "como": {
             "valor": 200000,
             "accion": "sumar"
+        },
+        "merc": {
+            "valor": 70000,
+            "accion": "sumar"
         }
     }
 }
