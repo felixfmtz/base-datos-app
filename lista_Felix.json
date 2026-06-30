@@ -27,6 +27,14 @@
                     "NCuotas": "18",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Banesa Benitez",
+                    "Deuda": "470.000",
+                    "Garante": "secarropa",
+                    "NCuotas": "10",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
