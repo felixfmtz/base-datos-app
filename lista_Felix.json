@@ -84,6 +84,12 @@
         },
         "Ramon Vera. 1.200.000": {
             "sigpago": "03\/07\/2026"
+        },
+        "Daniel Saucedo Zaya": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 125000,
+            "TInteres": 0
         }
     },
     "Gastos": {
