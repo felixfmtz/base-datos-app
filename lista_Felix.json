@@ -206,6 +206,10 @@
         "combustible ": {
             "valor": 300000,
             "accion": "sumar"
+        },
+        "pila": {
+            "valor": 15000,
+            "accion": "sumar"
         }
     }
 }
