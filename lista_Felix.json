@@ -67,6 +67,14 @@
                     "NCuotas": "4",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Ordonia Davalos",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "24",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "No"
                 }
             ]
         }
