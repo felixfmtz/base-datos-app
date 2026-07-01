@@ -51,6 +51,14 @@
                     "NCuotas": "5",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Liz Ramirez",
+                    "Deuda": "1.100.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "8",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
