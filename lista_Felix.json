@@ -142,6 +142,12 @@
             "NoTInteres": 0,
             "TCuota": 60000,
             "TInteres": 0
+        },
+        "Patricia Caballero. Felicia. 350.000*4": {
+            "NoTCuota": 350000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
