@@ -75,6 +75,14 @@
                     "NCuotas": "24",
                     "Frecuencia": "Diario",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Loida Ortega",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "2",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
                 }
             ]
         }
