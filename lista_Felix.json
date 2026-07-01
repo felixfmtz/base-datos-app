@@ -106,6 +106,12 @@
             "NoTInteres": 0,
             "TCuota": 850000,
             "TInteres": 0
+        },
+        "Denis Francisco Colman. 440.000*3. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 100000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
