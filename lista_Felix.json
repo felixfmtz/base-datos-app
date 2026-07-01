@@ -101,6 +101,15 @@
                     "Transferencia": "No"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Eliane Mariela Colman",
+                    "dia": "Ju"
+                }
+            ]
         }
     ],
     "Pagos": {
