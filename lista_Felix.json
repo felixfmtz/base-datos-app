@@ -226,6 +226,10 @@
         "dolar": {
             "valor": 604000,
             "accion": "sumar"
+        },
+        "comifa": {
+            "valor": 65000,
+            "accion": "sumar"
         }
     }
 }
