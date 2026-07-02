@@ -88,7 +88,8 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0,
-            "Error": "para el 8"
+            "Error": "para el 8",
+            "sigpago": "08\/07\/2026"
         }
     },
     "Gastos": {}
