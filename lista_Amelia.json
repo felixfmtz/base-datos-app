@@ -227,5 +227,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "máquina ": {
+            "valor": 250000,
+            "accion": "sumar"
+        }
+    }
 }
