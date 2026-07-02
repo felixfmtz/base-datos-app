@@ -126,5 +126,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "guro fredy ": {
+            "valor": 134000,
+            "accion": "sumar"
+        }
+    }
 }
