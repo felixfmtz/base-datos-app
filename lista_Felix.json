@@ -90,6 +90,12 @@
             "TInteres": 0,
             "Error": "para el 8",
             "sigpago": "08\/07\/2026"
+        },
+        "Eliane Mariela Colman. 525.000*8. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 552000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
