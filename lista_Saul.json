@@ -88,6 +88,12 @@
         },
         "Maria Pereira. 600.000. C2": {
             "sigpago": "04\/07\/2026"
+        },
+        "Marcial Garcete Orue. 140.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {
