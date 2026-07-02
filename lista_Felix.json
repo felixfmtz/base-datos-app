@@ -82,6 +82,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 150000
+        },
+        "Sergio Peralta. 1.200.000. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "para el 8"
         }
     },
     "Gastos": {}
