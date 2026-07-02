@@ -172,7 +172,17 @@
             "sigpago": "09\/07\/2026"
         },
         "Ezequiel Gimenez. 220.000*6. Lu": {
-            "sigpago": "04\/07\/2026"
+            "sigpago": "04\/07\/2026",
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Ezequiel Gimenez. 220.000*6. Mi": {
+            "NoTCuota": 440000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
