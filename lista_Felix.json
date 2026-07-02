@@ -130,6 +130,10 @@
         "guro fredy ": {
             "valor": 134000,
             "accion": "sumar"
+        },
+        "dolar": {
+            "valor": 604000,
+            "accion": "sumar"
         }
     }
 }
