@@ -59,6 +59,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Martes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Juan Delgado",
+                    "Deuda": "10.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
