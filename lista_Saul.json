@@ -76,7 +76,18 @@
         },
         "Alejandra Cano. Cel c71. 100.000*25. Lu": {
             "sigpago": "06\/07\/2026"
+        },
+        "Digna Lopez. 15.000*44": {
+            "NoTCuota": 15000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "entregado ": {
+            "valor": 1395000,
+            "accion": "sumar"
+        }
+    }
 }
