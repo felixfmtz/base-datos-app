@@ -4,6 +4,12 @@
     "Pagos": {
         "Gedalia DelValle. Heladera. 200.000*42. Vi": {
             "sigpago": "06\/07\/2026"
+        },
+        "Liz Karina Bogado. 210.000*10. Vi. C1": {
+            "NoTCuota": 210000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
