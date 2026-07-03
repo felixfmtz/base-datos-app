@@ -40,6 +40,13 @@
             "NoTInteres": 0,
             "TCuota": 150000,
             "TInteres": 0
+        },
+        "Rosalia Morinigo. Sandra. 140.000*10. Ju. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "Cuenta"
         }
     },
     "Gastos": {}
