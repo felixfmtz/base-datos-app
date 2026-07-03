@@ -20,6 +20,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Jueves",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Rosalia Gonzalez",
+                    "Deuda": "400.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "24",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "No"
                 }
             ]
         }
