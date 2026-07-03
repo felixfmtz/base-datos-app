@@ -102,6 +102,10 @@
         "sueldo derlis": {
             "valor": 600000,
             "accion": "sumar"
+        },
+        "Internet ": {
+            "valor": 460000,
+            "accion": "sumar"
         }
     }
 }
