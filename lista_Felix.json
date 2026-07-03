@@ -146,7 +146,7 @@
         "Wilner Castillo. 3.850.000": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 3850000,
             "TInteres": 0,
             "Error": "numero"
         },
