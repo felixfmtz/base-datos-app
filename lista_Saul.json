@@ -160,6 +160,12 @@
             "NoTInteres": 0,
             "TCuota": 175000,
             "TInteres": 0
+        },
+        "Cesar Solis. 77.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 160000,
+            "TInteres": 0
         }
     },
     "Gastos": {
