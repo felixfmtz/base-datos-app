@@ -9,6 +9,19 @@
                     "dia": "Sa"
                 }
             ]
+        },
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Antonia Baez",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "No"
+                }
+            ]
         }
     ],
     "Pagos": {
