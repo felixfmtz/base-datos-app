@@ -376,6 +376,10 @@
         "entregado ": {
             "valor": 5000000,
             "accion": "sumar"
+        },
+        "casa 3": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
