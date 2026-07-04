@@ -13,6 +13,10 @@
         "sueldo bruno": {
             "valor": 400000,
             "accion": "sumar"
+        },
+        "comida": {
+            "valor": 115000,
+            "accion": "sumar"
         }
     }
 }
