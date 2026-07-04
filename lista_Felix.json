@@ -9,5 +9,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "sueldo bruno": {
+            "valor": 400000,
+            "accion": "sumar"
+        }
+    }
 }
