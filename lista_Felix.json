@@ -197,7 +197,14 @@
             "TInteres": 0
         },
         "Anastacio Baez. 140.000*10. Sa": {
-            "sigpago": "11\/07\/2026"
+            "sigpago": "11\/07\/2026",
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Hugo Caceres. Olier. C1. 480.000": {
+            "sigpago": "06\/07\/2026"
         }
     },
     "Gastos": {
