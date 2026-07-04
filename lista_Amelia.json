@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "04\/07\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Victoria Rodas",
+                    "Deuda": "2.000.000",
+                    "Garante": "novio ",
+                    "NCuotas": "10",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Francieli Silvero. 420.000*10. Sa": {
             "NoTCuota": 0,
