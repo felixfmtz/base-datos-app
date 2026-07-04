@@ -139,6 +139,12 @@
         },
         "Liliana Lugo. 210.000*10. Sa": {
             "sigpago": "07\/07\/2026"
+        },
+        "Lucia Portillo. 350.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 100000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
