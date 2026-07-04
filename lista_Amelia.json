@@ -10,6 +10,12 @@
         },
         "Ana Manuela. 310.000": {
             "sigpago": "28\/07\/2026"
+        },
+        "Fredy Pintos. 140.000*10. Sa": {
+            "NoTCuota": 400000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
