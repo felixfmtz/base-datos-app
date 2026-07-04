@@ -283,6 +283,10 @@
         "obr": {
             "valor": 107000,
             "accion": "sumar"
+        },
+        "farma": {
+            "valor": 23000,
+            "accion": "sumar"
         }
     }
 }
