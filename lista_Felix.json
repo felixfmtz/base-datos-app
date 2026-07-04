@@ -248,7 +248,7 @@
         "Felicia Dominguez. 220.000*6. Sa. C1": {
             "NoTCuota": 200000,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 20000,
             "TInteres": 0
         }
     },
