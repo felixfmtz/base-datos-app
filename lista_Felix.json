@@ -80,6 +80,10 @@
         "comida": {
             "valor": 115000,
             "accion": "sumar"
+        },
+        "ronda ": {
+            "valor": 14400000,
+            "accion": "sumar"
         }
     }
 }
