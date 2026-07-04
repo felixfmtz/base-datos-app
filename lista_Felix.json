@@ -63,6 +63,13 @@
         },
         "Fermin Lopez. 220.000*6. Sa": {
             "sigpago": "11\/07\/2026"
+        },
+        "Fatima Fonseca. 140.000*10. Sa. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pasar lunes"
         }
     },
     "Gastos": {
