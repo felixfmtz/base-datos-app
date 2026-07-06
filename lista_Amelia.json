@@ -414,6 +414,10 @@
         "dolar": {
             "valor": 1200000,
             "accion": "sumar"
+        },
+        "real": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
