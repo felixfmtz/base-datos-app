@@ -7,6 +7,12 @@
         },
         "Leonarda Baez. Osvaldo. 600.000*2": {
             "sigpago": "11\/07\/2026"
+        },
+        "Andrea Avelina Cardozo. 330.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 660000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
