@@ -77,7 +77,11 @@
             "TInteres": 0
         },
         "Ignacio Insfran. 380.000. Sa": {
-            "sigpago": "08\/07\/2026"
+            "sigpago": "08\/07\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 80000,
+            "TInteres": 0
         }
     },
     "Gastos": {
