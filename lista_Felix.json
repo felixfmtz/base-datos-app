@@ -258,6 +258,10 @@
         "yerba": {
             "valor": 18000,
             "accion": "sumar"
+        },
+        "cuentas": {
+            "valor": 1902000,
+            "accion": "sumar"
         }
     }
 }
