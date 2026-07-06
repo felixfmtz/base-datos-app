@@ -262,6 +262,10 @@
         "cuentas": {
             "valor": 1902000,
             "accion": "sumar"
+        },
+        "farmacia ": {
+            "valor": 243000,
+            "accion": "sumar"
         }
     }
 }
