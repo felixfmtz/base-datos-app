@@ -173,6 +173,12 @@
         },
         "Elena Flores. Cristian. 200.000*7. Lu": {
             "sigpago": "09\/07\/2026"
+        },
+        "Yasmil Franciely Zelaya. 210.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {
