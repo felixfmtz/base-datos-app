@@ -153,6 +153,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Alfredo Castillo. 2.310.000. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 2310000,
+            "TInteres": 0
         }
     },
     "Gastos": {
