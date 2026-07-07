@@ -39,7 +39,11 @@
             "TInteres": 0
         },
         "Liliana Olmedo. 70.000*10. Ju": {
-            "sigpago": "11\/07\/2026"
+            "sigpago": "11\/07\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 50000,
+            "TInteres": 0
         }
     },
     "Gastos": {
