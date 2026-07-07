@@ -43,6 +43,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Viernes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Alberta Zaya",
+                    "Deuda": "1.900.000",
+                    "Garante": "marido",
+                    "NCuotas": "15",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
                 }
             ]
         }
