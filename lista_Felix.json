@@ -19,6 +19,12 @@
         },
         "Mirtha Raquel Peña. 220.000*6. Lu": {
             "sigpago": "13\/07\/2026"
+        },
+        "Edgar Jara. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {
