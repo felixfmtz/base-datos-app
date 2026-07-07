@@ -34,6 +34,12 @@
         },
         "Lorenzo Alfonzo. 110.000*6. Lu": {
             "sigpago": "13\/07\/2026"
+        },
+        "Leonarda Baez. Fredy. 560.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 900000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
