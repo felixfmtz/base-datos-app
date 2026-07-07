@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "07\/07\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Marcia Torres",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Demesia Nuñez. 140.000*10. Sa": {
             "sigpago": "11\/07\/2026"
