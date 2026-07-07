@@ -35,6 +35,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Evarista Aguilar",
+                    "Deuda": "500.000",
+                    "Garante": "hija",
+                    "NCuotas": "6",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "No"
                 }
             ]
         }
