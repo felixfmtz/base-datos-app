@@ -160,6 +160,10 @@
         "comida": {
             "valor": 55000,
             "accion": "sumar"
+        },
+        "sueldo jesica": {
+            "valor": 500000,
+            "accion": "sumar"
         }
     }
 }
