@@ -83,6 +83,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Elsa Cañete",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "44",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "Si"
                 }
             ]
         }
