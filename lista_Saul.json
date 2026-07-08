@@ -172,6 +172,10 @@
         "entregado ": {
             "valor": 2380000,
             "accion": "sumar"
+        },
+        "producto de limpieza": {
+            "valor": 25000,
+            "accion": "sumar"
         }
     }
 }
