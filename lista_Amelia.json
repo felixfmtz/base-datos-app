@@ -147,6 +147,10 @@
         "cada": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "pila": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
