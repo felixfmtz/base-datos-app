@@ -79,6 +79,12 @@
         },
         "Victor Mendoza. 220.000*6. Lu": {
             "sigpago": "10\/07\/2026"
+        },
+        "Cristina Yegros. 280.000*10. Lu": {
+            "NoTCuota": 160000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
