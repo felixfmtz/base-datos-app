@@ -85,6 +85,10 @@
         "comida": {
             "valor": 26000,
             "accion": "sumar"
+        },
+        "gato": {
+            "valor": 89000,
+            "accion": "sumar"
         }
     }
 }
