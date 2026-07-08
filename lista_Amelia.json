@@ -19,6 +19,12 @@
         },
         "Deida Gaete. 210.000*10. Sa": {
             "sigpago": "11\/07\/2026"
+        },
+        "Jose Augusto Cantero. Ronald. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
