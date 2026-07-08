@@ -27,6 +27,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Narciso Achar",
+                    "Deuda": "3.850.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "60",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "No"
                 }
             ]
         }
