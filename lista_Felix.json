@@ -141,6 +141,12 @@
             "NoTInteres": 0,
             "TCuota": 100000,
             "TInteres": 10000
+        },
+        "Victor Gimenez. 260.000*5. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 260000,
+            "TInteres": 10000
         }
     },
     "Gastos": {
