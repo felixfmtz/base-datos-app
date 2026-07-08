@@ -163,6 +163,10 @@
         "gato": {
             "valor": 89000,
             "accion": "sumar"
+        },
+        "mama": {
+            "valor": 2050000,
+            "accion": "sumar"
         }
     }
 }
