@@ -32,6 +32,12 @@
         },
         "Monica Gomez. 280.000*5": {
             "sigpago": "11\/07\/2026"
+        },
+        "Ignacio Insfran. 380.000. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 300000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
