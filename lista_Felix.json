@@ -66,5 +66,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "comida ": {
+            "valor": 65000,
+            "accion": "sumar"
+        }
+    }
 }
