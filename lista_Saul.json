@@ -19,6 +19,12 @@
         },
         "Perla Gonzalez Cano. 280.000*10. Sa": {
             "sigpago": "11\/07\/2026"
+        },
+        "Antonia Baez. 110.000*6. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
