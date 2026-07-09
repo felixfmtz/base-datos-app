@@ -1,11 +1,10 @@
 {
     "fecha_ultimo_guardado": "09\/07\/2026",
     "cuentas": [],
-    "Pagos": {},
-    "Gastos": {
-        "comida": {
-            "valor": 65000,
-            "accion": "sumar"
+    "Pagos": {
+        "Liliana Olmedo. 70.000*10. Ju": {
+            "sigpago": "11\/07\/2026"
         }
-    }
+    },
+    "Gastos": {}
 }
