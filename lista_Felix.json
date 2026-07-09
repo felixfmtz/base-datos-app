@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "09\/07\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Rocio Rosana Duarte",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "2",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Mauro Venialgo. 110.000*6. Ju": {
             "NoTCuota": 0,
