@@ -128,7 +128,17 @@
             "TInteres": 0
         },
         "Blanca Riveros. 110.000*6. Ju": {
-            "sigpago": "16\/07\/2026"
+            "sigpago": "16\/07\/2026",
+            "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Cynthia Carolina Baez. 15.000*44": {
+            "NoTCuota": 15000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
