@@ -182,6 +182,12 @@
             "NoTInteres": 0,
             "TCuota": 9000,
             "TInteres": 0
+        },
+        "Isaias Castillo. 360.000": {
+            "NoTCuota": 360000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
