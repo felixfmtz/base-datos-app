@@ -165,6 +165,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Recordatorio 2. Comisario Oscar Olmedo": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "sigpago": "Pagado"
         }
     },
     "Gastos": {
