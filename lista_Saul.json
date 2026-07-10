@@ -10,6 +10,12 @@
         },
         "Dolores Cristina Gonzalez. 140.000*10. Lu": {
             "sigpago": "11\/07\/2026"
+        },
+        "Epifania Ortiz. 45.000*44": {
+            "NoTCuota": 45000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
