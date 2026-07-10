@@ -172,6 +172,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "sigpago": "Pagado"
+        },
+        "Delfina Britez. Nue. 120.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 120000,
+            "TInteres": 0
         }
     },
     "Gastos": {
