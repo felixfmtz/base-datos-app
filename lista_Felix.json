@@ -85,6 +85,15 @@
                     "Transferencia": "No"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Hugo Cabral",
+                    "dia": "Sa"
+                }
+            ]
         }
     ],
     "Pagos": {
