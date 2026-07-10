@@ -159,7 +159,7 @@
         "Luis Arzamendia. 140.000*43": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 150000,
             "TInteres": 0
         }
     },
