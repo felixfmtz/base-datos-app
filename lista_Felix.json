@@ -222,6 +222,10 @@
         "basura 2": {
             "valor": 95000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 2785000,
+            "accion": "sumar"
         }
     }
 }
