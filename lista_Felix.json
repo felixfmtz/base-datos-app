@@ -11,6 +11,14 @@
                     "NCuotas": "2",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Benigno Benitez",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
@@ -87,6 +95,12 @@
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 420000,
+            "TInteres": 0
+        },
+        "Manuel Figueredo. 140.000*10. Vi": {
+            "NoTCuota": 35000,
+            "NoTInteres": 0,
+            "TCuota": 0,
             "TInteres": 0
         }
     },
