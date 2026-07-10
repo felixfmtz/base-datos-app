@@ -226,6 +226,10 @@
         "obra": {
             "valor": 2785000,
             "accion": "sumar"
+        },
+        "comicion": {
+            "valor": 200000,
+            "accion": "sumar"
         }
     }
 }
