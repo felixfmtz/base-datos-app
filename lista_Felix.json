@@ -19,6 +19,14 @@
                     "NCuotas": "30",
                     "Frecuencia": "Diario",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Felicia Dominguez",
+                    "Deuda": "1.000.000",
+                    "Garante": "rosana",
+                    "NCuotas": "1",
+                    "Frecuencia": "",
+                    "Transferencia": "No"
                 }
             ]
         }
