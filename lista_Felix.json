@@ -5,14 +5,6 @@
             "seccion": "Crear cuenta",
             "items": [
                 {
-                    "nombreOriginal": "Hugo Cabral",
-                    "Deuda": "700.000",
-                    "Garante": "cel A51",
-                    "NCuotas": "14",
-                    "Frecuencia": "Sábado",
-                    "Transferencia": "No"
-                },
-                {
                     "nombreOriginal": "Rosalina del Valle",
                     "Deuda": "10.000.000",
                     "Garante": "Sin Garante",
