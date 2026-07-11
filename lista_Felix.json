@@ -172,5 +172,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "giro": {
+            "valor": 30000,
+            "accion": "sumar"
+        }
+    }
 }
