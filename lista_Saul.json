@@ -1,186 +1,19 @@
 {
-    "fecha_ultimo_guardado": "10\/07\/2026",
+    "fecha_ultimo_guardado": "11\/07\/2026",
     "cuentas": [],
     "Pagos": {
-        "Gedalia DelValle. Heladera. 200.000*42. Vi": {
-            "sigpago": "13\/07\/2026"
-        },
-        "Adriana Amarilla. 220.000*6. Lu": {
-            "sigpago": "13\/07\/2026"
-        },
-        "Dolores Cristina Gonzalez. 140.000*10. Lu": {
-            "sigpago": "11\/07\/2026"
+        "Eusebio Galeano. 110.000*6. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         },
         "Epifania Ortiz. 45.000*44": {
             "NoTCuota": 45000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
-        },
-        "Bartola Cubilla. 220.000*6. Vi": {
-            "NoTCuota": 220000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ignacio Melgarejo. 20.000*33. C1": {
-            "NoTCuota": 20000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Marcial Garcete Orue. 140.000*10. Vi": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 140000,
-            "TInteres": 0
-        },
-        "Fermiano Menese. 140.000*10. Ju": {
-            "NoTCuota": 140000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Rosalba Ojeda. 220.000*6. Mi": {
-            "NoTCuota": 220000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Rosalina del Valle. 400.000*30": {
-            "NoTCuota": 400000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Gedalia DelValle. 180.000*30. C1": {
-            "NoTCuota": 80000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Hugo Cabral. 140.000*10. Sa": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 90000,
-            "TInteres": 0
-        },
-        "Evarista Aguilar. Hija. 110.000*6. Vi": {
-            "NoTCuota": 110000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "fecha de pago"
-        },
-        "Digna Lopez. 15.000*44": {
-            "NoTCuota": 15000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Rosalba Gonzalez Duarte. 20.000*24": {
-            "NoTCuota": 20000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Clyde Isabel Justiniano. 20.000*33": {
-            "NoTCuota": 20000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Liz Karina Bogado. 210.000*10. Vi. C1": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 210000,
-            "TInteres": 0
-        },
-        "Liz Karina Bogado. 140.000*10. Vi": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 140000,
-            "TInteres": 0
-        },
-        "Ordonia Davalos. 25.000*24": {
-            "NoTCuota": 25000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ordonia Davalos. 50.000*24": {
-            "NoTCuota": 50000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Claudelina Maldonado. 140.000*10. Lu": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 100000,
-            "TInteres": 0
-        },
-        "Elva Mateus. 30.000*44": {
-            "NoTCuota": 30000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Anibal Godoy. 110.000*6. Ju": {
-            "NoTCuota": 50000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Maria Francisca. 30.000*44. C1": {
-            "NoTCuota": 30000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Angelina Forcado. 220.000*6. Vi": {
-            "NoTCuota": 220000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Elva Ferreira. 280.000*10. Lu": {
-            "NoTCuota": 0,
-            "NoTInteres": 80000,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Eusebio Canata. 135.000*8. Vi": {
-            "NoTCuota": 135000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Luis Arzamendia. 140.000*43": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 150000,
-            "TInteres": 0
-        },
-        "Diego Dure. 220.000*6. Mi": {
-            "NoTCuota": 220000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
         }
     },
-    "Gastos": {
-        "entregado ": {
-            "valor": 140000,
-            "accion": "sumar"
-        },
-        "entregado  2": {
-            "valor": 1100000,
-            "accion": "sumar"
-        },
-        "sueldo saul": {
-            "valor": 95000,
-            "accion": "sumar"
-        }
-    }
+    "Gastos": {}
 }
