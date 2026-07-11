@@ -43,6 +43,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Helida Ortiz",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "2",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
                 }
             ]
         }
