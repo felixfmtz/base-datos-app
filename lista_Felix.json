@@ -99,6 +99,14 @@
                     "NCuotas": "5",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Hugo Cabral",
+                    "Deuda": "700.000",
+                    "Garante": "cel A51",
+                    "NCuotas": "14",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
