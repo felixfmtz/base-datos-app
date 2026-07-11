@@ -67,6 +67,14 @@
                     "NCuotas": "44",
                     "Frecuencia": "",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Raqueline Mercado",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
