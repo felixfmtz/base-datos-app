@@ -8,6 +8,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "sigpago": "Pagado"
+        },
+        "Fabiola Cañete. 1.100.000. C1": {
+            "sigpago": "18\/07\/2026"
         }
     },
     "Gastos": {}
