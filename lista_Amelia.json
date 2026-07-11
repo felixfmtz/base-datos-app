@@ -7,6 +7,12 @@
             "NoTInteres": 0,
             "TCuota": 280000,
             "TInteres": 0
+        },
+        "Leonarda Baez. Osvaldo. 600.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 650000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
