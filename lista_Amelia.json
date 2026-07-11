@@ -11,6 +11,14 @@
                     "NCuotas": "4",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Delfina Britez",
+                    "Deuda": "4.000.000",
+                    "Garante": "nuev 2",
+                    "NCuotas": "44",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "No"
                 }
             ]
         }
