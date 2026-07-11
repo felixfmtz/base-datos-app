@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "11\/07\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Hugo Cabral",
+                    "Deuda": "700.000",
+                    "Garante": "cel A51",
+                    "NCuotas": "14",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Recordatorio 1. Paola. 0": {
             "NoTCuota": 0,
