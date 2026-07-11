@@ -91,6 +91,12 @@
         },
         "Liz Paiva. 350.000*2": {
             "sigpago": "20\/07\/2026"
+        },
+        "Leonarda Zalazar. 150.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 75000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
