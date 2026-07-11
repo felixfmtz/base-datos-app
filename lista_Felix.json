@@ -38,6 +38,12 @@
         },
         "Fabiola Lopez. 200.000*37. Aspiradora. Mi": {
             "sigpago": "18\/07\/2026"
+        },
+        "Maria Romina Sosa. 260.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 260000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
