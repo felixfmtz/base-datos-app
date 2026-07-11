@@ -75,6 +75,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Sábado",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "David Cardozo Gimenez",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
