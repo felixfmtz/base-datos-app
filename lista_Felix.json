@@ -228,6 +228,10 @@
         "giro": {
             "valor": 30000,
             "accion": "sumar"
+        },
+        "perro": {
+            "valor": 428000,
+            "accion": "sumar"
         }
     }
 }
