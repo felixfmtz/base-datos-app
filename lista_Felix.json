@@ -228,6 +228,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 10000
+        },
+        "Juan Alberto Venialgo. 2.000.000*6. Lu. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 10000
         }
     },
     "Gastos": {
