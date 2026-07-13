@@ -80,5 +80,10 @@
             "TInteres": 100000
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "gotita": {
+            "valor": 10000,
+            "accion": "sumar"
+        }
+    }
 }
