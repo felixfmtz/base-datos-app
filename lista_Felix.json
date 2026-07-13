@@ -176,6 +176,10 @@
         "cooperativa ": {
             "valor": 9178000,
             "accion": "sumar"
+        },
+        "pelo": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
