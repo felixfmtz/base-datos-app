@@ -260,6 +260,10 @@
         "pelo": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "luz ": {
+            "valor": 700000,
+            "accion": "sumar"
         }
     }
 }
