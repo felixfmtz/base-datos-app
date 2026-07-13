@@ -46,6 +46,13 @@
         },
         "Victor Gimenez. 260.000*5. Sa": {
             "sigpago": "18\/07\/2026"
+        },
+        "Manuel Figueredo. 140.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "por dia"
         }
     },
     "Gastos": {}
