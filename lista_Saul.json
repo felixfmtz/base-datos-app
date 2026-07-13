@@ -161,6 +161,12 @@
         },
         "Lalia Barrios. 280.000*10. Lu": {
             "sigpago": "15\/07\/2026"
+        },
+        "Clyde Isabel Justiniano. 20.000*33": {
+            "NoTCuota": 20000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
