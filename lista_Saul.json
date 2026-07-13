@@ -206,6 +206,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Jessica Cabral. 1.500.000*4. Lu": {
+            "NoTCuota": 1500000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
