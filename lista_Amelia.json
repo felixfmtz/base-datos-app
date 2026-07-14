@@ -35,14 +35,6 @@
                     "NCuotas": "10",
                     "Frecuencia": "Martes",
                     "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Mario Zaracho",
-                    "Deuda": "500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Martes",
-                    "Transferencia": "No"
                 }
             ]
         }
