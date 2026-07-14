@@ -78,6 +78,10 @@
         "farma": {
             "valor": 103000,
             "accion": "sumar"
+        },
+        "chorizo": {
+            "valor": 88000,
+            "accion": "sumar"
         }
     }
 }
