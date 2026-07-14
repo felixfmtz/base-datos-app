@@ -37,6 +37,15 @@
                     "Transferencia": "No"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Maria Francisca",
+                    "dia": "Mi"
+                }
+            ]
         }
     ],
     "Pagos": {
