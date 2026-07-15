@@ -263,6 +263,10 @@
         "casa ": {
             "valor": 65000,
             "accion": "sumar"
+        },
+        "mandarina": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
