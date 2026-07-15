@@ -123,6 +123,12 @@
             "NoTInteres": 0,
             "TCuota": 420000,
             "TInteres": 0
+        },
+        "Luis Garcia. 280.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 256000,
+            "TInteres": 0
         }
     },
     "Gastos": {
