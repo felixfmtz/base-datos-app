@@ -88,6 +88,12 @@
         },
         "Norma Beatriz Blanco. 98.000*10. Ma": {
             "sigpago": "17\/07\/2026"
+        },
+        "Rosalba Ojeda. 220.000*6. Mi": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
