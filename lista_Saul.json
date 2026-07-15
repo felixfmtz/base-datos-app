@@ -160,6 +160,10 @@
         "Entregado ": {
             "valor": 1125000,
             "accion": "sumar"
+        },
+        "engrase": {
+            "valor": 70000,
+            "accion": "sumar"
         }
     }
 }
