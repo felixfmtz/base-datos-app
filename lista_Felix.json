@@ -29,6 +29,12 @@
         },
         "Augusto Segobia. 140.000*10. Sa. C1": {
             "sigpago": "18\/07\/2026"
+        },
+        "Andres Santacruz. 900.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 900000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
