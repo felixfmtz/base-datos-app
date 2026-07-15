@@ -26,6 +26,12 @@
             "TCuota": 70000,
             "TInteres": 0,
             "Error": "6 pagos"
+        },
+        "Mirna Ortiz. 600.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 600000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
