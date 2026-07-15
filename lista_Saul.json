@@ -13,6 +13,12 @@
         },
         "Susana de Leite. Pablo. 300.000*7. Lu": {
             "sigpago": "17\/07\/2026"
+        },
+        "Epifania Ortiz. 45.000*44": {
+            "NoTCuota": 45000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
