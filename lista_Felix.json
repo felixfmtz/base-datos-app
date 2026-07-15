@@ -185,6 +185,10 @@
         "power": {
             "valor": 173000,
             "accion": "sumar"
+        },
+        "pan": {
+            "valor": 73000,
+            "accion": "sumar"
         }
     }
 }
