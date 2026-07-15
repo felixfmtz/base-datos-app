@@ -175,6 +175,10 @@
         "combustible ": {
             "valor": 300000,
             "accion": "sumar"
+        },
+        "power": {
+            "valor": 173000,
+            "accion": "sumar"
         }
     }
 }
