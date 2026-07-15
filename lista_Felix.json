@@ -112,7 +112,17 @@
             "TInteres": 0
         },
         "Felicia Dominguez. 220.000*6. Sa": {
-            "sigpago": "18\/07\/2026"
+            "sigpago": "18\/07\/2026",
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Karen Gonzalez. 420.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 420000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
