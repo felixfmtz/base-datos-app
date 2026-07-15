@@ -67,6 +67,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Viernes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Bruno Martinez 2",
+                    "Deuda": "50.000",
+                    "Garante": "alan",
+                    "NCuotas": "1",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "Si"
                 }
             ]
         }
