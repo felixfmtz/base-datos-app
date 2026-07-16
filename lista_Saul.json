@@ -82,6 +82,12 @@
         },
         "Gloria Cristaldo. Tv. 100.000*24. Lu": {
             "sigpago": "18\/07\/2026"
+        },
+        "Lalia Barrios. 280.000*10. Lu": {
+            "NoTCuota": 280000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
