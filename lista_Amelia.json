@@ -25,6 +25,12 @@
             "NoTInteres": 0,
             "TCuota": 280000,
             "TInteres": 0
+        },
+        "Ronda. Pablo. 1.400.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 520000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
