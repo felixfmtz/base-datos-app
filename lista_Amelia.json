@@ -226,6 +226,12 @@
             "NoTInteres": 0,
             "TCuota": 80000,
             "TInteres": 0
+        },
+        "Salvio Alvarenga. 280.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {
