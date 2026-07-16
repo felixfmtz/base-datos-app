@@ -220,6 +220,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "corregir"
+        },
+        "Edilberto Benitez. 80.000*33": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 80000,
+            "TInteres": 0
         }
     },
     "Gastos": {
