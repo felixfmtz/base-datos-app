@@ -19,6 +19,12 @@
         },
         "Liliana Amanda Pereira. 560.000*5": {
             "sigpago": "17\/07\/2026"
+        },
+        "Loida Ortega. 300.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 300000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
