@@ -43,6 +43,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 260000
+        },
+        "Helida Ortiz. 210.000*10. Lu": {
+            "NoTCuota": 210000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
