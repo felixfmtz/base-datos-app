@@ -4,6 +4,12 @@
     "Pagos": {
         "Mabel Villalba. 660.000*6. Mi": {
             "sigpago": "18\/07\/2026"
+        },
+        "Rosalba Ojeda. Aire. 150.000*34. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
