@@ -250,6 +250,10 @@
         "entregado ": {
             "valor": 1695000,
             "accion": "sumar"
+        },
+        "mochilas ": {
+            "valor": 65000,
+            "accion": "sumar"
         }
     }
 }
