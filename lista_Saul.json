@@ -190,6 +190,12 @@
         },
         "Victor Gayoso. 440.000*3": {
             "sigpago": "20\/07\/2026"
+        },
+        "Hugo Cabral. 70.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 50000,
+            "TInteres": 0
         }
     },
     "Gastos": {
