@@ -67,5 +67,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "extintores ": {
+            "valor": 360000,
+            "accion": "sumar"
+        }
+    }
 }
