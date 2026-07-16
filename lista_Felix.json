@@ -176,6 +176,10 @@
         "extintores ": {
             "valor": 360000,
             "accion": "sumar"
+        },
+        "coca": {
+            "valor": 7000,
+            "accion": "sumar"
         }
     }
 }
