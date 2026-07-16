@@ -180,6 +180,10 @@
         "coca": {
             "valor": 7000,
             "accion": "sumar"
+        },
+        "combu": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
