@@ -76,6 +76,10 @@
         "entregado ": {
             "valor": 1770000,
             "accion": "sumar"
+        },
+        "vaselina": {
+            "valor": 25000,
+            "accion": "sumar"
         }
     }
 }
