@@ -160,6 +160,10 @@
         "taller": {
             "valor": 850000,
             "accion": "sumar"
+        },
+        "dolar": {
+            "valor": 600000,
+            "accion": "sumar"
         }
     }
 }
