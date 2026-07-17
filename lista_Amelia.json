@@ -185,6 +185,12 @@
             "NoTInteres": 0,
             "TCuota": 220000,
             "TInteres": 0
+        },
+        "Eduardo Duarte. 230.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 230000,
+            "TInteres": 0
         }
     },
     "Gastos": {
