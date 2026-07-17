@@ -43,6 +43,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Sábado",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Leopoldo Pereira 2",
+                    "Deuda": "000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
                 }
             ]
         },
