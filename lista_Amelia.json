@@ -233,6 +233,10 @@
         "cómic d Derlis ": {
             "valor": 80000,
             "accion": "sumar"
+        },
+        "casa ": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
