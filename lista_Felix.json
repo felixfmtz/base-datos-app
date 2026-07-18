@@ -200,6 +200,10 @@
         "equifax": {
             "valor": 270000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 3240000,
+            "accion": "sumar"
         }
     }
 }
