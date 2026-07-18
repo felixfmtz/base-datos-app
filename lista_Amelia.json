@@ -113,6 +113,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Estanislaa Villar. 300.000*7. Sa. C1": {
+            "NoTCuota": 250000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
