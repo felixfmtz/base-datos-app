@@ -38,6 +38,12 @@
         },
         "Carlos Garcete. 220.000*6. Ju. C1": {
             "sigpago": "23\/07\/2026"
+        },
+        "Marcos Acosta. 210.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 50000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
