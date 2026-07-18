@@ -4,6 +4,12 @@
     "Pagos": {
         "Carlos Garcete. 220.000*6. Ju. C1": {
             "sigpago": "21\/07\/2026"
+        },
+        "Epifania Ortiz. 45.000*44": {
+            "NoTCuota": 45000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
