@@ -79,6 +79,12 @@
         },
         "Liz Karina Bogado. 140.000*10. Vi": {
             "sigpago": "21\/07\/2026"
+        },
+        "Liz Karina Bogado. 210.000*10. Vi. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {
