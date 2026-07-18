@@ -19,6 +19,14 @@
                     "NCuotas": "14",
                     "Frecuencia": "Sábado",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Ismael Segobia",
+                    "Deuda": "2.000.000",
+                    "Garante": "Julia ",
+                    "NCuotas": "1",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "Si"
                 }
             ]
         }
