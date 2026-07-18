@@ -136,6 +136,10 @@
         "remedio ": {
             "valor": 48000,
             "accion": "sumar"
+        },
+        "equifax": {
+            "valor": 270000,
+            "accion": "sumar"
         }
     }
 }
