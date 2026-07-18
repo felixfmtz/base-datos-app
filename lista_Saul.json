@@ -142,6 +142,12 @@
         },
         "Mirna Peralta. 110.000*6. Sa": {
             "sigpago": "21\/07\/2026"
+        },
+        "Liliana Lugo. 210.000*10. Sa": {
+            "NoTCuota": 310000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
