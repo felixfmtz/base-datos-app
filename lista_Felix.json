@@ -71,7 +71,11 @@
             "Error": "pasar a mi"
         },
         "Yanina Plaz. 210.000*10. Sa": {
-            "sigpago": "25\/07\/2026"
+            "sigpago": "25\/07\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
