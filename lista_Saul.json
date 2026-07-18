@@ -232,6 +232,18 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Lourdes Arce. 80.000*30": {
+            "NoTCuota": 65000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Liliana Olmedo. 70.000*10. Ju": {
+            "NoTCuota": 40000,
+            "NoTInteres": 0,
+            "TCuota": 30000,
+            "TInteres": 0
         }
     },
     "Gastos": {
