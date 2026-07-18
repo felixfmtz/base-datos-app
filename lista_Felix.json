@@ -172,6 +172,12 @@
             "NoTInteres": 0,
             "TCuota": 60000,
             "TInteres": 0
+        },
+        "Bruno Martinez. Alan. 50.000. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 50000,
+            "TInteres": 0
         }
     },
     "Gastos": {
