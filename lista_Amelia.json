@@ -11,6 +11,14 @@
                     "NCuotas": "44",
                     "Frecuencia": "Diario",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Pedro Flecha",
+                    "Deuda": "1.400.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "14",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
                 }
             ]
         }
