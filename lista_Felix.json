@@ -143,6 +143,12 @@
             "NoTInteres": 0,
             "TCuota": 50000,
             "TInteres": 0
+        },
+        "Damian Gimenez. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 750000,
+            "TInteres": 0
         }
     },
     "Gastos": {
