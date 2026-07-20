@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "20\/07\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Laureana Insfran",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Jose Ovidio Cardozo. 30.000*44": {
             "NoTCuota": 0,
