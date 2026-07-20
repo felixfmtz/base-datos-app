@@ -134,6 +134,10 @@
         "telefono ": {
             "valor": 320000,
             "accion": "sumar"
+        },
+        "sueldo bruno": {
+            "valor": 107000,
+            "accion": "sumar"
         }
     }
 }
