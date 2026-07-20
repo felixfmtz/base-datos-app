@@ -43,6 +43,12 @@
             "NoTInteres": 0,
             "TCuota": 420000,
             "TInteres": 0
+        },
+        "Jose Augusto Cantero. 560.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 500000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
