@@ -253,6 +253,12 @@
         },
         "Demesia Nuñez. 140.000*10. Sa": {
             "sigpago": "22\/07\/2026"
+        },
+        "Eusebio Galeano. 110.000*6. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {
