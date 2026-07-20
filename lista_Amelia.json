@@ -381,6 +381,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "David Cardozo Gimenez. 400.000*6. Sa": {
+            "NoTCuota": 400000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
