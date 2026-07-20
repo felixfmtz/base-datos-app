@@ -112,5 +112,10 @@
             "sigpago": "25\/07\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "ventilador": {
+            "valor": 470000,
+            "accion": "sumar"
+        }
+    }
 }
