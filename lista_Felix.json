@@ -35,6 +35,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Sábado",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Griselda Pereira",
+                    "Deuda": "200.000",
+                    "Garante": "rolando",
+                    "NCuotas": "1",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
                 }
             ]
         }
