@@ -110,6 +110,12 @@
         },
         "Vanesa Servian. Lavarropa. 100.000*28. Sa": {
             "sigpago": "25\/07\/2026"
+        },
+        "Fermiano Menese. 280.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 560000,
+            "TInteres": 0
         }
     },
     "Gastos": {
