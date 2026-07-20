@@ -130,6 +130,10 @@
         "ventilador": {
             "valor": 470000,
             "accion": "sumar"
+        },
+        "telefono ": {
+            "valor": 320000,
+            "accion": "sumar"
         }
     }
 }
