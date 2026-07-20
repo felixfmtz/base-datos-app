@@ -328,6 +328,10 @@
         "pan": {
             "valor": 70000,
             "accion": "sumar"
+        },
+        "vent": {
+            "valor": 150000,
+            "accion": "sumar"
         }
     }
 }
