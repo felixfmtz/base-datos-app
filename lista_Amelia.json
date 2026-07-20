@@ -411,6 +411,12 @@
             "NoTInteres": 0,
             "TCuota": 40000,
             "TInteres": 0
+        },
+        "Concepcion Oviedo. Francisco. 140.000*10. Sa": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 40000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
