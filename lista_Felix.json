@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "21\/07\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Rosmery Coronel",
+                    "Deuda": "200.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Eliane Mariela Colman. 420.000*10. Vi": {
             "NoTCuota": 0,
