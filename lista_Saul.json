@@ -142,5 +142,10 @@
             "Error": "en 6 pagos"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "entregado ": {
+            "valor": 3875000,
+            "accion": "sumar"
+        }
+    }
 }
