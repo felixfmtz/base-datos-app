@@ -61,6 +61,12 @@
             "NoTInteres": 0,
             "TCuota": 25000,
             "TInteres": 0
+        },
+        "Rosalino Mendoza. 30.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 30000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
