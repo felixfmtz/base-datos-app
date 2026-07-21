@@ -10,6 +10,12 @@
         },
         "Maria Magdalena. 560.000*10. Sa": {
             "sigpago": "25\/07\/2026"
+        },
+        "Maria Del Carmen Florentin. 110.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
