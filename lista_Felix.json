@@ -192,6 +192,10 @@
         "farmacia ": {
             "valor": 135000,
             "accion": "sumar"
+        },
+        "dolar": {
+            "valor": 1204000,
+            "accion": "sumar"
         }
     }
 }
