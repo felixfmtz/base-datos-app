@@ -3,7 +3,7 @@
     "cuentas": [],
     "Pagos": {
         "Jose Ovidio Cardozo. 15.000*44": {
-            "NoTCuota": 15000,
+            "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
