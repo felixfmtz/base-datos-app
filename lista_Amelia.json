@@ -22,6 +22,12 @@
             "NoTInteres": 100000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Dario Rene Pintos. Freddy. 600.000. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 100000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
