@@ -28,6 +28,12 @@
             "NoTInteres": 100000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Norma Beatriz Rivarola. 140.000*10. Lu": {
+            "NoTCuota": 25000,
+            "NoTInteres": 0,
+            "TCuota": 115000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
