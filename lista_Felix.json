@@ -19,6 +19,14 @@
                     "NCuotas": "44",
                     "Frecuencia": "Diario",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "antonia rojas",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "No"
                 }
             ]
         }
