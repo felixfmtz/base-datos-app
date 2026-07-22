@@ -92,6 +92,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Lido Maciel. Batidora. 75.000*11. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 75000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
