@@ -107,6 +107,10 @@
         "comicio": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "farmacia ": {
+            "valor": 107000,
+            "accion": "sumar"
         }
     }
 }
