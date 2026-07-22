@@ -22,5 +22,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "mama": {
+            "valor": 100000,
+            "accion": "sumar"
+        }
+    }
 }
