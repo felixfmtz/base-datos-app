@@ -67,6 +67,10 @@
         "combustible": {
             "valor": 280000,
             "accion": "sumar"
+        },
+        "entonces ": {
+            "valor": 1295000,
+            "accion": "sumar"
         }
     }
 }
