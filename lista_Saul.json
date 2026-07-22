@@ -79,6 +79,24 @@
             "NoTInteres": 0,
             "TCuota": 40000,
             "TInteres": 0
+        },
+        "Manuel Figueredo. 35.000*40": {
+            "NoTCuota": 35000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Leonardo Dure. 330.000*6. Lu": {
+            "NoTCuota": 130000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Ordonia Davalos. 50.000*24": {
+            "NoTCuota": 50000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
