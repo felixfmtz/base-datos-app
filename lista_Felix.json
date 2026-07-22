@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "22\/07\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Felicia Dominguez",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Elena Flores. Cristian. 200.000*7. Lu": {
             "sigpago": "25\/07\/2026"
