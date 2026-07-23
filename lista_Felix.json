@@ -174,6 +174,12 @@
         },
         "Cristobal Muñoz. 1.200.000": {
             "sigpago": "25\/07\/2026"
+        },
+        "Denis de Oliveira. 1.400.000*8. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1400000,
+            "TInteres": 0
         }
     },
     "Gastos": {
