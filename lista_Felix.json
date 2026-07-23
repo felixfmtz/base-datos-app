@@ -180,6 +180,12 @@
             "NoTInteres": 0,
             "TCuota": 1400000,
             "TInteres": 0
+        },
+        "Juan Ricardo Martinez. 150.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {
