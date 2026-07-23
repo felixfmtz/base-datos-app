@@ -58,6 +58,12 @@
         },
         "Monica Gomez. 280.000*5": {
             "sigpago": "25\/07\/2026"
+        },
+        "Pedro Franco. Aire. 100.000*32. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
