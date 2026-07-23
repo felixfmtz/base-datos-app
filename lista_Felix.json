@@ -139,6 +139,12 @@
         },
         "Ezequiel Gimenez. 220.000*6. Mi": {
             "sigpago": "25\/07\/2026"
+        },
+        "Ezequiel Gimenez. 700.000*4": {
+            "NoTCuota": 0,
+            "NoTInteres": 400000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
