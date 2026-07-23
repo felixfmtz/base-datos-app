@@ -49,6 +49,12 @@
             "NoTInteres": 0,
             "TCuota": 440000,
             "TInteres": 0
+        },
+        "Susana de Leite. Pablo. 300.000*7. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 60000,
+            "TInteres": 0
         }
     },
     "Gastos": {
