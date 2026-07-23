@@ -133,6 +133,12 @@
         },
         "Mabel Villalba. 660.000*6. Mi": {
             "sigpago": "25\/07\/2026"
+        },
+        "Mabel Villalba. 880.000*6. Mi": {
+            "NoTCuota": 780000,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
