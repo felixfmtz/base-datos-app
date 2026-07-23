@@ -37,6 +37,15 @@
                     "Transferencia": "Si"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Gladys Cocco",
+                    "dia": "Vi"
+                }
+            ]
         }
     ],
     "Pagos": {
