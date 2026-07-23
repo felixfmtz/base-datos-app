@@ -145,6 +145,12 @@
             "NoTInteres": 400000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Ezequiel Gimenez. 600.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 100000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
