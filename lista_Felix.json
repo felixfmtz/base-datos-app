@@ -25,6 +25,12 @@
         },
         "Modesto Caceres. 560.000*5": {
             "sigpago": "27\/07\/2026"
+        },
+        "Fernando Colman. Emilce. 110.000*6. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {
