@@ -192,6 +192,12 @@
         },
         "Juan Alberto Venialgo. 4.000.000*6. Sa": {
             "sigpago": "25\/07\/2026"
+        },
+        "Narciso Achar. 90.000*60": {
+            "NoTCuota": 50000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
