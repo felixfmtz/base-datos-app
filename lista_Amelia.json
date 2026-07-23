@@ -19,6 +19,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Jueves",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Blanca Riveros",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "No"
                 }
             ]
         }
