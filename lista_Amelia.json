@@ -65,6 +65,10 @@
         "vehículo ": {
             "valor": 1000000,
             "accion": "sumar"
+        },
+        "casa ": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
