@@ -209,6 +209,10 @@
         "giro": {
             "valor": 270000,
             "accion": "sumar"
+        },
+        "giro elsa": {
+            "valor": 150000,
+            "accion": "sumar"
         }
     }
 }
