@@ -257,6 +257,10 @@
         "casa": {
             "valor": 32000,
             "accion": "sumar"
+        },
+        "helado": {
+            "valor": 6000,
+            "accion": "sumar"
         }
     }
 }
