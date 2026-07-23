@@ -37,5 +37,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "vehículo ": {
+            "valor": 1000000,
+            "accion": "sumar"
+        }
+    }
 }
