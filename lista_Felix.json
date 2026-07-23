@@ -13,6 +13,12 @@
         },
         "Eduardo David Fanego. 110.000*6. Sa": {
             "sigpago": "24\/07\/2026"
+        },
+        "Liliana Amanda Pereira. 560.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 560000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
