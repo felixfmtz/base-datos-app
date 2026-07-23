@@ -1,6 +1,16 @@
 {
     "fecha_ultimo_guardado": "23\/07\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Demesia Nuñez",
+                    "dia": "Vi"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Epifania Ortiz. 45.000*44": {
             "NoTCuota": 45000,
