@@ -154,6 +154,10 @@
         "comids": {
             "valor": 115000,
             "accion": "sumar"
+        },
+        "cargador": {
+            "valor": 95000,
+            "accion": "sumar"
         }
     }
 }
