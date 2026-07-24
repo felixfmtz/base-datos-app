@@ -16,6 +16,12 @@
         },
         "Alejandra Cano. Cel c71. 100.000*25. Lu": {
             "sigpago": "27\/07\/2026"
+        },
+        "Tomasa Cantero. 280.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
