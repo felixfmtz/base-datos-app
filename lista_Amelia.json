@@ -73,9 +73,9 @@
             "Error": "650 en un pago"
         },
         "Matilde Rodriguez. 280.000*10. Ju": {
-            "NoTCuota": 0,
+            "NoTCuota": 130000,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 150000,
             "TInteres": 0
         },
         "Matilde Rodriguez. 280.000*10. Ju. C1": {
