@@ -4,6 +4,13 @@
     "Pagos": {
         "Fabiola Cañete. Cheque. 1.100.000": {
             "sigpago": "31\/07\/2026"
+        },
+        "Weneslaa Gimenez. 220.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pasar mama"
         }
     },
     "Gastos": {}
