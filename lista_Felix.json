@@ -53,6 +53,12 @@
         },
         "Dolores Cristina Gonzalez. 140.000*10. Lu": {
             "sigpago": "31\/07\/2026"
+        },
+        "Alcides Rodas. 440.000*6. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 10000
         }
     },
     "Gastos": {
