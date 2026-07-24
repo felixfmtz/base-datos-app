@@ -62,6 +62,12 @@
         },
         "Felicia Zarza. Santos. 1.200.000": {
             "sigpago": "27\/07\/2026"
+        },
+        "Eliane Mariela Colman. 420.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 420000,
+            "TInteres": 0
         }
     },
     "Gastos": {
