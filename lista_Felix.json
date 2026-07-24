@@ -194,6 +194,10 @@
         "cargador": {
             "valor": 95000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 3580000,
+            "accion": "sumar"
         }
     }
 }
