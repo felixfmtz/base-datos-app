@@ -34,6 +34,13 @@
         },
         "Lizandro Villalba. 210.000*10. Ju": {
             "sigpago": "30\/07\/2026"
+        },
+        "Weneslaa Gimenez. 220.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "650 en un pago"
         }
     },
     "Gastos": {}
