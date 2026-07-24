@@ -65,6 +65,10 @@
         "sueldo derlis": {
             "valor": 525000,
             "accion": "sumar"
+        },
+        "comids": {
+            "valor": 115000,
+            "accion": "sumar"
         }
     }
 }
