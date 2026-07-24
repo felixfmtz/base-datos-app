@@ -4,6 +4,12 @@
     "Pagos": {
         "Denis de Oliveira. 1.400.000*8. Vi": {
             "sigpago": "28\/07\/2026"
+        },
+        "Eusebio Galeano. 220.000*6. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
