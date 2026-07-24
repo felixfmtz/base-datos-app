@@ -116,7 +116,7 @@
         "Arcadio Benitez. Cel A17. 100.000*22. Mi": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 100000,
             "TInteres": 0
         },
         "Rosalba Gonzalez Duarte. 20.000*24": {
