@@ -160,6 +160,12 @@
         },
         "Liz Marina Colman. 210.000*10. Sa": {
             "sigpago": "28\/07\/2026"
+        },
+        "Anibal Godoy. 110.000*6. Ju": {
+            "NoTCuota": 10000,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
