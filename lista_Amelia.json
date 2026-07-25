@@ -323,6 +323,12 @@
             "NoTInteres": 0,
             "TCuota": 2520000,
             "TInteres": 0
+        },
+        "Rosalino Mendoza. 1.600.000. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1600000000,
+            "TInteres": 0
         }
     },
     "Gastos": {
