@@ -69,6 +69,15 @@
                     "Transferencia": "No"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Cristobal Muñoz",
+                    "dia": "Ma"
+                }
+            ]
         }
     ],
     "Pagos": {
