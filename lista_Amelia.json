@@ -385,6 +385,10 @@
         "vehículo ": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "mandarina": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
