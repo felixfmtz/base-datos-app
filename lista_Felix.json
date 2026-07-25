@@ -291,6 +291,12 @@
         },
         "Ruth. Olier. Qui. C2. 300.000*2": {
             "sigpago": "30\/07\/2026"
+        },
+        "Yessica Mieres Davalos. 600.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 600000,
+            "TInteres": 0
         }
     },
     "Gastos": {
