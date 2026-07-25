@@ -52,6 +52,12 @@
         },
         "Liz Karina Bogado. 210.000*10. Vi. C1": {
             "sigpago": "29\/07\/2026"
+        },
+        "Delcia Castillo. Marcelo. 280.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 160000
         }
     },
     "Gastos": {}
