@@ -40,6 +40,12 @@
         },
         "Carlos Garcete. 220.000*6. Ju. C1": {
             "sigpago": "30\/07\/2026"
+        },
+        "Maria Antonia Caballero. Heladera. 100.000*29. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 20000
         }
     },
     "Gastos": {}
