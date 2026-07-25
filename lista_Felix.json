@@ -175,6 +175,12 @@
         },
         "Fabiola Lopez. Aire. 150.000*34. Sa": {
             "sigpago": "01\/08\/2026"
+        },
+        "Anastacio Baez. 140.000*10. Sa": {
+            "NoTCuota": 90000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
