@@ -51,6 +51,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Sábado",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Jose Augusto Cantero",
+                    "Deuda": "1.000.000",
+                    "Garante": "hno",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
