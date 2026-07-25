@@ -196,6 +196,12 @@
         },
         "Liliana Olmedo. 70.000*10. Ju": {
             "sigpago": "30\/07\/2026"
+        },
+        "Willian Canata. 175.000*8. Sa": {
+            "NoTCuota": 175000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
