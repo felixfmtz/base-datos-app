@@ -131,6 +131,19 @@
             "NoTInteres": 0,
             "TCuota": 150000,
             "TInteres": 0
+        },
+        "Juana de la Cruz. Delcy. 1.440.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "numero, 14"
+        },
+        "Luana Sosa. 280.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1190000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
