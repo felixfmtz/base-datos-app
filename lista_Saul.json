@@ -242,6 +242,10 @@
         "combustible": {
             "valor": 280000,
             "accion": "sumar"
+        },
+        "sueldo saul": {
+            "valor": 500000,
+            "accion": "sumar"
         }
     }
 }
