@@ -154,5 +154,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "carne": {
+            "valor": 168000,
+            "accion": "sumar"
+        }
+    }
 }
