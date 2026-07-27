@@ -256,6 +256,10 @@
         "rastrillo": {
             "valor": 23000,
             "accion": "sumar"
+        },
+        "fideo": {
+            "valor": 124000,
+            "accion": "sumar"
         }
     }
 }
