@@ -216,6 +216,13 @@
             "NoTInteres": 0,
             "TCuota": 15000,
             "TInteres": 0
+        },
+        "Jose Ovidio Cardozo. 30.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "33 por 40"
         }
     },
     "Gastos": {}
