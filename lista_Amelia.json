@@ -138,6 +138,12 @@
             "NoTInteres": 50000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Matias Ugarte. 110.000*6. Ma": {
+            "NoTCuota": 120000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
