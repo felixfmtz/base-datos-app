@@ -130,6 +130,12 @@
         },
         "Emilse Mercado. 140.000*10. Lu": {
             "sigpago": "29\/07\/2026"
+        },
+        "Evarista Aguilar. 440.000*6. Lu": {
+            "NoTCuota": 440000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
