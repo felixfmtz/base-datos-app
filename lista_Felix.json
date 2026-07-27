@@ -162,6 +162,10 @@
         "limpieza ": {
             "valor": 63000,
             "accion": "sumar"
+        },
+        "fideo ": {
+            "valor": 14000,
+            "accion": "sumar"
         }
     }
 }
