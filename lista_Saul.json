@@ -259,6 +259,12 @@
         },
         "Alejandra Cano. Cel c71. 100.000*25. Lu": {
             "sigpago": "29\/07\/2026"
+        },
+        "Noelia Gonzalez Cano. Celular. 300.000*13": {
+            "NoTCuota": 300000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
