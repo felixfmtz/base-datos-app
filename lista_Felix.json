@@ -160,6 +160,12 @@
             "NoTInteres": 0,
             "TCuota": 400000,
             "TInteres": 0
+        },
+        "Zulma Peralta. 210.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {
