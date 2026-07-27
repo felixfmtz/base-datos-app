@@ -152,6 +152,10 @@
         "agua": {
             "valor": 192000,
             "accion": "sumar"
+        },
+        "limpieza ": {
+            "valor": 63000,
+            "accion": "sumar"
         }
     }
 }
