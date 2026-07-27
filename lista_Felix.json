@@ -246,6 +246,10 @@
         "lavadero": {
             "valor": 40000,
             "accion": "sumar"
+        },
+        "rastrillo": {
+            "valor": 23000,
+            "accion": "sumar"
         }
     }
 }
