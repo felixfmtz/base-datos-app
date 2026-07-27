@@ -85,7 +85,7 @@
         "Santiago Pereira. 210.000*10. Lu. C1": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 210000,
+            "TCuota": 0,
             "TInteres": 0
         }
     },
