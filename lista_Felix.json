@@ -242,7 +242,8 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0,
-            "Error": "corregir"
+            "Error": "corregir",
+            "sigpago": "01\/08\/2026"
         }
     },
     "Gastos": {
