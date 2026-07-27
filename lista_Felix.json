@@ -244,6 +244,12 @@
             "TInteres": 0,
             "Error": "corregir",
             "sigpago": "01\/08\/2026"
+        },
+        "Juan Alberto Venialgo. 24.000.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 2000000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
