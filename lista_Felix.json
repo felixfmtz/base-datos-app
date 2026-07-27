@@ -308,6 +308,10 @@
         "fideo": {
             "valor": 124000,
             "accion": "sumar"
+        },
+        "sueldo jessica": {
+            "valor": 1500000,
+            "accion": "sumar"
         }
     }
 }
