@@ -34,6 +34,15 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Modesto Caceres. 560.000*5": {
+            "sigpago": "30\/07\/2026"
+        },
+        "Lucia Quiñonez. 140.000*10. Sa": {
+            "NoTCuota": 150000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
