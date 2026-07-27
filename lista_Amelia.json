@@ -37,6 +37,12 @@
         },
         "Candido Cabral. 220.000*6. Mi. C1": {
             "sigpago": "29\/07\/2026"
+        },
+        "Graciela Cardozo. 150.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
