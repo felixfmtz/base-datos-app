@@ -124,10 +124,10 @@
             "TInteres": 0
         },
         "Sonia Amarilla. 330.000. Sa": {
-            "NoTCuota": 300000,
+            "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 30000,
-            "TInteres": 30000
+            "TCuota": 0,
+            "TInteres": 0
         },
         "Delcia Castillo. 600.000": {
             "NoTCuota": 0,
