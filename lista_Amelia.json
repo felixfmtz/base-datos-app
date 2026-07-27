@@ -81,6 +81,12 @@
             "NoTInteres": 0,
             "TCuota": 460000,
             "TInteres": 0
+        },
+        "Santiago Pereira. 210.000*10. Lu. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
