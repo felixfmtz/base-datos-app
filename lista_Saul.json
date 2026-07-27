@@ -4,6 +4,12 @@
     "Pagos": {
         "Feliciana Arevalos. 220.000*6. Sa": {
             "sigpago": "31\/07\/2026"
+        },
+        "Leonarda Zalazar. 150.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
