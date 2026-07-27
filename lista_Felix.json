@@ -192,6 +192,12 @@
         },
         "Roman Flores. 210.000*4. Ju": {
             "sigpago": "30\/07\/2026"
+        },
+        "Leonardo Dure. 330.000*6. Lu": {
+            "NoTCuota": 300000,
+            "NoTInteres": 0,
+            "TCuota": 30000,
+            "TInteres": 0
         }
     },
     "Gastos": {
