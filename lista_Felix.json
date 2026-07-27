@@ -148,6 +148,10 @@
         "gomeria": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "agua": {
+            "valor": 192000,
+            "accion": "sumar"
         }
     }
 }
