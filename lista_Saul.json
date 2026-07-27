@@ -274,6 +274,12 @@
         },
         "Sofia Aquino. 240.000*10. Lu": {
             "sigpago": "31\/07\/2026"
+        },
+        "Ovidio Ortiz. 140.000*10. Sa": {
+            "NoTCuota": 150000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
