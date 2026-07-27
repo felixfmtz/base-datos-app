@@ -19,6 +19,13 @@
             "NoTInteres": 0,
             "TCuota": 220000,
             "TInteres": 0
+        },
+        "Eduardo David Fanego. 110.000*6. Sa": {
+            "sigpago": "30\/07\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
