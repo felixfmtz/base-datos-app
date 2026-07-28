@@ -45,6 +45,15 @@
                     "Transferencia": "Si"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Fatima Fonseca",
+                    "dia": "Mi"
+                }
+            ]
         }
     ],
     "Pagos": {
