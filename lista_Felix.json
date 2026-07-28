@@ -100,6 +100,12 @@
         },
         "Cristobal Muños. 1.100.000": {
             "sigpago": "01\/08\/2026"
+        },
+        "Gloria Florentin. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 65000,
+            "TInteres": 0
         }
     },
     "Gastos": {
