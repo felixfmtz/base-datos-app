@@ -152,5 +152,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "pescado": {
+            "valor": 750000,
+            "accion": "sumar"
+        }
+    }
 }
