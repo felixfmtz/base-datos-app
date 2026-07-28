@@ -169,6 +169,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "partir la cuenta"
+        },
+        "Mario Medina. 265.000*8. Sa": {
+            "NoTCuota": 590000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
