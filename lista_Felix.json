@@ -33,5 +33,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "pan": {
+            "valor": 15000,
+            "accion": "sumar"
+        }
+    }
 }
