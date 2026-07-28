@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "28\/07\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Alejandro Tomas Gimenez",
+                    "Deuda": "1.500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Fabiola Cañete. 1.100.000. C1": {
             "sigpago": "01\/08\/2026"
