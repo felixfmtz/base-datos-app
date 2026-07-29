@@ -106,6 +106,12 @@
         },
         "Perla Gonzalez Cano. 280.000*10. Sa": {
             "sigpago": "03\/08\/2026"
+        },
+        "Cristina Yegros. 280.000*10. Sa": {
+            "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
