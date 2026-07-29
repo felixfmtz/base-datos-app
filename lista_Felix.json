@@ -29,6 +29,15 @@
                     "Transferencia": "Si"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Marcia Torres",
+                    "dia": "Ju"
+                }
+            ]
         }
     ],
     "Pagos": {
