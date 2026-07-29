@@ -61,5 +61,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "cubierta": {
+            "valor": 600000,
+            "accion": "sumar"
+        }
+    }
 }
