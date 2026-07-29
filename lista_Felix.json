@@ -11,6 +11,14 @@
                     "NCuotas": "14",
                     "Frecuencia": "Jueves",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Vidalia Gaete",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "Si"
                 }
             ]
         }
