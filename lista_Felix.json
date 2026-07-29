@@ -11,6 +11,13 @@
         },
         "Cristobal Muñoz. 1.200.000": {
             "sigpago": "01\/08\/2026"
+        },
+        "Mirtha Graciela. 10.200.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "corregir"
         }
     },
     "Gastos": {}
