@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "29\/07\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Rumilda Melgarejo",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Graciela Cardozo. 150.000*44": {
             "NoTCuota": 0,
