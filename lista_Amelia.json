@@ -239,6 +239,10 @@
         "entregado ": {
             "valor": 5000000,
             "accion": "sumar"
+        },
+        "helado": {
+            "valor": 33000,
+            "accion": "sumar"
         }
     }
 }
