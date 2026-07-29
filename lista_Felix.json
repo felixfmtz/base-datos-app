@@ -65,6 +65,10 @@
         "cubierta": {
             "valor": 600000,
             "accion": "sumar"
+        },
+        "comida": {
+            "valor": 68000,
+            "accion": "sumar"
         }
     }
 }
