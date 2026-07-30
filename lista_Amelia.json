@@ -50,6 +50,12 @@
             "NoTInteres": 0,
             "TCuota": 220000,
             "TInteres": 0
+        },
+        "Ronda. Susana. 1.400.000": {
+            "NoTCuota": 860000,
+            "NoTInteres": 0,
+            "TCuota": 540000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
