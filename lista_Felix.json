@@ -77,6 +77,10 @@
         "farmacia": {
             "valor": 95000,
             "accion": "sumar"
+        },
+        "almidon": {
+            "valor": 150000,
+            "accion": "sumar"
         }
     }
 }
