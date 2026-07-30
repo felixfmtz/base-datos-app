@@ -132,7 +132,7 @@
         "Santiago Duarte. 300.000*2": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 325000,
             "TInteres": 0,
             "Error": "325 por 2"
         }
