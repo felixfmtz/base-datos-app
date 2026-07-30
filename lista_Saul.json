@@ -5,14 +5,6 @@
             "seccion": "Crear cuenta",
             "items": [
                 {
-                    "nombreOriginal": "Marcia Torres",
-                    "Deuda": "000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "",
-                    "Frecuencia": "",
-                    "Transferencia": "No"
-                },
-                {
                     "nombreOriginal": "Marcia Torres 2",
                     "Deuda": "1.500.000",
                     "Garante": "Sin Garante",
