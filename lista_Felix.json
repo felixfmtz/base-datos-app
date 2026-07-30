@@ -51,6 +51,14 @@
                     "NCuotas": "3",
                     "Frecuencia": "",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Cristina Yegros",
+                    "Deuda": "150.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "7",
+                    "Frecuencia": "",
+                    "Transferencia": "No"
                 }
             ]
         }
