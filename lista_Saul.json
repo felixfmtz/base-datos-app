@@ -3,7 +3,11 @@
     "cuentas": [],
     "Pagos": {
         "Liliana Olmedo. 70.000*10. Ju": {
-            "sigpago": "01\/08\/2026"
+            "sigpago": "01\/08\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 70000,
+            "TInteres": 0
         },
         "Cristina Yegros. 280.000*10. Sa": {
             "sigpago": "01\/08\/2026"
