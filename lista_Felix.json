@@ -73,5 +73,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "farmacia": {
+            "valor": 95000,
+            "accion": "sumar"
+        }
+    }
 }
