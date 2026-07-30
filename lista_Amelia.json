@@ -20,6 +20,18 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "Gloria garante"
+        },
+        "Daniel Saucedo Zaya. 440.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 440000,
+            "TInteres": 0
+        },
+        "Daniel Saucedo Zaya. Lavarropa 15 kg. 250.000*18": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 125000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
