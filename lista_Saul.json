@@ -150,6 +150,12 @@
         },
         "Ezequiel Gimenez. 220.000*6. Lu": {
             "sigpago": "01\/08\/2026"
+        },
+        "Marcia Torres. 220.000*6. Ma": {
+            "NoTCuota": 660000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
