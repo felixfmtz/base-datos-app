@@ -193,6 +193,12 @@
             "NoTInteres": 0,
             "TCuota": 175000,
             "TInteres": 0
+        },
+        "Cristina Yegros": {
+            "NoTCuota": 50000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
