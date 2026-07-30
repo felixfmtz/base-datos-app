@@ -87,7 +87,11 @@
             "TInteres": 10000
         },
         "Hugo Caceres. Olier. 105.000*4": {
-            "sigpago": "31\/07\/2026"
+            "sigpago": "31\/07\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 30000
         }
     },
     "Gastos": {
