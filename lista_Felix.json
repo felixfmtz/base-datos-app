@@ -22,6 +22,12 @@
         },
         "Fabiola Cañete. 3.300.000": {
             "sigpago": "01\/08\/2026"
+        },
+        "Lido Maciel. 280.000*10. Ju": {
+            "NoTCuota": 560000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
