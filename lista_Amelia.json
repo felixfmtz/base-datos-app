@@ -214,6 +214,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "10 y 26"
+        },
+        "Angel Rios. Cristian. 210.000*10. Ju": {
+            "NoTCuota": 210000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
