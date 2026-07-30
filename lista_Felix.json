@@ -115,7 +115,11 @@
             "TInteres": 10000
         },
         "Hugo Careres. Olier. 300.000*2. C2": {
-            "sigpago": "31\/07\/2026"
+            "sigpago": "31\/07\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 10000
         }
     },
     "Gastos": {
