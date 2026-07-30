@@ -209,6 +209,10 @@
         "almidon": {
             "valor": 150000,
             "accion": "sumar"
+        },
+        "combustible ": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
