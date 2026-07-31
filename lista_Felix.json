@@ -261,6 +261,10 @@
         "motor": {
             "valor": 680000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 4810000,
+            "accion": "sumar"
         }
     }
 }
