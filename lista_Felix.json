@@ -159,9 +159,9 @@
             "TInteres": 0
         },
         "Maria Francisca. 30.000*44. C1": {
-            "NoTCuota": 0,
+            "NoTCuota": 810000,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 30000,
             "TInteres": 0,
             "Error": "9 del 7"
         }
