@@ -43,6 +43,12 @@
         },
         "Fabiola Cañete. Cheque. 1.100.000": {
             "sigpago": "08\/08\/2026"
+        },
+        "Hugo Caceres. 180.000*4. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 20000
         }
     },
     "Gastos": {
