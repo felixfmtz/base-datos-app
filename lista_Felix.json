@@ -35,6 +35,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Viernes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Pablo Alderete",
+                    "Deuda": "882.000",
+                    "Garante": "redmi a7 pro",
+                    "NCuotas": "18",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "Si"
                 }
             ]
         }
