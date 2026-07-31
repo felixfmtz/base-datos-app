@@ -9,5 +9,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "giro": {
+            "valor": 20000,
+            "accion": "sumar"
+        }
+    }
 }
