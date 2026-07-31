@@ -53,6 +53,15 @@
                     "Transferencia": "No"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Rosalba Gonzalez Duarte",
+                    "dia": "Vi"
+                }
+            ]
         }
     ],
     "Pagos": {
