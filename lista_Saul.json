@@ -1,6 +1,16 @@
 {
     "fecha_ultimo_guardado": "31\/07\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Ordonia Davalos",
+                    "dia": "Sa"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Gedalia DelValle. Heladera. 200.000*42. Vi": {
             "sigpago": "03\/08\/2026"
