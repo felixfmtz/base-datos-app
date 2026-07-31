@@ -249,6 +249,10 @@
         "sueldo derlis ": {
             "valor": 525000,
             "accion": "sumar"
+        },
+        "motor": {
+            "valor": 680000,
+            "accion": "sumar"
         }
     }
 }
