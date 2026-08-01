@@ -16,6 +16,12 @@
         },
         "Fabiola Lopez. Aire. 150.000*34. Sa": {
             "sigpago": "08\/08\/2026"
+        },
+        "Eliane Mariela Colman. 420.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 430000,
+            "TInteres": 0
         }
     },
     "Gastos": {
