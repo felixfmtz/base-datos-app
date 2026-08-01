@@ -17,6 +17,10 @@
         "giro carolina ": {
             "valor": 300000,
             "accion": "sumar"
+        },
+        "comida": {
+            "valor": 115000,
+            "accion": "sumar"
         }
     }
 }
