@@ -82,6 +82,12 @@
             "NoTInteres": 0,
             "TCuota": 3300000,
             "TInteres": 0
+        },
+        "Irene Martinez. 700.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 700000,
+            "TInteres": 0
         }
     },
     "Gastos": {
