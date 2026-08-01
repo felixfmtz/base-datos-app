@@ -332,6 +332,12 @@
             "NoTInteres": 0,
             "TCuota": 448000,
             "TInteres": 0
+        },
+        "Leoni de Oliveira. 1.100.000": {
+            "NoTCuota": 500000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
