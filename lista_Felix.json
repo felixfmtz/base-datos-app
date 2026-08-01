@@ -52,6 +52,12 @@
         },
         "Fabiola Lopez. 700.000*10. Mi": {
             "sigpago": "08\/08\/2026"
+        },
+        "Liz Karina Benitez. 880.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 880000,
+            "TInteres": 0
         }
     },
     "Gastos": {
