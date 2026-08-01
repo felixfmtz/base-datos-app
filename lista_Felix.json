@@ -138,6 +138,10 @@
         "sueldo bruno": {
             "valor": 400000,
             "accion": "sumar"
+        },
+        "comb": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
