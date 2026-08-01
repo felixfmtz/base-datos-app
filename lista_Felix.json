@@ -304,6 +304,12 @@
             "NoTInteres": 0,
             "TCuota": 840000,
             "TInteres": 0
+        },
+        "Juan Alberto Venialgo. 4.000.000*6. Sa": {
+            "NoTCuota": 6000000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
