@@ -156,6 +156,10 @@
         "comb": {
             "valor": 300000,
             "accion": "sumar"
+        },
+        "pan": {
+            "valor": 65000,
+            "accion": "sumar"
         }
     }
 }
