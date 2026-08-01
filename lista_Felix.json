@@ -64,6 +64,12 @@
         },
         "Ramon Vera. 2.400.000": {
             "sigpago": "07\/08\/2026"
+        },
+        "Pedro Franco. Aire. 100.000*32. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
