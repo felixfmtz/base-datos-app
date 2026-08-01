@@ -13,6 +13,10 @@
         "sueldo derlis": {
             "valor": 330000,
             "accion": "sumar"
+        },
+        "giro carolina ": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
