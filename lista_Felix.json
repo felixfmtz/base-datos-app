@@ -167,6 +167,10 @@
         "pan": {
             "valor": 65000,
             "accion": "sumar"
+        },
+        "farma": {
+            "valor": 523000,
+            "accion": "sumar"
         }
     }
 }
