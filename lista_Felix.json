@@ -346,6 +346,10 @@
         "farma": {
             "valor": 523000,
             "accion": "sumar"
+        },
+        "sueldo derlis 2": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
