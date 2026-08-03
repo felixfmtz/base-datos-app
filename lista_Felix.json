@@ -116,6 +116,12 @@
         },
         "Ruth Martinez. 180.000*4. Sa": {
             "sigpago": "06\/08\/2026"
+        },
+        "Vannia Martinez. 3.000.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 500000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
