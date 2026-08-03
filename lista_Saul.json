@@ -46,6 +46,12 @@
         },
         "Aldo Alcaraz. 1.200.000": {
             "sigpago": "06\/08\/2026"
+        },
+        "Benita Alfonzo. 140.000*10. Lu": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
