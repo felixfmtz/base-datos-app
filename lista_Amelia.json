@@ -237,6 +237,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 1000000
+        },
+        "Arcelia Romero. 700.000*10. Ma": {
+            "NoTCuota": 700000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
