@@ -10,7 +10,11 @@
             "Error": "mensual"
         },
         "Eduardo David Fanego. 110.000*6. Sa": {
-            "sigpago": "06\/08\/2026"
+            "sigpago": "06\/08\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
