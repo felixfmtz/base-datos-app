@@ -150,5 +150,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "sueldo jesica": {
+            "valor": 605000,
+            "accion": "sumar"
+        }
+    }
 }
