@@ -203,6 +203,10 @@
         "sueldo jesica": {
             "valor": 605000,
             "accion": "sumar"
+        },
+        "fidel": {
+            "valor": 680000,
+            "accion": "sumar"
         }
     }
 }
