@@ -207,6 +207,10 @@
         "fidel": {
             "valor": 680000,
             "accion": "sumar"
+        },
+        "sueldo je": {
+            "valor": 595000,
+            "accion": "sumar"
         }
     }
 }
