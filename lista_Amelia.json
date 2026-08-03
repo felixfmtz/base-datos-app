@@ -549,6 +549,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Griselda Pereira. Rolando. 440.000*3. C2": {
+            "NoTCuota": 440000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
