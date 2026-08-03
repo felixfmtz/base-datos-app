@@ -234,7 +234,7 @@
         },
         "Marcial Alfonzo Riquelme. Arcelia. 6.000.000": {
             "NoTCuota": 0,
-            "NoTInteres": 0,
+            "NoTInteres": 1000000,
             "TCuota": 0,
             "TInteres": 0
         },
