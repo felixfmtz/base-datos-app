@@ -136,6 +136,12 @@
         },
         "Roque Martinez. 220.000*3": {
             "sigpago": "01\/09\/2026"
+        },
+        "Ronda. Felix. 6.500.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 5500000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
