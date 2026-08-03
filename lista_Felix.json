@@ -211,6 +211,10 @@
         "sueldo je": {
             "valor": 595000,
             "accion": "sumar"
+        },
+        "contador ": {
+            "valor": 500000,
+            "accion": "sumar"
         }
     }
 }
