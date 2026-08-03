@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "03\/08\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Carlos Derlis Duarte",
+                    "Deuda": "200.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Maria Antonia Caballero. Heladera. 100.000*29. Lu": {
             "sigpago": "05\/08\/2026"
