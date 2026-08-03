@@ -215,6 +215,10 @@
         "contador ": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "internet": {
+            "valor": 460000,
+            "accion": "sumar"
         }
     }
 }
