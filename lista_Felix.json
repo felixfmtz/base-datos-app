@@ -22,6 +22,12 @@
         },
         "Liz Marina Colman. 210.000*10. Sa": {
             "sigpago": "08\/08\/2026"
+        },
+        "Loida Ortega. 300.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 300000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
