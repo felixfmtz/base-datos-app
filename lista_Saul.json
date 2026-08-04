@@ -145,6 +145,10 @@
         "luz": {
             "valor": 90000,
             "accion": "sumar"
+        },
+        "entregado ": {
+            "valor": 2175000,
+            "accion": "sumar"
         }
     }
 }
