@@ -141,5 +141,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "luz": {
+            "valor": 90000,
+            "accion": "sumar"
+        }
+    }
 }
