@@ -245,6 +245,10 @@
         "entregado ": {
             "valor": 2175000,
             "accion": "sumar"
+        },
+        "vittz": {
+            "valor": 150000,
+            "accion": "sumar"
         }
     }
 }
