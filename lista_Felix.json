@@ -139,6 +139,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Santiago Pereira",
+                    "Deuda": "882.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "18",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "Si"
                 }
             ]
         }
