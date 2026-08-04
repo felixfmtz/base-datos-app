@@ -59,6 +59,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Ronda 3",
+                    "Deuda": "1.250.000",
+                    "Garante": "juan",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
                 }
             ]
         }
