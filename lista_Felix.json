@@ -130,5 +130,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "javon": {
+            "valor": 77000,
+            "accion": "sumar"
+        }
+    }
 }
