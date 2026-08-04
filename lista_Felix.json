@@ -239,6 +239,12 @@
         },
         "Jose Carlos Pintos. 110.000*6. Sa": {
             "sigpago": "08\/08\/2026"
+        },
+        "Miguel Martinez. 660.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 150000
         }
     },
     "Gastos": {
