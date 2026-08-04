@@ -100,6 +100,12 @@
             "NoTInteres": 0,
             "TCuota": 280000,
             "TInteres": 0
+        },
+        "Lourdes Arce. 80.000*30": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1340000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
