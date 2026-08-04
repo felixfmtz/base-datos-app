@@ -128,6 +128,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Ignacio Melgarejo. 20.000*33. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 60000,
+            "TInteres": 0
         }
     },
     "Gastos": {
