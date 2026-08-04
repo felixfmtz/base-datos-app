@@ -37,6 +37,12 @@
         },
         "Liz Karina Bogado. 210.000*10. Vi. C1": {
             "sigpago": "06\/08\/2026"
+        },
+        "Jesica Figueredo. 150.000*4. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
