@@ -99,6 +99,14 @@
                     "NCuotas": "",
                     "Frecuencia": "Mensual",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Ronda 8",
+                    "Deuda": "1.250.000",
+                    "Garante": "derlis",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
                 }
             ]
         }
