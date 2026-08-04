@@ -88,6 +88,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "sigpago": "Pagado"
+        },
+        "Luis Arzamendia. 1.200.000*5. Lu. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1400000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
