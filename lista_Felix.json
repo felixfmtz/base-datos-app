@@ -45,14 +45,6 @@
                     "Transferencia": "Si"
                 },
                 {
-                    "nombreOriginal": "Ronda",
-                    "Deuda": "000",
-                    "Garante": "freddy",
-                    "NCuotas": "",
-                    "Frecuencia": "Mensual",
-                    "Transferencia": "No"
-                },
-                {
                     "nombreOriginal": "Ronda 2",
                     "Deuda": "1.250.000",
                     "Garante": "valeria ",
