@@ -55,6 +55,12 @@
         },
         "Marcia Torres. 210.000*10. Ma": {
             "sigpago": "06\/08\/2026"
+        },
+        "Maria Galeano. 140.000*10. Ma. C1": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
