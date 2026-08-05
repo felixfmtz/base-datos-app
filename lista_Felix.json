@@ -35,6 +35,14 @@
                     "NCuotas": "44",
                     "Frecuencia": "Diario",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Jessica Cabral",
+                    "Deuda": "5.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "4",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
