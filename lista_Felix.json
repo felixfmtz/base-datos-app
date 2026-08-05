@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "05\/08\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Felicia Dominguez",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Cristobal Muños. 1.100.000": {
             "sigpago": "06\/08\/2026",
