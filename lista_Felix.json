@@ -19,6 +19,14 @@
                     "NCuotas": "13",
                     "Frecuencia": "",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Maria Flores",
+                    "Deuda": "800.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "3",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "Si"
                 }
             ]
         }
