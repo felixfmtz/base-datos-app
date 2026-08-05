@@ -179,6 +179,10 @@
         "casa ": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "vitzz": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
