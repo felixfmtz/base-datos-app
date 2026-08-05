@@ -163,6 +163,10 @@
         "entregado ": {
             "valor": 1530000,
             "accion": "sumar"
+        },
+        "tapa de radiador": {
+            "valor": 40000,
+            "accion": "sumar"
         }
     }
 }
