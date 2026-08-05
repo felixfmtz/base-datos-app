@@ -55,6 +55,12 @@
         },
         "Feliciana Arevalos. Tv. 100.000*28. Lu": {
             "sigpago": "08\/08\/2026"
+        },
+        "Ana Gayoso. 220.000*6. Sa": {
+            "NoTCuota": 70000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
