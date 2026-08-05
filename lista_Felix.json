@@ -145,6 +145,10 @@
         "cuentas": {
             "valor": 1602000,
             "accion": "sumar"
+        },
+        "comida": {
+            "valor": 52000,
+            "accion": "sumar"
         }
     }
 }
