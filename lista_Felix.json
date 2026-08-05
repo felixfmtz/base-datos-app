@@ -300,6 +300,10 @@
         "comida": {
             "valor": 52000,
             "accion": "sumar"
+        },
+        "gasto auto": {
+            "valor": 155000,
+            "accion": "sumar"
         }
     }
 }
