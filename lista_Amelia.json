@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "06\/08\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Hector Recalde",
+                    "Deuda": "500.000",
+                    "Garante": "patrón ",
+                    "NCuotas": "3",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Ronda. Cristian. 1.400.000": {
             "NoTCuota": 1100000,
