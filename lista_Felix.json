@@ -122,6 +122,12 @@
         },
         "Dorca Zarza. 1.200.000. C2": {
             "sigpago": "10\/08\/2026"
+        },
+        "Diego Dure. 220.000*6. Mi": {
+            "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 20000,
+            "TInteres": 0
         }
     },
     "Gastos": {
