@@ -142,6 +142,12 @@
             "NoTInteres": 0,
             "TCuota": 220000,
             "TInteres": 0
+        },
+        "Fernando Colman. 120.000*3. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 120000,
+            "TInteres": 0
         }
     },
     "Gastos": {
