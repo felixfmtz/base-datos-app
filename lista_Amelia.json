@@ -3,9 +3,9 @@
     "cuentas": [],
     "Pagos": {
         "Ronda. Cristian. 1.400.000": {
-            "NoTCuota": 0,
+            "NoTCuota": 1100000,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 300000,
             "TInteres": 0,
             "Error": "100 anotar a Derlis"
         }
