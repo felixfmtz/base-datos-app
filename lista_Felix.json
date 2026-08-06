@@ -53,6 +53,12 @@
         },
         "Hugo Javier Gomez. 140.000*10. Sa": {
             "sigpago": "08\/08\/2026"
+        },
+        "Nelson Ayala Meza. 220.000*6. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
