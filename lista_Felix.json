@@ -11,6 +11,14 @@
                     "NCuotas": "44",
                     "Frecuencia": "Diario",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Francieli Silvero",
+                    "Deuda": "14.032.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "15",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
