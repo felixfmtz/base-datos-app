@@ -67,6 +67,12 @@
         },
         "Graciela Peralta. 220.000*6. Ju": {
             "sigpago": "08\/08\/2026"
+        },
+        "Marcia Torres. 210.000*10. Ma": {
+            "NoTCuota": 210000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
