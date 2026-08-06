@@ -56,7 +56,7 @@
         "Rosalina del Valle. 400.000*30": {
             "NoTCuota": 300000,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 100000,
             "TInteres": 0
         },
         "Gedalia DelValle. 180.000*30": {
