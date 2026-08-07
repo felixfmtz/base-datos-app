@@ -94,6 +94,12 @@
         },
         "Wilner Castillo. 2.400.000": {
             "sigpago": "10\/08\/2026"
+        },
+        "Paola Insfran. 600.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 100000
         }
     },
     "Gastos": {
