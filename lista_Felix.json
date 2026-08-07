@@ -75,14 +75,6 @@
                     "NCuotas": "3",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Aldo Alcaraz 2",
-                    "Deuda": "2.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "10",
-                    "Frecuencia": "Miércoles",
-                    "Transferencia": "Si"
                 }
             ]
         }
