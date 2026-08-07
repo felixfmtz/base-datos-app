@@ -72,7 +72,8 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0,
-            "Error": "pasar a mi"
+            "Error": "pasar a mi",
+            "sigpago": "11\/08\/2026"
         }
     },
     "Gastos": {
