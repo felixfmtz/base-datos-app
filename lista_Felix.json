@@ -54,6 +54,12 @@
         },
         "Elena Flores. Cristian. 200.000*7. Lu": {
             "sigpago": "11\/08\/2026"
+        },
+        "Eliane Marisol Colman. 430.000*8. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {
