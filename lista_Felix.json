@@ -234,6 +234,10 @@
         "sueldo derliss": {
             "valor": 525000,
             "accion": "sumar"
+        },
+        "iso": {
+            "valor": 108000,
+            "accion": "sumar"
         }
     }
 }
