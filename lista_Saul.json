@@ -70,6 +70,10 @@
         "entregado ": {
             "valor": 785000,
             "accion": "sumar"
+        },
+        "en": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
