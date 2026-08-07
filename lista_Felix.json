@@ -77,6 +77,13 @@
         },
         "Carlos Garcete. 220.000*6. Ju. C1": {
             "sigpago": "13\/08\/2026"
+        },
+        "Emilce Noelia Florentin. 30.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pasar a mi"
         }
     },
     "Gastos": {
