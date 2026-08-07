@@ -4,6 +4,12 @@
     "Pagos": {
         "Gedalia DelValle. Heladera. 200.000*42. Vi": {
             "sigpago": "10\/08\/2026"
+        },
+        "Epifania Ortiz. 45.000*44": {
+            "NoTCuota": 45000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
