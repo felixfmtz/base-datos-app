@@ -252,6 +252,10 @@
         "casa 2": {
             "valor": 10000,
             "accion": "sumar"
+        },
+        "comisión de Derlis ": {
+            "valor": 500000,
+            "accion": "sumar"
         }
     }
 }
