@@ -60,6 +60,12 @@
             "NoTInteres": 0,
             "TCuota": 150000,
             "TInteres": 0
+        },
+        "Leticia Alfonzo. 175.000*8. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 175000,
+            "TInteres": 0
         }
     },
     "Gastos": {
