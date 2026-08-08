@@ -373,6 +373,9 @@
             "NoTInteres": 0,
             "TCuota": 220000,
             "TInteres": 0
+        },
+        "Recordatorio. Cuentas": {
+            "sigpago": "10\/08\/2026"
         }
     },
     "Gastos": {
