@@ -313,7 +313,11 @@
             "TInteres": 0
         },
         "Ruben Dario Gonzalez. 220.000*6. Sa": {
-            "sigpago": "15\/08\/2026"
+            "sigpago": "15\/08\/2026",
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
