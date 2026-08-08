@@ -321,6 +321,10 @@
         "obra": {
             "valor": 6470000,
             "accion": "sumar"
+        },
+        "torta": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
