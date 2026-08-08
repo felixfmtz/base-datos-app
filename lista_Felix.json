@@ -67,6 +67,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Arbelino Gonzalez",
+                    "Deuda": "1.500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
@@ -244,7 +252,11 @@
             "TInteres": 0
         },
         "Yanina Plaz. 210.000*10. Sa": {
-            "sigpago": "15\/08\/2026"
+            "sigpago": "15\/08\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
