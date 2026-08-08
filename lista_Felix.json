@@ -291,6 +291,12 @@
             "NoTInteres": 10000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Juan Carlos Duarte. 600.000. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 100000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
