@@ -236,6 +236,12 @@
             "NoTInteres": 110000,
             "TCuota": 0,
             "TInteres": 330000
+        },
+        "Roman Flores. 210.000*4. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 240000,
+            "TInteres": 0
         }
     },
     "Gastos": {
