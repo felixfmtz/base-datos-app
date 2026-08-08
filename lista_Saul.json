@@ -13,6 +13,12 @@
         },
         "Juana Fariña. 220.000*6. Sa": {
             "sigpago": "12\/08\/2026"
+        },
+        "Eusebio Galeano. 220.000*6. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
