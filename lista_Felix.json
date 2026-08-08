@@ -64,6 +64,12 @@
         },
         "Liz Karina Bogado. 140.000*10. Vi": {
             "sigpago": "13\/08\/2026"
+        },
+        "Maria Romina Sosa. 210.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 203000,
+            "TInteres": 0
         }
     },
     "Gastos": {
