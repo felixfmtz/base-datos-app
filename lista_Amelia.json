@@ -76,6 +76,12 @@
             "NoTInteres": 0,
             "TCuota": 200000,
             "TInteres": 0
+        },
+        "Ignacio Fleitas. Raquel. 220.000*6. Lu": {
+            "NoTCuota": 360000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
