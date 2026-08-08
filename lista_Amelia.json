@@ -292,6 +292,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 300000
+        },
+        "Victor Villagra. 210.000*10. Sa": {
+            "NoTCuota": 210000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
