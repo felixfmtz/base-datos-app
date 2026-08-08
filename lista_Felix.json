@@ -341,6 +341,12 @@
         },
         "Cristobal Muñoz. 1.200.000": {
             "sigpago": "12\/08\/2026"
+        },
+        "Maricel Rojas. 2.200.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 2200000,
+            "TInteres": 0
         }
     },
     "Gastos": {
