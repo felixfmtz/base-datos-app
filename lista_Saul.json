@@ -28,6 +28,12 @@
         },
         "Jhon Eguzquiza. 550.000": {
             "sigpago": "11\/08\/2026"
+        },
+        "Bartola Cubilla. 220.000*6. Vi": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
