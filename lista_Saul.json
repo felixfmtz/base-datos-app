@@ -223,6 +223,12 @@
         },
         "Feliciana Arevalos. Tv. 100.000*28. Lu": {
             "sigpago": "13\/08\/2026"
+        },
+        "Ordonia Davalos. 50.000*24": {
+            "NoTCuota": 50000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
