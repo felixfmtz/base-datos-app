@@ -167,6 +167,10 @@
         "gato": {
             "valor": 40000,
             "accion": "sumar"
+        },
+        "remedio ": {
+            "valor": 58000,
+            "accion": "sumar"
         }
     }
 }
