@@ -160,6 +160,12 @@
         },
         "Graciela Peralta. 220.000*6. Ju": {
             "sigpago": "13\/08\/2026"
+        },
+        "Juan Delgado. 400.000*6. Lu": {
+            "NoTCuota": 400000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
