@@ -254,6 +254,12 @@
             "NoTInteres": 0,
             "TCuota": 240000,
             "TInteres": 0
+        },
+        "Delfina Britez. 90.000*44": {
+            "NoTCuota": 90000,
+            "NoTInteres": 0,
+            "TCuota": 90000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
