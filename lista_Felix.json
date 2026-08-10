@@ -251,6 +251,10 @@
         "torta": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "comprea": {
+            "valor": 158000,
+            "accion": "sumar"
         }
     }
 }
