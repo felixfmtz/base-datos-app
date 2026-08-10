@@ -25,6 +25,12 @@
             "NoTInteres": 0,
             "TCuota": 220000,
             "TInteres": 0
+        },
+        "Epifania Ortiz. 45.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 45000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
