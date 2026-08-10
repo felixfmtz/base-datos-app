@@ -163,6 +163,10 @@
         "combu": {
             "valor": 300000,
             "accion": "sumar"
+        },
+        "gato": {
+            "valor": 40000,
+            "accion": "sumar"
         }
     }
 }
