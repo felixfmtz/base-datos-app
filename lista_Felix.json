@@ -171,6 +171,10 @@
         "remedio ": {
             "valor": 58000,
             "accion": "sumar"
+        },
+        "lavadero": {
+            "valor": 50000,
+            "accion": "sumar"
         }
     }
 }
