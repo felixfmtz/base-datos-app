@@ -221,6 +221,10 @@
         "sueldo jessica": {
             "valor": 600000,
             "accion": "sumar"
+        },
+        "uña": {
+            "valor": 2000,
+            "accion": "sumar"
         }
     }
 }
