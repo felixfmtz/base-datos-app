@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "11\/08\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Helida Ortiz",
+                    "Deuda": "500.000",
+                    "Garante": "hijo ",
+                    "NCuotas": "2",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Maria Tomasa Ruiz. 700.000*10. Ma": {
             "sigpago": "18\/08\/2026"
