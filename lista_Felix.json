@@ -99,6 +99,12 @@
         },
         "Liz Marina Colman. 210.000*10. Sa": {
             "sigpago": "15\/08\/2026"
+        },
+        "Felicia Dominguez. Rosana. 1.200.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 200000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
