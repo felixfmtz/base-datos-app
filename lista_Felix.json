@@ -102,6 +102,10 @@
         "comida": {
             "valor": 65000,
             "accion": "sumar"
+        },
+        "cooperativa ": {
+            "valor": 9180000,
+            "accion": "sumar"
         }
     }
 }
