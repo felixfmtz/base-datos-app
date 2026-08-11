@@ -16,6 +16,12 @@
         },
         "Librada Peralta. 140.000*10. Ma": {
             "sigpago": "13\/08\/2026"
+        },
+        "Claudelina Maldonado. 140.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 70000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
