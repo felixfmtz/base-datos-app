@@ -146,6 +146,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "De los Santos Melos. 200.000*7. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "190 en7"
         }
     },
     "Gastos": {}
