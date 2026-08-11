@@ -305,6 +305,12 @@
             "NoTInteres": 0,
             "TCuota": 250000,
             "TInteres": 0
+        },
+        "Crispin Rolon. 140.000*10. Ma. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {
