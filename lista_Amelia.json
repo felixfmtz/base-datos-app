@@ -13,6 +13,12 @@
         },
         "Carlos Cabral. 110.000*6. Vi": {
             "sigpago": "14\/08\/2026"
+        },
+        "Luana Sosa. 280.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
