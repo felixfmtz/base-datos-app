@@ -112,6 +112,12 @@
         },
         "Juan Ayala. Aire. 100.000*29. Lu": {
             "sigpago": "15\/08\/2026"
+        },
+        "Ordonia Davalos. 50.000*24": {
+            "NoTCuota": 50000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
