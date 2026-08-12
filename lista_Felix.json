@@ -4,6 +4,12 @@
     "Pagos": {
         "Wilfrido Maldonado. 200.000*7. Mi": {
             "sigpago": "18\/08\/2026"
+        },
+        "Derlis Pintos. 70.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 70000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
