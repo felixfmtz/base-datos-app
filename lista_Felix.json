@@ -10,6 +10,13 @@
             "NoTInteres": 0,
             "TCuota": 70000,
             "TInteres": 0
+        },
+        "Bartola Cubilla. 220.000*6. Ma. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "corregir nombre"
         }
     },
     "Gastos": {}
