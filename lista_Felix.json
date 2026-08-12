@@ -162,6 +162,10 @@
         "celular ": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "sueldo derlis": {
+            "valor": 70000,
+            "accion": "sumar"
         }
     }
 }
