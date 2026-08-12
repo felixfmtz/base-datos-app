@@ -261,6 +261,10 @@
         "casa  2": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "banana": {
+            "valor": 8000,
+            "accion": "sumar"
         }
     }
 }
