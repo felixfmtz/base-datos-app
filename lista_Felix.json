@@ -243,6 +243,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Claudio Insfran. 2.760.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 2760000,
+            "TInteres": 0
         }
     },
     "Gastos": {
