@@ -101,6 +101,12 @@
             "NoTInteres": 200000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Ramon Vera. 2.400.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 400000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
