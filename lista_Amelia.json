@@ -236,6 +236,12 @@
             "NoTInteres": 0,
             "TCuota": 40000,
             "TInteres": 0
+        },
+        "Diosnel Pintos Godoy. 440.000*6. Ma": {
+            "NoTCuota": 340000,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
