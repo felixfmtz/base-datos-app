@@ -9,7 +9,11 @@
             "TInteres": 0
         },
         "Liliana Olmedo. 70.000*10. Ju": {
-            "sigpago": "15\/08\/2026"
+            "sigpago": "15\/08\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 70000,
+            "TInteres": 0
         },
         "Fermiano Menese. 140.000*10. Ma": {
             "NoTCuota": 70000,
