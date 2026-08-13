@@ -172,6 +172,10 @@
         "sueldo saul": {
             "valor": 60000,
             "accion": "sumar"
+        },
+        "farmacia": {
+            "valor": 85000,
+            "accion": "sumar"
         }
     }
 }
