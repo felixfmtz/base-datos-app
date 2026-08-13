@@ -25,6 +25,12 @@
         },
         "Graciela Peralta. 220.000*6. Ju": {
             "sigpago": "15\/08\/2026"
+        },
+        "Victor Mendoza. 220.000*6. Lu": {
+            "NoTCuota": 500000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
