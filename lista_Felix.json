@@ -59,6 +59,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 400000
+        },
+        "Fatima Fonseca. Cel A51. 100.000*14. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
