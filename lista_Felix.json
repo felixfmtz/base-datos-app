@@ -264,6 +264,10 @@
         "obra": {
             "valor": 4290000,
             "accion": "sumar"
+        },
+        "encomienda ": {
+            "valor": 25000,
+            "accion": "sumar"
         }
     }
 }
