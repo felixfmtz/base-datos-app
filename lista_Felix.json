@@ -92,6 +92,10 @@
         "azucar": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "power": {
+            "valor": 193000,
+            "accion": "sumar"
         }
     }
 }
