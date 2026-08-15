@@ -208,6 +208,12 @@
         },
         "Liliana Olmedo. 70.000*10. Ju": {
             "sigpago": "19\/08\/2026"
+        },
+        "Ovidio Ortiz. 140.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
