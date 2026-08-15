@@ -96,6 +96,10 @@
         "power": {
             "valor": 193000,
             "accion": "sumar"
+        },
+        "carbón ": {
+            "valor": 35000,
+            "accion": "sumar"
         }
     }
 }
