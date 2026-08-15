@@ -42,5 +42,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "giro carolina ": {
+            "valor": 200000,
+            "accion": "sumar"
+        }
+    }
 }
