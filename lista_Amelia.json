@@ -28,6 +28,12 @@
         },
         "Irma Raquel Cantero. 350.000*10. Sa": {
             "sigpago": "31\/08\/2026"
+        },
+        "Pedro Florentin. Griselda. 170.000*2. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 170000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
