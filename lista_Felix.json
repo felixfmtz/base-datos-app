@@ -34,6 +34,12 @@
         },
         "Fermin Lopez. 220.000*6. Sa": {
             "sigpago": "22\/08\/2026"
+        },
+        "Karen Gonzalez. 420.000*5. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 420000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
