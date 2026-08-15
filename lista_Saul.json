@@ -10,6 +10,12 @@
         },
         "Carlos Garcete. 220.000*6. Ju. C1": {
             "sigpago": "18\/08\/2026"
+        },
+        "Liz Karina Bogado. 140.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
