@@ -59,6 +59,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Ignacio Fleitas",
+                    "Deuda": "1.510.000",
+                    "Garante": "raquel",
+                    "NCuotas": "24",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
                 }
             ]
         },
