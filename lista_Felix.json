@@ -45,6 +45,15 @@
                     "Transferencia": "Si"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Mirna Gauto",
+                    "dia": "Lu"
+                }
+            ]
         }
     ],
     "Pagos": {
