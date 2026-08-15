@@ -19,14 +19,6 @@
                     "NCuotas": "10",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Sofia Aquino",
-                    "Deuda": "1.400.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "10",
-                    "Frecuencia": "Lunes",
-                    "Transferencia": "No"
                 }
             ]
         }
