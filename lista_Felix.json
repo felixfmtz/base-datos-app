@@ -46,6 +46,10 @@
         "giro carolina ": {
             "valor": 200000,
             "accion": "sumar"
+        },
+        "azucar": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
