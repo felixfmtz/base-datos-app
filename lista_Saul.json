@@ -106,6 +106,10 @@
         "mama": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "entregado ": {
+            "valor": 2160000,
+            "accion": "sumar"
         }
     }
 }
