@@ -109,6 +109,18 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Cristobal Muñoz. 250.000*6. Sa": {
+            "NoTCuota": 250000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Gilberto Molinas. 150.000*44. C1": {
+            "NoTCuota": 1000000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
