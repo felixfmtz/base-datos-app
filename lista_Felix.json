@@ -43,6 +43,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 200000
+        },
+        "Juana Fariña. 220.000*6. Sa. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
