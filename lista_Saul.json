@@ -184,6 +184,12 @@
         },
         "Sergio Peralta. 1.200.000": {
             "sigpago": "22\/08\/2026"
+        },
+        "Evarista Aguilar. 440.000*6. Lu": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
