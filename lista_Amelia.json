@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "17\/08\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Arnaldo Prieto",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "3",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Ramon Figueredo. 210.000*10. Lu": {
             "NoTCuota": 0,
@@ -258,6 +272,12 @@
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 300000,
+            "TInteres": 0
+        },
+        "Dario Rene Pintos. Manu. 1.800.000": {
+            "NoTCuota": 600000,
+            "NoTInteres": 0,
+            "TCuota": 0,
             "TInteres": 0
         }
     },
