@@ -171,5 +171,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "casa ": {
+            "valor": 90000,
+            "accion": "sumar"
+        }
+    }
 }
