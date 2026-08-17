@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "17\/08\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Hector Recalde",
+                    "Deuda": "879.966",
+                    "Garante": "cel xiomi 15c",
+                    "NCuotas": "18",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Vanesa Servian. Aire. 100.000*30. Sa": {
             "sigpago": "22\/08\/2026"
