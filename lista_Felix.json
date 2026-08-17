@@ -7,6 +7,12 @@
         },
         "Vanesa Servian. Lavarropa. 100.000*28. Sa": {
             "sigpago": "22\/08\/2026"
+        },
+        "Perla Fernandez. 110.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
