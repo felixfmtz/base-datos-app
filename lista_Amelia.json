@@ -67,6 +67,12 @@
             "NoTInteres": 0,
             "TCuota": 1400000,
             "TInteres": 0
+        },
+        "Victoria Romero. Aire. 300.000*35. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
