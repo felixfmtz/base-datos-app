@@ -259,6 +259,15 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Mabel Moreno. 240.000": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Erica Fidelina Roa. 140.000*10. Lu": {
+            "sigpago": "24\/08\/2026"
         }
     },
     "Gastos": {
