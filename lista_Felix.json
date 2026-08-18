@@ -249,6 +249,10 @@
         "perro": {
             "valor": 428000,
             "accion": "sumar"
+        },
+        "comida 2": {
+            "valor": 85000,
+            "accion": "sumar"
         }
     }
 }
