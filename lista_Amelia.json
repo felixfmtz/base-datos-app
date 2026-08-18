@@ -328,6 +328,10 @@
         "cada": {
             "valor": 200000,
             "accion": "sumar"
+        },
+        "real": {
+            "valor": 440000,
+            "accion": "sumar"
         }
     }
 }
