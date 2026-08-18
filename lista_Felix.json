@@ -13,14 +13,6 @@
                     "Transferencia": "Si"
                 },
                 {
-                    "nombreOriginal": "Sonia Amarilla",
-                    "Deuda": "500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Sábado",
-                    "Transferencia": "No"
-                },
-                {
                     "nombreOriginal": "Rosalino Benitez",
                     "Deuda": "4.000.000",
                     "Garante": "Sin Garante",
