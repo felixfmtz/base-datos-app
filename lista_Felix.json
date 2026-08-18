@@ -54,6 +54,12 @@
             "NoTInteres": 0,
             "TCuota": 1680000,
             "TInteres": 0
+        },
+        "Gloria Florentin. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 240000,
+            "TInteres": 0
         }
     },
     "Gastos": {
