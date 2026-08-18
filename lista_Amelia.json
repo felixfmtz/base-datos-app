@@ -13,6 +13,12 @@
         },
         "Derlis Delgadillo. 350.000*4": {
             "sigpago": "24\/08\/2026"
+        },
+        "Diego Armando. 110.000*6. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
