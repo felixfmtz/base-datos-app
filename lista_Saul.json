@@ -16,6 +16,12 @@
         },
         "Perla Gonzalez Cano. 280.000*10. Sa": {
             "sigpago": "21\/08\/2026"
+        },
+        "Lalia Barrios. 280.000*10. Lu": {
+            "NoTCuota": 240000,
+            "NoTInteres": 0,
+            "TCuota": 40000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
