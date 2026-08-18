@@ -24,6 +24,12 @@
         },
         "Maria Magdalena. 560.000*10. Sa": {
             "sigpago": "23\/08\/2026"
+        },
+        "Nelva Colman. 330.000*6. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 250000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
