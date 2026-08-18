@@ -51,6 +51,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Martes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Gloria Cristaldo",
+                    "Deuda": "1.270.000",
+                    "Garante": "centrífuga 20kg",
+                    "NCuotas": "20",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
                 }
             ]
         }
