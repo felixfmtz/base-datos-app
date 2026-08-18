@@ -194,6 +194,10 @@
         "doc": {
             "valor": 460000,
             "accion": "sumar"
+        },
+        "perro": {
+            "valor": 428000,
+            "accion": "sumar"
         }
     }
 }
