@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "19\/08\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Santiago Duarte",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "2",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Angel Pereira. 210.000*10. Sa": {
             "NoTCuota": 0,
