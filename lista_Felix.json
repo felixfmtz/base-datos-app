@@ -211,6 +211,12 @@
         },
         "Ramona Ortiz. 440.000*3": {
             "sigpago": "22\/08\/2026"
+        },
+        "Elsa Cañete. Heladera. 768.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 2000,
+            "TInteres": 128000
         }
     },
     "Gastos": {
