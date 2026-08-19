@@ -100,6 +100,12 @@
         },
         "Aldo Alcaraz. 280.000*10. Mi": {
             "sigpago": "22\/08\/2026"
+        },
+        "Rosalba Ojeda. 220.000*6. Mi": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
