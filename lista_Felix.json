@@ -95,6 +95,10 @@
         "farmacia": {
             "valor": 90000,
             "accion": "sumar"
+        },
+        "laboratorio ": {
+            "valor": 1500000,
+            "accion": "sumar"
         }
     }
 }
