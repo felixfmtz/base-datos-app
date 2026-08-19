@@ -134,6 +134,12 @@
         },
         "Juan Alberto Venialgo. 4.000.000*6. Mi": {
             "sigpago": "21\/08\/2026"
+        },
+        "Dorca Zarza. 420.000*10. Sa": {
+            "NoTCuota": 300000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
