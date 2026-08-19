@@ -73,6 +73,12 @@
         },
         "Feliciana Arevalos. Tv. 100.000*28. Lu": {
             "sigpago": "21\/08\/2026"
+        },
+        "Juan Delgado. 2.000.000*6. Lu. C1": {
+            "NoTCuota": 1500000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
