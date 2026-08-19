@@ -35,6 +35,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Jose Ovidio Cardozo",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "44",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "No"
                 }
             ]
         }
