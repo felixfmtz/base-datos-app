@@ -102,5 +102,10 @@
             "sigpago": "22\/08\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "saul": {
+            "valor": 3055000,
+            "accion": "sumar"
+        }
+    }
 }
