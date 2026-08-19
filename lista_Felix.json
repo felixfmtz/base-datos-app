@@ -67,6 +67,12 @@
         },
         "Alejandro Lopez. Robert. 220.000*6. Sa": {
             "sigpago": "22\/08\/2026"
+        },
+        "Cayo Castillo. 240.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 40000
         }
     },
     "Gastos": {}
