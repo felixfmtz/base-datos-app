@@ -225,6 +225,10 @@
         "conejo ": {
             "valor": 255000,
             "accion": "sumar"
+        },
+        "rral ": {
+            "valor": 1469000,
+            "accion": "sumar"
         }
     }
 }
