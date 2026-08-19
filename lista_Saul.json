@@ -184,6 +184,12 @@
         },
         "Demesia Nuñez. 140.000*10. Sa": {
             "sigpago": "21\/08\/2026"
+        },
+        "Jessica Cabral. 1.500.000*4. Lu": {
+            "NoTCuota": 500000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
