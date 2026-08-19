@@ -87,5 +87,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "tomografia": {
+            "valor": 600000,
+            "accion": "sumar"
+        }
+    }
 }
