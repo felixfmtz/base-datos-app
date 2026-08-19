@@ -35,6 +35,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Ramona Ortiz",
+                    "Deuda": "800.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
