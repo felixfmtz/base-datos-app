@@ -9,7 +9,17 @@
             "TInteres": 0
         },
         "Esteban Velazquez. 220.000*3": {
-            "sigpago": "20\/08\/2026"
+            "sigpago": "20\/08\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 20000
+        },
+        "Juan Raimundo. 1.100.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
