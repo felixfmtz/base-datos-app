@@ -91,6 +91,10 @@
         "tomografia": {
             "valor": 600000,
             "accion": "sumar"
+        },
+        "farmacia": {
+            "valor": 90000,
+            "accion": "sumar"
         }
     }
 }
