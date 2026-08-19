@@ -178,6 +178,10 @@
         "combu": {
             "valor": 300000,
             "accion": "sumar"
+        },
+        "conejo ": {
+            "valor": 255000,
+            "accion": "sumar"
         }
     }
 }
