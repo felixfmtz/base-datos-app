@@ -4,6 +4,12 @@
     "Pagos": {
         "Alejandro Lopez. Robert. 220.000*6. Sa": {
             "sigpago": "22\/08\/2026"
+        },
+        "Gloria Cristaldo. Centrífuga 20Kg. 100.000*20. Mi": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
