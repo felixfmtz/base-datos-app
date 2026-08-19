@@ -19,6 +19,14 @@
                     "NCuotas": "",
                     "Frecuencia": "Diario",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Luis Arzamendia 2",
+                    "Deuda": "5.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "5",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
