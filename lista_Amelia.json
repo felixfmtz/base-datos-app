@@ -333,6 +333,10 @@
         "basura ": {
             "valor": 45000,
             "accion": "sumar"
+        },
+        "casa 2": {
+            "valor": 37000,
+            "accion": "sumar"
         }
     }
 }
