@@ -62,6 +62,10 @@
         "sueldo bruno": {
             "valor": 95000,
             "accion": "sumar"
+        },
+        "telefono ": {
+            "valor": 320000,
+            "accion": "sumar"
         }
     }
 }
