@@ -32,6 +32,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "sigpago": "Pagado"
+        },
+        "Silvia Elizabeth Lopez. 460.000*3": {
+            "sigpago": "25\/08\/2026"
         }
     },
     "Gastos": {}
