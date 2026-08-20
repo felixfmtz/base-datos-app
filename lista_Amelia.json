@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "20\/08\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Gloria Amada Gomez",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Leandra Bobadilla. 220.000*6. Ma": {
             "NoTCuota": 0,
