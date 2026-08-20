@@ -277,6 +277,10 @@
         "car": {
             "valor": 19800,
             "accion": "sumar"
+        },
+        "meca": {
+            "valor": 500000,
+            "accion": "sumar"
         }
     }
 }
