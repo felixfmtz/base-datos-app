@@ -123,6 +123,12 @@
             "NoTInteres": 0,
             "TCuota": 600000,
             "TInteres": 0
+        },
+        "Edilberto Benitez. 80.000*33. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 240000,
+            "TInteres": 0
         }
     },
     "Gastos": {
