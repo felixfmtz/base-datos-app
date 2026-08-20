@@ -247,6 +247,12 @@
         },
         "Juan Ricardo Martinez. 150.000*6. Sa": {
             "sigpago": "22\/08\/2026"
+        },
+        "Felicia Dominguez. 110.000*6. Mi": {
+            "NoTCuota": 110000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
