@@ -27,6 +27,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Maria Elizabeth Gonzalez",
+                    "Deuda": "5.950.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "45",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "No"
                 }
             ]
         }
