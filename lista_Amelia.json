@@ -22,6 +22,12 @@
         },
         "Pablo Alderete. Redmi A7 Pro. 100.000*18. Mi": {
             "sigpago": "26\/08\/2026"
+        },
+        "Hector Recalde. Patrón. 200.000*3. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
