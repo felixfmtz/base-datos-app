@@ -54,6 +54,10 @@
         "coquito": {
             "valor": 105000,
             "accion": "sumar"
+        },
+        "informconf": {
+            "valor": 284000,
+            "accion": "sumar"
         }
     }
 }
