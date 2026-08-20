@@ -50,5 +50,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "coquito": {
+            "valor": 105000,
+            "accion": "sumar"
+        }
+    }
 }
