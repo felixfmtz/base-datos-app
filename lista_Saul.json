@@ -54,5 +54,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "pollo": {
+            "valor": 100000,
+            "accion": "sumar"
+        }
+    }
 }
