@@ -208,6 +208,10 @@
         "carlos": {
             "valor": 200,
             "accion": "sumar"
+        },
+        "car": {
+            "valor": 19800,
+            "accion": "sumar"
         }
     }
 }
