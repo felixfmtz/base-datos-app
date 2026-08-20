@@ -204,6 +204,10 @@
         "coca": {
             "valor": 15000,
             "accion": "sumar"
+        },
+        "carlos": {
+            "valor": 200,
+            "accion": "sumar"
         }
     }
 }
