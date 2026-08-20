@@ -28,6 +28,12 @@
             "NoTInteres": 0,
             "TCuota": 200000,
             "TInteres": 0
+        },
+        "Ronda. Amelia. 1.400.000": {
+            "NoTCuota": 1150000,
+            "NoTInteres": 0,
+            "TCuota": 250000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
