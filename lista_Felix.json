@@ -202,6 +202,12 @@
         },
         "Cristobal Muños. 1.100.000": {
             "sigpago": "22\/08\/2026"
+        },
+        "Maria Galeano. 140.000*10. Ma. C1": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
