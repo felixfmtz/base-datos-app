@@ -46,6 +46,12 @@
         },
         "Graciela Peralta. 220.000*6. Ju": {
             "sigpago": "22\/08\/2026"
+        },
+        "Lourdes Arce. 280.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
