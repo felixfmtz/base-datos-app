@@ -141,6 +141,10 @@
         "giro carolina": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 3750000,
+            "accion": "sumar"
         }
     }
 }
