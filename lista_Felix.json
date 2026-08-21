@@ -67,6 +67,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Irene Martinez",
+                    "Deuda": "500.000",
+                    "Garante": "mama",
+                    "NCuotas": "1",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
                 }
             ]
         },
