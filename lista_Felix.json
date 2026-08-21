@@ -111,6 +111,12 @@
             "NoTInteres": 0,
             "TCuota": 100000,
             "TInteres": 0
+        },
+        "Ana Rosio Villasboa. 220.000*6. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1320000,
+            "TInteres": 0
         }
     },
     "Gastos": {
