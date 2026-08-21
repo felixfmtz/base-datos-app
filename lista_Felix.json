@@ -29,14 +29,6 @@
                     "Transferencia": "Si"
                 },
                 {
-                    "nombreOriginal": "Edgar Jara",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Lunes",
-                    "Transferencia": "No"
-                },
-                {
                     "nombreOriginal": "Maria Flores",
                     "Deuda": "1.000.000",
                     "Garante": "Sin Garante",
