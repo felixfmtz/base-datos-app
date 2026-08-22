@@ -175,6 +175,10 @@
         "sueldo bruno": {
             "valor": 600000,
             "accion": "sumar"
+        },
+        "sueldo jesica": {
+            "valor": 600000,
+            "accion": "sumar"
         }
     }
 }
