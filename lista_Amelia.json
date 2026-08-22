@@ -8,6 +8,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "mudar lunes"
+        },
+        "Maria Belen Torres. 600.000*4. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 600000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
