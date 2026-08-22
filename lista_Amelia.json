@@ -14,6 +14,12 @@
             "NoTInteres": 0,
             "TCuota": 600000,
             "TInteres": 0
+        },
+        "Ilsa Santacruz. 200.000*7. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 130000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
