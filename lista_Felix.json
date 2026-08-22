@@ -35,6 +35,14 @@
                     "NCuotas": "8",
                     "Frecuencia": "",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Alberto Peralta",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "4",
+                    "Frecuencia": "",
+                    "Transferencia": "No"
                 }
             ]
         }
