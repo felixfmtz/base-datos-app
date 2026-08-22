@@ -33,6 +33,12 @@
             "NoTInteres": 0,
             "TCuota": 210000,
             "TInteres": 0
+        },
+        "Liz Ramirez. 195.000*8. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 195000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
