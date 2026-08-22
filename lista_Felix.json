@@ -143,6 +143,10 @@
         "far": {
             "valor": 155000,
             "accion": "sumar"
+        },
+        "sueldo bruno": {
+            "valor": 600000,
+            "accion": "sumar"
         }
     }
 }
