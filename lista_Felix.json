@@ -65,6 +65,10 @@
         "farmacia": {
             "valor": 173000,
             "accion": "sumar"
+        },
+        "far": {
+            "valor": 155000,
+            "accion": "sumar"
         }
     }
 }
