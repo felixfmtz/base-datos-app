@@ -111,6 +111,12 @@
             "NoTInteres": 0,
             "TCuota": 210000,
             "TInteres": 0
+        },
+        "Ruben Dario Gonzalez. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 100000
         }
     },
     "Gastos": {
