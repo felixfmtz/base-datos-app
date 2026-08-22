@@ -141,6 +141,12 @@
             "NoTInteres": 0,
             "TCuota": 220000,
             "TInteres": 100000
+        },
+        "Narciso Achar. 105.000*44": {
+            "NoTCuota": 35000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
