@@ -27,6 +27,14 @@
                     "NCuotas": "15",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Teresa Lezcano",
+                    "Deuda": "700.000",
+                    "Garante": "cel poco c71",
+                    "NCuotas": "",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
                 }
             ]
         }
