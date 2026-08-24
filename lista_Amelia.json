@@ -46,6 +46,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Fredy Pintos. Redmi 15c. 100.000*16. Sa": {
+            "NoTCuota": 50000,
+            "NoTInteres": 0,
+            "TCuota": 50000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
