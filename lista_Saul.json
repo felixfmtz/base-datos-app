@@ -124,6 +124,12 @@
         },
         "Irene Martinez. Mama. 550.000. Lu": {
             "sigpago": "31\/08\/2026"
+        },
+        "Juan Delgado. 2.000.000*6. Lu. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1000000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
