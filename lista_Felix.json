@@ -4,6 +4,9 @@
     "Pagos": {
         "Fabiola Cañete. Cheque. 1.100.000": {
             "sigpago": "31\/08\/2026"
+        },
+        "Cristobal Muños. 1.100.000": {
+            "sigpago": "26\/08\/2026"
         }
     },
     "Gastos": {}
