@@ -109,6 +109,12 @@
         },
         "Maria Antonia Caballero. Heladera. 100.000*29. Lu": {
             "sigpago": "26\/08\/2026"
+        },
+        "Claudelina Maldonado. 140.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 60000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
