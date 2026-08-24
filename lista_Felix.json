@@ -205,6 +205,10 @@
         "pelo": {
             "valor": 30000,
             "accion": "sumar"
+        },
+        "limpieza": {
+            "valor": 110000,
+            "accion": "sumar"
         }
     }
 }
