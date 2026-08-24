@@ -19,6 +19,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Pablo Alderete",
+                    "Deuda": "990.000",
+                    "Garante": "tv 32 tokyo",
+                    "NCuotas": "15",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
                 }
             ]
         }
