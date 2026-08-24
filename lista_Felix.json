@@ -12,7 +12,14 @@
             "sigpago": "26\/08\/2026"
         },
         "Denis de Oliveira. 1.400.000*8. Vi": {
-            "sigpago": "28\/08\/2026"
+            "sigpago": "28\/08\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1400000,
+            "TInteres": 0
+        },
+        "Yasmil Franciely Zelaya. 210.000*10. Lu": {
+            "sigpago": "27\/08\/2026"
         }
     },
     "Gastos": {}
