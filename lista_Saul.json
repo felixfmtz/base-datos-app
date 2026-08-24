@@ -298,6 +298,12 @@
             "NoTInteres": 0,
             "TCuota": 280000,
             "TInteres": 0
+        },
+        "Demesia Nuñez. 140.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 420000,
+            "TInteres": 0
         }
     },
     "Gastos": {
