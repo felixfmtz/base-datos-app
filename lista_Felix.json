@@ -43,6 +43,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Arcadio Benitez",
+                    "Deuda": "800.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "19",
+                    "Frecuencia": "",
+                    "Transferencia": "Si"
                 }
             ]
         }
