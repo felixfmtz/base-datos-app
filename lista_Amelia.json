@@ -156,6 +156,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Blanca Marlene Alarcon. Cel A51. 200.000*14. Ma": {
+            "NoTCuota": 400000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
