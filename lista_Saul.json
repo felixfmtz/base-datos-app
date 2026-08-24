@@ -223,6 +223,12 @@
         },
         "Elva Ferreira. 280.000*10. Lu": {
             "sigpago": "27\/08\/2026"
+        },
+        "Maximina Paredes. 330.000*6. Lu": {
+            "NoTCuota": 330000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
