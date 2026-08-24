@@ -34,6 +34,12 @@
             "NoTInteres": 0,
             "TCuota": 500000,
             "TInteres": 0
+        },
+        "Jose Ovidio Cardozo. 150.000*6. Ju. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
