@@ -187,7 +187,7 @@
             "sigpago": "29\/08\/2026"
         },
         "Arcadio Benitez": {
-            "NoTCuota": 0,
+            "NoTCuota": 100000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
