@@ -195,6 +195,10 @@
         "power": {
             "valor": 192000,
             "accion": "sumar"
+        },
+        "pelo": {
+            "valor": 30000,
+            "accion": "sumar"
         }
     }
 }
