@@ -47,6 +47,12 @@
         },
         "Cristina Yegros. 280.000*10. Sa": {
             "sigpago": "29\/08\/2026"
+        },
+        "Antonio Gonzalez. Tv samsung. 150.000*28. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
