@@ -177,6 +177,12 @@
         },
         "Hugo Javier Gomez. 140.000*10. Sa": {
             "sigpago": "29\/08\/2026"
+        },
+        "Arcadio Benitez": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
