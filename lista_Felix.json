@@ -161,6 +161,10 @@
         "gasto": {
             "valor": 5000,
             "accion": "sumar"
+        },
+        "pan": {
+            "valor": 430000,
+            "accion": "sumar"
         }
     }
 }
