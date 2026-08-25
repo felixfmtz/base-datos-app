@@ -53,6 +53,12 @@
         },
         "Juan Carlos Flores. 280.000*10. Lu": {
             "sigpago": "31\/08\/2026"
+        },
+        "Raqueline Mercado. 140.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
