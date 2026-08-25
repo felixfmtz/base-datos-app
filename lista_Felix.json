@@ -165,6 +165,10 @@
         "pan": {
             "valor": 430000,
             "accion": "sumar"
+        },
+        "veterinario ": {
+            "valor": 415000,
+            "accion": "sumar"
         }
     }
 }
