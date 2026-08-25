@@ -21,7 +21,11 @@
             "sigpago": "28\/08\/2026"
         },
         "Hugo Cabral. 70.000*10. Ju": {
-            "sigpago": "28\/08\/2026"
+            "sigpago": "28\/08\/2026",
+            "NoTCuota": 70000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         },
         "Gloria Cristaldo. Tv. 100.000*24. Lu": {
             "sigpago": "28\/08\/2026"
