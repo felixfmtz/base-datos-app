@@ -143,6 +143,12 @@
         },
         "Monica Gomez. 280.000*5": {
             "sigpago": "29\/08\/2026"
+        },
+        "Felicia Zarza. 120.000": {
+            "NoTCuota": 120000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
