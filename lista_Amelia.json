@@ -195,6 +195,12 @@
             "NoTInteres": 0,
             "TCuota": 280000,
             "TInteres": 0
+        },
+        "Maria Elizabeth Gonzalez. 60.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 120000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
