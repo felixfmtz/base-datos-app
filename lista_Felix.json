@@ -65,6 +65,12 @@
             "NoTInteres": 0,
             "TCuota": 420000,
             "TInteres": 0
+        },
+        "Elva Mateus. 30.000*44": {
+            "NoTCuota": 350000,
+            "NoTInteres": 0,
+            "TCuota": 20000,
+            "TInteres": 0
         }
     },
     "Gastos": {
