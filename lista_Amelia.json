@@ -288,6 +288,10 @@
         "casa ": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "helaod": {
+            "valor": 59000,
+            "accion": "sumar"
         }
     }
 }
