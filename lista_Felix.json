@@ -43,6 +43,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Maria Francisca",
+                    "Deuda": "990.000",
+                    "Garante": "tv 32 tokyo",
+                    "NCuotas": "15",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "No"
                 }
             ]
         }
