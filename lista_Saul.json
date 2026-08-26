@@ -20,6 +20,12 @@
         },
         "Gloria Cristaldo. Centrífuga 20Kg. 100.000*20. Mi": {
             "sigpago": "28\/08\/2026"
+        },
+        "Noelia Gonzalez Cano. Cel Realme 14. 150.000*25. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
