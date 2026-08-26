@@ -31,6 +31,12 @@
         },
         "Bienvenido Martinez. 840.000*5": {
             "sigpago": "31\/08\/2026"
+        },
+        "Cessia Cocco. 350.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 350000,
+            "TInteres": 0
         }
     },
     "Gastos": {
