@@ -4,6 +4,12 @@
     "Pagos": {
         "Modesto Caceres. 560.000*5": {
             "sigpago": "31\/08\/2026"
+        },
+        "Elsa Cañete. 60.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
