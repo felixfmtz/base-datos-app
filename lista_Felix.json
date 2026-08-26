@@ -217,6 +217,12 @@
         },
         "Juan Alberto Venialgo. 4.000.000*6. Sa": {
             "sigpago": "28\/08\/2026"
+        },
+        "Fernando Colman. 120.000*3. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 120000,
+            "TInteres": 0
         }
     },
     "Gastos": {
