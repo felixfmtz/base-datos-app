@@ -261,6 +261,10 @@
         "pisona": {
             "valor": 710000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 2350000,
+            "accion": "sumar"
         }
     }
 }
