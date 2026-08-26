@@ -44,6 +44,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "pasar a jueves"
+        },
+        "Luz Duarte. 960.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 960000,
+            "TInteres": 0
         }
     },
     "Gastos": {
