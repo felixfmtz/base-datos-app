@@ -33,5 +33,10 @@
             "sigpago": "31\/08\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "comida": {
+            "valor": 65000,
+            "accion": "sumar"
+        }
+    }
 }
