@@ -14,6 +14,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "pasar mensual"
+        },
+        "Daniel Saucedo Zaya. Lavarropa 15 kg. 250.000*18": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 500000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
