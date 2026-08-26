@@ -134,6 +134,10 @@
         "comida": {
             "valor": 65000,
             "accion": "sumar"
+        },
+        "pisona": {
+            "valor": 710000,
+            "accion": "sumar"
         }
     }
 }
