@@ -245,6 +245,12 @@
             "NoTInteres": 0,
             "TCuota": 700000,
             "TInteres": 0
+        },
+        "Rosalino Benitez. 4.800.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 4400000,
+            "TInteres": 0
         }
     },
     "Gastos": {
