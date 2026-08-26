@@ -56,6 +56,12 @@
             "NoTInteres": 0,
             "TCuota": 1000000,
             "TInteres": 0
+        },
+        "Porfirio Sanabria. 560.000*5. C1": {
+            "NoTCuota": 560000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
