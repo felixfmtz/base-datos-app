@@ -53,6 +53,12 @@
         },
         "Liliana Amanda Pereira. 560.000*5": {
             "sigpago": "31\/08\/2026"
+        },
+        "Fredy Espinoza. 352.000*6. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 352000,
+            "TInteres": 0
         }
     },
     "Gastos": {
