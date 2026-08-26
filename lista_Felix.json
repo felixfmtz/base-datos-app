@@ -51,6 +51,14 @@
                     "NCuotas": "15",
                     "Frecuencia": "Viernes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Liliana Lugo",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "No"
                 }
             ]
         }
