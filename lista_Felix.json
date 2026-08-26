@@ -116,6 +116,12 @@
         },
         "Yessica Mieres Davalos. 840.000": {
             "sigpago": "02\/09\/2026"
+        },
+        "Emilse Mercado. 140.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {
