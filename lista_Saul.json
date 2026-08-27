@@ -99,5 +99,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "saul ": {
+            "valor": 1925000,
+            "accion": "sumar"
+        }
+    }
 }
