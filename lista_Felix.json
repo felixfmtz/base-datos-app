@@ -98,6 +98,12 @@
             "NoTInteres": 25000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Eliane Marisol Colman. 430.000*8. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 240000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
