@@ -35,6 +35,14 @@
                     "NCuotas": "3",
                     "Frecuencia": "Viernes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Recordatorio F",
+                    "Deuda": "000",
+                    "Garante": "tesai 11y30",
+                    "NCuotas": "",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
                 }
             ]
         }
