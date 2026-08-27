@@ -153,6 +153,10 @@
         "combu": {
             "valor": 300000,
             "accion": "sumar"
+        },
+        "farma": {
+            "valor": 132000,
+            "accion": "sumar"
         }
     }
 }
