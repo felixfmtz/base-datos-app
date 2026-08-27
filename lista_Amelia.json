@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "27\/08\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Maria Elizabeth Gonzalez",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "44",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Gloria Amada Gomez. 140.000*10. Ju. C1": {
             "NoTCuota": 0,
