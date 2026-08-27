@@ -197,6 +197,10 @@
         "gato": {
             "valor": 40000,
             "accion": "sumar"
+        },
+        "cari": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
