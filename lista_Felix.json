@@ -10,6 +10,12 @@
         },
         "Silvia Elizabeth Lopez. 460.000*3": {
             "sigpago": "01\/09\/2026"
+        },
+        "Jessica Cabral. 1.500.000*4. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 10000
         }
     },
     "Gastos": {}
