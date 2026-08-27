@@ -2,8 +2,11 @@
     "fecha_ultimo_guardado": "27\/08\/2026",
     "cuentas": [],
     "Pagos": {
-        "Marcelina Lopez. 280.000*10. Ju": {
-            "sigpago": "29\/08\/2026"
+        "Ronda. Lider. 1.400.000": {
+            "NoTCuota": 930000,
+            "NoTInteres": 0,
+            "TCuota": 470000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
