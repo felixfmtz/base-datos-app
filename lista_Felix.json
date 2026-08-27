@@ -22,6 +22,12 @@
         },
         "Dorca Zarza. 1.100.000. Ma": {
             "sigpago": "29\/08\/2026"
+        },
+        "Eusebio Galeano. 220.000*6. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
