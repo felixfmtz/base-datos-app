@@ -257,9 +257,9 @@
             "TInteres": 0
         },
         "Leonarda Baez. 440.000*3": {
-            "NoTCuota": 500000,
+            "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 20000,
+            "TCuota": 0,
             "TInteres": 0
         }
     },
