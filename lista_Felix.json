@@ -136,6 +136,10 @@
         "tomate": {
             "valor": 10000,
             "accion": "sumar"
+        },
+        "combu": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
