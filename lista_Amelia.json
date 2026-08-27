@@ -327,7 +327,7 @@
         "Delfina Britez. N 3. 120.000*44": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 120000,
+            "TCuota": 0,
             "TInteres": 0
         }
     },
