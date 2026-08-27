@@ -173,6 +173,12 @@
             "NoTInteres": 0,
             "TCuota": 100000,
             "TInteres": 0
+        },
+        "Ronda. Lider. 1.400.000": {
+            "NoTCuota": 930000,
+            "NoTInteres": 0,
+            "TCuota": 470000,
+            "TInteres": 0
         }
     },
     "Gastos": {
