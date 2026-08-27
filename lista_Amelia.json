@@ -27,6 +27,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Jueves",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Leonarda Baez",
+                    "Deuda": "500.000",
+                    "Garante": "mirta",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
                 }
             ]
         }
