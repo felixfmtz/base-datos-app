@@ -219,6 +219,10 @@
         "maquina": {
             "valor": 1990000,
             "accion": "sumar"
+        },
+        "sueldo bruno": {
+            "valor": 500000,
+            "accion": "sumar"
         }
     }
 }
