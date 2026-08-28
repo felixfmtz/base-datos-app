@@ -37,6 +37,10 @@
         "sueldo derlis": {
             "valor": 525000,
             "accion": "sumar"
+        },
+        "mama": {
+            "valor": 150000,
+            "accion": "sumar"
         }
     }
 }
