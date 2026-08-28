@@ -106,7 +106,17 @@
             "TInteres": 0
         },
         "Norma Beatriz Blanco. 98.000*10. Ma": {
-            "sigpago": "02\/09\/2026"
+            "sigpago": "02\/09\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
+        },
+        "Smirna Zarza. 2.400.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 400000
         }
     },
     "Gastos": {
