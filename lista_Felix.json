@@ -197,6 +197,10 @@
         "comida": {
             "valor": 120000,
             "accion": "sumar"
+        },
+        "maquina": {
+            "valor": 1990000,
+            "accion": "sumar"
         }
     }
 }
