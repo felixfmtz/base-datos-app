@@ -139,6 +139,12 @@
         },
         "Cristian Escobar. 330.000": {
             "sigpago": "31\/08\/2026"
+        },
+        "Hugo Cabral. Cel A51. 100.000*14. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
