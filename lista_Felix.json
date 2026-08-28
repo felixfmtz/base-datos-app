@@ -235,6 +235,10 @@
         "sueldo bruno": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "hospi": {
+            "valor": 800000,
+            "accion": "sumar"
         }
     }
 }
