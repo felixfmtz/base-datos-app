@@ -20,6 +20,12 @@
             "NoTInteres": 0,
             "TCuota": 500000,
             "TInteres": 0
+        },
+        "Nelson Enciso. 210.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
