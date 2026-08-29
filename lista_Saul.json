@@ -1,7 +1,14 @@
 {
     "fecha_ultimo_guardado": "29\/08\/2026",
     "cuentas": [],
-    "Pagos": {},
+    "Pagos": {
+        "Epifania Ortiz. 45.000*44": {
+            "NoTCuota": 45000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        }
+    },
     "Gastos": {
         "Amelia gasto": {
             "valor": 35000,
