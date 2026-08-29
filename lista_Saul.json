@@ -3,8 +3,8 @@
     "cuentas": [],
     "Pagos": {},
     "Gastos": {
-        "muslo": {
-            "valor": 200000,
+        "Amelia gasto": {
+            "valor": 35000,
             "accion": "sumar"
         }
     }
