@@ -39,6 +39,10 @@
         "pollo": {
             "valor": 150000,
             "accion": "sumar"
+        },
+        "farmacia": {
+            "valor": 150000,
+            "accion": "sumar"
         }
     }
 }
