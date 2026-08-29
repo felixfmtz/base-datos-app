@@ -62,6 +62,12 @@
             "NoTInteres": 0,
             "TCuota": 150000,
             "TInteres": 0
+        },
+        "Ana Cristina Villasboa. 140.000*10. Sa": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
