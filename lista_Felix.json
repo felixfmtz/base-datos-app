@@ -162,7 +162,11 @@
             "TInteres": 0
         },
         "Elsa Cañete. Secaropa. 100.000*30. Vi": {
-            "sigpago": "04\/09\/2026"
+            "sigpago": "04\/09\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 300000,
+            "TInteres": 0
         }
     },
     "Gastos": {
