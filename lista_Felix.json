@@ -4,6 +4,12 @@
     "Pagos": {
         "Bruno Martinez. 100.000*30. Sa": {
             "sigpago": "05\/09\/2026"
+        },
+        "Reinaldo Narvae. 440.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 440000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
