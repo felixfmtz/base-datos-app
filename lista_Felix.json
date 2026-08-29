@@ -33,6 +33,12 @@
             "NoTInteres": 0,
             "TCuota": 420000,
             "TInteres": 0
+        },
+        "Mirna Peralta. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 240000,
+            "TInteres": 50000
         }
     },
     "Gastos": {
