@@ -43,6 +43,14 @@
                     "NCuotas": "15",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Mirian Raquel Oviedo",
+                    "Deuda": "1.990.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "32",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "Si"
                 }
             ]
         }
