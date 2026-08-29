@@ -128,6 +128,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 280000
+        },
+        "Liz Mariela Castrucio. 280.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {
