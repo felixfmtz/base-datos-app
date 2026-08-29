@@ -27,6 +27,14 @@
                     "NCuotas": "44",
                     "Frecuencia": "Diario",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Arcelia Romero",
+                    "Deuda": "500.000",
+                    "Garante": "marcial ",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
