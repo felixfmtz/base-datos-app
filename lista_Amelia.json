@@ -7,6 +7,13 @@
             "NoTInteres": 0,
             "TCuota": 1276000,
             "TInteres": 0
+        },
+        "Santiago Garcia. Esposa. 550.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "4 de setiembre"
         }
     },
     "Gastos": {}
