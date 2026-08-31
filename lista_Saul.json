@@ -107,7 +107,7 @@
         "Juan Delgado. 400.000*6. Lu": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 1200000,
+            "TCuota": 0,
             "TInteres": 0
         }
     },
