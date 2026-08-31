@@ -225,8 +225,8 @@
             "TInteres": 0
         },
         "Abelino Peralta. 600.000": {
-            "NoTCuota": 100000,
-            "NoTInteres": 100000,
+            "NoTCuota": 0,
+            "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
         },
