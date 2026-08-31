@@ -367,6 +367,10 @@
         "casa": {
             "valor": 18000,
             "accion": "sumar"
+        },
+        "giro": {
+            "valor": 170000,
+            "accion": "sumar"
         }
     }
 }
