@@ -19,14 +19,6 @@
                     "NCuotas": "6",
                     "Frecuencia": "Lunes",
                     "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Cristina Yegros",
-                    "Deuda": "000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "",
-                    "Frecuencia": "",
-                    "Transferencia": "No"
                 }
             ]
         }
