@@ -107,7 +107,7 @@
         "Juan Delgado. 400.000*6. Lu": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 1200000,
             "TInteres": 0
         },
         "Rosalina del Valle. 400.000*30": {
