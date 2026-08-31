@@ -197,6 +197,12 @@
             "NoTInteres": 100000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Leonardo Dure. 330.000*6. Lu. C1": {
+            "NoTCuota": 630000,
+            "NoTInteres": 0,
+            "TCuota": 30000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
