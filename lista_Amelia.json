@@ -385,6 +385,10 @@
         "giro": {
             "valor": 170000,
             "accion": "sumar"
+        },
+        "helado": {
+            "valor": 15000,
+            "accion": "sumar"
         }
     }
 }
