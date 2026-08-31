@@ -17,6 +17,12 @@
         },
         "Victor Gimenez. 260.000*5. Sa": {
             "sigpago": "05\/09\/2026"
+        },
+        "Luis Garcia. Aire Tokyo 12.000 Btu. 100.000*31. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 70000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
