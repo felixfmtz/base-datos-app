@@ -35,6 +35,12 @@
             "NoTInteres": 0,
             "TCuota": 210000,
             "TInteres": 0
+        },
+        "Alejandro Martinez. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 420000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
