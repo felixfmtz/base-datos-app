@@ -72,6 +72,12 @@
             "NoTInteres": 0,
             "TCuota": 550000,
             "TInteres": 0
+        },
+        "Maria Rolon. 880.000. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 880000,
+            "TInteres": 0
         }
     },
     "Gastos": {
