@@ -81,6 +81,12 @@
         },
         "Josue Benitez. 105.000*6. Ma": {
             "sigpago": "05\/09\/2026"
+        },
+        "Hugo Cabral. 70.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 60000,
+            "TInteres": 0
         }
     },
     "Gastos": {
