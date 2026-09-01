@@ -160,6 +160,10 @@
         "contador ": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "casa": {
+            "valor": 30000,
+            "accion": "sumar"
         }
     }
 }
