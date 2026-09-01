@@ -101,6 +101,13 @@
             "NoTInteres": 0,
             "TCuota": 680000,
             "TInteres": 0
+        },
+        "Alfredo Castillo. 280.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "juantar"
         }
     },
     "Gastos": {
