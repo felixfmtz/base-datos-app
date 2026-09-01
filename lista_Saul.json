@@ -204,6 +204,10 @@
         "pan": {
             "valor": 1000,
             "accion": "sumar"
+        },
+        "pa": {
+            "valor": 14000,
+            "accion": "sumar"
         }
     }
 }
