@@ -66,5 +66,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "contador ": {
+            "valor": 500000,
+            "accion": "sumar"
+        }
+    }
 }
