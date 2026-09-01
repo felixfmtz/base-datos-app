@@ -66,6 +66,12 @@
             "NoTInteres": 0,
             "TCuota": 210000,
             "TInteres": 0
+        },
+        "Rosmery Coronel. 550.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 550000,
+            "TInteres": 0
         }
     },
     "Gastos": {
