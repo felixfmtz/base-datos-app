@@ -162,6 +162,12 @@
             "NoTInteres": 0,
             "TCuota": 60000,
             "TInteres": 0
+        },
+        "Gedalia DelValle. 180.000*30. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 2690000,
+            "TInteres": 0
         }
     },
     "Gastos": {
