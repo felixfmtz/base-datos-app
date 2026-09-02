@@ -106,6 +106,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "sigpago": "Pagado"
+        },
+        "Claudio Insfran. 110.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {
