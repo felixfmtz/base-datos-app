@@ -97,6 +97,12 @@
             "NoTInteres": 0,
             "TCuota": 350000,
             "TInteres": 0
+        },
+        "Miriam Villasboa. Marido. 140.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
