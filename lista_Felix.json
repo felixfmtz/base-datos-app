@@ -16,6 +16,12 @@
             "NoTInteres": 0,
             "TCuota": 110000,
             "TInteres": 0
+        },
+        "Sonia Amarilla. 165.000. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 165000,
+            "TInteres": 0
         }
     },
     "Gastos": {
