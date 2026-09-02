@@ -45,6 +45,15 @@
                     "Transferencia": "Si"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Maria Antonia Caballero",
+                    "dia": "Ju"
+                }
+            ]
         }
     ],
     "Pagos": {
