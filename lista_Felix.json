@@ -159,6 +159,12 @@
         },
         "Paola Insfran. 550.000. Sa": {
             "sigpago": "05\/09\/2026"
+        },
+        "Blas Sosa. 1.080.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 180000,
+            "TInteres": 0
         }
     },
     "Gastos": {
