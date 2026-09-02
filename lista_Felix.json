@@ -179,6 +179,10 @@
         "comida": {
             "valor": 63000,
             "accion": "sumar"
+        },
+        "farma": {
+            "valor": 264000,
+            "accion": "sumar"
         }
     }
 }
