@@ -92,6 +92,13 @@
             "NoTInteres": 0,
             "TCuota": 550000,
             "TInteres": 0
+        },
+        "Ever Gustavo Baez. 220.000*6. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pasar sabado"
         }
     },
     "Gastos": {
