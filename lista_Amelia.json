@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "02\/09\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Digna Lopez",
+                    "Deuda": "700.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "4",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Graciela Cardozo. 150.000*44": {
             "NoTCuota": 0,
