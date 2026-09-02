@@ -27,6 +27,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Viernes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Derlis Pintos",
+                    "Deuda": "2.000.000",
+                    "Garante": "ronda",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "Si"
                 }
             ]
         }
