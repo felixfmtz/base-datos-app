@@ -16,6 +16,12 @@
         },
         "Ever Gustavo Baez. 220.000*6. Mi": {
             "sigpago": "05\/09\/2026"
+        },
+        "Ignacio Melgarejo. 20.000*33": {
+            "NoTCuota": 40000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
