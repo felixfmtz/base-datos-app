@@ -8,6 +8,13 @@
             "TCuota": 0,
             "TInteres": 0,
             "sigpago": "Pagado"
+        },
+        "Alfredo Castillo. 1.660.000*6": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "revisar"
         }
     },
     "Gastos": {}
