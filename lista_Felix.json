@@ -194,6 +194,12 @@
         },
         "Hugo Caceres. 180.000*4. Sa": {
             "sigpago": "05\/09\/2026"
+        },
+        "Norma Beatriz Blanco. 98.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
