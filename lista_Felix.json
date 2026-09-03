@@ -134,6 +134,10 @@
         "farma": {
             "valor": 223000,
             "accion": "sumar"
+        },
+        "internet": {
+            "valor": 255000,
+            "accion": "sumar"
         }
     }
 }
