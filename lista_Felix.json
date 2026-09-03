@@ -166,6 +166,10 @@
         "internet": {
             "valor": 255000,
             "accion": "sumar"
+        },
+        "sueldo bruno": {
+            "valor": 1700000,
+            "accion": "sumar"
         }
     }
 }
