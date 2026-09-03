@@ -15,6 +15,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "revisar"
+        },
+        "Hugo Marmori. 1.200.000. C2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 10000
         }
     },
     "Gastos": {}
