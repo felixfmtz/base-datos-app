@@ -128,6 +128,12 @@
         },
         "Edgar Fleitas. 100.000*23. Lu": {
             "sigpago": "07\/09\/2026"
+        },
+        "Claudelina Lopez. Natasha. anafe. 100.000*13. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
