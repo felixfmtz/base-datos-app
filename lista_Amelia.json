@@ -22,6 +22,12 @@
         },
         "Diosnel Pintos Godoy. 280.000*10. Ju": {
             "sigpago": "10\/09\/2026"
+        },
+        "Lido Maciel. 280.000*10. Ju. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
