@@ -132,6 +132,12 @@
         },
         "Fabiola Lopez. 100.000*21. Proyector. Mi": {
             "sigpago": "08\/09\/2026"
+        },
+        "Juan Albino. 660.000*3": {
+            "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
