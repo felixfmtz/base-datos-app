@@ -81,6 +81,12 @@
             "NoTInteres": 0,
             "TCuota": 250000,
             "TInteres": 0
+        },
+        "Lurdes Raquel Gimenez. 1.100.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 896000,
+            "TInteres": 0
         }
     },
     "Gastos": {
