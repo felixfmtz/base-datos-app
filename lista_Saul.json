@@ -13,6 +13,12 @@
         },
         "Feliciana Arevalos. 220.000*6. Sa": {
             "sigpago": "08\/09\/2026"
+        },
+        "Nanci Milton. 30.000*44": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
