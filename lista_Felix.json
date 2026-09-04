@@ -63,6 +63,12 @@
         },
         "Norma Beatriz Blanco. 98.000*10. Ma": {
             "sigpago": "07\/09\/2026"
+        },
+        "Yessica Mieres Davalos. 840.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 140000
         }
     },
     "Gastos": {
