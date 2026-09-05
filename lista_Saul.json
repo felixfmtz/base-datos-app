@@ -203,6 +203,12 @@
         },
         "Carlos Garcete. 220.000*6. Mi": {
             "sigpago": "09\/09\/2026"
+        },
+        "Maximina Paredes. 330.000*6. Sa": {
+            "NoTCuota": 330000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
