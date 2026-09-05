@@ -303,6 +303,10 @@
         "sueldo saul": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "auto": {
+            "valor": 350000,
+            "accion": "sumar"
         }
     }
 }
