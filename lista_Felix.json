@@ -19,6 +19,12 @@
         },
         "Yanina Plaz. 210.000*10. Sa": {
             "sigpago": "12\/09\/2026"
+        },
+        "Eliane Marisol Colman. 350.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 350000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
