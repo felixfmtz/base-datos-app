@@ -27,6 +27,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Miguel Escobar",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "2",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "Si"
                 }
             ]
         }
