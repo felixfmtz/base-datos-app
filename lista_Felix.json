@@ -163,6 +163,10 @@
         "giro derlis": {
             "valor": 40000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 1663000,
+            "accion": "sumar"
         }
     }
 }
