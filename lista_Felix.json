@@ -10,6 +10,12 @@
         },
         "Fabiola Lopez. Aire. 150.000*34. Sa": {
             "sigpago": "08\/09\/2026"
+        },
+        "Leticia Alfonzo. 280.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
