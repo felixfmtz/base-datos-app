@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "05\/09\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Laureana Insfran",
+                    "Deuda": "1.000.000",
+                    "Garante": "Feliciano ",
+                    "NCuotas": "6",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Ana Cristina Villasboa. 140.000*10. Sa": {
             "NoTCuota": 0,
