@@ -16,6 +16,12 @@
         },
         "Maria Elsa Benitez. Microondas. 200.000*7": {
             "sigpago": "08\/09\/2026"
+        },
+        "Epifania Ortiz. 45.000*44": {
+            "NoTCuota": 45000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
