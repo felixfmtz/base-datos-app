@@ -2,14 +2,11 @@
     "fecha_ultimo_guardado": "05\/09\/2026",
     "cuentas": [],
     "Pagos": {
-        "Antonia Baez. 220.000*6. Sa": {
+        "Fernando Colman. 120.000*3. Vi": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 220000,
+            "TCuota": 100000,
             "TInteres": 0
-        },
-        "Feliciana Arevalos. 220.000*6. Sa": {
-            "sigpago": "08\/09\/2026"
         }
     },
     "Gastos": {}
