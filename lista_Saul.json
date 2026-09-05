@@ -307,6 +307,10 @@
         "auto": {
             "valor": 350000,
             "accion": "sumar"
+        },
+        "falto": {
+            "valor": 25000,
+            "accion": "sumar"
         }
     }
 }
