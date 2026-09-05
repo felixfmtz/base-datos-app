@@ -111,6 +111,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Luis Colman. 660.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 660000,
+            "TInteres": 0
         }
     },
     "Gastos": {
