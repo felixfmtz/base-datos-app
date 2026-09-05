@@ -144,7 +144,8 @@
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 100000,
-            "TInteres": 0
+            "TInteres": 0,
+            "sigpago": "09\/09\/2026"
         },
         "Rosalba Ojeda. 75.000*11. Ju": {
             "NoTCuota": 0,
