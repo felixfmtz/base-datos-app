@@ -35,6 +35,14 @@
                     "NCuotas": "2",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Pablo Alderete",
+                    "Deuda": "1.900.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "19",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
