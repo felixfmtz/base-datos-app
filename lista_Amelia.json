@@ -564,6 +564,10 @@
         "casa ": {
             "valor": 65000,
             "accion": "sumar"
+        },
+        "comida de conejo ": {
+            "valor": 170000,
+            "accion": "sumar"
         }
     }
 }
