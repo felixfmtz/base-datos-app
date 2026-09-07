@@ -101,6 +101,12 @@
         },
         "Fatima Fonseca. 140.000*10. Lu": {
             "sigpago": "09\/09\/2026"
+        },
+        "Taiane Dos Santos. 1.200.000": {
+            "NoTCuota": 1200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
