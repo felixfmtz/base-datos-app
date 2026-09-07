@@ -2,19 +2,11 @@
     "fecha_ultimo_guardado": "07\/09\/2026",
     "cuentas": [],
     "Pagos": {
-        "Jessica Cabral. 1.500.000*4. Lu": {
-            "NoTCuota": 0,
+        "Mabel Villalba. 880.000*6. Sa": {
+            "NoTCuota": 880000,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 0,
-            "Error": "revisar"
-        },
-        "Perla Gonzalez Cano. 140.000*10. Lu": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "numero"
+            "TInteres": 0
         }
     },
     "Gastos": {}
