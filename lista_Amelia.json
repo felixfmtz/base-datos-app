@@ -115,6 +115,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Blas Martinez 2",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "5",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
                 }
             ]
         },
