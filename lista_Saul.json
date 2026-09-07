@@ -259,6 +259,12 @@
         },
         "Demesia Nuñez. 140.000*10. Sa": {
             "sigpago": "11\/09\/2026"
+        },
+        "Juan Ricardo Martinez. 150.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {
