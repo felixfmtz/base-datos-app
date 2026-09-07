@@ -46,7 +46,11 @@
             "Error": "renombrar"
         },
         "Arbelino Gonzalez. 210.000*10. Sa. C1": {
-            "sigpago": "12\/09\/2026"
+            "sigpago": "12\/09\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 300000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
