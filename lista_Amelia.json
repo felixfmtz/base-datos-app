@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "07\/09\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Hugo Ariel Arrua",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "8",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Hugo Ariel Arrua. 350.000*8. Sa": {
             "NoTCuota": 700000,
