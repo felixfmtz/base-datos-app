@@ -100,6 +100,12 @@
         },
         "Jose Carlos Pintos. 220.000*6. Lu": {
             "sigpago": "14\/09\/2026"
+        },
+        "Wilner Castillo. 1.920.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 320000
         }
     },
     "Gastos": {
