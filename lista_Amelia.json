@@ -168,6 +168,10 @@
         "cada": {
             "valor": 86000,
             "accion": "sumar"
+        },
+        "casa ": {
+            "valor": 1845000,
+            "accion": "sumar"
         }
     }
 }
