@@ -164,5 +164,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "cada": {
+            "valor": 86000,
+            "accion": "sumar"
+        }
+    }
 }
