@@ -106,6 +106,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 320000
+        },
+        "Delcia Castillo. 1.200.000. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 200000
         }
     },
     "Gastos": {
