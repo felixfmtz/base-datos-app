@@ -23,6 +23,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "revisar"
+        },
+        "Miguel Moreira. 600.000*2. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 600000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
