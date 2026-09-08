@@ -43,6 +43,12 @@
             "NoTInteres": 0,
             "TCuota": 160000,
             "TInteres": 0
+        },
+        "Ramon Figueredo. 280.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
