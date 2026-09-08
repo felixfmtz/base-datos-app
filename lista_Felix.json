@@ -112,6 +112,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 200000
+        },
+        "Gilberto Molinas. 150.000*44. C1": {
+            "NoTCuota": 3450000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
