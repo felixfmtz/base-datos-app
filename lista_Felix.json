@@ -16,6 +16,13 @@
         },
         "Ramon Vera. 2.400.000": {
             "sigpago": "11\/09\/2026"
+        },
+        "Jessica Cabral. 1.500.000*4. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "revisar"
         }
     },
     "Gastos": {}
