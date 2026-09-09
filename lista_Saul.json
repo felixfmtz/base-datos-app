@@ -206,6 +206,10 @@
         "entregado ": {
             "valor": 2160000,
             "accion": "sumar"
+        },
+        "falta": {
+            "valor": 15000,
+            "accion": "sumar"
         }
     }
 }
