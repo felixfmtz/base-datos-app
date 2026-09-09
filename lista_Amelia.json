@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "09\/09\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Cristobal Muñoz",
+                    "Deuda": "1.250.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Diego Martinez. Jose. 140.000*10. Mi": {
             "NoTCuota": 0,
