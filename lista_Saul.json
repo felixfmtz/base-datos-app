@@ -58,6 +58,12 @@
         },
         "Liliana Olmedo. 70.000*10. Mi": {
             "sigpago": "17\/09\/2026"
+        },
+        "Maria Flores. 440.000*3": {
+            "NoTCuota": 440000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
