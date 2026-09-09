@@ -40,6 +40,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "numero"
+        },
+        "Abelino Peralta. 110.000*6. Lu. C1": {
+            "sigpago": "14\/09\/2026"
         }
     },
     "Gastos": {}
