@@ -72,5 +72,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "mirna": {
+            "valor": 130000,
+            "accion": "sumar"
+        }
+    }
 }
