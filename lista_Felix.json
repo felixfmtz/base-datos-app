@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "09\/09\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Fermiano Menese",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Fabiola Lopez. 100.000*21. Proyector. Mi": {
             "sigpago": "15\/09\/2026"
