@@ -60,6 +60,12 @@
         },
         "Carlos Garcete. 220.000*6. Mi": {
             "sigpago": "11\/09\/2026"
+        },
+        "Fatima Fonseca. 140.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
