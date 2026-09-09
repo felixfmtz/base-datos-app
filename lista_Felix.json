@@ -18,6 +18,13 @@
             "sigpago": "15\/09\/2026"
         },
         "Maria Romina Sosa. 210.000*10. Sa": {
+            "sigpago": "12\/09\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 203000,
+            "TInteres": 0
+        },
+        "Monica Gomez. 280.000*5": {
             "sigpago": "12\/09\/2026"
         }
     },
