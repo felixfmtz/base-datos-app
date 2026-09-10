@@ -4,6 +4,12 @@
     "Pagos": {
         "Eusebio Galeano. 220.000*6. Mi": {
             "sigpago": "12\/09\/2026"
+        },
+        "Epifania Ortiz. 45.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 45000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
