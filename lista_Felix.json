@@ -161,6 +161,12 @@
             "NoTInteres": 0,
             "TCuota": 770000,
             "TInteres": 0
+        },
+        "Vidalia Gaete. Aire Condicionado. 200.000*15": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
         }
     },
     "Gastos": {
