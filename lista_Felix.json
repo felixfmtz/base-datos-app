@@ -76,7 +76,11 @@
             "TInteres": 0
         },
         "Enrique Victor Benitez. 110.000*6. Ju": {
-            "sigpago": "12\/09\/2026"
+            "sigpago": "12\/09\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
