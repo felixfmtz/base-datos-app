@@ -63,5 +63,10 @@
             "sigpago": "12\/09\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "eentregado ": {
+            "valor": 1470000,
+            "accion": "sumar"
+        }
+    }
 }
