@@ -75,6 +75,12 @@
         },
         "Maximina Paredes. 220.000*6. Sa": {
             "sigpago": "12\/09\/2026"
+        },
+        "Rosalba Gonzalez Duarte. 15.000*24. C1": {
+            "NoTCuota": 15000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
