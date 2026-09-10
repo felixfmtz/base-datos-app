@@ -27,7 +27,17 @@
             "TInteres": 0
         },
         "Cessia Cocco. 350.000*10. Sa": {
-            "sigpago": "12\/09\/2026"
+            "sigpago": "12\/09\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 340000,
+            "TInteres": 0
+        },
+        "Roman Flores. 130.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 130000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
