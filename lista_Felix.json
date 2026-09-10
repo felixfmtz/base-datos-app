@@ -143,5 +143,10 @@
             "sigpago": "12\/09\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "tv": {
+            "valor": 1980000,
+            "accion": "sumar"
+        }
+    }
 }
