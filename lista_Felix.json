@@ -19,6 +19,12 @@
         },
         "Victor Gimenez. 260.000*5. Sa": {
             "sigpago": "12\/09\/2026"
+        },
+        "Maricel Rojas. 2.200.000. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 2200000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
