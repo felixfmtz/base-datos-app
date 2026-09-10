@@ -69,6 +69,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Ronda. Maria. 1.400.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1400000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
