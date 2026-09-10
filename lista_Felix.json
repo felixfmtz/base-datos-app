@@ -80,7 +80,8 @@
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 110000,
-            "TInteres": 0
+            "TInteres": 0,
+            "Error": "numero"
         }
     },
     "Gastos": {}
