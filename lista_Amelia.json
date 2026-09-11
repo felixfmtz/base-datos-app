@@ -247,6 +247,10 @@
         "casa ": {
             "valor": 41000,
             "accion": "sumar"
+        },
+        "perro ": {
+            "valor": 420000,
+            "accion": "sumar"
         }
     }
 }
