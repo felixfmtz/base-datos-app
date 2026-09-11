@@ -51,5 +51,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "obra": {
+            "valor": 2550000,
+            "accion": "sumar"
+        }
+    }
 }
