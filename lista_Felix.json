@@ -55,6 +55,12 @@
         },
         "Liz Paiva. 350.000*2": {
             "sigpago": "20\/09\/2026"
+        },
+        "Josue Benitez. 105.000*6. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 105000,
+            "TInteres": 0
         }
     },
     "Gastos": {
