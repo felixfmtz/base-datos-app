@@ -247,6 +247,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Crispin Rolon. 140.000*10. Vi": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
@@ -256,6 +262,10 @@
         },
         "perro ": {
             "valor": 420000,
+            "accion": "sumar"
+        },
+        "casa  2": {
+            "valor": 25000,
             "accion": "sumar"
         }
     }
