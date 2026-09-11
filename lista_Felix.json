@@ -82,6 +82,12 @@
         },
         "Alfredo Castillo. 1.800.000": {
             "sigpago": "15\/09\/2026"
+        },
+        "Rosalino Mendoza. 1.600.000. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1600000,
+            "TInteres": 0
         }
     },
     "Gastos": {
