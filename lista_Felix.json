@@ -61,6 +61,12 @@
             "NoTInteres": 0,
             "TCuota": 105000,
             "TInteres": 0
+        },
+        "Nelva Colman. 330.000*6. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {
