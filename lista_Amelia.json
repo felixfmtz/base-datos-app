@@ -19,6 +19,12 @@
             "NoTInteres": 0,
             "TCuota": 350000,
             "TInteres": 0
+        },
+        "Santiago Garcia. Amigo. 110.000*6. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
