@@ -55,6 +55,10 @@
         "obra": {
             "valor": 2550000,
             "accion": "sumar"
+        },
+        "sueldo derlis": {
+            "valor": 525000,
+            "accion": "sumar"
         }
     }
 }
