@@ -320,7 +320,11 @@
             "TInteres": 0
         },
         "Hugo Javier Gomez. 140.000*10. Sa": {
-            "sigpago": "19\/09\/2026"
+            "sigpago": "19\/09\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {
