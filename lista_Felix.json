@@ -32,6 +32,12 @@
             "NoTInteres": 0,
             "TCuota": 330000,
             "TInteres": 0
+        },
+        "Eusebio Galeano. 220.000*6. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 440000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
