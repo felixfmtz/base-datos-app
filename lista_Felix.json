@@ -82,7 +82,17 @@
             "sigpago": "19\/09\/2026"
         },
         "Anastacio Baez. 110.000*6. Sa. C2": {
-            "sigpago": "19\/09\/2026"
+            "sigpago": "19\/09\/2026",
+            "NoTCuota": 110000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Leticia Alfonzo. 280.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
