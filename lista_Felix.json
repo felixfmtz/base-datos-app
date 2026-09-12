@@ -71,6 +71,12 @@
             "TCuota": 500000,
             "TInteres": 0,
             "Error": "revisar"
+        },
+        "Anastacio Baez. 1.600.000. Sa": {
+            "NoTCuota": 1490000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
