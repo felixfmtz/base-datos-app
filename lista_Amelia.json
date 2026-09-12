@@ -22,6 +22,12 @@
         },
         "Diosnel Pintos Godoy. 280.000*10. Ju": {
             "sigpago": "17\/09\/2026"
+        },
+        "Jose Ovidio Cardozo. 150.000*6. Ju. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 30000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
