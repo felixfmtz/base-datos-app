@@ -12,7 +12,11 @@
             "TInteres": 0
         },
         "Fernando Colman. 120.000*3. Vi": {
-            "sigpago": "18\/09\/2026"
+            "sigpago": "18\/09\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 130000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
