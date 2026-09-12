@@ -26,6 +26,12 @@
         },
         "Sixto Villalba. 220.000*3. C1": {
             "sigpago": "16\/09\/2026"
+        },
+        "Nelson Ayala Meza. 330.000*6. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 330000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
