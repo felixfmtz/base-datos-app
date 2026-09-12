@@ -190,6 +190,12 @@
             "NoTInteres": 0,
             "TCuota": 280000,
             "TInteres": 0
+        },
+        "Pedro Francisco Martinez. 385.000*4": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 415000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
