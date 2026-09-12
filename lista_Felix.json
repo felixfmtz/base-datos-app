@@ -4,6 +4,12 @@
     "Pagos": {
         "Fabiola Lopez. Aire. 150.000*34. Sa": {
             "sigpago": "15\/09\/2026"
+        },
+        "Rosalba Ojeda. 75.000*11. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 75000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
