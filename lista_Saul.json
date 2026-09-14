@@ -147,6 +147,12 @@
         },
         "Gloria Florentin. 220.000*6. Sa": {
             "sigpago": "16\/09\/2026"
+        },
+        "Julia Gonzalez. Caminadora. 150.000*40. Sa": {
+            "NoTCuota": 150000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
