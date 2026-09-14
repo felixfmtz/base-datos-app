@@ -63,6 +63,12 @@
         },
         "Feliciana Arevalos. Tv. 100.000*28. Lu": {
             "sigpago": "16\/09\/2026"
+        },
+        "Alejandro Lopez. Robert. 220.000*6. Sa. C1": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
