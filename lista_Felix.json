@@ -136,6 +136,12 @@
         },
         "Pedro Silva. 600.000. C2": {
             "sigpago": "17\/09\/2026"
+        },
+        "Hugo Javier Gomez. 140.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
