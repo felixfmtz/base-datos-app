@@ -11,6 +11,14 @@
                     "NCuotas": "4",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Fabia Britez",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
                 }
             ]
         }
