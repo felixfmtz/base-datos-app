@@ -69,6 +69,12 @@
             "NoTInteres": 0,
             "TCuota": 100000,
             "TInteres": 0
+        },
+        "Evangelista Ortiz. 450.000*4. Lu": {
+            "NoTCuota": 900000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
