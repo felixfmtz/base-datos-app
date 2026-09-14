@@ -30,6 +30,12 @@
         },
         "Camila Heinler. Luis. 220.000*3": {
             "sigpago": "18\/09\/2026"
+        },
+        "Francisca Pereira. 140.000*10. Lu": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
