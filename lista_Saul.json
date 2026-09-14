@@ -19,6 +19,14 @@
                     "NCuotas": "",
                     "Frecuencia": "Diario",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Lucía Quiñones",
+                    "Deuda": "500.000",
+                    "Garante": "lucia Quiñones",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
