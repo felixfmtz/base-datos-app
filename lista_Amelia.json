@@ -339,6 +339,10 @@
         "combu": {
             "valor": 355000,
             "accion": "sumar"
+        },
+        "casa ": {
+            "valor": 25000,
+            "accion": "sumar"
         }
     }
 }
