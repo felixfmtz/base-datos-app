@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "14\/09\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Vidalia Gaete",
+                    "Deuda": "200.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Bienvenido Martinez. 840.000*5": {
             "sigpago": "19\/09\/2026"
