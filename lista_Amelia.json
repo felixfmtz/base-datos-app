@@ -288,6 +288,10 @@
         "real": {
             "valor": 400000,
             "accion": "sumar"
+        },
+        "combu": {
+            "valor": 355000,
+            "accion": "sumar"
         }
     }
 }
