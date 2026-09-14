@@ -85,6 +85,12 @@
         },
         "Edgar Fleitas. 220.000*6. Lu": {
             "sigpago": "17\/09\/2026"
+        },
+        "Arcadio Benitez. 280.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
