@@ -139,6 +139,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Juan Carlos Duarte Cristaldo. 280.000*10. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "440 por 6"
         }
     },
     "Gastos": {}
