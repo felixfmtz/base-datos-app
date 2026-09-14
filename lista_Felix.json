@@ -4,6 +4,12 @@
     "Pagos": {
         "Bienvenido Martinez. 840.000*5": {
             "sigpago": "19\/09\/2026"
+        },
+        "Dorca Zarza. 140.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1260000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
