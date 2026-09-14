@@ -337,6 +337,12 @@
         },
         "Elva Ferreira. 280.000*10. Lu": {
             "sigpago": "17\/09\/2026"
+        },
+        "Mabel Villalba. 880.000*6. Lu": {
+            "NoTCuota": 880000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
