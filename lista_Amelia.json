@@ -14,6 +14,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 350000
+        },
+        "Edmundo Mendoza. 280.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "260 por 10"
         }
     },
     "Gastos": {}
