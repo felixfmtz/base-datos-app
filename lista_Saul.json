@@ -37,6 +37,12 @@
             "NoTInteres": 0,
             "TCuota": 100000,
             "TInteres": 0
+        },
+        "Hugo Cabral. Cel A51. 100.000*14. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
