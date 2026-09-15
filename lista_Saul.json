@@ -126,6 +126,12 @@
         },
         "Fermiano Menese. 140.000*10. Ma": {
             "sigpago": "17\/09\/2026"
+        },
+        "Ignacio Melgarejo. 20.000*33": {
+            "NoTCuota": 20000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
