@@ -20,6 +20,13 @@
         },
         "Graciela Peralta. 220.000*6. Ju": {
             "sigpago": "17\/09\/2026"
+        },
+        "Digna Lopez. Hijo. 440.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "si quince"
         }
     },
     "Gastos": {}
