@@ -33,6 +33,12 @@
         },
         "Cristina Yegros. Herbidora. 50.000*7. Sa": {
             "sigpago": "18\/09\/2026"
+        },
+        "Fredy Espinoza. 352.000*6. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 352000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
