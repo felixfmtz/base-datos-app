@@ -158,7 +158,7 @@
         "Elsa Cañete. Secaropa. 100.000*30. Vi": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 100000,
             "TInteres": 0
         },
         "Eduardo David Fanego. 110.000*6. Vi": {
