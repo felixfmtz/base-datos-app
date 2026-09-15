@@ -78,6 +78,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Felicia Dominguez. Rosana. 1.200.000": {
+            "NoTCuota": 1050000,
+            "NoTInteres": 0,
+            "TCuota": 50000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
