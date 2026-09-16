@@ -43,6 +43,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Laureana Insfran",
+                    "Deuda": "1.400.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
                 }
             ]
         }
