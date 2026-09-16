@@ -10,6 +10,12 @@
             "NoTInteres": 0,
             "TCuota": 220000,
             "TInteres": 0
+        },
+        "Cessia Cocco. 350.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 360000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
