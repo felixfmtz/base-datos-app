@@ -58,6 +58,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 240000
+        },
+        "Juan Ygnacio Britez. 2.400.000. C1": {
+            "NoTCuota": 1000000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
