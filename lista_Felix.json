@@ -4,6 +4,12 @@
     "Pagos": {
         "Hermelinda Herrera. 220.000*6. Ma": {
             "sigpago": "22\/09\/2026"
+        },
+        "Juana Fariña. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
