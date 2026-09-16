@@ -37,6 +37,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "fecha"
+        },
+        "Marcos Segovia. 280.000*10. Sa": {
+            "sigpago": "21\/09\/2026"
         }
     },
     "Gastos": {}
