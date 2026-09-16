@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "16\/09\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Claudio Nicolas Aguilar",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "4",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Claudio Nicolas Aguilar. 220.000*3": {
             "NoTCuota": 220000,
