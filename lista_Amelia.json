@@ -19,6 +19,14 @@
                     "NCuotas": "",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Josefina Figueredo",
+                    "Deuda": "980.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "15",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
