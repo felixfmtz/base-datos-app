@@ -11,6 +11,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Santiago Garcia",
+                    "Deuda": "15.060.000",
+                    "Garante": "Marcelo locoque",
+                    "NCuotas": "",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
