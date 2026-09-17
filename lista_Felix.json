@@ -73,6 +73,12 @@
         },
         "Cristian Castillo. 3.500.000*2": {
             "sigpago": "20\/09\/2026"
+        },
+        "Norma Beatriz Blanco. 98.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {
