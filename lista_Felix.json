@@ -67,5 +67,10 @@
             "sigpago": "20\/09\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "tesai": {
+            "valor": 250000,
+            "accion": "sumar"
+        }
+    }
 }
