@@ -189,5 +189,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "basura": {
+            "valor": 45000,
+            "accion": "sumar"
+        }
+    }
 }
