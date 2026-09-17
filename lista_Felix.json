@@ -22,6 +22,12 @@
         },
         "Ramona Ortiz. 440.000*3. Mi": {
             "sigpago": "19\/09\/2026"
+        },
+        "Arbelino Gonzalez. 210.000*10. Sa. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 250000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
