@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "17\/09\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Cristian Palacios",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "4",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Digna Lopez. 245.000*4": {
             "sigpago": "19\/09\/2026"
