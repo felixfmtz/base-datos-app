@@ -4,6 +4,12 @@
     "Pagos": {
         "Digna Lopez. 245.000*4": {
             "sigpago": "19\/09\/2026"
+        },
+        "Carlos Garcete. 220.000*6. Mi": {
+            "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
