@@ -19,6 +19,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Isabelina Villarreal",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
