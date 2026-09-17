@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "17\/09\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Lurde Gomez",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Liliana Amanda Pereira. 560.000*5": {
             "sigpago": "21\/09\/2026"
