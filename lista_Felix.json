@@ -4,6 +4,12 @@
     "Pagos": {
         "Liliana Amanda Pereira. 560.000*5": {
             "sigpago": "21\/09\/2026"
+        },
+        "Ramon Vera. 1.200.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 200000
         }
     },
     "Gastos": {}
