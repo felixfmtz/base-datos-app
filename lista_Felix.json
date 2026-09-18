@@ -58,6 +58,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "numero"
+        },
+        "Carlos Garcete. 220.000*6. Mi": {
+            "sigpago": "23\/09\/2026"
         }
     },
     "Gastos": {}
