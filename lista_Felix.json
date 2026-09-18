@@ -140,6 +140,12 @@
             "NoTInteres": 100000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Rosalina del Valle. 400.000*30": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 2800000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
