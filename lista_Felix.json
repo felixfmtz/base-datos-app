@@ -1,118 +1,13 @@
 {
-    "fecha_ultimo_guardado": "17\/09\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Lurde Gomez",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "10",
-                    "Frecuencia": "Lunes",
-                    "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Angelina Forcado",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "10",
-                    "Frecuencia": "",
-                    "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Maria Rolon",
-                    "Deuda": "700.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "1",
-                    "Frecuencia": "Quincenal",
-                    "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Claudio Insfran",
-                    "Deuda": "200.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "1",
-                    "Frecuencia": "Mensual",
-                    "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Karen Gonzalez",
-                    "Deuda": "2.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "5",
-                    "Frecuencia": "Quincenal",
-                    "Transferencia": "Si"
-                }
-            ]
-        }
-    ],
+    "fecha_ultimo_guardado": "18\/09\/2026",
+    "cuentas": [],
     "Pagos": {
-        "Liliana Amanda Pereira. 560.000*5": {
-            "sigpago": "21\/09\/2026"
-        },
-        "Ramon Vera. 1.200.000": {
-            "NoTCuota": 0,
+        "Derlis Pintos. 1.200.000": {
+            "NoTCuota": 1200000,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 200000
-        },
-        "Ramon Vera. 2.400.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 400000
-        },
-        "Ramona Ortiz. 110.000*6. Sa. C1": {
-            "sigpago": "19\/09\/2026"
-        },
-        "Ramona Ortiz. 440.000*3. Mi": {
-            "sigpago": "19\/09\/2026"
-        },
-        "Arbelino Gonzalez. 210.000*10. Sa. C1": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 250000,
-            "TInteres": 0
-        },
-        "Claudelina Lopez. Natasha. anafe. 100.000*13. Ju": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 100000,
-            "TInteres": 0
-        },
-        "Zunilda Mercado. 210.000*10. Lu": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 210000,
-            "TInteres": 0
-        },
-        "Cristian Castillo. 3.500.000*2": {
-            "sigpago": "20\/09\/2026"
-        },
-        "Norma Beatriz Blanco. 98.000*10. Ma": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 100000,
-            "TInteres": 0
-        },
-        "Cristobal Muñoz. 1.200.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 200000
-        },
-        "Karen Gonzalez. 420.000*5. C1": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 840000,
             "TInteres": 0
         }
     },
-    "Gastos": {
-        "tesai": {
-            "valor": 250000,
-            "accion": "sumar"
-        }
-    }
+    "Gastos": {}
 }
