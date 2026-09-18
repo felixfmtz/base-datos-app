@@ -304,6 +304,10 @@
         "equipo": {
             "valor": 830000,
             "accion": "sumar"
+        },
+        "comisario ": {
+            "valor": 1000000,
+            "accion": "sumar"
         }
     }
 }
