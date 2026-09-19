@@ -47,6 +47,10 @@
         "mam": {
             "valor": 150000,
             "accion": "sumar"
+        },
+        "comida ": {
+            "valor": 74000,
+            "accion": "sumar"
         }
     }
 }
