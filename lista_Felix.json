@@ -4,6 +4,13 @@
     "Pagos": {
         "Fabiola Lopez. Aire. 150.000*34. Sa": {
             "sigpago": "22\/09\/2026"
+        },
+        "Enrique Victor Benitez. 110.000*6. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "numeri"
         }
     },
     "Gastos": {}
