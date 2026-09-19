@@ -150,6 +150,12 @@
             "NoTInteres": 0,
             "TCuota": 280000,
             "TInteres": 0
+        },
+        "Cristian Castillo. 3.500.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 7000000,
+            "TInteres": 0
         }
     },
     "Gastos": {
