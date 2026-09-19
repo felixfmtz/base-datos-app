@@ -35,6 +35,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Alejandro Lopez",
+                    "Deuda": "930.000",
+                    "Garante": "Robert. equipo",
+                    "NCuotas": "",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
