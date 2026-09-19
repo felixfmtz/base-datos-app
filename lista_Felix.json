@@ -29,6 +29,12 @@
         },
         "Miguel Martinez. 660.000*3": {
             "sigpago": "22\/09\/2026"
+        },
+        "Luis Arzamendia. 1.200.000*5. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1200000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
