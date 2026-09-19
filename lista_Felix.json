@@ -50,6 +50,12 @@
         },
         "Hugo Marmori. 1.200.000. C2": {
             "sigpago": "22\/09\/2026"
+        },
+        "Pedro Franco. Aire. 100.000*32. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 300000,
+            "TInteres": 0
         }
     },
     "Gastos": {
