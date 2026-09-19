@@ -175,6 +175,10 @@
         "comida ": {
             "valor": 74000,
             "accion": "sumar"
+        },
+        "pan ": {
+            "valor": 15000,
+            "accion": "sumar"
         }
     }
 }
