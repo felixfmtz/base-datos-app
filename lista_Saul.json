@@ -378,6 +378,10 @@
         "entregado ": {
             "valor": 1305000,
             "accion": "sumar"
+        },
+        "pan": {
+            "valor": 12000,
+            "accion": "sumar"
         }
     }
 }
