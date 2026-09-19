@@ -47,6 +47,12 @@
             "NoTInteres": 0,
             "TCuota": 1200000,
             "TInteres": 0
+        },
+        "Rosana Mariela Florentin. 200.000*7. Sa": {
+            "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
