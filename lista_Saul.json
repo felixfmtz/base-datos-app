@@ -4,6 +4,13 @@
     "Pagos": {
         "Fermin Lopez. 220.000*6. Sa": {
             "sigpago": "26\/09\/2026"
+        },
+        "Celia Gimenez. 1.400.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "corregir"
         }
     },
     "Gastos": {}
