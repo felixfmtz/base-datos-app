@@ -59,6 +59,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Fredy Pintos",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "",
+                    "Frecuencia": "",
+                    "Transferencia": "Si"
                 }
             ]
         }
