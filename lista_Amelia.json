@@ -349,6 +349,10 @@
         "combustible ": {
             "valor": 327000,
             "accion": "sumar"
+        },
+        "batería ": {
+            "valor": 800000,
+            "accion": "sumar"
         }
     }
 }
