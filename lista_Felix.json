@@ -118,6 +118,10 @@
         "obra": {
             "valor": 1000000,
             "accion": "sumar"
+        },
+        "obra 2": {
+            "valor": 95000,
+            "accion": "sumar"
         }
     }
 }
