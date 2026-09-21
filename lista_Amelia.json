@@ -401,6 +401,10 @@
         "batería ": {
             "valor": 800000,
             "accion": "sumar"
+        },
+        "casa ": {
+            "valor": 200000,
+            "accion": "sumar"
         }
     }
 }
