@@ -112,6 +112,12 @@
         },
         "Fredy Pintos. Redmi 15c. 100.000*16. Sa": {
             "sigpago": "26\/09\/2026"
+        },
+        "Elvio Fariña. 210.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {
