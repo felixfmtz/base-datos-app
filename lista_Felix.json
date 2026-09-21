@@ -4,6 +4,12 @@
     "Pagos": {
         "Bienvenido Martinez. 840.000*5": {
             "sigpago": "26\/09\/2026"
+        },
+        "Ruben Dario Gonzalez. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
