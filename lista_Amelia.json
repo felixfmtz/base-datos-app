@@ -170,5 +170,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "combustible ": {
+            "valor": 327000,
+            "accion": "sumar"
+        }
+    }
 }
