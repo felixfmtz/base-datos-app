@@ -2,6 +2,13 @@
     "fecha_ultimo_guardado": "21\/09\/2026",
     "cuentas": [],
     "Pagos": {
+        "Feliciana Arevalos. Tv. 100.000*28. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "10 y 25"
+        },
         "Alberto Peralta. 150.000*4. Sa": {
             "sigpago": "26\/09\/2026"
         }
