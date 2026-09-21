@@ -27,6 +27,14 @@
                     "NCuotas": "",
                     "Frecuencia": "",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Fernando Colman",
+                    "Deuda": "350.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "4",
+                    "Frecuencia": "",
+                    "Transferencia": "Si"
                 }
             ]
         }
