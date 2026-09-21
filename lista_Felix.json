@@ -143,7 +143,11 @@
             "Error": "en 19"
         },
         "Alfredo Castillo. 1.800.000": {
-            "sigpago": "24\/09\/2026"
+            "sigpago": "24\/09\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 300000
         },
         "Nelson Ayala Meza. 330.000*6. Vi": {
             "sigpago": "25\/09\/2026"
