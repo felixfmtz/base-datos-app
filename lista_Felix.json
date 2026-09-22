@@ -13,5 +13,10 @@
             "Error": "numero"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "comida ": {
+            "valor": 43000,
+            "accion": "sumar"
+        }
+    }
 }
