@@ -99,6 +99,10 @@
         "camara": {
             "valor": 820000,
             "accion": "sumar"
+        },
+        "farmacia": {
+            "valor": 61000,
+            "accion": "sumar"
         }
     }
 }
