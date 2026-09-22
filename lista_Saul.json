@@ -22,6 +22,12 @@
         },
         "Sergio Peralta. 840.000": {
             "sigpago": "26\/09\/2026"
+        },
+        "Francisca Pereira. 140.000*10. Lu": {
+            "NoTCuota": 280000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
