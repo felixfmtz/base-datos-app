@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "22\/09\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Celsa Garcete",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Antolin Rotela. 110.000*6. Ma": {
             "NoTCuota": 0,
