@@ -11,6 +11,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "numero"
+        },
+        "Roque Martinez. 220.000*3": {
+            "sigpago": "29\/09\/2026"
         }
     },
     "Gastos": {
