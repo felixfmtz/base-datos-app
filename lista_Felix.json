@@ -53,6 +53,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "mudar a jueves"
+        },
+        "Lourdes Arce. 80.000*30. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 685000,
+            "TInteres": 0
         }
     },
     "Gastos": {
