@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "22\/09\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Francisca Pereira",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Marcia Torres. 210.000*10. Ma": {
             "sigpago": "26\/09\/2026"
