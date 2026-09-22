@@ -24,6 +24,10 @@
         "auto": {
             "valor": 2500000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 370000,
+            "accion": "sumar"
         }
     }
 }
