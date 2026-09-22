@@ -222,6 +222,12 @@
             "NoTInteres": 0,
             "TCuota": 420000,
             "TInteres": 0
+        },
+        "Liz Mabel Sosa. 310.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 500000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
