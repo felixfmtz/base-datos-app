@@ -27,6 +27,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Martes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Adriana Hobeker",
+                    "Deuda": "880.000",
+                    "Garante": "zully",
+                    "NCuotas": "18",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
                 }
             ]
         }
