@@ -14,6 +14,12 @@
         },
         "Roque Martinez. 220.000*3": {
             "sigpago": "29\/09\/2026"
+        },
+        "Arbelino Gonzalez. 210.000*10. Sa. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {
