@@ -95,6 +95,10 @@
         "obra": {
             "valor": 370000,
             "accion": "sumar"
+        },
+        "camara": {
+            "valor": 820000,
+            "accion": "sumar"
         }
     }
 }
