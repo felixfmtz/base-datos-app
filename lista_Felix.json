@@ -75,6 +75,12 @@
         },
         "Liz Karina Benitez. 880.000*3. C1": {
             "sigpago": "30\/09\/2026"
+        },
+        "Gloria Florentin. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 560000,
+            "TInteres": 0
         }
     },
     "Gastos": {
