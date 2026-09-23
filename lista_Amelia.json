@@ -103,6 +103,10 @@
         "casa ": {
             "valor": 158000,
             "accion": "sumar"
+        },
+        "fruta": {
+            "valor": 45000,
+            "accion": "sumar"
         }
     }
 }
