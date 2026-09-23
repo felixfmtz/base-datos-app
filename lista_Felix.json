@@ -77,5 +77,10 @@
             "sigpago": "30\/09\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "sueldo bruno ": {
+            "valor": 695000,
+            "accion": "sumar"
+        }
+    }
 }
