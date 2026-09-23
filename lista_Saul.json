@@ -2,11 +2,17 @@
     "fecha_ultimo_guardado": "23\/09\/2026",
     "cuentas": [],
     "Pagos": {
-        "Zunilda Mercado. 210.000*10. Lu": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 210000,
-            "TInteres": 0
+        "Carlos Garcete. 220.000*6. Mi": {
+            "sigpago": "30\/09\/2026"
+        },
+        "Adriana Amarilla. 220.000*6. Lu": {
+            "sigpago": "28\/09\/2026"
+        },
+        "Camila Heinler. Luis. 220.000*3": {
+            "sigpago": "03\/10\/2026"
+        },
+        "Liliana Olmedo. 70.000*10. Mi": {
+            "sigpago": "26\/09\/2026"
         }
     },
     "Gastos": {}
