@@ -251,6 +251,10 @@
         "abono ": {
             "valor": 35000,
             "accion": "sumar"
+        },
+        "equifax": {
+            "valor": 308000,
+            "accion": "sumar"
         }
     }
 }
