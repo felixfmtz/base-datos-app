@@ -1,108 +1,13 @@
 {
-    "fecha_ultimo_guardado": "22\/09\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Luis Arzamendia",
-                    "Deuda": "5.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "5",
-                    "Frecuencia": "Lunes",
-                    "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Lourdes Arce",
-                    "Deuda": "880.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Martes",
-                    "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Lourdes Arce 2",
-                    "Deuda": "2.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "30",
-                    "Frecuencia": "Diario",
-                    "Transferencia": "Si"
-                }
-            ]
-        }
-    ],
+    "fecha_ultimo_guardado": "23\/09\/2026",
+    "cuentas": [],
     "Pagos": {
-        "Bienvenido Martinez. 840.000*5": {
-            "sigpago": "26\/09\/2026"
-        },
-        "Roman Flores. 220.000*6. Lu": {
+        "Elsa Cañete. 60.000*44. C1": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "numero"
-        },
-        "Roque Martinez. 220.000*3": {
-            "sigpago": "29\/09\/2026"
-        },
-        "Arbelino Gonzalez. 210.000*10. Sa. C1": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 210000,
-            "TInteres": 0
-        },
-        "Derlis Gamarra. 1.200.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 200000
-        },
-        "Francisco Villalba. 3.500.000*2": {
-            "NoTCuota": 2500000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Claudelina Maldonado. 140.000*10. Lu": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "mudar a jueves"
-        },
-        "Lourdes Arce. 80.000*30. C1": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 685000,
-            "TInteres": 0
-        },
-        "Lourdes Arce. 280.000*10. Ju": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 1160000,
+            "TCuota": 80000,
             "TInteres": 0
         }
     },
-    "Gastos": {
-        "comida ": {
-            "valor": 43000,
-            "accion": "sumar"
-        },
-        "auto": {
-            "valor": 2500000,
-            "accion": "sumar"
-        },
-        "obra": {
-            "valor": 370000,
-            "accion": "sumar"
-        },
-        "camara": {
-            "valor": 820000,
-            "accion": "sumar"
-        },
-        "farmacia": {
-            "valor": 61000,
-            "accion": "sumar"
-        }
-    }
+    "Gastos": {}
 }
