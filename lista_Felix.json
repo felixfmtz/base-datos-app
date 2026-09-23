@@ -19,6 +19,15 @@
             "NoTInteres": 0,
             "TCuota": 60000,
             "TInteres": 0
+        },
+        "Francisco Villalba. 3.500.000*2": {
+            "NoTCuota": 3500000,
+            "NoTInteres": 0,
+            "TCuota": 1000000,
+            "TInteres": 0
+        },
+        "Jose Carlos Pintos. 220.000*6. Lu": {
+            "sigpago": "27\/09\/2026"
         }
     },
     "Gastos": {}
