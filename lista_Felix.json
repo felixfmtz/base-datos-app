@@ -137,6 +137,12 @@
         },
         "Luciano Pintos. 140.000*10. Ma": {
             "sigpago": "25\/09\/2026"
+        },
+        "Sonia Amarilla. 110.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 25000
         }
     },
     "Gastos": {
