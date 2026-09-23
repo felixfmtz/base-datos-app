@@ -143,6 +143,12 @@
         },
         "Ezequiel Gimenez. 110.000*6. Mi": {
             "sigpago": "26\/09\/2026"
+        },
+        "Reinaldo Riquelme. 440.000*6. Mi": {
+            "NoTCuota": 440000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
