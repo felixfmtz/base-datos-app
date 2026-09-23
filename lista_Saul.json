@@ -40,6 +40,12 @@
         },
         "Bartola Cubilla. 220.000*6. Mi": {
             "sigpago": "25\/09\/2026"
+        },
+        "Liz Karina Bogado. 210.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
