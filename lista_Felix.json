@@ -118,5 +118,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "doc": {
+            "valor": 130000,
+            "accion": "sumar"
+        }
+    }
 }
