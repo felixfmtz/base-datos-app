@@ -22,6 +22,12 @@
         },
         "Edmundo Mendoza. 260.000*10. Sa": {
             "sigpago": "26\/09\/2026"
+        },
+        "Gloria Amada Gomez. 140.000*10. Ju. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
