@@ -19,6 +19,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Jueves",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Mauro Venialgo",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "5",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
                 }
             ]
         }
