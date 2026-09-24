@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "24\/09\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Angela Roa",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Raul Obregon. 880.000*6. Mi. C1": {
             "NoTCuota": 0,
