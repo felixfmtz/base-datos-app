@@ -37,6 +37,15 @@
                     "Transferencia": "Si"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Gerardo Florentin",
+                    "dia": "Vi"
+                }
+            ]
         }
     ],
     "Pagos": {
