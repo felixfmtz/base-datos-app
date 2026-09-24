@@ -27,6 +27,14 @@
                     "NCuotas": "5",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Ismael penayo",
+                    "Deuda": "1.000.000",
+                    "Garante": "omar",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
