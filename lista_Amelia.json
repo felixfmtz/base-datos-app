@@ -64,6 +64,10 @@
         "derlis": {
             "valor": 200000,
             "accion": "sumar"
+        },
+        "obra ": {
+            "valor": 490000,
+            "accion": "sumar"
         }
     }
 }
