@@ -8,6 +8,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "40 por dia"
+        },
+        "Elsa Cañete. 60.000*44. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 60000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
