@@ -66,6 +66,12 @@
         "Roman Flores. 220.000*6. Lu": {
             "sigpago": "28\/09\/2026",
             "Error": "revisar"
+        },
+        "Luis Arzamendia. 140.000*43": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {
