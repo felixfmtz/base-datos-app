@@ -7,6 +7,12 @@
         },
         "Gedalia DelValle. Heladera. 200.000*42. Vi": {
             "sigpago": "28\/09\/2026"
+        },
+        "Felicia Britez. 280.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
