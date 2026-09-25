@@ -14,6 +14,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "actualizar la cuenta"
+        },
+        "Claudia Gomez. 140.000*10. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
