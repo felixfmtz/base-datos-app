@@ -1,127 +1,14 @@
 {
-    "fecha_ultimo_guardado": "24\/09\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Aldo Alcaraz",
-                    "Deuda": "500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Sábado",
-                    "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Antonio Gonzalez",
-                    "Deuda": "300.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "1",
-                    "Frecuencia": "",
-                    "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Victor Gimenez",
-                    "Deuda": "5.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "3",
-                    "Frecuencia": "Sábado",
-                    "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Gertrudis Riberos",
-                    "Deuda": "500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Lunes",
-                    "Transferencia": "Si"
-                }
-            ]
-        },
-        {
-            "seccion": "Pedido",
-            "items": [
-                {
-                    "nombreOriginal": "Gerardo Florentin",
-                    "dia": "Vi"
-                }
-            ]
-        }
-    ],
+    "fecha_ultimo_guardado": "25\/09\/2026",
+    "cuentas": [],
     "Pagos": {
-        "Enrique Victor Benitez. 110.000*6. Ju": {
-            "sigpago": "26\/09\/2026"
-        },
-        "Roman Flores. 220.000*6. Lu": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 200000,
-            "TInteres": 0
-        },
-        "Maria Flores. 440.000*3": {
-            "sigpago": "26\/09\/2026"
-        },
-        "Maria Flores. 350.000*3": {
-            "sigpago": "26\/09\/2026"
-        },
-        "Juana Fariña. 220.000*6. Lu": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 220000,
-            "TInteres": 0
-        },
-        "Antonia Miguela Rojas. 140.000*10. Ju": {
+        "Anibal Godoy. 30.000*44": {
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0,
-            "Error": "viernes"
-        },
-        "Floida Gimenez. 140.000*10. Mi": {
-            "sigpago": "01\/10\/2026"
-        },
-        "Zunilda Mercado. 210.000*10. Lu": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 210000,
-            "TInteres": 0
-        },
-        "Maria Romina Sosa. 210.000*10. Sa": {
-            "sigpago": "30\/09\/2026",
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 210000,
-            "TInteres": 0
-        },
-        "Norma Beatriz Blanco. 98.000*10. Ma": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 100000,
-            "TInteres": 0
-        },
-        "Claudelina Lopez. Natasha. anafe. 100.000*13. Ju": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 100000,
-            "TInteres": 0
-        },
-        "Fabiola Cañete. Cheque. 1.100.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 100000
-        },
-        "Nelva Colman. 220.000*6. Lu": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 220000,
-            "TInteres": 0
+            "Error": "40 por dia"
         }
     },
-    "Gastos": {
-        "doc": {
-            "valor": 130000,
-            "accion": "sumar"
-        }
-    }
+    "Gastos": {}
 }
