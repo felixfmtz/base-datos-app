@@ -158,6 +158,12 @@
             "NoTInteres": 0,
             "TCuota": 60000,
             "TInteres": 0
+        },
+        "Javier Mesa. Esposa. 600.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 650000,
+            "TInteres": 0
         }
     },
     "Gastos": {
