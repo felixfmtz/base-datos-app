@@ -7,6 +7,13 @@
             "NoTInteres": 0,
             "TCuota": 280000,
             "TInteres": 0
+        },
+        "Vanesa Servian. Aire. 100.000*30. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "actualizar la cuenta"
         }
     },
     "Gastos": {}
