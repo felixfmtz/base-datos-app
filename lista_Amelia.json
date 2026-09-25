@@ -60,5 +60,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "derlis": {
+            "valor": 200000,
+            "accion": "sumar"
+        }
+    }
 }
