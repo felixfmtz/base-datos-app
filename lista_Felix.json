@@ -146,6 +146,12 @@
             "NoTInteres": 0,
             "TCuota": 3600000,
             "TInteres": 0
+        },
+        "Eliane Marisol Colman. 350.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 350000,
+            "TInteres": 0
         }
     },
     "Gastos": {
