@@ -250,6 +250,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Catalina Santacruz. 98.000*10. Mi": {
+            "NoTCuota": 480000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
