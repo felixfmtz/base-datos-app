@@ -43,6 +43,14 @@
                     "NCuotas": "44",
                     "Frecuencia": "Diario",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Derlis Rodrigo Gonzalez",
+                    "Deuda": "1.000.000",
+                    "Garante": "esposa",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
