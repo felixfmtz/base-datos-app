@@ -91,6 +91,12 @@
         },
         "Gladys Cocco. 70.000*10. Sa": {
             "sigpago": "30\/09\/2026"
+        },
+        "Maria Gregoria Florentin. 110.000*6. Sa": {
+            "NoTCuota": 110000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
