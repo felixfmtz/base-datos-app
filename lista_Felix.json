@@ -166,6 +166,10 @@
         "obra": {
             "valor": 1500000,
             "accion": "sumar"
+        },
+        "fidel": {
+            "valor": 730000,
+            "accion": "sumar"
         }
     }
 }
