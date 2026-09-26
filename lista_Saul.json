@@ -315,6 +315,10 @@
         "entregado ": {
             "valor": 1010000,
             "accion": "sumar"
+        },
+        "sueldo saul": {
+            "valor": 500000,
+            "accion": "sumar"
         }
     }
 }
