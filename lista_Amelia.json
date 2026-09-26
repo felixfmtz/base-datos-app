@@ -136,6 +136,10 @@
         "Derlis transferir ": {
             "valor": 110000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
