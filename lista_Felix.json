@@ -96,6 +96,12 @@
             "NoTInteres": 0,
             "TCuota": 30000,
             "TInteres": 0
+        },
+        "Digna Lopez. 245.000*4": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 235000,
+            "TInteres": 0
         }
     },
     "Gastos": {
