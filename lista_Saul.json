@@ -149,6 +149,12 @@
             "NoTInteres": 0,
             "TCuota": 110000,
             "TInteres": 0
+        },
+        "Diego Dure. 220.000*6. Vi": {
+            "NoTCuota": 150000,
+            "NoTInteres": 0,
+            "TCuota": 70000,
+            "TInteres": 0
         }
     },
     "Gastos": {
