@@ -326,7 +326,7 @@
         "Adriana Hobeker. Cel C71. 100.000*22. Sa": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 100000,
             "TInteres": 0
         },
         "Jose Ovidio Cardozo. 80.000*33": {
