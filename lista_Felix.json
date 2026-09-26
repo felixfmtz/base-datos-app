@@ -148,6 +148,10 @@
         "auro": {
             "valor": 200000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 1500000,
+            "accion": "sumar"
         }
     }
 }
