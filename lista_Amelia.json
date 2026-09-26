@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "26\/09\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Jose Augusto Cantero",
+                    "Deuda": "4.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "11",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Luana Sosa. 140.000*10. Mi": {
             "NoTCuota": 0,
