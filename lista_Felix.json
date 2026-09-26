@@ -24,6 +24,12 @@
         },
         "Sixto Villalba. 220.000*3. C1": {
             "sigpago": "01\/10\/2026"
+        },
+        "Angelina Forcado. 220.000*6. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {
