@@ -132,6 +132,10 @@
         "combustible ": {
             "valor": 350000,
             "accion": "sumar"
+        },
+        "Derlis transferir ": {
+            "valor": 110000,
+            "accion": "sumar"
         }
     }
 }
