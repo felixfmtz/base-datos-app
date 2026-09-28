@@ -81,6 +81,10 @@
         "sueldo derlis": {
             "valor": 150000,
             "accion": "sumar"
+        },
+        "yerba ": {
+            "valor": 18000,
+            "accion": "sumar"
         }
     }
 }
