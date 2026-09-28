@@ -43,6 +43,18 @@
             "NoTInteres": 0,
             "TCuota": 540000,
             "TInteres": 0
+        },
+        "Petrona Paredes. Ruth. 140.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
+        },
+        "Mario Medina. 1.400.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1200000000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
