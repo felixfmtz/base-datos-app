@@ -168,6 +168,12 @@
             "NoTInteres": 0,
             "TCuota": 30000,
             "TInteres": 0
+        },
+        "Thais Orquiola. Cesar. 30.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 90000,
+            "TInteres": 0
         }
     },
     "Gastos": {
