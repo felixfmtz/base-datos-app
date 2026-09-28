@@ -130,6 +130,12 @@
         },
         "Maria Antonia Caballero. Tv. 100.000*30. Sa": {
             "sigpago": "30\/09\/2026"
+        },
+        "Flaminio Gonzalez. 420.000*10. Lu": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
