@@ -19,5 +19,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "sueldo derlis": {
+            "valor": 150000,
+            "accion": "sumar"
+        }
+    }
 }
