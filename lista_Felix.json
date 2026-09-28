@@ -11,6 +11,12 @@
         },
         "Bienvenido Martinez. 840.000*5": {
             "sigpago": "03\/10\/2026"
+        },
+        "Leticia Alfonzo. 280.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
