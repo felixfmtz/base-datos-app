@@ -168,6 +168,12 @@
         },
         "Ruben Dario Gonzalez. 220.000*6. Sa": {
             "sigpago": "03\/10\/2026"
+        },
+        "Rosalba Ojeda. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {
