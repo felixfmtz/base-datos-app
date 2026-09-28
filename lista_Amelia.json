@@ -335,6 +335,10 @@
         "rwal": {
             "valor": 120000,
             "accion": "sumar"
+        },
+        "combustible ": {
+            "valor": 340000,
+            "accion": "sumar"
         }
     }
 }
