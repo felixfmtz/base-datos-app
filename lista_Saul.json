@@ -2,12 +2,17 @@
     "fecha_ultimo_guardado": "28\/09\/2026",
     "cuentas": [],
     "Pagos": {
-        "Digna Lopez. 245.000*4": {
+        "Yenny Fabiola Segovia. 140.000*10. Lu": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0,
-            "Error": "pagado"
+            "TCuota": 140000,
+            "TInteres": 0
+        },
+        "Ordonia Davalos. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
