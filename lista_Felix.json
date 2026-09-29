@@ -10,6 +10,13 @@
         },
         "Hugo Javier Gomez. 140.000*10. Sa": {
             "sigpago": "03\/10\/2026"
+        },
+        "Digna Lopez. 245.000*4": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pagado"
         }
     },
     "Gastos": {}
