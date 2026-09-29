@@ -86,6 +86,9 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 100000
+        },
+        "Dorca Zarza. 550.000. Mi": {
+            "sigpago": "01\/10\/2026"
         }
     },
     "Gastos": {}
