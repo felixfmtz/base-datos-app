@@ -13,6 +13,12 @@
         },
         "Nidia Teresita Duarte. 350.000*10. Sa": {
             "sigpago": "03\/10\/2026"
+        },
+        "Evarista Aguilar. 440.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 440000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
