@@ -27,6 +27,14 @@
                     "NCuotas": "3",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Cyntia Mendoza 2",
+                    "Deuda": "2.000.000",
+                    "Garante": " 11. 26 pago ",
+                    "NCuotas": "4",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
                 }
             ]
         },
