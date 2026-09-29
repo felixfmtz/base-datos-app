@@ -354,6 +354,10 @@
         "uña": {
             "valor": 150000,
             "accion": "sumar"
+        },
+        "casa": {
+            "valor": 33000,
+            "accion": "sumar"
         }
     }
 }
