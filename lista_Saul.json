@@ -129,6 +129,12 @@
         },
         "Digna Lopez. 245.000*4": {
             "sigpago": "30\/09\/2026"
+        },
+        "Hermelinda Herrera. 140.000*10. Ma": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
