@@ -298,6 +298,12 @@
             "NoTInteres": 0,
             "TCuota": 420000,
             "TInteres": 0
+        },
+        "Leopoldo Pereira. 260.000*54": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 260000,
+            "TInteres": 0
         }
     },
     "Gastos": {
