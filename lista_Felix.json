@@ -115,6 +115,10 @@
         "julio": {
             "valor": 1000000,
             "accion": "sumar"
+        },
+        "carne": {
+            "valor": 60000,
+            "accion": "sumar"
         }
     }
 }
