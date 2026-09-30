@@ -64,5 +64,10 @@
             "sigpago": "02\/10\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "julio": {
+            "valor": 1000000,
+            "accion": "sumar"
+        }
+    }
 }
