@@ -88,6 +88,12 @@
         },
         "Juana Fariña. 220.000*6. Lu": {
             "sigpago": "03\/10\/2026"
+        },
+        "Anibal Godoy. 40.000*30": {
+            "NoTCuota": 40000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
