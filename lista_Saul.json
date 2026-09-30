@@ -40,6 +40,18 @@
         },
         "Marcia Torres. 210.000*10. Ma": {
             "sigpago": "03\/10\/2026"
+        },
+        "Rosalba Gonzalez Duarte. 30.000*24": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Reinaldo Riquelme. 440.000*6. Mi": {
+            "NoTCuota": 440000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
