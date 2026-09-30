@@ -25,6 +25,12 @@
             "NoTInteres": 0,
             "TCuota": 200000,
             "TInteres": 0
+        },
+        "Rosalino Benitez. 10.000.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 1300000
         }
     },
     "Gastos": {}
