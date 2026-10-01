@@ -231,6 +231,10 @@
         "entregado ": {
             "valor": 3735000,
             "accion": "sumar"
+        },
+        "gomería": {
+            "valor": 30000,
+            "accion": "sumar"
         }
     }
 }
