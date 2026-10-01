@@ -134,6 +134,10 @@
         "masaje": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "suwldo derlis": {
+            "valor": 150000,
+            "accion": "sumar"
         }
     }
 }
