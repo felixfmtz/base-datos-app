@@ -79,6 +79,10 @@
         "conejo ": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "gato ": {
+            "valor": 45000,
+            "accion": "sumar"
         }
     }
 }
