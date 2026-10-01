@@ -19,6 +19,10 @@
         "sueldo derlis ": {
             "valor": 330000,
             "accion": "sumar"
+        },
+        "masaje": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
