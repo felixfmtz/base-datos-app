@@ -27,6 +27,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Arnaldo Prieto",
+                    "Deuda": "880.000",
+                    "Garante": "aurora ",
+                    "NCuotas": "18",
+                    "Frecuencia": "",
+                    "Transferencia": "Si"
                 }
             ]
         }
