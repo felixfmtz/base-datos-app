@@ -215,6 +215,10 @@
         "gato ": {
             "valor": 45000,
             "accion": "sumar"
+        },
+        "casa": {
+            "valor": 134000,
+            "accion": "sumar"
         }
     }
 }
