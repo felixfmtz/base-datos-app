@@ -112,6 +112,12 @@
         },
         "Banesa Benitez. 1.100.000": {
             "sigpago": "05\/10\/2026"
+        },
+        "Smirna Zarza. 2.400.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 400000,
+            "TInteres": 0
         }
     },
     "Gastos": {
