@@ -195,6 +195,12 @@
         },
         "Mabel Villalba. 660.000*6. Mi": {
             "sigpago": "03\/10\/2026"
+        },
+        "Maria Francisca. 30.000*44. C1": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
