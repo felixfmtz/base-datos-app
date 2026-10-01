@@ -75,6 +75,12 @@
         },
         "Sixto Villalba. 220.000*3. C1": {
             "sigpago": "05\/10\/2026"
+        },
+        "Claudelina Lopez. 220.000*6. Ju. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {
