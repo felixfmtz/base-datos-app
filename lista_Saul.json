@@ -135,6 +135,12 @@
         },
         "Banesa Benitez. 1.100.000": {
             "sigpago": "05\/10\/2026"
+        },
+        "Gladys Cocco. 110.000*6. Sa. C1": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
