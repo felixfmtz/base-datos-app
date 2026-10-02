@@ -85,6 +85,12 @@
         },
         "Nelson Ayala Meza. 330.000*6. Vi": {
             "sigpago": "20\/10\/2026"
+        },
+        "Esteban Velazquez. 220.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 50000
         }
     },
     "Gastos": {
