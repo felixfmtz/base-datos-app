@@ -16,6 +16,12 @@
         },
         "Mirtha Graciela. 10.200.000": {
             "sigpago": "06\/10\/2026"
+        },
+        "Roman Flores. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 240000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
