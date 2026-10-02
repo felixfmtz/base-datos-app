@@ -10,6 +10,12 @@
         },
         "Marcelina Lopez. 280.000*10. Ju": {
             "sigpago": "08\/10\/2026"
+        },
+        "Epifania Ortiz. 45.000*44": {
+            "NoTCuota": 180000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
