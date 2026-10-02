@@ -7,6 +7,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 200000
+        },
+        "Karen Gonzalez. 560.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 560000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
