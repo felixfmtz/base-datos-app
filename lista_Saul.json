@@ -36,7 +36,11 @@
             "sigpago": "05\/10\/2026"
         },
         "Alejandra Cano. Cel c71. 100.000*25. Lu": {
-            "sigpago": "05\/10\/2026"
+            "sigpago": "05\/10\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         },
         "Marcelina Lopez. 280.000*10. Ju": {
             "sigpago": "08\/10\/2026"
