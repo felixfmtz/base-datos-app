@@ -150,6 +150,12 @@
             "NoTInteres": 0,
             "TCuota": 75000,
             "TInteres": 0
+        },
+        "Dorca Zarza. 550.000. Mi": {
+            "NoTCuota": 550000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
