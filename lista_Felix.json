@@ -37,6 +37,12 @@
         },
         "Ramon Vera. 2.400.000": {
             "sigpago": "07\/10\/2026"
+        },
+        "Yasmil Franciely Zelaya. 210.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
         }
     },
     "Gastos": {
