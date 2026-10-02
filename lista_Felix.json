@@ -30,5 +30,10 @@
             "TInteres": 10000
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "celular": {
+            "valor": 11200000,
+            "accion": "sumar"
+        }
+    }
 }
