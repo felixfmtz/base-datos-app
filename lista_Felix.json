@@ -229,6 +229,10 @@
         "sueldo bruni": {
             "valor": 1700000,
             "accion": "sumar"
+        },
+        "carnr": {
+            "valor": 595000,
+            "accion": "sumar"
         }
     }
 }
