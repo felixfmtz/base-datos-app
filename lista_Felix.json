@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "03\/10\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Gertrudis Riberos",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "2",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Gladys Cocco. 70.000*10. Sa": {
             "NoTCuota": 0,
@@ -46,6 +60,18 @@
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 100000,
+            "TInteres": 0
+        },
+        "Cristian Palacios. 350.000*4": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 350000,
+            "TInteres": 0
+        },
+        "Wilner Peralta. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
             "TInteres": 0
         }
     },
