@@ -23,6 +23,12 @@
         },
         "Yasmil Franciely Zelaya. 210.000*10. Ju": {
             "sigpago": "08\/10\/2026"
+        },
+        "Reinaldo Narvae. 1.400.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1450000,
+            "TInteres": 0
         }
     },
     "Gastos": {
