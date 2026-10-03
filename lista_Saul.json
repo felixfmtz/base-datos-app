@@ -14,6 +14,12 @@
         },
         "Demesia Nuñez. 140.000*10. Sa": {
             "sigpago": "10\/10\/2026"
+        },
+        "Claudio Nicolas Aguilar. 350.000*4": {
+            "NoTCuota": 350000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
