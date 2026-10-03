@@ -251,6 +251,10 @@
         "casa": {
             "valor": 220000,
             "accion": "sumar"
+        },
+        "internet ": {
+            "valor": 255000,
+            "accion": "sumar"
         }
     }
 }
