@@ -25,5 +25,10 @@
             "sigpago": "08\/10\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "llave": {
+            "valor": 100000,
+            "accion": "sumar"
+        }
+    }
 }
