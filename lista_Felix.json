@@ -97,6 +97,10 @@
         "liquidación derlis": {
             "valor": 3000000,
             "accion": "sumar"
+        },
+        "farmacia": {
+            "valor": 140000,
+            "accion": "sumar"
         }
     }
 }
