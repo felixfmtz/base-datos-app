@@ -142,6 +142,10 @@
         "obra": {
             "valor": 3545000,
             "accion": "sumar"
+        },
+        "suwldo jesica": {
+            "valor": 500000,
+            "accion": "sumar"
         }
     }
 }
