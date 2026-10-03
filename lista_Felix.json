@@ -105,7 +105,11 @@
             "TInteres": 0
         },
         "Hugo Caceres. 180.000*4. Sa": {
-            "sigpago": "05\/10\/2026"
+            "sigpago": "05\/10\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 120000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
