@@ -86,6 +86,10 @@
         "repollo": {
             "valor": 10000,
             "accion": "sumar"
+        },
+        "entregado ": {
+            "valor": 1350000,
+            "accion": "sumar"
         }
     }
 }
