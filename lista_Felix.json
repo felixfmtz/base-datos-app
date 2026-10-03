@@ -14,6 +14,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 10000
+        },
+        "Fermin Lopez. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 10000
         }
     },
     "Gastos": {}
