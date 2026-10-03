@@ -225,6 +225,10 @@
         "suwldo jesica": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "sueldo bruni": {
+            "valor": 1700000,
+            "accion": "sumar"
         }
     }
 }
