@@ -151,7 +151,11 @@
             "TInteres": 15000
         },
         "Sonia Amarilla. 110.000*6. Sa. C1": {
-            "sigpago": "05\/10\/2026"
+            "sigpago": "05\/10\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 50000
         }
     },
     "Gastos": {
