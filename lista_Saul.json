@@ -82,5 +82,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "repollo": {
+            "valor": 10000,
+            "accion": "sumar"
+        }
+    }
 }
