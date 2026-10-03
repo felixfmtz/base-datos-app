@@ -29,6 +29,10 @@
         "llave": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "masaje": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
