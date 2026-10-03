@@ -457,6 +457,10 @@
         "internet ": {
             "valor": 255000,
             "accion": "sumar"
+        },
+        "combustible ": {
+            "valor": 350000,
+            "accion": "sumar"
         }
     }
 }
