@@ -39,6 +39,10 @@
         "masaje": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "sueldo bruno": {
+            "valor": 380000,
+            "accion": "sumar"
         }
     }
 }
