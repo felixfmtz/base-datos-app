@@ -1,138 +1,14 @@
 {
-    "fecha_ultimo_guardado": "02\/10\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Derlis Pintos",
-                    "Deuda": "500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "10",
-                    "Frecuencia": "Viernes",
-                    "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Carlos Derlis Duarte",
-                    "Deuda": "100.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "1",
-                    "Frecuencia": "Mensual",
-                    "Transferencia": "Si"
-                }
-            ]
-        }
-    ],
+    "fecha_ultimo_guardado": "03\/10\/2026",
+    "cuentas": [],
     "Pagos": {
-        "Delcia Castillo. 1.200.000": {
+        "Gladys Cocco. 70.000*10. Sa": {
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 200000
-        },
-        "Karen Gonzalez. 560.000*5": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 560000,
-            "TInteres": 0
-        },
-        "Mirtha Graciela. 10.200.000": {
-            "sigpago": "06\/10\/2026"
-        },
-        "Roman Flores. 220.000*6. Lu": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 240000,
-            "TInteres": 0
-        },
-        "Marcelina Lopez. 280.000*10. Ju": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 10000
-        },
-        "Liz Karina Benitez. 880.000*3. C1": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 880000,
-            "TInteres": 0
-        },
-        "Ramon Vera. 2.400.000": {
-            "sigpago": "07\/10\/2026"
-        },
-        "Yasmil Franciely Zelaya. 210.000*10. Ju": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 200000,
-            "TInteres": 0
-        },
-        "Rosa Villar. 600.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 100000,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Rosa Villar. 1.800.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 300000,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Eliane Marisol Colman. 350.000*10. Vi": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 300000,
-            "TInteres": 0
-        },
-        "Nancy Mabel Gomez. 350.000*4": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 440000,
             "TInteres": 0,
-            "Error": "corregir"
-        },
-        "Nelson Ayala Meza. 330.000*6. Vi": {
-            "sigpago": "20\/10\/2026"
-        },
-        "Esteban Velazquez. 220.000*3": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 50000
-        },
-        "Eliane Mariela Colman. 450.000*10. Vi": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 350000,
-            "TInteres": 0
-        },
-        "Blas Guereño. 1.100.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 1100000,
-            "TInteres": 0
-        },
-        "Blas Guereño. 600.000*2": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 100000,
-            "TInteres": 0
-        },
-        "Nanci Riveros. 1.440.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 240000
+            "Error": "en 6 pagod"
         }
     },
-    "Gastos": {
-        "celular": {
-            "valor": 11200000,
-            "accion": "sumar"
-        },
-        "comida": {
-            "valor": 75000,
-            "accion": "sumar"
-        }
-    }
+    "Gastos": {}
 }
