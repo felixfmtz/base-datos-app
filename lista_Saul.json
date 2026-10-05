@@ -22,6 +22,18 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Teresa Lezcano. Cel Poco C71. 200.000*9. Lu": {
+            "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Inocencia Gonzalez. 220.000*6. Lu": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
