@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "05\/10\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Adriana Amarilla",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Maria Antonia Caballero. Tv. 100.000*30. Sa": {
             "sigpago": "08\/10\/2026"
