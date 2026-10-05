@@ -443,6 +443,10 @@
         "casa": {
             "valor": 63000,
             "accion": "sumar"
+        },
+        "ración ": {
+            "valor": 420000,
+            "accion": "sumar"
         }
     }
 }
