@@ -173,6 +173,12 @@
         },
         "Fernando Colman. 105.000*4. Lu": {
             "sigpago": "07\/10\/2026"
+        },
+        "Rosalba Gonzalez Duarte. 30.000*24": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
