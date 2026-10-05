@@ -87,6 +87,12 @@
         },
         "Fernando Colman. 105.000*4. Lu": {
             "sigpago": "07\/10\/2026"
+        },
+        "Luis Colman. 660.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 660000,
+            "TInteres": 0
         }
     },
     "Gastos": {
