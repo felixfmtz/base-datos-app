@@ -53,6 +53,12 @@
         },
         "Luis Garcia. 560.000*5": {
             "sigpago": "10\/10\/2026"
+        },
+        "Eliane Mariela Colman. 450.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
