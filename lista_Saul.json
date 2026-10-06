@@ -25,6 +25,12 @@
         },
         "Eusebio Canata. 140.000*10. Ma. C1": {
             "sigpago": "09\/10\/2026"
+        },
+        "Fabia Estela Britez. 140.000*10. Ma": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
