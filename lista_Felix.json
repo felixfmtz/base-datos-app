@@ -31,6 +31,13 @@
         },
         "Mirtha Graciela. 10.200.000": {
             "sigpago": "13\/10\/2026"
+        },
+        "Recordatorio. Contador": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "sigpago": "Pagado"
         }
     },
     "Gastos": {}
