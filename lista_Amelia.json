@@ -73,6 +73,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Laureana Insfran. Jose. 308.000*6. Lu. C1": {
+            "NoTCuota": 310000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
