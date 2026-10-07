@@ -102,6 +102,18 @@
         },
         "Hugo Careres. Olier. 300.000*2. C2": {
             "sigpago": "09\/10\/2026"
+        },
+        "Ignacio Insfran. 1.200.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 200000
+        },
+        "Sonia Amarilla. 110.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 25000
         }
     },
     "Gastos": {
