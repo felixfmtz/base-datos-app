@@ -172,6 +172,10 @@
         "ración ": {
             "valor": 200000,
             "accion": "sumar"
+        },
+        "casa 2": {
+            "valor": 15000,
+            "accion": "sumar"
         }
     }
 }
