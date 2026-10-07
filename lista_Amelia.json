@@ -35,7 +35,7 @@
         "Arnaldo Prieto. Liz. 550.000. Ma": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 110000,
             "TInteres": 0,
             "Error": "6 pago"
         }
