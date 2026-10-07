@@ -173,6 +173,10 @@
         "tv": {
             "valor": 3700000,
             "accion": "sumar"
+        },
+        "sueldo jesica": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
