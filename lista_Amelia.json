@@ -304,6 +304,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Mauro Venialgo. 130.000*5. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "jueves mudar"
         }
     },
     "Gastos": {
