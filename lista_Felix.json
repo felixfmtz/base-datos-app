@@ -4,6 +4,12 @@
     "Pagos": {
         "Bienvenido Martinez. 840.000*5": {
             "sigpago": "10\/10\/2026"
+        },
+        "Juan Benitez. Kague. 350.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 100000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
