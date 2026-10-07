@@ -38,6 +38,12 @@
             "TCuota": 110000,
             "TInteres": 0,
             "Error": "6 pago"
+        },
+        "Maria Belen Torres. 600.000*4. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1000000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
