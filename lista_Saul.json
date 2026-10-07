@@ -123,6 +123,12 @@
         },
         "Norma Beatriz Blanco. 98.000*10. Ma": {
             "sigpago": "09\/10\/2026"
+        },
+        "Gloria Cristaldo. 110.000*6. Sa": {
+            "NoTCuota": 150000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
