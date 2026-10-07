@@ -69,6 +69,12 @@
             "NoTInteres": 0,
             "TCuota": 270000,
             "TInteres": 0
+        },
+        "Rosalba Gonzalez Duarte. 30.000*24": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 30000,
+            "TInteres": 0
         }
     },
     "Gastos": {
