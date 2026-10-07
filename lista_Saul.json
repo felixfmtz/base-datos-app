@@ -84,6 +84,12 @@
         },
         "Marcia Torres. 210.000*10. Ma": {
             "sigpago": "10\/10\/2026"
+        },
+        "Maria Antonia Caballero. Tv. 100.000*30. Sa": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
