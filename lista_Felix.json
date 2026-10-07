@@ -52,6 +52,10 @@
         "farmacia": {
             "valor": 56000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 50000,
+            "accion": "sumar"
         }
     }
 }
