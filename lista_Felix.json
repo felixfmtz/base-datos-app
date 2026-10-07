@@ -143,6 +143,12 @@
         },
         "Norma Beatriz Blanco. 98.000*10. Ma": {
             "sigpago": "09\/10\/2026"
+        },
+        "Fatima Villagra. 1.200.000. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 200000
         }
     },
     "Gastos": {
