@@ -116,6 +116,10 @@
         "despensa ": {
             "valor": 23000,
             "accion": "sumar"
+        },
+        "tv": {
+            "valor": 3700000,
+            "accion": "sumar"
         }
     }
 }
