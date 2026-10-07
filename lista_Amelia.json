@@ -353,6 +353,10 @@
         "casa 2": {
             "valor": 15000,
             "accion": "sumar"
+        },
+        "ración de conejo ": {
+            "valor": 85000,
+            "accion": "sumar"
         }
     }
 }
