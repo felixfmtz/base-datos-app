@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "07\/10\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Wilson Benitez",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "4",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Hugo Ariel Arrua. 350.000*8. Sa": {
             "NoTCuota": 0,
