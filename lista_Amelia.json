@@ -181,6 +181,25 @@
             "NoTInteres": 0,
             "TCuota": 60000,
             "TInteres": 0
+        },
+        "Raul Obregon. 880.000*6. Mi. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 670000,
+            "TInteres": 0,
+            "Error": "corregir"
+        },
+        "Raul Obregon. 210.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
+        },
+        "Adriana Hobeker. Planchita. 75.000*19. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 75000,
+            "TInteres": 0
         }
     },
     "Gastos": {
