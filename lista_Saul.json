@@ -93,6 +93,12 @@
         },
         "Eusebio Galeano. 220.000*6. Sa": {
             "sigpago": "10\/10\/2026"
+        },
+        "Delcia Castillo. Marcelo. 280.000*10. Sa": {
+            "NoTCuota": 1400000,
+            "NoTInteres": 0,
+            "TCuota": 840000,
+            "TInteres": 0
         }
     },
     "Gastos": {
