@@ -168,6 +168,10 @@
         "casa": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "ración ": {
+            "valor": 200000,
+            "accion": "sumar"
         }
     }
 }
