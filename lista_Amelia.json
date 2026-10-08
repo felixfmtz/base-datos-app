@@ -78,6 +78,12 @@
             "NoTInteres": 0,
             "TCuota": 10000,
             "TInteres": 0
+        },
+        "Julia Riquelme. Ismael. 5.500.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 400000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
