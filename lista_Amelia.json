@@ -72,6 +72,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "200  7"
+        },
+        "Miguel Mendoza. 700.000*10. Mi": {
+            "NoTCuota": 700000,
+            "NoTInteres": 0,
+            "TCuota": 10000,
+            "TInteres": 0
         }
     },
     "Gastos": {
