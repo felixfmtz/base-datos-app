@@ -176,6 +176,10 @@
         "combustible ": {
             "valor": 340000,
             "accion": "sumar"
+        },
+        "lavarropa": {
+            "valor": 780000,
+            "accion": "sumar"
         }
     }
 }
