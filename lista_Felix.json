@@ -4,6 +4,12 @@
     "Pagos": {
         "Mirtha Graciela. 10.200.000": {
             "sigpago": "13\/10\/2026"
+        },
+        "Elsa Cañete. 60.000*44. C3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 60000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
