@@ -19,6 +19,12 @@
         },
         "Ever Gustavo Baez. 220.000*6. Sa": {
             "sigpago": "13\/10\/2026"
+        },
+        "Hugo Caceres. 180.000*4. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 20000
         }
     },
     "Gastos": {}
