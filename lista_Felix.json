@@ -16,6 +16,13 @@
         },
         "Jose Carlos Pintos. 220.000*6. Lu": {
             "sigpago": "13\/10\/2026"
+        },
+        "Cessia Cocco. 280.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "en 6"
         }
     },
     "Gastos": {
