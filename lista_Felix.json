@@ -23,6 +23,12 @@
             "TCuota": 440000,
             "TInteres": 0,
             "Error": "en 6"
+        },
+        "Miguel Moreira. 1.800.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1800000,
+            "TInteres": 0
         }
     },
     "Gastos": {
