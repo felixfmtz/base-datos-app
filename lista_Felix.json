@@ -70,6 +70,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "en 10 pagos"
+        },
+        "Eliane Mariela Colman. 450.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 300000,
+            "TInteres": 0
         }
     },
     "Gastos": {
