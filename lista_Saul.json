@@ -5,14 +5,6 @@
             "seccion": "Crear cuenta",
             "items": [
                 {
-                    "nombreOriginal": "Liz Karina Benitez",
-                    "Deuda": "2.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "3",
-                    "Frecuencia": "Quincenal",
-                    "Transferencia": "No"
-                },
-                {
                     "nombreOriginal": "Rocio Rosana Duarte",
                     "Deuda": "1.500.000",
                     "Garante": "Sin Garante",
