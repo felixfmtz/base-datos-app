@@ -147,6 +147,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Fatima Fonseca",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
