@@ -205,7 +205,8 @@
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 160000
+            "TInteres": 160000,
+            "sigpago": "10\/10\/2026"
         }
     },
     "Gastos": {
