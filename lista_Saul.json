@@ -2,12 +2,20 @@
     "fecha_ultimo_guardado": "09\/10\/2026",
     "cuentas": [],
     "Pagos": {
-        "Delcia Castillo. 1.200.000. C1": {
+        "Antonia Miguela Rojas. 140.000*10. Vi": {
             "NoTCuota": 0,
             "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
+        },
+        "Gedalia DelValle. Heladera. 200.000*42. Vi": {
+            "sigpago": "12\/10\/2026"
+        },
+        "Carlos Garcete. 220.000*6. Mi": {
+            "NoTCuota": 300000,
+            "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 0,
-            "Error": "numero"
+            "TInteres": 0
         }
     },
     "Gastos": {}
