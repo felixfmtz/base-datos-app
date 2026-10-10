@@ -96,6 +96,12 @@
             "NoTInteres": 0,
             "TCuota": 240000,
             "TInteres": 0
+        },
+        "Angel Retamozo. 560.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 560000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
