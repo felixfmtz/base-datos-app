@@ -146,6 +146,15 @@
             "NoTInteres": 0,
             "TCuota": 1600000,
             "TInteres": 0
+        },
+        "Wilner Peralta. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
+        },
+        "Juan Albino. 3.300.000": {
+            "sigpago": "01\/11\/2026"
         }
     },
     "Gastos": {}
