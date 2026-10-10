@@ -70,6 +70,12 @@
         },
         "Maria Antonia Caballero. Tv. 100.000*30. Sa": {
             "sigpago": "15\/10\/2026"
+        },
+        "Mabel Moreno. 40.000*10": {
+            "NoTCuota": 0,
+            "NoTInteres": 65000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
