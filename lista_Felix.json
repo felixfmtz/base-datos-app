@@ -250,6 +250,10 @@
         "pasto": {
             "valor": 200000,
             "accion": "sumar"
+        },
+        "sueldo bruni": {
+            "valor": 1900000,
+            "accion": "sumar"
         }
     }
 }
