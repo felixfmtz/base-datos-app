@@ -104,7 +104,7 @@
         "Arnaldo Prieto. Aurora. Cel. 100.000*18. Lu": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 100000,
             "TInteres": 0,
             "Error": "mudar sábado"
         }
