@@ -206,6 +206,12 @@
             "NoTInteres": 0,
             "TCuota": 20000,
             "TInteres": 0
+        },
+        "Victor Lopez. 980.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 900000,
+            "TInteres": 0
         }
     },
     "Gastos": {
