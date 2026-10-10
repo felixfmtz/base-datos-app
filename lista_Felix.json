@@ -176,5 +176,10 @@
             "Error": "en 2 pagos"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "obra": {
+            "valor": 4445000,
+            "accion": "sumar"
+        }
+    }
 }
