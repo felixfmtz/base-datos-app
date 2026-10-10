@@ -36,6 +36,12 @@
         },
         "Liz Paiva. 350.000*2": {
             "sigpago": "20\/10\/2026"
+        },
+        "Lalia Barrios. 280.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
