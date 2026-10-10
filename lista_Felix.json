@@ -33,6 +33,9 @@
         "Delcia Castillo. 1.200.000": {
             "sigpago": "14\/10\/2026",
             "Error": "numero"
+        },
+        "Liz Paiva. 350.000*2": {
+            "sigpago": "20\/10\/2026"
         }
     },
     "Gastos": {}
