@@ -102,6 +102,12 @@
             "NoTInteres": 0,
             "TCuota": 560000,
             "TInteres": 0
+        },
+        "Arbelino Gonzalez. 210.000*10. Sa. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 530000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
