@@ -246,6 +246,10 @@
         "obra": {
             "valor": 4445000,
             "accion": "sumar"
+        },
+        "pasto": {
+            "valor": 200000,
+            "accion": "sumar"
         }
     }
 }
