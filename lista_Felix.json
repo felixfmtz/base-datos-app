@@ -267,6 +267,10 @@
         "sueldo bruni": {
             "valor": 1900000,
             "accion": "sumar"
+        },
+        "comida": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
