@@ -7,6 +7,12 @@
         },
         "Maria Magdalena. 560.000*10. Sa": {
             "sigpago": "13\/10\/2026"
+        },
+        "Monica Gomez. 280.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 10000
         }
     },
     "Gastos": {}
