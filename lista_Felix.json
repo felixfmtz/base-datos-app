@@ -136,7 +136,17 @@
             "TInteres": 0
         },
         "Elvio Fariña. 210.000*10. Sa": {
-            "sigpago": "17\/10\/2026"
+            "sigpago": "17\/10\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
+        },
+        "Rosalba Ojeda. 75.000*11. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
