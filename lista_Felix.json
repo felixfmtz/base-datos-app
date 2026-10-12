@@ -10,6 +10,12 @@
         },
         "Bienvenido Martinez. 840.000*5": {
             "sigpago": "17\/10\/2026"
+        },
+        "Eduardo David Fanego. 110.000*6. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
