@@ -85,7 +85,11 @@
             "sigpago": "12\/10\/2026"
         },
         "Eliane Mariela Colman. 450.000*10. Vi": {
-            "sigpago": "16\/10\/2026"
+            "sigpago": "16\/10\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
