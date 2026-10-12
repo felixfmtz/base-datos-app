@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "12\/10\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Marcia Torres",
+                    "Deuda": "1.500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Abelino Peralta. 110.000*6. Lu": {
             "NoTCuota": 110000,
