@@ -74,6 +74,12 @@
         },
         "Ramon Vera. 1.200.000": {
             "sigpago": "16\/10\/2026"
+        },
+        "Damian Gimenez. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
