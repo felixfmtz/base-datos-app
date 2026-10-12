@@ -96,6 +96,12 @@
             "NoTInteres": 0,
             "TCuota": 240000,
             "TInteres": 0
+        },
+        "Manuel Figueredo. 30.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 390000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
