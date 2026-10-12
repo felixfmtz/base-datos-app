@@ -53,7 +53,14 @@
             "sigpago": "17\/10\/2026"
         },
         "Juana Fariña. 220.000*6. Lu": {
-            "sigpago": "17\/10\/2026"
+            "sigpago": "17\/10\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
+        },
+        "Lalia Barrios. 280.000*10. Lu": {
+            "sigpago": "14\/10\/2026"
         }
     },
     "Gastos": {}
