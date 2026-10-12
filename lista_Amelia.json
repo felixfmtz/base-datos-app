@@ -19,6 +19,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Vicente Cantero",
+                    "Deuda": "500.000",
+                    "Garante": "personal",
+                    "NCuotas": "6",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
                 }
             ]
         }
