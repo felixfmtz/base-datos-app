@@ -25,6 +25,12 @@
         },
         "Victor Gimenez. 190.000*3. Sa": {
             "sigpago": "17\/10\/2026"
+        },
+        "Norma Beatriz Blanco. 98.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
