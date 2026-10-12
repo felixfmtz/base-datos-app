@@ -122,6 +122,12 @@
             "NoTInteres": 0,
             "TCuota": 660000,
             "TInteres": 0
+        },
+        "Maria Lujan Aguero. 440.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 300000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
