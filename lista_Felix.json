@@ -4,6 +4,9 @@
     "Pagos": {
         "Anastacio Baez. 140.000*10. Sa": {
             "sigpago": "17\/10\/2026"
+        },
+        "Anastacio Baez. 140.000*10. Sa. C1": {
+            "sigpago": "17\/10\/2026"
         }
     },
     "Gastos": {}
