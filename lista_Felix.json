@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "13\/10\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Claudelina Lopez",
+                    "Deuda": "1.510.000",
+                    "Garante": "tv 43 tokyo",
+                    "NCuotas": "22",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Maria Lujan Aguero. 440.000*3": {
             "sigpago": "29\/10\/2026"
