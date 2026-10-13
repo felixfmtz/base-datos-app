@@ -157,5 +157,10 @@
             "Error": "en 10 pagos"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "gast": {
+            "valor": 5000,
+            "accion": "sumar"
+        }
+    }
 }
