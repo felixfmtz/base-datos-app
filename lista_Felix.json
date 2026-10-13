@@ -5,14 +5,6 @@
             "seccion": "Crear cuenta",
             "items": [
                 {
-                    "nombreOriginal": "Claudelina Lopez",
-                    "Deuda": "1.510.000",
-                    "Garante": "tv 43 tokyo",
-                    "NCuotas": "22",
-                    "Frecuencia": "Sábado",
-                    "Transferencia": "No"
-                },
-                {
                     "nombreOriginal": "Claudelina Lopez 2",
                     "Deuda": "1.650.000",
                     "Garante": "heladera prae",
