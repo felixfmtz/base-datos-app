@@ -264,6 +264,10 @@
         "obra": {
             "valor": 220000,
             "accion": "sumar"
+        },
+        "combu": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
