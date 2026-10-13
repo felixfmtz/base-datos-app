@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "13\/10\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Lidia Jara",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Andrea Avelina Cardozo. 220.000*6. Ma": {
             "NoTCuota": 0,
