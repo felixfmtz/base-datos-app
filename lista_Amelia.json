@@ -300,6 +300,12 @@
             "NoTInteres": 0,
             "TCuota": 370000,
             "TInteres": 0
+        },
+        "Cristian Baez. 220.000*3": {
+            "NoTCuota": 225000,
+            "NoTInteres": 0,
+            "TCuota": 18000,
+            "TInteres": 0
         }
     },
     "Gastos": {
