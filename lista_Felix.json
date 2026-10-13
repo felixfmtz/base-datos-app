@@ -13,6 +13,13 @@
         },
         "Yessica Mieres Davalos. 840.000": {
             "sigpago": "16\/10\/2026"
+        },
+        "Liz Karina Bogado. 210.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "pasar a viernes"
         }
     },
     "Gastos": {}
