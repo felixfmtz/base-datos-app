@@ -162,5 +162,10 @@
             "Error": "sacar inforcom"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "obra": {
+            "valor": 220000,
+            "accion": "sumar"
+        }
+    }
 }
