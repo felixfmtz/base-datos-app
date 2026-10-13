@@ -11,6 +11,14 @@
                     "NCuotas": "22",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Claudelina Lopez 2",
+                    "Deuda": "1.650.000",
+                    "Garante": "heladera prae",
+                    "NCuotas": "25",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
