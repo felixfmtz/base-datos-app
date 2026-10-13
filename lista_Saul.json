@@ -7,6 +7,12 @@
         },
         "Liz Karina Bogado. 210.000*10. Ma": {
             "sigpago": "16\/10\/2026"
+        },
+        "Mabel Villalba. 660.000*6. Mi": {
+            "NoTCuota": 660000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
