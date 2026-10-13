@@ -126,7 +126,7 @@
             "TInteres": 0
         },
         "Juan Delgado. 2.000.000*6. Lu": {
-            "NoTCuota": 2000000,
+            "NoTCuota": 4000000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
@@ -152,7 +152,7 @@
         "Angelina Forcado. 220.000*6. Ma": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 140000,
             "TInteres": 0,
             "Error": "en 10 pagos"
         }
