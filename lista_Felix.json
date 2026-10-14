@@ -53,5 +53,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "fidel": {
+            "valor": 2916000,
+            "accion": "sumar"
+        }
+    }
 }
