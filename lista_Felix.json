@@ -111,6 +111,10 @@
         "fidel": {
             "valor": 2916000,
             "accion": "sumar"
+        },
+        "carbón ": {
+            "valor": 28000,
+            "accion": "sumar"
         }
     }
 }
