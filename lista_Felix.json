@@ -127,7 +127,17 @@
             "TInteres": 200000
         },
         "Sixto Villalba. 220.000*3. C1": {
-            "sigpago": "19\/10\/2026"
+            "sigpago": "19\/10\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 50000
+        },
+        "Derlis Pintos. C71. 75.000*35. Vi": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
