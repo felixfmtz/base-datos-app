@@ -285,6 +285,10 @@
         "sandía ": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 170000,
+            "accion": "sumar"
         }
     }
 }
