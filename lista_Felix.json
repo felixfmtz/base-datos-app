@@ -152,6 +152,10 @@
         "carne": {
             "valor": 52000,
             "accion": "sumar"
+        },
+        "comicion": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
