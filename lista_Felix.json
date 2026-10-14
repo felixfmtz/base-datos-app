@@ -35,6 +35,14 @@
                     "NCuotas": "5",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "adelanto",
+                    "Deuda": "50.000",
+                    "Garante": "alan",
+                    "NCuotas": "1",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
