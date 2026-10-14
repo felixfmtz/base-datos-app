@@ -115,6 +115,10 @@
         "carbón ": {
             "valor": 28000,
             "accion": "sumar"
+        },
+        "carne": {
+            "valor": 52000,
+            "accion": "sumar"
         }
     }
 }
