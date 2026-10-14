@@ -281,6 +281,10 @@
         "ente": {
             "valor": 5000000,
             "accion": "sumar"
+        },
+        "sandía ": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
