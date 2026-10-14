@@ -239,5 +239,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "ente": {
+            "valor": 5000000,
+            "accion": "sumar"
+        }
+    }
 }
