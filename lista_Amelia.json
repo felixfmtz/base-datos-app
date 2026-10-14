@@ -40,6 +40,12 @@
             "NoTInteres": 0,
             "TCuota": 150000,
             "TInteres": 0
+        },
+        "Valentina Pereira. 140.000*10. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
