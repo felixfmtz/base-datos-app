@@ -22,6 +22,13 @@
             "NoTInteres": 0,
             "TCuota": 2400000,
             "TInteres": 0
+        },
+        "Gertrudis Riberos. Amalia. 220.000*6. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "quincenal"
         }
     },
     "Gastos": {}
