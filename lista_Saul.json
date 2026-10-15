@@ -75,6 +75,12 @@
         },
         "Maria Antonia Caballero. Tv. 100.000*30. Sa": {
             "sigpago": "17\/10\/2026"
+        },
+        "Rosalia Gonzalez. 110.000*6. Ma": {
+            "NoTCuota": 110000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
