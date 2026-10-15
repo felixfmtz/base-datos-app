@@ -32,6 +32,12 @@
         },
         "Pedro Franco. 700.000*10. Mi": {
             "sigpago": "17\/10\/2026"
+        },
+        "Ronda. 1. Leite. 1.400.000": {
+            "NoTCuota": 510000,
+            "NoTInteres": 0,
+            "TCuota": 890000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
