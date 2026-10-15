@@ -7,6 +7,12 @@
         },
         "Mirian Molina. 440.000*6. Lu": {
             "sigpago": "17\/10\/2026"
+        },
+        "Epifania Ortiz. 60.000*44": {
+            "NoTCuota": 60000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
