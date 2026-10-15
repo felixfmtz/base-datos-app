@@ -3,7 +3,16 @@
     "cuentas": [
         {
             "seccion": "Crear cuenta",
-            "items": []
+            "items": [
+                {
+                    "nombreOriginal": "Ordonia Davalos",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "24",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "No"
+                }
+            ]
         }
     ],
     "Pagos": {
