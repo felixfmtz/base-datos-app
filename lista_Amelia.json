@@ -120,6 +120,12 @@
             "TCuota": 30000,
             "TInteres": 0,
             "Error": "corregir"
+        },
+        "Teresa de Fernandez. 80.000*30": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 370000,
+            "TInteres": 0
         }
     },
     "Gastos": {
