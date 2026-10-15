@@ -20,6 +20,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "sigpago": "Pagado"
+        },
+        "Liliana Olmedo. 70.000*10. Mi": {
+            "sigpago": "24\/10\/2026"
         }
     },
     "Gastos": {}
