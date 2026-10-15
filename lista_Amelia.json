@@ -59,6 +59,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Jueves",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Alejandro Tomas Gimenez",
+                    "Deuda": "4.000.000",
+                    "Garante": "500 por 10",
+                    "NCuotas": "10",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "Si"
                 }
             ]
         }
