@@ -29,6 +29,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "quincenal"
+        },
+        "Claudia Gomez. 140.000*10. Mi": {
+            "NoTCuota": 280000,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
