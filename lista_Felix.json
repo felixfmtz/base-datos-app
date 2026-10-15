@@ -96,6 +96,10 @@
         "yeba": {
             "valor": 28000,
             "accion": "sumar"
+        },
+        "giro": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
