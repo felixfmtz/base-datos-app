@@ -83,5 +83,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "galleta ": {
+            "valor": 25000,
+            "accion": "sumar"
+        }
+    }
 }
