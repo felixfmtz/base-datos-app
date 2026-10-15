@@ -7,6 +7,12 @@
             "NoTInteres": 0,
             "TCuota": 330000,
             "TInteres": 0
+        },
+        "Adriana Hobeker. Planchita. 75.000*19. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 17000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
