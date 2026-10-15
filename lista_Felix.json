@@ -70,6 +70,12 @@
         },
         "Esteban Velazquez. 220.000*3": {
             "sigpago": "17\/10\/2026"
+        },
+        "Zunilda Mercado. 210.000*10. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {
