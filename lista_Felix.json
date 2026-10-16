@@ -108,6 +108,10 @@
         "fidel": {
             "valor": 1380000,
             "accion": "sumar"
+        },
+        "jwsica": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
