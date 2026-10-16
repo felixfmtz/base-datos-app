@@ -48,6 +48,10 @@
         "bolsa": {
             "valor": 12000,
             "accion": "sumar"
+        },
+        "fidel": {
+            "valor": 1380000,
+            "accion": "sumar"
         }
     }
 }
