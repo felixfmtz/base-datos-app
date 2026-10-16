@@ -44,6 +44,10 @@
         "comida": {
             "valor": 110000,
             "accion": "sumar"
+        },
+        "bolsa": {
+            "valor": 12000,
+            "accion": "sumar"
         }
     }
 }
