@@ -215,6 +215,10 @@
         "obra": {
             "valor": 1800000,
             "accion": "sumar"
+        },
+        "combustible ": {
+            "valor": 343000,
+            "accion": "sumar"
         }
     }
 }
