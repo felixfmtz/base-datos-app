@@ -325,6 +325,10 @@
         "combustible ": {
             "valor": 343000,
             "accion": "sumar"
+        },
+        "comida": {
+            "valor": 40000,
+            "accion": "sumar"
         }
     }
 }
