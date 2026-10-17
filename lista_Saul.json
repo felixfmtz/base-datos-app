@@ -28,6 +28,12 @@
         },
         "Mirna Peralta. 220.000*6. Sa": {
             "sigpago": "20\/10\/2026"
+        },
+        "Epifania Ortiz. 60.000*44": {
+            "NoTCuota": 60000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
