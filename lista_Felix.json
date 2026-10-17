@@ -13,6 +13,12 @@
         },
         "Denis de Oliveira. 1.400.000*8. Vi": {
             "sigpago": "21\/10\/2026"
+        },
+        "Eliane Mariela Colman. 450.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 300000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
