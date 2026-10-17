@@ -149,6 +149,10 @@
         "obra": {
             "valor": 3855000,
             "accion": "sumar"
+        },
+        "delis como": {
+            "valor": 75000,
+            "accion": "sumar"
         }
     }
 }
