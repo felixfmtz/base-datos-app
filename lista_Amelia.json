@@ -254,6 +254,10 @@
         "carne": {
             "valor": 237000,
             "accion": "sumar"
+        },
+        "gas mandioca": {
+            "valor": 120000,
+            "accion": "sumar"
         }
     }
 }
