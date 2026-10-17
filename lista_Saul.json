@@ -4,6 +4,12 @@
     "Pagos": {
         "Fermin Lopez. 220.000*6. Sa": {
             "sigpago": "24\/10\/2026"
+        },
+        "Antonia Baez. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
