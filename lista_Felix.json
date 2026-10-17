@@ -31,6 +31,12 @@
         },
         "Yasmil Franciely Zelaya. 210.000*10. Ju": {
             "sigpago": "22\/10\/2026"
+        },
+        "Cessia Cocco. 440.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 350000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
