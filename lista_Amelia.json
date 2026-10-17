@@ -66,6 +66,12 @@
             "NoTInteres": 0,
             "TCuota": 230000,
             "TInteres": 0
+        },
+        "Leonarda Baez. Justina. 600.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 100000
         }
     },
     "Gastos": {}
