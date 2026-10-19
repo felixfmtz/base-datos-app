@@ -300,9 +300,9 @@
             "Error": "nuevo"
         },
         "Felicia Dominguez. 280.000*10. Lu": {
-            "NoTCuota": 0,
+            "NoTCuota": 210000,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 70000,
             "TInteres": 0
         },
         "Felicia Dominguez. 220.000*6. Lu": {
