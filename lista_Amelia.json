@@ -52,6 +52,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Santiago Garcia. Marcelo. 330.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 330000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
