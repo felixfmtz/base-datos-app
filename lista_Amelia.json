@@ -481,6 +481,10 @@
         "puerta ": {
             "valor": 850000,
             "accion": "sumar"
+        },
+        "chipa ": {
+            "valor": 30000,
+            "accion": "sumar"
         }
     }
 }
