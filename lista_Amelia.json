@@ -263,5 +263,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "locote": {
+            "valor": 10000,
+            "accion": "sumar"
+        }
+    }
 }
