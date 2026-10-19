@@ -376,6 +376,10 @@
         "locote": {
             "valor": 10000,
             "accion": "sumar"
+        },
+        "banana ": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
