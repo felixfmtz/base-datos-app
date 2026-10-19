@@ -65,6 +65,12 @@
         },
         "Fatima Fonseca. Cel A51. 100.000*14. Lu": {
             "sigpago": "21\/10\/2026"
+        },
+        "Antonio Gonzalez. Cel Poco C71. 100.000*17. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
