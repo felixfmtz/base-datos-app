@@ -123,6 +123,12 @@
             "NoTInteres": 0,
             "TCuota": 800000,
             "TInteres": 0
+        },
+        "Yasmil Franciely Zelaya. 210.000*10. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 640000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
