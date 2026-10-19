@@ -405,6 +405,10 @@
         "carne": {
             "valor": 60000,
             "accion": "sumar"
+        },
+        "puerta ": {
+            "valor": 850000,
+            "accion": "sumar"
         }
     }
 }
