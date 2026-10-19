@@ -1,6 +1,16 @@
 {
     "fecha_ultimo_guardado": "19\/10\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Cristobal Muñoz",
+                    "dia": "Ma"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Claudelina Lopez. Heladera prae. 100.000*25. Sa": {
             "NoTCuota": 0,
