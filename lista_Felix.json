@@ -117,6 +117,12 @@
             "NoTInteres": 0,
             "TCuota": 250000,
             "TInteres": 0
+        },
+        "Derlis Pintos. Ronda. 2.400.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 800000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
