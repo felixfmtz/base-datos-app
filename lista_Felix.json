@@ -48,7 +48,17 @@
             "Error": "pasar lunes"
         },
         "Eliane Mariela Colman. 450.000*10. Vi": {
-            "sigpago": "23\/10\/2026"
+            "sigpago": "23\/10\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
+        },
+        "Pedro Silva. 600.000. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 100000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
