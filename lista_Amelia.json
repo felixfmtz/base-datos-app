@@ -385,6 +385,12 @@
         },
         "Edmundo Mendoza. 260.000*10. Sa": {
             "sigpago": "24\/10\/2026"
+        },
+        "Leopoldo Pereira. 260.000*54": {
+            "NoTCuota": 780000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
