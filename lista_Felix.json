@@ -62,6 +62,10 @@
         "mecanico ": {
             "valor": 900000,
             "accion": "sumar"
+        },
+        "giro": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
