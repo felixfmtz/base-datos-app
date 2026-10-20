@@ -180,6 +180,10 @@
         "mecanico": {
             "valor": 30000,
             "accion": "sumar"
+        },
+        "me": {
+            "valor": 270000,
+            "accion": "sumar"
         }
     }
 }
