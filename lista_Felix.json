@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "20\/10\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Concepcion Oviedo",
+                    "Deuda": "1.650.000",
+                    "Garante": "heladera prae",
+                    "NCuotas": "25",
+                    "Frecuencia": "",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Pedro Silva. 600.000": {
             "sigpago": "31\/10\/2026"
@@ -56,6 +70,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Paola Insfran. 600.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 200000
         }
     },
     "Gastos": {
