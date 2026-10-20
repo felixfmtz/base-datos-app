@@ -118,6 +118,12 @@
             "NoTInteres": 0,
             "TCuota": 60000,
             "TInteres": 0
+        },
+        "Matilde Rodriguez. 600.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1200000,
+            "TInteres": 0
         }
     },
     "Gastos": {
