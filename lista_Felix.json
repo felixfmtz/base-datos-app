@@ -18,5 +18,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "mecanico ": {
+            "valor": 900000,
+            "accion": "sumar"
+        }
+    }
 }
