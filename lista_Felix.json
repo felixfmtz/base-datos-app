@@ -19,6 +19,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Lunes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Juan Angel",
+                    "Deuda": "280.000",
+                    "Garante": "adelanto",
+                    "NCuotas": "1",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
