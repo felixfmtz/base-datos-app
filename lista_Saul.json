@@ -82,6 +82,12 @@
         },
         "Alejandro Lopez. Robert. equipo. 100.000*18. Sa": {
             "sigpago": "24\/10\/2026"
+        },
+        "Rosalina del Valle. 400.000*30": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 400000,
+            "TInteres": 0
         }
     },
     "Gastos": {
