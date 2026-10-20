@@ -2,12 +2,11 @@
     "fecha_ultimo_guardado": "20\/10\/2026",
     "cuentas": [],
     "Pagos": {
-        "Claudelina Lopez. Heladera prae. 100.000*25. Ju": {
-            "NoTCuota": 0,
+        "Mirna Cardenas. 2.600.000*6. Ju": {
+            "NoTCuota": 200000,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 0,
-            "Error": "coregir"
+            "TInteres": 0
         }
     },
     "Gastos": {}
