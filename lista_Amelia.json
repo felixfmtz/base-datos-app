@@ -145,6 +145,12 @@
             "NoTInteres": 0,
             "TCuota": 70000,
             "TInteres": 0
+        },
+        "Felicia Dominguez. 220.000*6. Lu": {
+            "NoTCuota": 130000,
+            "NoTInteres": 0,
+            "TCuota": 30000,
+            "TInteres": 0
         }
     },
     "Gastos": {
