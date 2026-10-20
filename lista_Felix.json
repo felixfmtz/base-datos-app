@@ -94,6 +94,15 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 50000
+        },
+        "Ramon Vera. 1.200.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 200000
+        },
+        "Ruben Dario Gonzalez. 220.000*6. Sa": {
+            "sigpago": "26\/10\/2026"
         }
     },
     "Gastos": {
