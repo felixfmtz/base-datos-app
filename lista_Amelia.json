@@ -209,6 +209,10 @@
         "obra  2": {
             "valor": 295000,
             "accion": "sumar"
+        },
+        "servicio varios ": {
+            "valor": 1155000,
+            "accion": "sumar"
         }
     }
 }
