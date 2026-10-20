@@ -11,6 +11,14 @@
                     "NCuotas": "25",
                     "Frecuencia": "",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Abelino Peralta",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
                 }
             ]
         }
@@ -121,7 +129,11 @@
             "sigpago": "24\/10\/2026"
         },
         "Camila Heinler. Luis. 220.000*3": {
-            "sigpago": "31\/10\/2026"
+            "sigpago": "31\/10\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
         }
     },
     "Gastos": {
