@@ -4,6 +4,12 @@
     "Pagos": {
         "Pedro Silva. 600.000": {
             "sigpago": "31\/10\/2026"
+        },
+        "Miguel Martinez. 660.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 150000
         }
     },
     "Gastos": {}
