@@ -184,6 +184,10 @@
         "me": {
             "valor": 270000,
             "accion": "sumar"
+        },
+        "auto": {
+            "valor": 1800000,
+            "accion": "sumar"
         }
     }
 }
