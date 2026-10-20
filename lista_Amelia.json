@@ -249,6 +249,10 @@
         "servicio varios ": {
             "valor": 1155000,
             "accion": "sumar"
+        },
+        "auto": {
+            "valor": 200000,
+            "accion": "sumar"
         }
     }
 }
