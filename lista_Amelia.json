@@ -42,5 +42,10 @@
             "sigpago": "Pagado"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "vehículo ": {
+            "valor": 121000,
+            "accion": "sumar"
+        }
+    }
 }
