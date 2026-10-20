@@ -102,7 +102,17 @@
             "TInteres": 200000
         },
         "Ruben Dario Gonzalez. 220.000*6. Sa": {
-            "sigpago": "26\/10\/2026"
+            "sigpago": "26\/10\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
+        },
+        "Cessia Cocco. 440.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 350000,
+            "TInteres": 0
         }
     },
     "Gastos": {
