@@ -342,6 +342,10 @@
         "naranja ": {
             "valor": 85000,
             "accion": "sumar"
+        },
+        "combustible ": {
+            "valor": 350000,
+            "accion": "sumar"
         }
     }
 }
