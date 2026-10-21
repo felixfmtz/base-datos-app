@@ -139,6 +139,10 @@
         "mandioca": {
             "valor": 10000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
