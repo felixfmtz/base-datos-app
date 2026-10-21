@@ -224,6 +224,10 @@
         "obra": {
             "valor": 300000,
             "accion": "sumar"
+        },
+        "papa": {
+            "valor": 55000,
+            "accion": "sumar"
         }
     }
 }
