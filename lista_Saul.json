@@ -7,6 +7,13 @@
         },
         "Carlos Garcete. 220.000*6. Lu": {
             "sigpago": "26\/10\/2026"
+        },
+        "Claudelina Lopez. Heladera prae. 100.000*25. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "corregir"
         }
     },
     "Gastos": {}
