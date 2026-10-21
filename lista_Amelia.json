@@ -228,6 +228,10 @@
         "papa": {
             "valor": 55000,
             "accion": "sumar"
+        },
+        "naranja ": {
+            "valor": 85000,
+            "accion": "sumar"
         }
     }
 }
