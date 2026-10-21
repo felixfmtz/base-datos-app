@@ -190,6 +190,12 @@
             "NoTInteres": 0,
             "TCuota": 75000,
             "TInteres": 0
+        },
+        "Adelqui Ramon Gonzalez. 440.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 880000,
+            "TInteres": 0
         }
     },
     "Gastos": {
