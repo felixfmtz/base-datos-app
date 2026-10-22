@@ -39,6 +39,12 @@
         },
         "Blas Sosa. 240.000": {
             "sigpago": "31\/10\/2026"
+        },
+        "Sonia Amarilla. 110.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 25000
         }
     },
     "Gastos": {}
