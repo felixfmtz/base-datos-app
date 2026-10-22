@@ -186,6 +186,10 @@
         "chorizo": {
             "valor": 50000,
             "accion": "sumar"
+        },
+        "pan": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
