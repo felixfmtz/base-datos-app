@@ -23,6 +23,12 @@
             "NoTInteres": 0,
             "TCuota": 100000,
             "TInteres": 0
+        },
+        "Ronda. 2. Estela Leite. 1.400.000": {
+            "NoTCuota": 765000,
+            "NoTInteres": 0,
+            "TCuota": 635000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
