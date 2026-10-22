@@ -123,6 +123,10 @@
         "casa": {
             "valor": 28000,
             "accion": "sumar"
+        },
+        "comida": {
+            "valor": 68000,
+            "accion": "sumar"
         }
     }
 }
