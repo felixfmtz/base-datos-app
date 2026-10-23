@@ -214,6 +214,10 @@
         "obra ": {
             "valor": 170000,
             "accion": "sumar"
+        },
+        "planta ": {
+            "valor": 210000,
+            "accion": "sumar"
         }
     }
 }
