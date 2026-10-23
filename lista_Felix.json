@@ -143,6 +143,10 @@
         "incubadora": {
             "valor": 1600000,
             "accion": "sumar"
+        },
+        "doc": {
+            "valor": 250000,
+            "accion": "sumar"
         }
     }
 }
