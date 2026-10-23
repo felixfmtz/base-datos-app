@@ -170,6 +170,12 @@
         },
         "Candido Cabral. 110.000*6. Ju": {
             "sigpago": "30\/10\/2026"
+        },
+        "Graciela Vargas. 30.000*44. C1": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
