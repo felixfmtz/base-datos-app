@@ -27,6 +27,14 @@
                     "NCuotas": "44",
                     "Frecuencia": "Diario",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Ever Hugo Ullon",
+                    "Deuda": "1.500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "No"
                 }
             ]
         }
