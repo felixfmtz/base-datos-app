@@ -139,6 +139,10 @@
         "julio": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "incubadora": {
+            "valor": 1600000,
+            "accion": "sumar"
         }
     }
 }
