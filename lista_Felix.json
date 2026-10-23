@@ -109,6 +109,10 @@
         "radio": {
             "valor": 150000,
             "accion": "sumar"
+        },
+        "julio": {
+            "valor": 500000,
+            "accion": "sumar"
         }
     }
 }
