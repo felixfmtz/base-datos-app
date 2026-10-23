@@ -105,5 +105,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "radio": {
+            "valor": 150000,
+            "accion": "sumar"
+        }
+    }
 }
