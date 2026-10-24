@@ -15,5 +15,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "bruniño": {
+            "valor": 4000000,
+            "accion": "sumar"
+        }
+    }
 }
