@@ -181,6 +181,10 @@
         "gato": {
             "valor": 56000,
             "accion": "sumar"
+        },
+        "obra 3": {
+            "valor": 200000,
+            "accion": "sumar"
         }
     }
 }
