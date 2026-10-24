@@ -140,6 +140,10 @@
         "coca": {
             "valor": 8000,
             "accion": "sumar"
+        },
+        "gato": {
+            "valor": 56000,
+            "accion": "sumar"
         }
     }
 }
