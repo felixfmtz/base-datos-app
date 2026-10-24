@@ -7,6 +7,12 @@
         },
         "Tomasa Cantero. 280.000*10. Ju": {
             "sigpago": "27\/10\/2026"
+        },
+        "Epifania Ortiz. 60.000*44": {
+            "NoTCuota": 60000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
