@@ -340,6 +340,10 @@
         "carne": {
             "valor": 343000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 780000,
+            "accion": "sumar"
         }
     }
 }
