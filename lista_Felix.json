@@ -132,6 +132,10 @@
         "ovr": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "yerva": {
+            "valor": 18000,
+            "accion": "sumar"
         }
     }
 }
