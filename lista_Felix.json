@@ -7,6 +7,12 @@
         },
         "Alfredo Castillo. 660.000": {
             "sigpago": "30\/10\/2026"
+        },
+        "Bruno Martinez. 4.000.000. Ju": {
+            "NoTCuota": 4000000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
