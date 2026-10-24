@@ -151,6 +151,12 @@
         },
         "Wilner Castillo. 1.200.000": {
             "sigpago": "27\/10\/2026"
+        },
+        "Fabiola Cañete. Cheque. 1.100.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 100000
         }
     },
     "Gastos": {
