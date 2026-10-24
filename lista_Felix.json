@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "24\/10\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Ignacio Melgarejo",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "33",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Maria Magdalena. 560.000*10. Sa": {
             "sigpago": "27\/10\/2026"
