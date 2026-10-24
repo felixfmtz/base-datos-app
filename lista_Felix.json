@@ -136,6 +136,10 @@
         "yerva": {
             "valor": 18000,
             "accion": "sumar"
+        },
+        "coca": {
+            "valor": 8000,
+            "accion": "sumar"
         }
     }
 }
