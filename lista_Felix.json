@@ -46,6 +46,10 @@
         "bruniño": {
             "valor": 4000000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 6800000,
+            "accion": "sumar"
         }
     }
 }
