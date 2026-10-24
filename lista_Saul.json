@@ -40,6 +40,12 @@
         },
         "Gladys Cocco. 110.000*6. Sa": {
             "sigpago": "31\/10\/2026"
+        },
+        "Gladys Cocco. 110.000*6. Sa. C2": {
+            "NoTCuota": 110000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
