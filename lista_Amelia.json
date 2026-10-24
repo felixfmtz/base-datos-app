@@ -125,6 +125,10 @@
         "basura": {
             "valor": 80000,
             "accion": "sumar"
+        },
+        "carne": {
+            "valor": 343000,
+            "accion": "sumar"
         }
     }
 }
