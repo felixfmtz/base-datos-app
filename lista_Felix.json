@@ -4,6 +4,9 @@
     "Pagos": {
         "Maria Magdalena. 560.000*10. Sa": {
             "sigpago": "27\/10\/2026"
+        },
+        "Alfredo Castillo. 660.000": {
+            "sigpago": "30\/10\/2026"
         }
     },
     "Gastos": {}
