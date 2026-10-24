@@ -128,6 +128,10 @@
         "obra 2": {
             "valor": 2710000,
             "accion": "sumar"
+        },
+        "ovr": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
