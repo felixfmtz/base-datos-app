@@ -45,8 +45,17 @@
             "TInteres": 0
         },
         "Eliane Mariela Colman. 450.000*10. Vi": {
-            "sigpago": "30\/10\/2026"
+            "sigpago": "30\/10\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 230000,
+            "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "bruno": {
+            "valor": 150000,
+            "accion": "sumar"
+        }
+    }
 }
