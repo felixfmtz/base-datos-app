@@ -156,6 +156,10 @@
         "julio": {
             "valor": 1000000,
             "accion": "sumar"
+        },
+        "peluqueria": {
+            "valor": 22000,
+            "accion": "sumar"
         }
     }
 }
