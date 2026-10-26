@@ -19,6 +19,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Martes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Victoria Rodas",
+                    "Deuda": "2.000.000",
+                    "Garante": "novio ",
+                    "NCuotas": "10",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
