@@ -116,6 +116,10 @@
         "Arena ": {
             "valor": 56000,
             "accion": "sumar"
+        },
+        "julio": {
+            "valor": 1000000,
+            "accion": "sumar"
         }
     }
 }
