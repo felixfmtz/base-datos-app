@@ -527,6 +527,10 @@
         "banana": {
             "valor": 8000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 80000,
+            "accion": "sumar"
         }
     }
 }
