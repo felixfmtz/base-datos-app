@@ -86,6 +86,10 @@
         "farmacia": {
             "valor": 232000,
             "accion": "sumar"
+        },
+        "combustible ": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
