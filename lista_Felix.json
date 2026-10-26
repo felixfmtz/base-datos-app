@@ -25,6 +25,12 @@
         },
         "Arbelino Gonzalez. 210.000*10. Sa": {
             "sigpago": "31\/10\/2026"
+        },
+        "Damian Gimenez. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
