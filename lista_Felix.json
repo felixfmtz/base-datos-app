@@ -97,6 +97,10 @@
         "combustible ": {
             "valor": 300000,
             "accion": "sumar"
+        },
+        "Arena ": {
+            "valor": 56000,
+            "accion": "sumar"
         }
     }
 }
