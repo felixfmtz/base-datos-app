@@ -309,6 +309,12 @@
             "NoTInteres": 0,
             "TCuota": 500000,
             "TInteres": 0
+        },
+        "Blas Martinez. 560.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1120000,
+            "TInteres": 0
         }
     },
     "Gastos": {
