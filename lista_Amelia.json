@@ -61,6 +61,12 @@
             "NoTInteres": 0,
             "TCuota": 210000,
             "TInteres": 0
+        },
+        "Ronda. Derlis. 1.500.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1500000000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
