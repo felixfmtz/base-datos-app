@@ -27,6 +27,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Lidia Gamarra",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
                 }
             ]
         }
@@ -142,7 +150,11 @@
             "TInteres": 0
         },
         "Luciano Pintos. 140.000*10. Ma": {
-            "sigpago": "02\/11\/2026"
+            "sigpago": "02\/11\/2026",
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
