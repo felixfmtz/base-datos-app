@@ -181,6 +181,10 @@
         "peluqueria": {
             "valor": 22000,
             "accion": "sumar"
+        },
+        "hierro": {
+            "valor": 9125000,
+            "accion": "sumar"
         }
     }
 }
