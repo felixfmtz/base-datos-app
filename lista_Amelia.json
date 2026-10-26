@@ -349,6 +349,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Mirian Cardozo. Cristian. 420.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1680000,
+            "TInteres": 0
         }
     },
     "Gastos": {
