@@ -10,6 +10,12 @@
         },
         "Liliana Lugo. 210.000*10. Sa. C1": {
             "sigpago": "31\/10\/2026"
+        },
+        "Ordonia Davalos. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 440000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
