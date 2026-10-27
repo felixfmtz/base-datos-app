@@ -19,6 +19,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Felicia Zarza 2",
+                    "Deuda": "300.000",
+                    "Garante": "santos",
+                    "NCuotas": "",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
                 }
             ]
         }
