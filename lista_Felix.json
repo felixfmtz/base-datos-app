@@ -148,6 +148,10 @@
         "piscina ": {
             "valor": 785000,
             "accion": "sumar"
+        },
+        "bruni": {
+            "valor": 500000,
+            "accion": "sumar"
         }
     }
 }
