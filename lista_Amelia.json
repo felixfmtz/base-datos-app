@@ -147,6 +147,12 @@
             "NoTInteres": 0,
             "TCuota": 75000,
             "TInteres": 0
+        },
+        "Leandra Bobadilla. 220.000*6. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 70000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
