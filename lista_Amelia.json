@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "27\/10\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Joel Paredes",
+                    "Deuda": "5.000.000",
+                    "Garante": "1 millón en 6",
+                    "NCuotas": "6",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Wilson Benitez. 600.000*4. Ju": {
             "NoTCuota": 0,
