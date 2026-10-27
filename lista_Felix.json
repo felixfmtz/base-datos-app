@@ -31,6 +31,12 @@
         },
         "Antonio Gonzalez. Cel Poco C71. 100.000*17. Lu": {
             "sigpago": "29\/10\/2026"
+        },
+        "Damian Gimenez. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
