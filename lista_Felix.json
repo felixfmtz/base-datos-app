@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "28\/10\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Eliane Karajallo",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "2",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Yessica Mieres Davalos. 840.000": {
             "sigpago": "31\/10\/2026"
