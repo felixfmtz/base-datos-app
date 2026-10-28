@@ -4,6 +4,12 @@
     "Pagos": {
         "Camila Heinler. Luis. 220.000*3": {
             "sigpago": "30\/10\/2026"
+        },
+        "Celia Gimenez. Secarropa. 100.000*31. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
