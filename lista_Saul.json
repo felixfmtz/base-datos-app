@@ -13,6 +13,12 @@
         },
         "Lalia Barrios. 280.000*10. Lu": {
             "sigpago": "30\/10\/2026"
+        },
+        "Epifania Ortiz. 60.000*44": {
+            "NoTCuota": 60000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
