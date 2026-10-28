@@ -221,6 +221,10 @@
         "huevo": {
             "valor": 25000,
             "accion": "sumar"
+        },
+        "elsa": {
+            "valor": 2000000,
+            "accion": "sumar"
         }
     }
 }
