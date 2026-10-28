@@ -4,6 +4,12 @@
     "Pagos": {
         "Yessica Mieres Davalos. 840.000": {
             "sigpago": "31\/10\/2026"
+        },
+        "Norma Beatriz Blanco. 98.000*10. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
