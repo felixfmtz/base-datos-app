@@ -165,6 +165,12 @@
         },
         "Hugo Caceres. Olier. C2. 480.000": {
             "sigpago": "31\/10\/2026"
+        },
+        "Lourdes Arce. 80.000*30": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 620000,
+            "TInteres": 0
         }
     },
     "Gastos": {
