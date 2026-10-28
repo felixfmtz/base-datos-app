@@ -75,7 +75,17 @@
             "TInteres": 10000
         },
         "Sixto Villalba. 220.000*3. C1": {
-            "sigpago": "31\/10\/2026"
+            "sigpago": "31\/10\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 50000
+        },
+        "Mabel Villalba. 660.000*6. Mi. C1": {
+            "NoTCuota": 1320000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
