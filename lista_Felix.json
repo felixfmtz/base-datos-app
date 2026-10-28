@@ -47,6 +47,12 @@
         },
         "Fabiola Cañete. 1.100.000. C2": {
             "sigpago": "31\/10\/2026"
+        },
+        "Fabiola Cañete. 550.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 550000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
