@@ -146,6 +146,10 @@
         "auto": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "piscina ": {
+            "valor": 45000,
+            "accion": "sumar"
         }
     }
 }
