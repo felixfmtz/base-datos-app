@@ -5,19 +5,19 @@
             "seccion": "Crear cuenta",
             "items": [
                 {
-                    "nombreOriginal": "Claudio Insfran",
-                    "Deuda": "500.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "1",
-                    "Frecuencia": "Quincenal",
-                    "Transferencia": "No"
-                },
-                {
                     "nombreOriginal": "Elsa Cañete",
                     "Deuda": "150.000",
                     "Garante": "Sin Garante",
                     "NCuotas": "1",
                     "Frecuencia": "",
+                    "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Claudio Insfran",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Quincenal",
                     "Transferencia": "Si"
                 }
             ]
