@@ -164,6 +164,10 @@
         "obra  2": {
             "valor": 340000,
             "accion": "sumar"
+        },
+        "uña": {
+            "valor": 150000,
+            "accion": "sumar"
         }
     }
 }
