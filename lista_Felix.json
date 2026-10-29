@@ -22,6 +22,12 @@
         },
         "Victoria Romero. Aire. 300.000*35. Lu": {
             "sigpago": "03\/11\/2026"
+        },
+        "Cessia Cocco. 440.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
