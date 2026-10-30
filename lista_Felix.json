@@ -74,6 +74,10 @@
         "sergio": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 5455000,
+            "accion": "sumar"
         }
     }
 }
