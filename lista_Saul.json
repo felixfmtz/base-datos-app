@@ -1,105 +1,10 @@
 {
-    "fecha_ultimo_guardado": "29\/10\/2026",
+    "fecha_ultimo_guardado": "30\/10\/2026",
     "cuentas": [],
     "Pagos": {
-        "Digna Lopez. Hijo. 440.000*3": {
-            "sigpago": "31\/10\/2026"
-        },
-        "Norma Beatriz Blanco. 98.000*10. Ma": {
-            "sigpago": "03\/11\/2026"
-        },
-        "Aldo Alcaraz. 420.000*10. Vi": {
-            "sigpago": "31\/10\/2026"
-        },
-        "Liliana Olmedo. 70.000*10. Mi": {
-            "sigpago": "31\/10\/2026"
-        },
-        "Mabel Villalba. 660.000*6. Mi. C2": {
-            "sigpago": "31\/10\/2026"
-        },
-        "Epifania Ortiz. 60.000*44": {
-            "NoTCuota": 60000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ignacio Melgarejo. 20.000*33": {
-            "NoTCuota": 20000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Gedalia DelValle. 180.000*30": {
-            "NoTCuota": 200000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Maria Antonia Caballero. Tv. 100.000*30. Sa": {
-            "NoTCuota": 100000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Maria Antonia Caballero. 280.000*10. Ju": {
-            "NoTCuota": 150000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Marcelina Lopez. 220.000*6. Ju": {
-            "NoTCuota": 220000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Rosalba Gonzalez Duarte. 40.000*24": {
-            "NoTCuota": 40000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ordonia Davalos. 50.000*24. C1": {
-            "NoTCuota": 100000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Elva Mateus. 30.000*44": {
-            "NoTCuota": 30000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Floida Gimenez. 140.000*10. Mi": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 140000,
-            "TInteres": 0
-        },
-        "Anibal Godoy. 40.000*30": {
-            "NoTCuota": 40000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Luis Arzamendia. 140.000*43": {
-            "NoTCuota": 220000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Jessica Cabral. 1.500.000*4. Lu": {
-            "NoTCuota": 1500000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
+        "Liz Karina Bogado. 210.000*10. Vi": {
+            "sigpago": "02\/11\/2026"
         }
     },
-    "Gastos": {
-        "entregado ": {
-            "valor": 750000,
-            "accion": "sumar"
-        }
-    }
+    "Gastos": {}
 }
