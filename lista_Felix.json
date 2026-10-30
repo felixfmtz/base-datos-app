@@ -43,6 +43,14 @@
                     "NCuotas": "39",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Kenya da silva",
+                    "Deuda": "1.000.000",
+                    "Garante": "Angela roa",
+                    "NCuotas": "10",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
                 }
             ]
         }
