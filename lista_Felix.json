@@ -11,14 +11,6 @@
                     "NCuotas": "10",
                     "Frecuencia": "",
                     "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Wilner Peralta",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Sábado",
-                    "Transferencia": "Si"
                 }
             ]
         }
