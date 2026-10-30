@@ -31,6 +31,12 @@
             "NoTInteres": 0,
             "TCuota": 220000,
             "TInteres": 0
+        },
+        "Santiago Duarte. 325.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 325000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
