@@ -35,6 +35,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Marcos Montania",
+                    "Deuda": "3.132.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "39",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
