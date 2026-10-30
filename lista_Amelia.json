@@ -207,6 +207,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "130 por 5"
+        },
+        "Crispin Rolon. 140.000*10. Ju": {
+            "NoTCuota": 10000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
