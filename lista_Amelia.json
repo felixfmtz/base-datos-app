@@ -351,6 +351,10 @@
         "birome": {
             "valor": 3000,
             "accion": "sumar"
+        },
+        "pan": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
