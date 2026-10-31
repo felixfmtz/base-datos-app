@@ -125,6 +125,10 @@
         "farmacia": {
             "valor": 157000,
             "accion": "sumar"
+        },
+        "perro": {
+            "valor": 428000,
+            "accion": "sumar"
         }
     }
 }
