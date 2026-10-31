@@ -75,6 +75,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Jorge ledezma",
+                    "Deuda": "1.015.000",
+                    "Garante": "arcadio",
+                    "NCuotas": "16",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
                 }
             ]
         }
