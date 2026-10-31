@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "31\/10\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Edgar Jara",
+                    "Deuda": "1.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "Si"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Maria Magdalena. 560.000*10. Sa": {
             "sigpago": "03\/11\/2026"
