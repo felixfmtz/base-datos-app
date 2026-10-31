@@ -311,6 +311,10 @@
         "coca": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "birome": {
+            "valor": 3000,
+            "accion": "sumar"
         }
     }
 }
