@@ -37,6 +37,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 100000
+        },
+        "Fabiola Cañete. 3.300.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 300000
         }
     },
     "Gastos": {
