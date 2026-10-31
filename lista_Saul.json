@@ -97,11 +97,21 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Rosalba Gonzalez Duarte. 40.000*24": {
+            "NoTCuota": 40000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
         "combustible": {
             "valor": 280000,
+            "accion": "sumar"
+        },
+        "entregado ": {
+            "valor": 2220000,
             "accion": "sumar"
         }
     }
