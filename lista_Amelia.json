@@ -355,6 +355,12 @@
             "NoTInteres": 0,
             "TCuota": 260000,
             "TInteres": 10000
+        },
+        "Vicente Cantero. 350.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 350000,
+            "TInteres": 0
         }
     },
     "Gastos": {
