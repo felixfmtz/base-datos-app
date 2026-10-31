@@ -35,6 +35,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Lunes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Cynthia Carolina Baez",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "44",
+                    "Frecuencia": "Diario",
+                    "Transferencia": "No"
                 }
             ]
         }
