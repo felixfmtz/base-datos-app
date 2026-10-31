@@ -292,6 +292,10 @@
         "ph": {
             "valor": 25000,
             "accion": "sumar"
+        },
+        "bruno": {
+            "valor": 1650000,
+            "accion": "sumar"
         }
     }
 }
