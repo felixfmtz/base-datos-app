@@ -129,6 +129,10 @@
         "perro": {
             "valor": 428000,
             "accion": "sumar"
+        },
+        "ph": {
+            "valor": 25000,
+            "accion": "sumar"
         }
     }
 }
