@@ -2,16 +2,10 @@
     "fecha_ultimo_guardado": "02\/11\/2026",
     "cuentas": [],
     "Pagos": {
-        "Arcadio Benitez. Sobrino. Cel A16. 100.000*19. Lu": {
+        "Rosalba Ojeda. 75.000*11. Ju": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 100000,
-            "TInteres": 0
-        },
-        "Arcadio Benitez. Jorge Ledezma. 100.000*16. Lu": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 100000,
+            "TCuota": 150000,
             "TInteres": 0
         }
     },
