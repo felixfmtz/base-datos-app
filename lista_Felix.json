@@ -9,5 +9,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "bruno": {
+            "valor": 2000000,
+            "accion": "sumar"
+        }
+    }
 }
