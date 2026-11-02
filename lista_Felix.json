@@ -108,6 +108,10 @@
         "jesica": {
             "valor": 1600000,
             "accion": "sumar"
+        },
+        "dicloban": {
+            "valor": 30000,
+            "accion": "sumar"
         }
     }
 }
