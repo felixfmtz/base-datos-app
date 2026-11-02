@@ -40,6 +40,12 @@
         },
         "Antonio Gonzalez. Cel Poco C71. 100.000*17. Lu": {
             "sigpago": "05\/11\/2026"
+        },
+        "Digna Lopez. 245.000*4": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 70000
         }
     },
     "Gastos": {
