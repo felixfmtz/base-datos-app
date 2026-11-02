@@ -155,6 +155,12 @@
         },
         "Yasmil Franciely Zelaya. 210.000*10. Lu": {
             "sigpago": "05\/11\/2026"
+        },
+        "Adriana Amarilla. 220.000*6. Lu": {
+            "NoTCuota": 660000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
