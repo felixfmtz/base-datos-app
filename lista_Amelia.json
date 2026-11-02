@@ -32,6 +32,12 @@
             "NoTInteres": 0,
             "TCuota": 215000,
             "TInteres": 0
+        },
+        "Matilde Rodriguez. Tv De 50. 100.000*30. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
