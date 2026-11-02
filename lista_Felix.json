@@ -19,6 +19,10 @@
         "bruno": {
             "valor": 2000000,
             "accion": "sumar"
+        },
+        "jesica": {
+            "valor": 1600000,
+            "accion": "sumar"
         }
     }
 }
