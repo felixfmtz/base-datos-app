@@ -73,6 +73,12 @@
         },
         "Irene Martinez. 1.100.000": {
             "sigpago": "05\/11\/2026"
+        },
+        "Maria Elsa Benitez. 210.000*10. Lu": {
+            "NoTCuota": 200000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
