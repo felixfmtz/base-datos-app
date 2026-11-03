@@ -266,6 +266,10 @@
         "internt": {
             "valor": 255000,
             "accion": "sumar"
+        },
+        "comida": {
+            "valor": 74000,
+            "accion": "sumar"
         }
     }
 }
