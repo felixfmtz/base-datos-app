@@ -62,6 +62,12 @@
         },
         "Liliana Lugo. 210.000*10. Sa. C1": {
             "sigpago": "07\/11\/2026"
+        },
+        "Susana de Leite. Pablo. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
