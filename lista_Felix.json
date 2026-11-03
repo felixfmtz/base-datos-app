@@ -258,6 +258,10 @@
         "combustible ": {
             "valor": 300000,
             "accion": "sumar"
+        },
+        "fidel": {
+            "valor": 1320000,
+            "accion": "sumar"
         }
     }
 }
