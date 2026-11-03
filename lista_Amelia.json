@@ -19,6 +19,12 @@
             "NoTInteres": 0,
             "TCuota": 140000,
             "TInteres": 0
+        },
+        "Eugenio Oviedo. 440.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 130000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
