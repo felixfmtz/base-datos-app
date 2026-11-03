@@ -8,6 +8,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "fecha"
+        },
+        "Anastacio Baez. 140.000*10. Sa. C1": {
+            "sigpago": "07\/11\/2026"
         }
     },
     "Gastos": {}
