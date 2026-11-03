@@ -143,6 +143,10 @@
         "encimienda": {
             "valor": 30000,
             "accion": "sumar"
+        },
+        "combustible ": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
