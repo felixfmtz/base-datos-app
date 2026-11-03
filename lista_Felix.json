@@ -139,6 +139,10 @@
         "auricular": {
             "valor": 295000,
             "accion": "sumar"
+        },
+        "encimienda": {
+            "valor": 30000,
+            "accion": "sumar"
         }
     }
 }
