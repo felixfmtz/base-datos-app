@@ -53,6 +53,12 @@
         },
         "Carlos Garcete. 220.000*6. Lu": {
             "sigpago": "09\/11\/2026"
+        },
+        "Lurde Gomez. 140.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
