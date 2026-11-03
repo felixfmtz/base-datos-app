@@ -262,6 +262,10 @@
         "fidel": {
             "valor": 1320000,
             "accion": "sumar"
+        },
+        "internt": {
+            "valor": 255000,
+            "accion": "sumar"
         }
     }
 }
