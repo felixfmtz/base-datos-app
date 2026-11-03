@@ -4,6 +4,9 @@
     "Pagos": {
         "Liliana Lugo. 210.000*10. Sa. C1": {
             "sigpago": "07\/11\/2026"
+        },
+        "Liliana Olmedo. 70.000*10. Mi": {
+            "sigpago": "10\/11\/2026"
         }
     },
     "Gastos": {}
