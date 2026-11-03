@@ -159,6 +159,18 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 20000
+        },
+        "Dorca Zarza. 880.000. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 80000
+        },
+        "Rosalba Ojeda. 220.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {
