@@ -184,6 +184,12 @@
         },
         "Anibal Godoy. 75.000*14. Ma": {
             "sigpago": "07\/11\/2026"
+        },
+        "Eusebio Canata. 140.000*10. Ma. C1": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
