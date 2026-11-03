@@ -230,6 +230,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "sabado"
+        },
+        "Cessia Cocco. 440.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 340000,
+            "TInteres": 0
         }
     },
     "Gastos": {
