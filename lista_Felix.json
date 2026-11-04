@@ -125,6 +125,12 @@
         },
         "Yessica Mieres Davalos. 840.000": {
             "sigpago": "30\/11\/2026"
+        },
+        "Ruth Martinez. 180.000*4. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 120000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
