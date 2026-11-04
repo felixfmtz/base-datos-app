@@ -11,6 +11,14 @@
                     "NCuotas": "5",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Alejandro Martinez",
+                    "Deuda": "1.050.000",
+                    "Garante": "cel okitel",
+                    "NCuotas": "21",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
