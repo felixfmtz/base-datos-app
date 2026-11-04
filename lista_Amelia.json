@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "04\/11\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Salvio Alvarenga",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Arnaldo Prieto. Liz. 110.000*6. Ma": {
             "NoTCuota": 0,
