@@ -111,6 +111,10 @@
         "comida": {
             "valor": 57000,
             "accion": "sumar"
+        },
+        "sueldo bruno": {
+            "valor": 1300000,
+            "accion": "sumar"
         }
     }
 }
