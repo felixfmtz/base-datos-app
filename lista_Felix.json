@@ -145,7 +145,17 @@
             "TInteres": 0
         },
         "Eliane Mariela Colman. 450.000*10. Vi": {
-            "sigpago": "09\/11\/2026"
+            "sigpago": "09\/11\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 200000,
+            "TInteres": 0
+        },
+        "Jessica Cabral. 1.500.000*4. Lu": {
+            "NoTCuota": 1500000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
