@@ -204,6 +204,10 @@
         "bruni": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "bru": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
