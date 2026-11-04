@@ -4,6 +4,13 @@
     "Pagos": {
         "Ramon Vera. 2.400.000": {
             "sigpago": "09\/11\/2026"
+        },
+        "Recordatorio 1. Gim. 1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "sigpago": "Pagado"
         }
     },
     "Gastos": {}
