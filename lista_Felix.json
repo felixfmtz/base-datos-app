@@ -86,6 +86,10 @@
         "cuantas": {
             "valor": 1920000,
             "accion": "sumar"
+        },
+        "yerba": {
+            "valor": 35000,
+            "accion": "sumar"
         }
     }
 }
