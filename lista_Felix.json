@@ -100,6 +100,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 180000
+        },
+        "Alberto Peralta. 150.000*5. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "corregir"
         }
     },
     "Gastos": {
