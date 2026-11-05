@@ -27,6 +27,14 @@
                     "NCuotas": "4",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Juan Raimundo",
+                    "Deuda": "300.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "2",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "No"
                 }
             ]
         }
@@ -145,6 +153,12 @@
             "NoTInteres": 50000,
             "TCuota": 0,
             "TInteres": 50000
+        },
+        "Hugo Careres. Olier. 300.000*2. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 50000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
