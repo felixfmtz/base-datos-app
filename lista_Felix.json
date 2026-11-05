@@ -149,6 +149,10 @@
         "yerba": {
             "valor": 35000,
             "accion": "sumar"
+        },
+        "limpieza ": {
+            "valor": 192000,
+            "accion": "sumar"
         }
     }
 }
