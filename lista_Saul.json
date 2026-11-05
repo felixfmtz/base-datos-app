@@ -10,6 +10,12 @@
         },
         "Mabel Villalba. 660.000*6. Ju": {
             "sigpago": "07\/11\/2026"
+        },
+        "Aldo Alcaraz. 420.000*10. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 420000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
