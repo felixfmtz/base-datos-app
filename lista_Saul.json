@@ -40,6 +40,12 @@
         },
         "Celia Gimenez. Secarropa. 100.000*31. Sa": {
             "sigpago": "07\/11\/2026"
+        },
+        "Gedalia DelValle. 180.000*30": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
