@@ -103,6 +103,12 @@
         },
         "Alejandro Martinez. 220.000*6. Mi": {
             "sigpago": "07\/11\/2026"
+        },
+        "Yasmil Franciely Zelaya. 210.000*10. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {
