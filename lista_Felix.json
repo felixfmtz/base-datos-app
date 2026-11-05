@@ -179,6 +179,10 @@
         "limpieza ": {
             "valor": 192000,
             "accion": "sumar"
+        },
+        "bruno": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
