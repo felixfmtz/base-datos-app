@@ -203,6 +203,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Ronda. 4. Ramona. 1.400.000": {
+            "NoTCuota": 1320000,
+            "NoTInteres": 0,
+            "TCuota": 80000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
