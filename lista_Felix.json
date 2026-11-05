@@ -80,6 +80,13 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 70000
+        },
+        "Recordatorio. Cuentas": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "sigpago": "Pagado"
         }
     },
     "Gastos": {
