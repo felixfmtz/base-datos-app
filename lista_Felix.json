@@ -4,6 +4,12 @@
     "Pagos": {
         "Roman Flores. 220.000*6. Sa": {
             "sigpago": "07\/11\/2026"
+        },
+        "Vidalia Gaete. 300.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 600000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
