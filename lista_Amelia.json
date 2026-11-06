@@ -27,6 +27,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Viernes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Pedro Florentin",
+                    "Deuda": "700.000",
+                    "Garante": "Griselda ",
+                    "NCuotas": "",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "Si"
                 }
             ]
         }
