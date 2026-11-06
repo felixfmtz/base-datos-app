@@ -10,6 +10,12 @@
             "NoTInteres": 0,
             "TCuota": 600000,
             "TInteres": 0
+        },
+        "Patricia Duarte. 5.500.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 5500000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
