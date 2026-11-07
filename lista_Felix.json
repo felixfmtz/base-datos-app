@@ -25,6 +25,12 @@
             "NoTInteres": 0,
             "TCuota": 420000,
             "TInteres": 0
+        },
+        "Nelson Ayala Meza. 210.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
