@@ -261,7 +261,7 @@
         "Luis Colman. 420.000*10. Sa": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 660000,
             "TInteres": 0,
             "Error": "en 6 pagos"
         }
