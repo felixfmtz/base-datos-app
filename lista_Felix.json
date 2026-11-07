@@ -48,6 +48,12 @@
         },
         "Camila Heinler. Luis. 220.000*3": {
             "sigpago": "13\/11\/2026"
+        },
+        "Wilner Peralta. 210.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
