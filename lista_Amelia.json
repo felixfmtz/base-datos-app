@@ -62,6 +62,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "mudar lunes"
+        },
+        "Josefina Figueredo. 100.000*15. Sa": {
+            "NoTCuota": 100000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
