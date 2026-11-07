@@ -19,6 +19,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Artemio",
+                    "Deuda": "500.000",
+                    "Garante": "albañil ",
+                    "NCuotas": "5",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "No"
                 }
             ]
         }
