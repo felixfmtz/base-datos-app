@@ -155,6 +155,12 @@
         },
         "Roman Flores. 220.000*6. Sa": {
             "sigpago": "11\/11\/2026"
+        },
+        "Mirtha Raquel Peña. 1.200.000": {
+            "NoTCuota": 700000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
