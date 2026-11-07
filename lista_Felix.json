@@ -1,121 +1,13 @@
 {
-    "fecha_ultimo_guardado": "06\/11\/2026",
-    "cuentas": [
-        {
-            "seccion": "Crear cuenta",
-            "items": [
-                {
-                    "nombreOriginal": "Lucia Quiñonez",
-                    "Deuda": "600.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Sábado",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "David Cardozo Gimenez",
-                    "Deuda": "2.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "",
-                    "Transferencia": "Si"
-                },
-                {
-                    "nombreOriginal": "Maria Francisca",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "44",
-                    "Frecuencia": "Diario",
-                    "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Nanci Riveros",
-                    "Deuda": "1.200.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "1",
-                    "Frecuencia": "Mensual",
-                    "Transferencia": "No"
-                }
-            ]
-        }
-    ],
+    "fecha_ultimo_guardado": "07\/11\/2026",
+    "cuentas": [],
     "Pagos": {
-        "Roman Flores. 220.000*6. Sa": {
-            "sigpago": "07\/11\/2026"
-        },
-        "Vidalia Gaete. 300.000*2": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 600000,
-            "TInteres": 0
-        },
-        "Patricia Duarte. 5.500.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 5500000,
-            "TInteres": 0
-        },
-        "Liz Karina Benitez. 2.200.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 200000,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ana Rosio Villasboa. 220.000*6. Vi": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 220000,
-            "TInteres": 0
-        },
-        "Ignacio Insfran. 1.200.000": {
-            "NoTCuota": 0,
+        "Elsa Cañete. 60.000*44": {
+            "NoTCuota": 60000,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 200000
-        },
-        "Delcia Castillo. 1.200.000": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 200000
-        },
-        "Maria Francisca. 30.000*44. C1": {
-            "NoTCuota": 810000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Miguel Martinez. 660.000*3": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 150000
-        },
-        "Pedro Franco. 700.000*10. Mi": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 700000,
-            "TInteres": 0
-        },
-        "Eliane Mariela Colman. 450.000*10. Vi": {
-            "NoTCuota": 0,
-            "NoTInteres": 0,
-            "TCuota": 200000,
             "TInteres": 0
         }
     },
-    "Gastos": {
-        "obra": {
-            "valor": 5000000,
-            "accion": "sumar"
-        },
-        "saul 26 09": {
-            "valor": 30000,
-            "accion": "sumar"
-        },
-        "combu": {
-            "valor": 300000,
-            "accion": "sumar"
-        }
-    }
+    "Gastos": {}
 }
