@@ -442,6 +442,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Dario Rene Pintos. Rodrigo. 600.000": {
+            "NoTCuota": 650000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
