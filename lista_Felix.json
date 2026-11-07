@@ -68,6 +68,13 @@
             "NoTInteres": 0,
             "TCuota": 900000,
             "TInteres": 0
+        },
+        "Fermiano Menese. 110.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "lunes"
         }
     },
     "Gastos": {}
