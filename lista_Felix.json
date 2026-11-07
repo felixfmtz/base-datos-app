@@ -83,14 +83,6 @@
                     "NCuotas": "2",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "No"
-                },
-                {
-                    "nombreOriginal": "Derlis Rodrigo Gonzalez",
-                    "Deuda": "1.000.000",
-                    "Garante": "Sin Garante",
-                    "NCuotas": "6",
-                    "Frecuencia": "Sábado",
-                    "Transferencia": "Si"
                 }
             ]
         }
