@@ -217,6 +217,12 @@
             "TCuota": 132000,
             "TInteres": 0,
             "Error": "en 3 pagos"
+        },
+        "Ruth. Olier. Qui. C1. 300.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 50000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
