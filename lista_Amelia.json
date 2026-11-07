@@ -105,7 +105,7 @@
     ],
     "Pagos": {
         "Jose Ovidio Cardozo. 40.000*33. C1": {
-            "NoTCuota": 0,
+            "NoTCuota": 40000,
             "NoTInteres": 0,
             "TCuota": 30000,
             "TInteres": 0
