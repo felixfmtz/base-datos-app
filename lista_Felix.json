@@ -43,6 +43,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Lunes",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Hermelinda Herrera",
+                    "Deuda": "900.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "18",
+                    "Frecuencia": "Martes",
+                    "Transferencia": "Si"
                 }
             ]
         }
