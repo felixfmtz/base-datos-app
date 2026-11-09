@@ -278,6 +278,12 @@
             "TCuota": 220000,
             "TInteres": 0,
             "Error": "pasar  semanal los lunes"
+        },
+        "Diego Armando. 110.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {
