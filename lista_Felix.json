@@ -126,6 +126,12 @@
             "TCuota": 0,
             "TInteres": 0,
             "Error": "revisae"
+        },
+        "Maricel Rojas. 2.200.000": {
+            "NoTCuota": 400000,
+            "NoTInteres": 0,
+            "TCuota": 1800000,
+            "TInteres": 0
         }
     },
     "Gastos": {
