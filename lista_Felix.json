@@ -11,6 +11,15 @@
         },
         "Hugo Javier Gomez. 140.000*10. Sa": {
             "sigpago": "15\/11\/2026"
+        },
+        "Nelson Ayala Meza. 210.000*10. Vi": {
+            "sigpago": "12\/11\/2026"
+        },
+        "Juana Fariña. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
