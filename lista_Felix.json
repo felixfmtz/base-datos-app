@@ -69,6 +69,15 @@
                     "Transferencia": "No"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "Lourdes Arce",
+                    "dia": "Mi"
+                }
+            ]
         }
     ],
     "Pagos": {
