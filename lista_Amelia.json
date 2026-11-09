@@ -275,7 +275,7 @@
         "Noelia Vazquez. Julia. 2.200.000": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 0,
+            "TCuota": 220000,
             "TInteres": 0,
             "Error": "pasar  semanal los lunes"
         }
