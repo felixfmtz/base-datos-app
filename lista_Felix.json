@@ -79,6 +79,10 @@
         "farmacia": {
             "valor": 314000,
             "accion": "sumar"
+        },
+        "aire": {
+            "valor": 1900000,
+            "accion": "sumar"
         }
     }
 }
