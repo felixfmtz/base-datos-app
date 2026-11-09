@@ -110,5 +110,10 @@
             "Error": "mudar jueves"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "combustible ": {
+            "valor": 355000,
+            "accion": "sumar"
+        }
+    }
 }
