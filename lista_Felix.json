@@ -114,6 +114,10 @@
         "Bosal": {
             "valor": 46000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 6800000,
+            "accion": "sumar"
         }
     }
 }
