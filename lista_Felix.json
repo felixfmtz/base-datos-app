@@ -110,6 +110,10 @@
         "atomo": {
             "valor": 106000,
             "accion": "sumar"
+        },
+        "Bosal": {
+            "valor": 46000,
+            "accion": "sumar"
         }
     }
 }
