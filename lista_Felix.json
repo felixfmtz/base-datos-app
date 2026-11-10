@@ -86,5 +86,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "atomo": {
+            "valor": 106000,
+            "accion": "sumar"
+        }
+    }
 }
