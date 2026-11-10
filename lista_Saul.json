@@ -202,6 +202,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Luis Arzamendia. 140.000*43": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 130000,
+            "TInteres": 0
         }
     },
     "Gastos": {
