@@ -298,6 +298,10 @@
         "casa ": {
             "valor": 40000,
             "accion": "sumar"
+        },
+        "sandía ": {
+            "valor": 15000,
+            "accion": "sumar"
         }
     }
 }
