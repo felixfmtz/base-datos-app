@@ -10,6 +10,12 @@
         },
         "Liz Paiva. 350.000*2": {
             "sigpago": "20\/11\/2026"
+        },
+        "Digna Lopez. Hijo. 440.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 50000,
+            "TInteres": 100000
         }
     },
     "Gastos": {}
