@@ -7,6 +7,12 @@
         },
         "Eusebio Canata. 140.000*10. Ma. C1": {
             "sigpago": "13\/11\/2026"
+        },
+        "Eusebio Galeano. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 22000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
