@@ -302,6 +302,10 @@
         "sandía ": {
             "valor": 15000,
             "accion": "sumar"
+        },
+        "mantel ": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
