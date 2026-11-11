@@ -39,5 +39,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "naranja ": {
+            "valor": 115000,
+            "accion": "sumar"
+        }
+    }
 }
