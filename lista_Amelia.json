@@ -19,6 +19,14 @@
                     "NCuotas": "5",
                     "Frecuencia": "Quincenal",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Dario Rene Pintos",
+                    "Deuda": "1.000.000",
+                    "Garante": "Rodrigo ",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
                 }
             ]
         }
