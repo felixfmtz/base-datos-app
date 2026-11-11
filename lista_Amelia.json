@@ -240,6 +240,12 @@
             "NoTInteres": 0,
             "TCuota": 500000,
             "TInteres": 0
+        },
+        "Juliana Roman. 420.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 420000,
+            "TInteres": 0
         }
     },
     "Gastos": {
