@@ -51,6 +51,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Lunes",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Ignacio Insfran",
+                    "Deuda": "350.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "1",
+                    "Frecuencia": "Quincenal",
+                    "Transferencia": "Si"
                 }
             ]
         }
