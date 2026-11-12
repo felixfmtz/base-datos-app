@@ -43,6 +43,18 @@
             "NoTInteres": 0,
             "TCuota": 280000,
             "TInteres": 0
+        },
+        "Hector Recalde. Cel Xiomi 15C. 100.000*18. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 400000,
+            "TInteres": 0
+        },
+        "Mario Medina. 1.400.000*5": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 985000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
