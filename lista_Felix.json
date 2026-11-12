@@ -19,6 +19,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Mabel Villalba",
+                    "Deuda": "3.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "No"
                 }
             ]
         }
