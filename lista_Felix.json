@@ -150,6 +150,10 @@
         "comida ": {
             "valor": 74000,
             "accion": "sumar"
+        },
+        "bruno": {
+            "valor": 850000,
+            "accion": "sumar"
         }
     }
 }
