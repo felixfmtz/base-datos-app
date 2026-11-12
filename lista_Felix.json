@@ -72,6 +72,12 @@
             "NoTInteres": 0,
             "TCuota": 2640000,
             "TInteres": 0
+        },
+        "Mabel Villalba. 660.000*6. Mi. C2": {
+            "NoTCuota": 1980000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
