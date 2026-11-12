@@ -16,6 +16,12 @@
         },
         "Liliana Olmedo. 70.000*10. Mi": {
             "sigpago": "14\/11\/2026"
+        },
+        "Mirna Cardenas. 2.600.000*6. Ju": {
+            "NoTCuota": 187000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
