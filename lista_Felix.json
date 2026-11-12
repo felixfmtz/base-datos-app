@@ -40,5 +40,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "power agua": {
+            "valor": 192000,
+            "accion": "sumar"
+        }
+    }
 }
