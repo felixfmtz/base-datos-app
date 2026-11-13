@@ -4,6 +4,12 @@
     "Pagos": {
         "Gedalia DelValle. Heladera. 200.000*42. Vi": {
             "sigpago": "16\/11\/2026"
+        },
+        "Antonia Miguela Rojas. 140.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
