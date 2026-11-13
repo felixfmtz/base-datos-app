@@ -80,6 +80,10 @@
         "saul": {
             "valor": 200000,
             "accion": "sumar"
+        },
+        "gota": {
+            "valor": 135000,
+            "accion": "sumar"
         }
     }
 }
