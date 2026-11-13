@@ -112,6 +112,10 @@
         "Entregado ": {
             "valor": 520000,
             "accion": "sumar"
+        },
+        "real": {
+            "valor": 200000,
+            "accion": "sumar"
         }
     }
 }
