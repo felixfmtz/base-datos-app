@@ -134,5 +134,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "aguja": {
+            "valor": 30000,
+            "accion": "sumar"
+        }
+    }
 }
