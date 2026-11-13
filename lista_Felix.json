@@ -1,7 +1,11 @@
 {
     "fecha_ultimo_guardado": "13\/11\/2026",
     "cuentas": [],
-    "Pagos": {},
+    "Pagos": {
+        "Alfredo Castillo. 110.000. Vi": {
+            "sigpago": "15\/11\/2026"
+        }
+    },
     "Gastos": {
         "victor ": {
             "valor": 50000,
