@@ -104,6 +104,10 @@
         "gota": {
             "valor": 135000,
             "accion": "sumar"
+        },
+        "bolígrafo ": {
+            "valor": 2000,
+            "accion": "sumar"
         }
     }
 }
