@@ -247,6 +247,10 @@
         "fideos ": {
             "valor": 10000,
             "accion": "sumar"
+        },
+        "ropa": {
+            "valor": 40000,
+            "accion": "sumar"
         }
     }
 }
