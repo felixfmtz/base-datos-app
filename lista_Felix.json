@@ -3,7 +3,14 @@
     "cuentas": [],
     "Pagos": {
         "Nelson Ayala Meza. 210.000*10. Vi": {
-            "sigpago": "20\/11\/2026"
+            "sigpago": "20\/11\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
+        },
+        "Carlos Garcete. 220.000*6. Lu": {
+            "sigpago": "19\/11\/2026"
         }
     },
     "Gastos": {}
