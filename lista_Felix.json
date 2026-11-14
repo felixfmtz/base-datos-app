@@ -11,6 +11,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Maria Romina Sosa",
+                    "Deuda": "2.000.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "6",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
@@ -66,6 +74,12 @@
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 220000,
+            "TInteres": 0
+        },
+        "Noelia Gonzalez Cano. 280.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
             "TInteres": 0
         }
     },
