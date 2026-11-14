@@ -183,6 +183,10 @@
         "basura ": {
             "valor": 80000,
             "accion": "sumar"
+        },
+        "fideos ": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
