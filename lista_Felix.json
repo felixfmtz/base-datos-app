@@ -11,6 +11,12 @@
         },
         "Carlos Garcete. 220.000*6. Lu": {
             "sigpago": "19\/11\/2026"
+        },
+        "Claudelina Lopez. 220.000*6. Sa. C1": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 220000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
