@@ -423,6 +423,10 @@
         "ropa": {
             "valor": 40000,
             "accion": "sumar"
+        },
+        "torta ": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
