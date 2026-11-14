@@ -35,6 +35,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Sábado",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Vicente Cantero",
+                    "Deuda": "2.500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
@@ -234,6 +242,12 @@
         },
         "Cynthia Carolina Baez. 15.000*44. C3": {
             "NoTCuota": 15000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Ismael Penayo. Albañil. 140.000*10. Sa": {
+            "NoTCuota": 140000,
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
