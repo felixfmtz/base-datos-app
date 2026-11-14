@@ -243,6 +243,10 @@
         "ob": {
             "valor": 270000,
             "accion": "sumar"
+        },
+        "pan": {
+            "valor": 36000,
+            "accion": "sumar"
         }
     }
 }
