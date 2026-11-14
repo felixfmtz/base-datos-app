@@ -169,6 +169,10 @@
         "obra": {
             "valor": 7465000,
             "accion": "sumar"
+        },
+        "ob": {
+            "valor": 270000,
+            "accion": "sumar"
         }
     }
 }
