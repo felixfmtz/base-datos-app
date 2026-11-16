@@ -13,6 +13,12 @@
         },
         "Cristian Palacios. 350.000*4": {
             "sigpago": "18\/11\/2026"
+        },
+        "Julia Gonzalez. Caminadora. 150.000*40. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 150000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
