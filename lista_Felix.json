@@ -78,7 +78,11 @@
             "sigpago": "19\/11\/2026"
         },
         "Cristian Baez. 220.000*3": {
-            "sigpago": "30\/11\/2026"
+            "sigpago": "30\/11\/2026",
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
