@@ -25,6 +25,12 @@
         },
         "Liliana Lugo. 210.000*10. Sa. C1": {
             "sigpago": "21\/11\/2026"
+        },
+        "Alberto Peralta. 150.000*4. Sa. C1": {
+            "NoTCuota": 150000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
