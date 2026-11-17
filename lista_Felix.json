@@ -205,6 +205,10 @@
         "carne": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "jesica": {
+            "valor": 200000,
+            "accion": "sumar"
         }
     }
 }
