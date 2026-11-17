@@ -144,6 +144,12 @@
         },
         "Ramon Irala. 700.000*2": {
             "sigpago": "21\/11\/2026"
+        },
+        "Bartola Cubilla. 220.000*6. Ma": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
