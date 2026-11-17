@@ -79,6 +79,12 @@
         },
         "Celia Gimenez. Secarropa. 100.000*31. Sa": {
             "sigpago": "21\/11\/2026"
+        },
+        "Rosalba Gonzalez Duarte. 40.000*24": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 40000,
+            "TInteres": 0
         }
     },
     "Gastos": {
