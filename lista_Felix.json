@@ -93,6 +93,10 @@
         "coquito": {
             "valor": 30000,
             "accion": "sumar"
+        },
+        "comida gato": {
+            "valor": 42000,
+            "accion": "sumar"
         }
     }
 }
