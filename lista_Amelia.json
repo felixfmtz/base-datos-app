@@ -148,6 +148,12 @@
             "NoTInteres": 0,
             "TCuota": 60000,
             "TInteres": 0
+        },
+        "Marcos Montania. 125.000*39. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 125000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
