@@ -172,6 +172,12 @@
             "NoTInteres": 0,
             "TCuota": 120000,
             "TInteres": 0
+        },
+        "Nuvia Colman. 440.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 440000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
