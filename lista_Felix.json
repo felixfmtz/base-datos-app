@@ -10,6 +10,12 @@
         },
         "Luciano Pintos. 140.000*10. Ma": {
             "sigpago": "23\/11\/2026"
+        },
+        "Alfredo Castillo. 110.000. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 110000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
