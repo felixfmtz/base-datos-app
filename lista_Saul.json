@@ -2,11 +2,11 @@
     "fecha_ultimo_guardado": "17\/11\/2026",
     "cuentas": [],
     "Pagos": {
-        "Francisco Villalba. 600.000": {
-            "NoTCuota": 600000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
+        "Feliciana Arevalos. Tv. 200.000*14. Lu": {
+            "sigpago": "25\/11\/2026"
+        },
+        "Liliana Olmedo. 70.000*10. Mi": {
+            "sigpago": "21\/11\/2026"
         }
     },
     "Gastos": {}
