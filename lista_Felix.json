@@ -199,6 +199,12 @@
         },
         "Ruth Martinez. 180.000*4. Sa": {
             "sigpago": "21\/11\/2026"
+        },
+        "Pedro Silva. 600.000. C2": {
+            "NoTCuota": 0,
+            "NoTInteres": 100000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
