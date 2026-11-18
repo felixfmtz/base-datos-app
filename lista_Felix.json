@@ -106,6 +106,10 @@
         "comicion": {
             "valor": 150000,
             "accion": "sumar"
+        },
+        "comi": {
+            "valor": 100000,
+            "accion": "sumar"
         }
     }
 }
