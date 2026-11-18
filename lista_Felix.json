@@ -22,6 +22,10 @@
         "comida": {
             "valor": 75000,
             "accion": "sumar"
+        },
+        "comicion": {
+            "valor": 150000,
+            "accion": "sumar"
         }
     }
 }
