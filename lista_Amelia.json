@@ -213,6 +213,12 @@
             "NoTInteres": 120000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Rosa Oviedo. 140.000*10. Lu": {
+            "NoTCuota": 140000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
