@@ -110,6 +110,10 @@
         "comi": {
             "valor": 100000,
             "accion": "sumar"
+        },
+        "derli": {
+            "valor": 10000,
+            "accion": "sumar"
         }
     }
 }
