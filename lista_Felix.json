@@ -19,6 +19,14 @@
                     "NCuotas": "10",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Eliane Mariela Colman",
+                    "Deuda": "3.400.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "Si"
                 }
             ]
         }
