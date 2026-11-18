@@ -102,6 +102,12 @@
         },
         "Hugo Marmori. 1.200.000. C2": {
             "sigpago": "21\/11\/2026"
+        },
+        "Cristian Palacios. 350.000*4": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 350000,
+            "TInteres": 0
         }
     },
     "Gastos": {
