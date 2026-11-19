@@ -61,6 +61,12 @@
         },
         "Tomasa Cantero. Heladera. 150.000*37. Sa": {
             "sigpago": "19\/11\/2026"
+        },
+        "Tomasa Cantero. 280.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {
