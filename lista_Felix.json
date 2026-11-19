@@ -43,6 +43,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Mensual",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Susana de Leite",
+                    "Deuda": "2.000.000",
+                    "Garante": "pablo",
+                    "NCuotas": "6",
+                    "Frecuencia": "",
+                    "Transferencia": "Si"
                 }
             ]
         }
