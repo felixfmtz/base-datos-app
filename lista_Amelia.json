@@ -236,6 +236,12 @@
         },
         "Helida Ortiz. 300.000*2": {
             "sigpago": "21\/11\/2026"
+        },
+        "Alcides Armando. 420.000*10. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 420000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
