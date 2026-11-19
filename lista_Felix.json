@@ -73,6 +73,10 @@
         "comida": {
             "valor": 200000,
             "accion": "sumar"
+        },
+        "combu": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
