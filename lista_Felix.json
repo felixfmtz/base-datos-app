@@ -36,6 +36,12 @@
         },
         "Angel Retamozo. 1.400.000*2": {
             "sigpago": "25\/11\/2026"
+        },
+        "Taiane Dos Santos. 600.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 600000,
+            "TInteres": 0
         }
     },
     "Gastos": {
