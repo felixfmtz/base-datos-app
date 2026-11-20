@@ -191,6 +191,12 @@
         },
         "De los Santos Melos. 110.000*6. Ju": {
             "sigpago": "26\/11\/2026"
+        },
+        "Raul Obregon. 880.000*6. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 10000
         }
     },
     "Gastos": {}
