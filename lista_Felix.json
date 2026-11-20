@@ -56,6 +56,10 @@
         "cel bruno": {
             "valor": 255000,
             "accion": "sumar"
+        },
+        "equi": {
+            "valor": 591000,
+            "accion": "sumar"
         }
     }
 }
