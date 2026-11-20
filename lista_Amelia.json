@@ -197,6 +197,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 10000
+        },
+        "Eduardo Duarte. 440.000*3": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 10000
         }
     },
     "Gastos": {}
