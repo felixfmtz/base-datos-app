@@ -35,5 +35,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "tesai": {
+            "valor": 528000,
+            "accion": "sumar"
+        }
+    }
 }
