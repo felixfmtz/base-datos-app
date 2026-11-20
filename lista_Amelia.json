@@ -72,7 +72,7 @@
         "Lourdes Arce. 80.000*30": {
             "NoTCuota": 0,
             "NoTInteres": 0,
-            "TCuota": 20000,
+            "TCuota": 120000,
             "TInteres": 0
         },
         "Cristobal Muñoz. 250.000*6. Mi": {
@@ -209,6 +209,33 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Mario Zaracho. 30.000*44": {
+            "NoTCuota": 30000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Juan Alberto Venialgo. 4.000.000*6. Sa": {
+            "NoTCuota": 2000000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
+        },
+        "Crispin Rolon. 140.000*10. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 140000,
+            "TInteres": 0
+        },
+        "Dario Rene Pintos. Adrian. 2.400.000": {
+            "sigpago": "21\/11\/2026"
+        },
+        "Ignacio Fleitas. Raquel. Tv 43 Tokyo. 200.000*12": {
+            "sigpago": "21\/11\/2026"
+        },
+        "David Cardozo Gimenez. 400.000*6. Vi": {
+            "sigpago": "21\/11\/2026"
         }
     },
     "Gastos": {}
