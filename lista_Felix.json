@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "20\/11\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Recordatorio F",
+                    "Deuda": "000",
+                    "Garante": "tesai viernes 27 a las 8",
+                    "NCuotas": "1",
+                    "Frecuencia": "Mensual",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Elsa Cañete. 60.000*44": {
             "NoTCuota": 0,
