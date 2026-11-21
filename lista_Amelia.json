@@ -410,6 +410,12 @@
             "NoTInteres": 0,
             "TCuota": 260000,
             "TInteres": 0
+        },
+        "Joel Paredes. 5.500.000. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 500000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
