@@ -1,102 +1,14 @@
 {
-    "fecha_ultimo_guardado": "20\/11\/2026",
+    "fecha_ultimo_guardado": "21\/11\/2026",
     "cuentas": [],
     "Pagos": {
-        "Gedalia DelValle. Heladera. 200.000*42. Vi": {
-            "sigpago": "23\/11\/2026"
-        },
-        "Epifania Ortiz. 60.000*44": {
-            "NoTCuota": 60000,
-            "NoTInteres": 0,
-            "TCuota": 120000,
-            "TInteres": 0
-        },
-        "Ignacio Melgarejo. 20.000*33": {
-            "NoTCuota": 20000,
+        "Maria Maricel Sanabria. 200.000*7. Sa": {
+            "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 0,
-            "TInteres": 0
-        },
-        "Gedalia DelValle. 180.000*30": {
-            "NoTCuota": 180000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Claudio Nicolas Aguilar. 560.000*5": {
-            "NoTCuota": 560000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Claudio Nicolas Aguilar. 350.000*4": {
-            "NoTCuota": 240000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Jessica Cabral. 1.500.000*4. Lu. C1": {
-            "NoTCuota": 1500000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Rosalba Gonzalez Duarte. 40.000*24": {
-            "NoTCuota": 40000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Leonardo Dure. 330.000*6. Lu": {
-            "NoTCuota": 230000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ordonia Davalos. 50.000*24. C2": {
-            "NoTCuota": 50000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Ordonia Davalos. 50.000*24": {
-            "NoTCuota": 50000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Anibal Godoy. 150.000*6. Lu": {
-            "NoTCuota": 40000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Maria Francisca. 30.000*44": {
-            "NoTCuota": 30000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Yasmil Franciely Zelaya. 210.000*10. Lu": {
-            "NoTCuota": 200000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Angelina Forcado. 220.000*6. Vi": {
-            "NoTCuota": 220000,
-            "NoTInteres": 0,
-            "TCuota": 0,
-            "TInteres": 0
-        },
-        "Eusebio Canata. 140.000*10. Vi. C1": {
-            "sigpago": "21\/11\/2026"
+            "TInteres": 0,
+            "Error": "saul"
         }
     },
-    "Gastos": {
-        "combustible": {
-            "valor": 100000,
-            "accion": "sumar"
-        }
-    }
+    "Gastos": {}
 }
