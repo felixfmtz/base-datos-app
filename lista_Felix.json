@@ -153,6 +153,10 @@
         "serguo": {
             "valor": 40000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 6600000,
+            "accion": "sumar"
         }
     }
 }
