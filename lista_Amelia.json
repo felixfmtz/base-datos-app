@@ -242,6 +242,12 @@
             "NoTInteres": 0,
             "TCuota": 100000,
             "TInteres": 0
+        },
+        "Emilce Concepcion Fernandez. 840.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 840000,
+            "TInteres": 0
         }
     },
     "Gastos": {
