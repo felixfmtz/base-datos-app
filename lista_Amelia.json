@@ -348,6 +348,12 @@
             "NoTInteres": 0,
             "TCuota": 0,
             "TInteres": 80000
+        },
+        "Nicanor Rodas. 350.000*4": {
+            "NoTCuota": 600000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
