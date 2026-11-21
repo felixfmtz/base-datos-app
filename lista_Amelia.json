@@ -1,6 +1,20 @@
 {
     "fecha_ultimo_guardado": "21\/11\/2026",
-    "cuentas": [],
+    "cuentas": [
+        {
+            "seccion": "Crear cuenta",
+            "items": [
+                {
+                    "nombreOriginal": "Mauro Venialgo",
+                    "Deuda": "500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "5",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "No"
+                }
+            ]
+        }
+    ],
     "Pagos": {
         "Vicenta Gonzalez. 150.000*6. Sa": {
             "NoTCuota": 0,
