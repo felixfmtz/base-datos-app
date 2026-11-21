@@ -115,5 +115,10 @@
             "TInteres": 0
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "serguo": {
+            "valor": 40000,
+            "accion": "sumar"
+        }
+    }
 }
