@@ -27,6 +27,14 @@
                     "NCuotas": "31",
                     "Frecuencia": "Sábado",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Osvalda Santacruz",
+                    "Deuda": "1.500.000",
+                    "Garante": "30 por cierto ",
+                    "NCuotas": "10",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
