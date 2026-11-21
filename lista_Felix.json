@@ -51,6 +51,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Sábado",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Ignacio Fleitas",
+                    "Deuda": "990.000",
+                    "Garante": "tv lg 32",
+                    "NCuotas": "",
+                    "Frecuencia": "",
+                    "Transferencia": "No"
                 }
             ]
         }
