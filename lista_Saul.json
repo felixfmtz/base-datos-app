@@ -91,6 +91,12 @@
         },
         "Mabel Villalba. 660.000*6. Ju": {
             "sigpago": "25\/11\/2026"
+        },
+        "Cesar Solis. 30.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 60000,
+            "TInteres": 0
         }
     },
     "Gastos": {
