@@ -266,7 +266,17 @@
             "TInteres": 0
         },
         "Nelson Ayala Meza. 210.000*10. Vi": {
-            "sigpago": "28\/11\/2026"
+            "sigpago": "28\/11\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 210000,
+            "TInteres": 0
+        },
+        "Gloria Florentin. 220.000*6. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 50000,
+            "TInteres": 0
         }
     },
     "Gastos": {
