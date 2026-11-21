@@ -157,6 +157,10 @@
         "obra": {
             "valor": 6600000,
             "accion": "sumar"
+        },
+        "comida": {
+            "valor": 142000,
+            "accion": "sumar"
         }
     }
 }
