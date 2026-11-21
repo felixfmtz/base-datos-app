@@ -199,6 +199,12 @@
             "NoTInteres": 25000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Rocio Rosana Duarte. 1.200.000*2": {
+            "NoTCuota": 0,
+            "NoTInteres": 200000,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
