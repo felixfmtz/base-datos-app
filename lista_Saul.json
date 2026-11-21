@@ -94,6 +94,10 @@
         "comutilbe ": {
             "valor": 280000,
             "accion": "sumar"
+        },
+        "entregado ": {
+            "valor": 2170000,
+            "accion": "sumar"
         }
     }
 }
