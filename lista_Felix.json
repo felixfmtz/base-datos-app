@@ -74,6 +74,12 @@
         },
         "Monica Gomez. 280.000*5": {
             "sigpago": "27\/11\/2026"
+        },
+        "Leticia Alfonzo. 280.000*10. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 280000,
+            "TInteres": 0
         }
     },
     "Gastos": {
