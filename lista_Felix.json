@@ -159,6 +159,10 @@
         "carlos": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "combu": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
