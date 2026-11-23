@@ -49,7 +49,8 @@
             "NoTCuota": 0,
             "NoTInteres": 0,
             "TCuota": 200000,
-            "TInteres": 0
+            "TInteres": 0,
+            "Error": "en 10 pagos"
         },
         "Elsa Cañete. 210.000. Ju": {
             "NoTCuota": 0,
