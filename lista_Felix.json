@@ -77,6 +77,10 @@
         "comida": {
             "valor": 22000,
             "accion": "sumar"
+        },
+        "auto": {
+            "valor": 2200000,
+            "accion": "sumar"
         }
     }
 }
