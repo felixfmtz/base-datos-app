@@ -59,6 +59,9 @@
             "TCuota": 0,
             "TInteres": 0,
             "sigpago": "Pagado"
+        },
+        "Vicente Cantero. 350.000*10. Sa. C1": {
+            "sigpago": "28\/11\/2026"
         }
     },
     "Gastos": {}
