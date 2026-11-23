@@ -1,10 +1,11 @@
 {
     "fecha_ultimo_guardado": "23\/11\/2026",
     "cuentas": [],
-    "Pagos": {
-        "Jessica Cabral. 1.500.000*4. Lu. C1": {
-            "sigpago": "25\/11\/2026"
+    "Pagos": {},
+    "Gastos": {
+        "auto": {
+            "valor": 2200000,
+            "accion": "sumar"
         }
-    },
-    "Gastos": {}
+    }
 }
