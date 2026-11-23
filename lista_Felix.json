@@ -155,6 +155,10 @@
         "auto": {
             "valor": 2200000,
             "accion": "sumar"
+        },
+        "carlos": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
