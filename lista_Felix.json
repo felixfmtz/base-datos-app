@@ -26,6 +26,12 @@
         },
         "Alfredo Castillo. 1.200.000": {
             "sigpago": "30\/11\/2026"
+        },
+        "Rosmery Coronel. 228.000": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 38000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
