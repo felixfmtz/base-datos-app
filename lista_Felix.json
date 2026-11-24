@@ -59,6 +59,10 @@
         "labo": {
             "valor": 745000,
             "accion": "sumar"
+        },
+        "papel alumnio": {
+            "valor": 15000,
+            "accion": "sumar"
         }
     }
 }
