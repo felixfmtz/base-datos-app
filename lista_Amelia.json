@@ -124,6 +124,12 @@
         },
         "Juan Alberto Venialgo. 4.000.000*6. Ju": {
             "sigpago": "26\/11\/2026"
+        },
+        "Maria Elizabeth Gonzalez. 60.000*44": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 60000,
+            "TInteres": 0
         }
     },
     "Gastos": {
