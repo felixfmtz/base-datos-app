@@ -113,6 +113,10 @@
         "obra": {
             "valor": 210000,
             "accion": "sumar"
+        },
+        "lavado ": {
+            "valor": 40000,
+            "accion": "sumar"
         }
     }
 }
