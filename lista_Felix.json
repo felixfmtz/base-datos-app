@@ -31,6 +31,10 @@
         "serguo": {
             "valor": 50000,
             "accion": "sumar"
+        },
+        "labo": {
+            "valor": 745000,
+            "accion": "sumar"
         }
     }
 }
