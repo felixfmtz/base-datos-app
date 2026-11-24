@@ -119,6 +119,10 @@
         "pescado": {
             "valor": 500000,
             "accion": "sumar"
+        },
+        "farmacia": {
+            "valor": 415000,
+            "accion": "sumar"
         }
     }
 }
