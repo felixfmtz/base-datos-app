@@ -109,6 +109,10 @@
         "casa": {
             "valor": 10000,
             "accion": "sumar"
+        },
+        "obra": {
+            "valor": 210000,
+            "accion": "sumar"
         }
     }
 }
