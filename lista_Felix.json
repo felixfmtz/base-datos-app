@@ -21,5 +21,10 @@
             "sigpago": "01\/12\/2026"
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "serguo": {
+            "valor": 50000,
+            "accion": "sumar"
+        }
+    }
 }
