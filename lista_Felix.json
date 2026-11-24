@@ -109,6 +109,10 @@
         "papel alumnio": {
             "valor": 15000,
             "accion": "sumar"
+        },
+        "pescado": {
+            "valor": 500000,
+            "accion": "sumar"
         }
     }
 }
