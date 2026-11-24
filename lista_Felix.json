@@ -43,6 +43,14 @@
                     "NCuotas": "1",
                     "Frecuencia": "Sábado",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Ovidio Ortiz",
+                    "Deuda": "1.500.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "10",
+                    "Frecuencia": "Lunes",
+                    "Transferencia": "No"
                 }
             ]
         }
