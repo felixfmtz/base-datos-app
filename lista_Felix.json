@@ -37,6 +37,12 @@
         },
         "Ruth Martinez. 180.000*4. Sa": {
             "sigpago": "26\/11\/2026"
+        },
+        "Felicia Zarza. 3.000.000": {
+            "NoTCuota": 300000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {
