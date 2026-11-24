@@ -151,6 +151,10 @@
         "farmacia": {
             "valor": 415000,
             "accion": "sumar"
+        },
+        "jesica": {
+            "valor": 2000000,
+            "accion": "sumar"
         }
     }
 }
