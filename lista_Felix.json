@@ -51,6 +51,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "hermanita villar",
+                    "Deuda": "1.000.000",
+                    "Garante": "0984584673 4903744",
+                    "NCuotas": "10",
+                    "Frecuencia": "Jueves",
+                    "Transferencia": "No"
                 }
             ]
         }
