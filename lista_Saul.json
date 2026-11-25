@@ -151,6 +151,10 @@
         "entregado ": {
             "valor": 1040000,
             "accion": "sumar"
+        },
+        "comutilbe": {
+            "valor": 280000,
+            "accion": "sumar"
         }
     }
 }
