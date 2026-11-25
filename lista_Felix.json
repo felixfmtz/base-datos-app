@@ -77,6 +77,15 @@
                     "Transferencia": "No"
                 }
             ]
+        },
+        {
+            "seccion": "Pedido",
+            "items": [
+                {
+                    "nombreOriginal": "giro",
+                    "dia": "Ju"
+                }
+            ]
         }
     ],
     "Pagos": {
