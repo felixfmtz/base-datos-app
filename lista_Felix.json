@@ -67,6 +67,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "Miércoles",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Sixto Villalba",
+                    "Deuda": "9.130.000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "92",
+                    "Frecuencia": "",
+                    "Transferencia": "No"
                 }
             ]
         }
