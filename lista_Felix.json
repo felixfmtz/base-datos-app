@@ -15,7 +15,11 @@
             "sigpago": "30\/11\/2026"
         },
         "Esteban Velazquez. 220.000*3": {
-            "sigpago": "26\/11\/2026"
+            "sigpago": "26\/11\/2026",
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 50000
         }
     },
     "Gastos": {}
