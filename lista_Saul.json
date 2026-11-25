@@ -19,6 +19,12 @@
         },
         "Celia Gimenez. 280.000*10. Mi": {
             "sigpago": "28\/11\/2026"
+        },
+        "Alejandro Martinez. Cel Okitel. 100.000*21. Sa": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 100000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
