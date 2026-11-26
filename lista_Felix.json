@@ -27,6 +27,14 @@
                     "NCuotas": "6",
                     "Frecuencia": "",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "Sixto Baez",
+                    "Deuda": "9.190.000",
+                    "Garante": "moto",
+                    "NCuotas": "92",
+                    "Frecuencia": "Sábado",
+                    "Transferencia": "Si"
                 }
             ]
         }
