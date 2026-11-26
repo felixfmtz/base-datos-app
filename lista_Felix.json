@@ -83,6 +83,14 @@
                     "NCuotas": "44",
                     "Frecuencia": "Diario",
                     "Transferencia": "Si"
+                },
+                {
+                    "nombreOriginal": "Arnaldo Prieto",
+                    "Deuda": "1.097.000",
+                    "Garante": "aurora. tablet",
+                    "NCuotas": "17",
+                    "Frecuencia": "Miércoles",
+                    "Transferencia": "Si"
                 }
             ]
         }
