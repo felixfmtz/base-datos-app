@@ -276,6 +276,10 @@
         "fidel": {
             "valor": 580000,
             "accion": "sumar"
+        },
+        "tablet": {
+            "valor": 1097000,
+            "accion": "sumar"
         }
     }
 }
