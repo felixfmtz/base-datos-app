@@ -123,6 +123,12 @@
             "NoTInteres": 0,
             "TCuota": 45000,
             "TInteres": 0
+        },
+        "Anibal Godoy. 75.000*14. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 75000,
+            "TInteres": 0
         }
     },
     "Gastos": {
