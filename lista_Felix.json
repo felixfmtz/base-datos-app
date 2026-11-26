@@ -69,6 +69,12 @@
         },
         "Arbelino Gonzalez. 210.000*10. Sa": {
             "sigpago": "28\/11\/2026"
+        },
+        "Dorca Zarza. 770.000. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 400000,
+            "TInteres": 0
         }
     },
     "Gastos": {
