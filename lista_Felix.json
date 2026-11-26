@@ -21,6 +21,13 @@
             "NoTInteres": 0,
             "TCuota": 60000,
             "TInteres": 0
+        },
+        "Sixto Villalba. Moto. 150.000*92. Ju": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "corregir"
         }
     },
     "Gastos": {
