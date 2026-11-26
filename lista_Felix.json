@@ -214,6 +214,10 @@
         "herme": {
             "valor": 200000,
             "accion": "sumar"
+        },
+        "cobb": {
+            "valor": 300000,
+            "accion": "sumar"
         }
     }
 }
