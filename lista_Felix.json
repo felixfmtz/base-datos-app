@@ -75,6 +75,14 @@
                     "NCuotas": "44",
                     "Frecuencia": "Diario",
                     "Transferencia": "No"
+                },
+                {
+                    "nombreOriginal": "tablet",
+                    "Deuda": "000",
+                    "Garante": "Sin Garante",
+                    "NCuotas": "",
+                    "Frecuencia": "Viernes",
+                    "Transferencia": "No"
                 }
             ]
         }
