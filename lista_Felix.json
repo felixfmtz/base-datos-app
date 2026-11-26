@@ -34,6 +34,12 @@
             "NoTInteres": 0,
             "TCuota": 85000,
             "TInteres": 0
+        },
+        "Derlis Pintos. Tv. 100.000*35. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 15000,
+            "TInteres": 0
         }
     },
     "Gastos": {
