@@ -6,6 +6,10 @@
         "table": {
             "valor": 1000000,
             "accion": "sumar"
+        },
+        "bruno": {
+            "valor": 600000,
+            "accion": "sumar"
         }
     }
 }
