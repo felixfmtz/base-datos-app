@@ -129,6 +129,13 @@
             "NoTInteres": 0,
             "TCuota": 75000,
             "TInteres": 0
+        },
+        "Anibal Godoy. 150.000*6. Lu": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "por dia"
         }
     },
     "Gastos": {
