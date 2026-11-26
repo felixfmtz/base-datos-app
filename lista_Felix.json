@@ -15,7 +15,14 @@
             ]
         }
     ],
-    "Pagos": {},
+    "Pagos": {
+        "Elsa Cañete": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 60000,
+            "TInteres": 0
+        }
+    },
     "Gastos": {
         "table": {
             "valor": 1000000,
