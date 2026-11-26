@@ -203,6 +203,10 @@
         "bruno": {
             "valor": 600000,
             "accion": "sumar"
+        },
+        "herme": {
+            "valor": 200000,
+            "accion": "sumar"
         }
     }
 }
