@@ -19,6 +19,12 @@
         },
         "Flaminio Gonzalez. Hijo. 220.000*6. Lu": {
             "sigpago": "30\/11\/2026"
+        },
+        "Juan Martinez Franco. 110.000*6. Sa": {
+            "NoTCuota": 220000,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0
         }
     },
     "Gastos": {}
