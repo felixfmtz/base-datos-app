@@ -264,6 +264,10 @@
         "cobb": {
             "valor": 300000,
             "accion": "sumar"
+        },
+        "fidel": {
+            "valor": 580000,
+            "accion": "sumar"
         }
     }
 }
