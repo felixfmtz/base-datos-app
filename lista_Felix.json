@@ -187,6 +187,12 @@
             "NoTInteres": 30000,
             "TCuota": 0,
             "TInteres": 0
+        },
+        "Hermelinda Herrera. Cel. Redmi 15C. 100.000*18. Ma": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 1600000,
+            "TInteres": 0
         }
     },
     "Gastos": {
