@@ -259,6 +259,10 @@
         "sandía ": {
             "valor": 20000,
             "accion": "sumar"
+        },
+        "guante ": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
