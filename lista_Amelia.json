@@ -231,6 +231,10 @@
         "tractor combustible ": {
             "valor": 450000,
             "accion": "sumar"
+        },
+        "sandía ": {
+            "valor": 20000,
+            "accion": "sumar"
         }
     }
 }
