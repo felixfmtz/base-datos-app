@@ -112,6 +112,10 @@
         "tesai": {
             "valor": 255000,
             "accion": "sumar"
+        },
+        "far": {
+            "valor": 74000,
+            "accion": "sumar"
         }
     }
 }
