@@ -13,6 +13,12 @@
             "NoTInteres": 0,
             "TCuota": 300000,
             "TInteres": 0
+        },
+        "Mirian Graciela Martinez. 230.000*6. Mi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 230000,
+            "TInteres": 0
         }
     },
     "Gastos": {}
