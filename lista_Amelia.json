@@ -209,6 +209,10 @@
         "combustible ": {
             "valor": 340000,
             "accion": "sumar"
+        },
+        "tractor combustible ": {
+            "valor": 450000,
+            "accion": "sumar"
         }
     }
 }
