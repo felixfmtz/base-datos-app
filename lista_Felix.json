@@ -11,6 +11,13 @@
         },
         "Marly Marisol Vazquez. 400.000*7. Sa": {
             "sigpago": "01\/12\/2026"
+        },
+        "Ana Rosio Villasboa. 220.000*6. Vi": {
+            "NoTCuota": 0,
+            "NoTInteres": 0,
+            "TCuota": 0,
+            "TInteres": 0,
+            "Error": "lunes"
         }
     },
     "Gastos": {}
