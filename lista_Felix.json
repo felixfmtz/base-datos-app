@@ -73,5 +73,10 @@
             "TInteres": 140000
         }
     },
-    "Gastos": {}
+    "Gastos": {
+        "bruno": {
+            "valor": 1400000,
+            "accion": "sumar"
+        }
+    }
 }
